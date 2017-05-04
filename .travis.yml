@@ -9,12 +9,16 @@ before_install:
  - git submodule foreach git pull origin master
  - cd uAAL.pom
  - ls
+# - cat /home/travis/.m2/repository/org/openrdf/sesame/sesame-runtime-osgi/2.6.0/sesame-runtime-osgi-2.6.0.pom
+
+after_failure:
  - cat /home/travis/.m2/repository/org/openrdf/sesame/sesame-runtime-osgi/2.6.0/sesame-runtime-osgi-2.6.0.pom
 
 install:
- - mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
+ - mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -rf :ctxt.che
  
 #script: mvn clean verify
 
 after_script:
  - cat /home/travis/.m2/repository/org/openrdf/sesame/sesame-runtime-osgi/2.6.0/sesame-runtime-osgi-2.6.0.pom
+
