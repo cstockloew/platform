@@ -11,7 +11,7 @@ before_install:
  - ls
 
 install:
- - mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -rf :ri.api.manager.mysql
+ - mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -rf :tools.ucc.composite
  
 #script: mvn clean verify
 
