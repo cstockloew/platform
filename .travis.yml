@@ -10,14 +10,10 @@ before_install:
  - cd uAAL.pom
  - ls
 
-after_failure:
- - cat /home/travis/.m2/repository/org/openrdf/sesame/sesame-runtime-osgi/2.6.0/sesame-runtime-osgi-2.6.0.pom
-
 install:
- - mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -rf :ctxt.che
+ - mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -rf :ri.api.manager.mysql
  
 #script: mvn clean verify
 
-after_script:
- - cat /home/travis/.m2/repository/org/openrdf/sesame/sesame-runtime-osgi/2.6.0/sesame-runtime-osgi-2.6.0.pom
-
+notifications:
+  email: false
