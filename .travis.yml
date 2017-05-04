@@ -1,0 +1,11 @@
+language: java
+jdk: oraclejdk8
+branches: 
+only:
+- master
+
+before_install: 
+ - cd uAAL.pom
+ - ls
+
+script: mvn clean verify
