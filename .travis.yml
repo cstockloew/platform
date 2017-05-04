@@ -5,6 +5,7 @@ only:
 - master
 
 before_install: 
+ - git submodule foreach git pull origin master
  - cd uAAL.pom
  - ls
 
