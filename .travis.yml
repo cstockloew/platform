@@ -11,3 +11,6 @@ before_install:
  - ls
 
 script: mvn clean verify
+
+after_script:
+ - cat /home/travis/.m2/repository/org/openrdf/sesame/sesame-runtime-osgi/2.6.0/sesame-runtime-osgi-2.6.0.pom
