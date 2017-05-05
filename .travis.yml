@@ -1,5 +1,10 @@
 language: java
 jdk: oraclejdk8
+sudo: false
+
+cache:
+  directories:
+    - ~/.m2
 
 branches: 
  only:
@@ -8,12 +13,12 @@ branches:
 before_install: 
  - git submodule foreach git pull origin master
  - cd uAAL.pom
- - ls
 
 install:
- - mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -rf :tools.sparql-tester
+ -
  
-#script: mvn clean verify
+script:
+ - mvn clean install -DskipTests=true -Dmaven.javadoc.skip=true -B -rf :tools.ucc.composite 
 
 notifications:
   email: false
