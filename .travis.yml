@@ -12,6 +12,7 @@ branches:
 
 before_install: 
  - git submodule foreach git pull origin master
+ - mvn org.apache.maven.plugins:maven-dependency-plugin:2.1:get -DrepoUrl=http://depot.universaal.org/maven-repo/thirdparty -Dartifact=org.slf4j:com.springsource.slf4j.api:1.5.0
  - cd uAAL.pom
 
 install:
