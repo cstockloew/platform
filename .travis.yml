@@ -18,7 +18,7 @@ install:
  -
  
 script:
- - mvn clean install -DskipTests=true -Dmaven.javadoc.skip=true -B -rf :tools.pom
+ - mvn clean install -DskipTests=true -Dmaven.javadoc.skip=true -B
 
 notifications:
   email: false
