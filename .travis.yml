@@ -31,8 +31,10 @@ script:
 # - mvn clean install -Dmaven.javadoc.skip=true -B
 # - mvn clean install -DskipTests=true -Dmaven.javadoc.skip=true -B
  - mvn javadoc:aggregate -fn > /dev/null
- - chmod +x target/site/apidocs/javadoc.sh
- - ./target/site/apidocs/javadoc.sh
+ - cd target/site/apidocs
+ - chmod +x javadoc.sh
+ - javadoc.sh
+ - cd ../../..
 
 after_success:
   - ../push-to-gh-pages.sh
