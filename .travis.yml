@@ -33,7 +33,7 @@ script:
  - mvn javadoc:aggregate -fn > /dev/null
  - cd target/site/apidocs
  - chmod +x javadoc.sh
- - ./javadoc.sh
+ - (./javadoc.sh > /dev/null) || true
  - cd ../../..
 
 after_success:
