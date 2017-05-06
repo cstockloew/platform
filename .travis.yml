@@ -10,11 +10,16 @@ branches:
  only:
  - master
 
+env:
+  global:
+    secure: "WOmbcuSGUiADtP0opp0zOuIn8MK90mzodkjU7y5+l2Z/QStygRnbyJX6AMKq/uhRSWU21sEn9wR5inD8fahcHICeRgM1mj8EoAIb3YDRzD/0R2G/Tte61AYsfP30zijFlytbSq8fUy2LEiMjf8gG+cqbJnPfu5MLmaYQQ8t4TxKXhFpfLUhKnMK2SpTTHkIHmIAYSyHGG9qrcHNAwy1KD0lSc/X0qMxmCjIQHVmZiOokxCFcy/N9gWc79/uWvr4NaVZSbOCpi12L2TI7l1OJzIr5kWHD4/a9Th+yvevAy8t1ZDLNhQx4ie3uVMDgZLaL11SOwqUyDkKEEoozd/cs9u9aZ44go9td7/gADXocZplZLKTrp+14YHcTaeLIGHLDeNbBgyY4Fj8GF5iM1kWHmcY9LQVWkOSFQ+b7IbEYwoAbuathfEVIxswX7BeW1b5KgudIOg3rbPiSN0qBaxpIexG7DYyRvFFoTxJj4uaVlKbWm2v17KnksHIHGUhJepPME+YkLnK+jK5Ug+FMakWzLl5Ci1hDTQ0HDPomLXh/vor4FzzyD7EGp/GxngXM0jDAVYE9rytoT1vkGlgzU23G3qyFcCpl6eN0bPW9WqR222iSDUTVRqYina1lkwJeIxv3fYMszdOZEJUDE3mViGJqSod6LzjNOU04ki1hXj24QZY="
+
 before_install: 
  - git submodule foreach git pull origin master
 # - mvn org.apache.maven.plugins:maven-dependency-plugin:2.1:get -DrepoUrl=http://depot.universaal.org/maven-repo/thirdparty -Dartifact=org.slf4j:com.springsource.slf4j.api:1.5.0
 # - mvn org.apache.maven.plugins:maven-dependency-plugin:2.1:get -DrepoUrl=http://depot.universaal.org/maven-repo/thirdparty -Dartifact=org.slf4j:com.springsource.slf4j.log4j:1.5.0
  - chmod +x filter-maven-travis.sh
+ - chmod +x push-to-gh-pages.sh
  - cd uAAL.pom
  
 install:
@@ -25,6 +30,10 @@ script:
 # - mvn clean install -Dmaven.javadoc.skip=true -B
 # - mvn clean install -Dmaven.javadoc.skip=true -B
 # - mvn clean install -DskipTests=true -Dmaven.javadoc.skip=true -B
+ - mvn javadoc:aggregate -fn > /dev/null
 
+after_success:
+  - ../push-to-gh-pages.sh
+  
 notifications:
   email: false
