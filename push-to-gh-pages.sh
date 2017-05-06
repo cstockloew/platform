@@ -7,8 +7,8 @@ if [ "$TRAVIS_REPO_SLUG" == "cstockloew/platform" ] && [ "$TRAVIS_PULL_REQUEST" 
   cp -R "target/site/apidocs" $HOME/javadoc-latest
 
   cd $HOME
-  git config --global user.email "travis@travis-ci.org"
-  git config --global user.name "travis-ci"
+  git config --global user.email "stockloew@gmx.de"
+  git config --global user.name "cstockloew"
   git clone --quiet --branch=gh-pages https://${GH_TOKEN}@github.com/cstockloew/platform gh-pages > /dev/null
 
   cd gh-pages
