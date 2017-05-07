@@ -1,4 +1,6 @@
 .
+./javadoc-javadoc.txt
+./javadoc-aggregate.txt
 ./org
 ./org/universAAL
 ./org/universAAL/middleware

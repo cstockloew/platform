@@ -1,4 +1,6 @@
 .
+./javadoc-javadoc.txt
+./javadoc-aggregate.txt
 ./org
 ./org/universAAL
 ./org/universAAL/middleware
@@ -7906,4 +7908,5 @@
 ./overview-frame.html
 ./javadoc.sh
 ./find_all_files1.txt
+./javadoc.sh.txt
 ./find_all_files2.txt
