@@ -386,6 +386,7 @@
               <version>5.1</version>
             </docletArtifact>
             <additionalparam>-views</additionalparam>
+	    <additionalparam>-Xdoclint:none</additionalparam>
             <useStandardDocletOptions>true</useStandardDocletOptions>
             <docfilessubdirs>true</docfilessubdirs>
           </configuration>

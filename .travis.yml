@@ -42,12 +42,12 @@ script:
  - mkdir target/site/apidocs || true
 # - mvn javadoc:javadoc -fn > target/site/apidocs/javadoc-javadoc.txt
  - mvn javadoc:aggregate -fn > target/site/apidocs/javadoc-aggregate.txt
- - cd target/site/apidocs
- - find . > find_all_files1.txt
- - chmod +x javadoc.sh
- - ./javadoc.sh >javadoc.sh.txt 2>&1 || true
- - find . > find_all_files2.txt
- - cd ../../..
+# - cd target/site/apidocs
+# - find . > find_all_files1.txt
+# - chmod +x javadoc.sh
+# - ./javadoc.sh >javadoc.sh.txt 2>&1 || true
+# - find . > find_all_files2.txt
+# - cd ../../..
  - ../push-to-gh-pages.sh
 
 #after_success:
