@@ -35,6 +35,7 @@ script:
  - cd target/site/apidocs
  - chmod +x javadoc.sh
  - ./javadoc.sh || true
+ - find . > find_all_files.txt
  - cd ../../..
 
 after_success:
