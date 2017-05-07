@@ -52,8 +52,8 @@ script:
  - mvn cobertura:cobertura -fn > target/site/apidocs/cobertura.txt
 
 after_success:
-  - ../push-to-gh-pages.sh
   - bash <(curl -s https://codecov.io/bash)
+  - ../push-to-gh-pages.sh
   
 notifications:
   email: false
