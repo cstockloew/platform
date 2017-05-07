@@ -31,6 +31,9 @@ script:
 # - mvn clean install -Dmaven.javadoc.skip=true -B
 # - mvn clean install -Dmaven.javadoc.skip=true -B
 # - mvn clean install -DskipTests=true -Dmaven.javadoc.skip=true -B
+ - mkdir target || true
+ - mkdir target/site || true
+ - mkdir target/site/apidocs || true
  - mvn javadoc:javadoc -fn > target/site/apidocs/javadoc-javadoc.txt
  - mvn javadoc:aggregate -fn > target/site/apidocs/javadoc-aggregate.txt
  - cd target/site/apidocs
@@ -39,9 +42,10 @@ script:
  - ./javadoc.sh >javadoc.sh.txt 2>&1 || true
  - find . > find_all_files2.txt
  - cd ../../..
+ - ../push-to-gh-pages.sh
 
-after_success:
-  - ../push-to-gh-pages.sh
+#after_success:
+#  - ../push-to-gh-pages.sh
   
 notifications:
   email: false
