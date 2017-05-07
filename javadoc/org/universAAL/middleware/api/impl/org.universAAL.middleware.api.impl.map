@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c579225" href="./SimplifiedApiService.html" title="org.universAAL.middleware.api.impl.SimplifiedApiService" alt="" coords="16,17,157,42"/>
+<area shape="rect" id="c579226" href="./DynamicServiceProxy.html" title="org.universAAL.middleware.api.impl.DynamicServiceProxy" alt="" coords="202,17,353,42"/>
+<area shape="rect" id="c579227" href="./AnnotationScanner.html" title="org.universAAL.middleware.api.impl.AnnotationScanner" alt="" coords="397,17,528,42"/>
+<area shape="rect" id="c579228" href="./ServiceCalleeWrapper.html" title="org.universAAL.middleware.api.impl.ServiceCalleeWrapper" alt="" coords="573,17,723,42"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c1241668" href="./RuleCreatorFrame.html" title="org.universAAL.samples.context.reasoner.client.gui.RuleCreatorFrame" alt="" coords="16,17,144,42"/>
+<area shape="rect" id="c1241669" href="./SituationCreatorFrame.html" title="org.universAAL.samples.context.reasoner.client.gui.SituationCreatorFrame" alt="" coords="189,17,341,42"/>
+<area shape="rect" id="c1241670" href="./ReasoningGUI.html" title="org.universAAL.samples.context.reasoner.client.gui.ReasoningGUI" alt="" coords="387,17,493,42"/>
+<area shape="rect" id="c1241671" href="./QueryCreatorFrame.html" title="org.universAAL.samples.context.reasoner.client.gui.QueryCreatorFrame" alt="" coords="539,17,675,42"/>
+</map>

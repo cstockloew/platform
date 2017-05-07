@@ -1,0 +1,21 @@
+<map id="G" name="G">
+<area shape="rect" id="c1454678" href="./PurchaseFreeAALServiceResponse.html" title="org.universAAL.commerce.ustore.tools.PurchaseFreeAALServiceResponse" alt="" coords="16,19,245,45"/>
+<area shape="rect" id="c1454679" href="./ObjectFactory.html" title="org.universAAL.commerce.ustore.tools.ObjectFactory" alt="" coords="290,19,393,45"/>
+<area shape="rect" id="c1454680" href="./GetUserProfileResponse.html" title="org.universAAL.commerce.ustore.tools.GetUserProfileResponse" alt="" coords="437,19,603,45"/>
+<area shape="rect" id="c1454681" href="./GetUpdatesForAALServicesResponse.html" title="org.universAAL.commerce.ustore.tools.GetUpdatesForAALServicesResponse" alt="" coords="648,19,893,45"/>
+<area shape="rect" id="c1454682" href="./GetFreeAALServicesResponse.html" title="org.universAAL.commerce.ustore.tools.GetFreeAALServicesResponse" alt="" coords="939,19,1141,45"/>
+<area shape="rect" id="c1454683" href="./PurchaseFreeAALService.html" title="org.universAAL.commerce.ustore.tools.PurchaseFreeAALService" alt="" coords="1187,19,1357,45"/>
+<area shape="rect" id="c1454684" href="./GetFreeAALServices.html" title="org.universAAL.commerce.ustore.tools.GetFreeAALServices" alt="" coords="1403,19,1547,45"/>
+<area shape="rect" id="c1454685" href="./GetPurchasedAALServicesResponse.html" title="org.universAAL.commerce.ustore.tools.GetPurchasedAALServicesResponse" alt="" coords="1591,19,1830,45"/>
+<area shape="rect" id="c1454686" href="./GetSessionKey.html" title="org.universAAL.commerce.ustore.tools.GetSessionKey" alt="" coords="1875,19,1987,45"/>
+<area shape="rect" id="c1454687" href="./GetUpdatesForAALServices.html" title="org.universAAL.commerce.ustore.tools.GetUpdatesForAALServices" alt="" coords="2031,19,2217,45"/>
+<area shape="rect" id="c1454688" href="./RegisterDeployManagerResponse.html" title="org.universAAL.commerce.ustore.tools.RegisterDeployManagerResponse" alt="" coords="2261,19,2481,45"/>
+<area shape="rect" id="c1454689" href="./OnlineStoreManagerService.html" title="org.universAAL.commerce.ustore.tools.OnlineStoreManagerService" alt="" coords="2525,19,2707,45"/>
+<area shape="rect" id="c1454690" href="./GetPurchasedAALServices.html" title="org.universAAL.commerce.ustore.tools.GetPurchasedAALServices" alt="" coords="2751,19,2931,45"/>
+<area shape="rect" id="c1454691" href="./GetSessionKeyResponse.html" title="org.universAAL.commerce.ustore.tools.GetSessionKeyResponse" alt="" coords="2976,19,3147,45"/>
+<area shape="rect" id="c1454692" href="./GetUserProfile.html" title="org.universAAL.commerce.ustore.tools.GetUserProfile" alt="" coords="3192,19,3299,45"/>
+<area shape="rect" id="c1454693" href="./RegisterDeployManager.html" title="org.universAAL.commerce.ustore.tools.RegisterDeployManager" alt="" coords="3343,19,3505,45"/>
+<area shape="rect" id="c1454694" href="./UAALException.html" title="org.universAAL.commerce.ustore.tools.UAALException" alt="" coords="3549,19,3662,45"/>
+<area shape="rect" id="c1454695" href="./UAALException_Exception.html" title="org.universAAL.commerce.ustore.tools.UAALException_Exception" alt="" coords="3707,19,3885,45"/>
+<area shape="rect" id="c1454696" href="./OnlineStoreManager.html" title="org.universAAL.commerce.ustore.tools.OnlineStoreManager" alt="" coords="3931,11,4069,53"/>
+</map>

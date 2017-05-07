@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c7219768" href="../../../middleware/container/ModuleActivator.html" title="org.universAAL.middleware.container.ModuleActivator" alt="" coords="16,11,131,53"/>
+<area shape="rect" id="c7221675" href="./AuthenticatorActivator.html" title="org.universAAL.security.authenticator.profile.AuthenticatorActivator" alt="" coords="85,118,235,143"/>
+<area shape="rect" id="c7219769" href="../../../middleware/container/SharedObjectListener.html" title="org.universAAL.middleware.container.SharedObjectListener" alt="" coords="175,11,321,53"/>
+</map>

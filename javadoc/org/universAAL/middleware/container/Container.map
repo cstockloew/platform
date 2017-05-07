@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c1725258" href="./Container.html" title="org.universAAL.middleware.container.Container" alt="" coords="113,11,199,53"/>
+<area shape="rect" id="c1725265" href="../../container/JUnit/JUnitContainer.html" title="org.universAAL.container.JUnit.JUnitContainer" alt="" coords="15,118,123,143"/>
+<area shape="rect" id="c1726400" href="./osgi/uAALBundleContainer.html" title="org.universAAL.middleware.container.osgi.uAALBundleContainer" alt="" coords="168,118,317,143"/>
+</map>

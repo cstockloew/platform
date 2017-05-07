@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c3326795" href="../../../middleware/owl/ManagedIndividual.html" title="org.universAAL.middleware.owl.ManagedIndividual" alt="" coords="53,17,182,42"/>
+<area shape="rect" id="c3327310" href="./Address.html" title="org.universAAL.ontology.location.address.Address" alt="" coords="83,113,152,138"/>
+<area shape="rect" id="c3327308" href="./MailBox.html" title="org.universAAL.ontology.location.address.MailBox" alt="" coords="15,209,83,234"/>
+<area shape="rect" id="c3327309" href="./PhysicalAddress.html" title="org.universAAL.ontology.location.address.PhysicalAddress" alt="" coords="127,209,246,234"/>
+</map>

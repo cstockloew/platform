@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c1011281" href="./Authenticator.html" title="org.universAAL.ri.api.manager.server.Authenticator" alt="" coords="15,17,113,42"/>
+<area shape="rect" id="c1011282" href="./Base64.html" title="org.universAAL.ri.api.manager.server.Base64" alt="" coords="157,17,222,42"/>
+<area shape="rect" id="c1011283" href="./Base64.InputStream.html" title="org.universAAL.ri.api.manager.server.Base64.InputStream" alt="" coords="266,17,358,42"/>
+<area shape="rect" id="c1011284" href="./Base64.OutputStream.html" title="org.universAAL.ri.api.manager.server.Base64.OutputStream" alt="" coords="403,17,504,42"/>
+<area shape="rect" id="c1011285" href="./RemoteServlet.html" title="org.universAAL.ri.api.manager.server.RemoteServlet" alt="" coords="549,17,657,42"/>
+</map>

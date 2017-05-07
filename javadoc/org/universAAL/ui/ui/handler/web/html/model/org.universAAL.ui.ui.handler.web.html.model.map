@@ -1,0 +1,20 @@
+<map id="G" name="G">
+<area shape="rect" id="c1129392" href="./RepeatModel.html" title="org.universAAL.ui.ui.handler.web.html.model.RepeatModel" alt="" coords="802,305,899,330"/>
+<area shape="rect" id="c1129393" href="./RangeModel.html" title="org.universAAL.ui.ui.handler.web.html.model.RangeModel" alt="" coords="213,305,307,330"/>
+<area shape="rect" id="c1129394" href="./InputFieldModel.html" title="org.universAAL.ui.ui.handler.web.html.model.InputFieldModel" alt="" coords="351,305,465,330"/>
+<area shape="rect" id="c1129395" href="./TextAreaModel.html" title="org.universAAL.ui.ui.handler.web.html.model.TextAreaModel" alt="" coords="509,305,619,330"/>
+<area shape="rect" id="c1129396" href="./Select1Model.html" title="org.universAAL.ui.ui.handler.web.html.model.Select1Model" alt="" coords="661,401,761,426"/>
+<area shape="rect" id="c1129397" href="./FormModel.html" title="org.universAAL.ui.ui.handler.web.html.model.FormModel" alt="" coords="381,113,467,138"/>
+<area shape="rect" id="c1129398" href="./SubmitModel.html" title="org.universAAL.ui.ui.handler.web.html.model.SubmitModel" alt="" coords="211,209,309,234"/>
+<area shape="rect" id="c1129399" href="./SubdialogTriggerModel.html" title="org.universAAL.ui.ui.handler.web.html.model.SubdialogTriggerModel" alt="" coords="15,305,169,330"/>
+<area shape="rect" id="c1129400" href="./InputModel.html" title="org.universAAL.ui.ui.handler.web.html.model.InputModel" alt="" coords="521,209,607,234"/>
+<area shape="rect" id="c1129401" href="./SelectModel.html" title="org.universAAL.ui.ui.handler.web.html.model.SelectModel" alt="" coords="664,305,757,330"/>
+<area shape="rect" id="c1129402" href="./MediaObjectModel.html" title="org.universAAL.ui.ui.handler.web.html.model.MediaObjectModel" alt="" coords="943,305,1073,330"/>
+<area shape="rect" id="c1129403" href="./GroupModel.html" title="org.universAAL.ui.ui.handler.web.html.model.GroupModel" alt="" coords="728,209,819,234"/>
+<area shape="rect" id="c1129404" href="./RecommendationModel.html" title="org.universAAL.ui.ui.handler.web.html.model.RecommendationModel" alt="" coords="628,17,785,42"/>
+<area shape="rect" id="c1129405" href="./LabelModel.html" title="org.universAAL.ui.ui.handler.web.html.model.LabelModel" alt="" coords="511,113,598,138"/>
+<area shape="rect" id="c1129406" href="./Model.html" title="org.universAAL.ui.ui.handler.web.html.model.Model" alt="" coords="527,17,583,42"/>
+<area shape="rect" id="c1129407" href="./FormControlModel.html" title="org.universAAL.ui.ui.handler.web.html.model.FormControlModel" alt="" coords="643,113,771,138"/>
+<area shape="rect" id="c1129408" href="./OutputModel.html" title="org.universAAL.ui.ui.handler.web.html.model.OutputModel" alt="" coords="961,209,1055,234"/>
+<area shape="rect" id="c1129409" href="./SimpleOutputModel.html" title="org.universAAL.ui.ui.handler.web.html.model.SimpleOutputModel" alt="" coords="1117,305,1251,330"/>
+</map>

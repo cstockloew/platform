@@ -1,0 +1,27 @@
+<map id="G" name="G">
+<area shape="rect" id="c449690" href="./Asset.html" title="org.universAAL.ontology.security.Asset" alt="" coords="15,17,70,42"/>
+<area shape="rect" id="c449691" href="./RoleManagementService.html" title="org.universAAL.ontology.security.RoleManagementService" alt="" coords="114,17,281,42"/>
+<area shape="rect" id="c449692" href="./PossessionFactor.html" title="org.universAAL.ontology.security.PossessionFactor" alt="" coords="123,113,248,138"/>
+<area shape="rect" id="c449693" href="./OneTimePassword.html" title="org.universAAL.ontology.security.OneTimePassword" alt="" coords="189,305,321,330"/>
+<area shape="rect" id="c449694" href="./MultifactorCredentials.html" title="org.universAAL.ontology.security.MultifactorCredentials" alt="" coords="618,113,766,138"/>
+<area shape="rect" id="c449695" href="./DelegationForm.html" title="org.universAAL.ontology.security.DelegationForm" alt="" coords="779,17,893,42"/>
+<area shape="rect" id="c449696" href="./Credentials.html" title="org.universAAL.ontology.security.Credentials" alt="" coords="649,17,735,42"/>
+<area shape="rect" id="c449697" href="./Anonymizable.html" title="org.universAAL.ontology.security.Anonymizable" alt="" coords="937,17,1039,42"/>
+<area shape="rect" id="c449698" href="./KnowledgeFactor.html" title="org.universAAL.ontology.security.KnowledgeFactor" alt="" coords="293,113,414,138"/>
+<area shape="rect" id="c449699" href="./Password.html" title="org.universAAL.ontology.security.Password" alt="" coords="314,209,393,234"/>
+<area shape="rect" id="c449700" href="./UserPasswordCredentials.html" title="org.universAAL.ontology.security.UserPasswordCredentials" alt="" coords="365,305,539,330"/>
+<area shape="rect" id="c449701" href="./SecuritySubprofile.html" title="org.universAAL.ontology.security.SecuritySubprofile" alt="" coords="1083,17,1210,42"/>
+<area shape="rect" id="c449702" href="./AnonymizationService.html" title="org.universAAL.ontology.security.AnonymizationService" alt="" coords="1254,17,1405,42"/>
+<area shape="rect" id="c449703" href="./SessionManagementService.html" title="org.universAAL.ontology.security.SessionManagementService" alt="" coords="1449,17,1636,42"/>
+<area shape="rect" id="c449704" href="./DeviceBoundSession.html" title="org.universAAL.ontology.security.DeviceBoundSession" alt="" coords="1545,113,1690,138"/>
+<area shape="rect" id="c449705" href="./Role.html" title="org.universAAL.ontology.security.Role" alt="" coords="1795,17,1843,42"/>
+<area shape="rect" id="c449706" href="./AuthenticationService.html" title="org.universAAL.ontology.security.AuthenticationService" alt="" coords="1889,17,2037,42"/>
+<area shape="rect" id="c449707" href="./AccessType.html" title="org.universAAL.ontology.security.AccessType" alt="" coords="2081,17,2175,42"/>
+<area shape="rect" id="c449708" href="./AccessRight.html" title="org.universAAL.ontology.security.AccessRight" alt="" coords="2220,17,2316,42"/>
+<area shape="rect" id="c449709" href="./SecurityOntology.html" title="org.universAAL.ontology.security.SecurityOntology" alt="" coords="2361,17,2482,42"/>
+<area shape="rect" id="c449710" href="./Session.html" title="org.universAAL.ontology.security.Session" alt="" coords="1681,17,1749,42"/>
+<area shape="rect" id="c449711" href="./LocationBoundSession.html" title="org.universAAL.ontology.security.LocationBoundSession" alt="" coords="1734,113,1887,138"/>
+<area shape="rect" id="c449712" href="./AuthorizationService.html" title="org.universAAL.ontology.security.AuthorizationService" alt="" coords="2527,17,2668,42"/>
+<area shape="rect" id="c449713" href="./Factor.html" title="org.universAAL.ontology.security.Factor" alt="" coords="325,17,382,42"/>
+<area shape="rect" id="c449714" href="./InherenceFactor.html" title="org.universAAL.ontology.security.InherenceFactor" alt="" coords="459,113,573,138"/>
+</map>

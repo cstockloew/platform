@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c1518158" href="../api/APIFixableCheck.html" title="org.universAAL.support.directives.api.APIFixableCheck" alt="" coords="16,11,139,53"/>
+<area shape="rect" id="c1518161" href="./DependencyManagementCheckFix.html" title="org.universAAL.support.directives.checks.DependencyManagementCheckFix" alt="" coords="39,118,265,143"/>
+<area shape="rect" id="c1518195" href="../util/PomFixer.html" title="org.universAAL.support.directives.util.PomFixer" alt="" coords="184,11,269,53"/>
+</map>

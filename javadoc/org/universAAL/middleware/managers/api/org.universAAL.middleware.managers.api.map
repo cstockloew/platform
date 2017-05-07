@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="c135476" href="./DistributedMWEventHandler.html" title="org.universAAL.middleware.managers.api.DistributedMWEventHandler" alt="" coords="16,11,203,53"/>
+<area shape="rect" id="c135477" href="./TenantManager.html" title="org.universAAL.middleware.managers.api.TenantManager" alt="" coords="79,113,190,154"/>
+<area shape="rect" id="c135478" href="./DeployManagerEventHandler.html" title="org.universAAL.middleware.managers.api.DeployManagerEventHandler" alt="" coords="378,11,569,53"/>
+<area shape="rect" id="c135479" href="./ConfigurationManagerConnector.html" title="org.universAAL.middleware.managers.api.ConfigurationManagerConnector" alt="" coords="613,11,821,53"/>
+<area shape="rect" id="c135480" href="./UAPPPackage.html" title="org.universAAL.middleware.managers.api.UAPPPackage" alt="" coords="867,19,976,45"/>
+<area shape="rect" id="c135481" href="./DeployManager.html" title="org.universAAL.middleware.managers.api.DeployManager" alt="" coords="235,113,347,154"/>
+<area shape="rect" id="c135482" href="./AALSpaceEventHandler.html" title="org.universAAL.middleware.managers.api.AALSpaceEventHandler" alt="" coords="1021,11,1182,53"/>
+<area shape="rect" id="c135483" href="./ConfigurationManager.html" title="org.universAAL.middleware.managers.api.ConfigurationManager" alt="" coords="1226,11,1374,53"/>
+<area shape="rect" id="c135484" href="./AALSpaceManager.html" title="org.universAAL.middleware.managers.api.AALSpaceManager" alt="" coords="392,113,525,154"/>
+<area shape="rect" id="c135485" href="./ConfigurationEditor.html" title="org.universAAL.middleware.managers.api.ConfigurationEditor" alt="" coords="1418,11,1550,53"/>
+<area shape="rect" id="c135486" href="./ConfigurationEditor.ConfigurableEntityManager.html" title="org.universAAL.middleware.managers.api.ConfigurationEditor.ConfigurableEntityManager" alt="" coords="1594,11,1771,53"/>
+<area shape="rect" id="c135487" href="./MatchingResult.html" title="org.universAAL.middleware.managers.api.MatchingResult" alt="" coords="1816,11,1928,53"/>
+<area shape="rect" id="c135488" href="./AALSpaceListener.html" title="org.universAAL.middleware.managers.api.AALSpaceListener" alt="" coords="1973,11,2102,53"/>
+<area shape="rect" id="c135489" href="./TenantListener.html" title="org.universAAL.middleware.managers.api.TenantListener" alt="" coords="2147,11,2253,53"/>
+<area shape="rect" id="c135490" href="./Manager.html" title="org.universAAL.middleware.managers.api.Manager" alt="" coords="248,11,333,53"/>
+<area shape="rect" id="c135491" href="./InstallationResultsDetails.html" title="org.universAAL.middleware.managers.api.InstallationResultsDetails" alt="" coords="2298,19,2467,45"/>
+<area shape="rect" id="c135492" href="./InstallationResults.html" title="org.universAAL.middleware.managers.api.InstallationResults" alt="" coords="2511,11,2641,53"/>
+</map>

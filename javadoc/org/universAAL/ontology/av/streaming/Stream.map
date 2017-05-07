@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c4128921" href="../../../middleware/owl/ManagedIndividual.html" title="org.universAAL.middleware.owl.ManagedIndividual" alt="" coords="70,17,199,42"/>
+<area shape="rect" id="c4129715" href="./Stream.html" title="org.universAAL.ontology.av.streaming.Stream" alt="" coords="103,113,166,138"/>
+<area shape="rect" id="c4129713" href="./AudioStream.html" title="org.universAAL.ontology.av.streaming.AudioStream" alt="" coords="16,209,112,234"/>
+<area shape="rect" id="c4129716" href="./VideoStream.html" title="org.universAAL.ontology.av.streaming.VideoStream" alt="" coords="157,209,253,234"/>
+</map>

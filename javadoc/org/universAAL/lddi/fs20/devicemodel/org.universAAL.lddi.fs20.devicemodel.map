@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="c780952" href="./FS20STDevice.html" title="org.universAAL.lddi.fs20.devicemodel.FS20STDevice" alt="" coords="16,118,125,143"/>
+<area shape="rect" id="c780953" href="./FS20SIGDevice.html" title="org.universAAL.lddi.fs20.devicemodel.FS20SIGDevice" alt="" coords="170,118,286,143"/>
+<area shape="rect" id="c780954" href="./FS20RGBSADevice.html" title="org.universAAL.lddi.fs20.devicemodel.FS20RGBSADevice" alt="" coords="330,118,470,143"/>
+<area shape="rect" id="c780955" href="./FS20PIRxDevice.html" title="org.universAAL.lddi.fs20.devicemodel.FS20PIRxDevice" alt="" coords="515,118,637,143"/>
+<area shape="rect" id="c780956" href="./FS20DeviceTypes.html" title="org.universAAL.lddi.fs20.devicemodel.FS20DeviceTypes" alt="" coords="491,11,621,53"/>
+<area shape="rect" id="c780957" href="./FS20DeviceProperties.html" title="org.universAAL.lddi.fs20.devicemodel.FS20DeviceProperties" alt="" coords="665,19,817,45"/>
+<area shape="rect" id="c780958" href="./FS20Device.html" title="org.universAAL.lddi.fs20.devicemodel.FS20Device" alt="" coords="353,19,447,45"/>
+<area shape="rect" id="c780959" href="./FS20FMSDevice.html" title="org.universAAL.lddi.fs20.devicemodel.FS20FMSDevice" alt="" coords="682,118,803,143"/>
+</map>

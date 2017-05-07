@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c1466206" href="./DeploymentInfoController.html" title="org.universAAL.ucc.controller.install.DeploymentInfoController" alt="" coords="15,17,185,42"/>
+<area shape="rect" id="c1466207" href="./DeinstallController.html" title="org.universAAL.ucc.controller.install.DeinstallController" alt="" coords="229,17,357,42"/>
+<area shape="rect" id="c1466208" href="./LicenseController.html" title="org.universAAL.ucc.controller.install.LicenseController" alt="" coords="402,17,523,42"/>
+<area shape="rect" id="c1466209" href="./UsrvInfoController.html" title="org.universAAL.ucc.controller.install.UsrvInfoController" alt="" coords="567,17,694,42"/>
+<area shape="rect" id="c1466210" href="./AALServiceReceiver.html" title="org.universAAL.ucc.controller.install.AALServiceReceiver" alt="" coords="739,17,880,42"/>
+</map>

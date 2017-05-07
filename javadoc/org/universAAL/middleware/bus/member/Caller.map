@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c2651442" href="./BusMember.html" title="org.universAAL.middleware.bus.member.BusMember" alt="" coords="84,17,175,42"/>
+<area shape="rect" id="c2651443" href="./Caller.html" title="org.universAAL.middleware.bus.member.Caller" alt="" coords="102,113,157,138"/>
+<area shape="rect" id="c2651507" href="../../service/ServiceCaller.html" title="org.universAAL.middleware.service.ServiceCaller" alt="" coords="16,209,115,234"/>
+<area shape="rect" id="c2651555" href="../../ui/UICaller.html" title="org.universAAL.middleware.ui.UICaller" alt="" coords="160,209,229,234"/>
+</map>

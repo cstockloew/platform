@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="c619506" href="./CardinCollect2NativeStoreConnection.html" title="org.universAAL.context.sesame.sail.CardinCollect2NativeStoreConnection" alt="" coords="15,113,257,138"/>
+<area shape="rect" id="c619507" href="./CardinCollectNativeStoreConnection.html" title="org.universAAL.context.sesame.sail.CardinCollectNativeStoreConnection" alt="" coords="301,113,536,138"/>
+<area shape="rect" id="c619508" href="./CardinCollect2NativeStore.html" title="org.universAAL.context.sesame.sail.CardinCollect2NativeStore" alt="" coords="581,113,757,138"/>
+<area shape="rect" id="c619509" href="./NativeTripleSource.html" title="org.universAAL.context.sesame.sail.NativeTripleSource" alt="" coords="898,17,1030,42"/>
+<area shape="rect" id="c619510" href="./CardinalityNativeStoreConnection.html" title="org.universAAL.context.sesame.sail.CardinalityNativeStoreConnection" alt="" coords="169,17,386,42"/>
+<area shape="rect" id="c619511" href="./ValueStoreRevision.html" title="org.universAAL.context.sesame.sail.ValueStoreRevision" alt="" coords="1075,17,1211,42"/>
+<area shape="rect" id="c619512" href="./ValueStore.html" title="org.universAAL.context.sesame.sail.ValueStore" alt="" coords="1256,17,1341,42"/>
+<area shape="rect" id="c619513" href="./CardinalityNativeStore.html" title="org.universAAL.context.sesame.sail.CardinalityNativeStore" alt="" coords="701,17,853,42"/>
+<area shape="rect" id="c619514" href="./CardinCollectNativeStore.html" title="org.universAAL.context.sesame.sail.CardinCollectNativeStore" alt="" coords="802,113,971,138"/>
+</map>

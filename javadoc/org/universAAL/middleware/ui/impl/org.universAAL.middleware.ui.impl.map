@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="c219019" href="./UIBusImpl.html" title="org.universAAL.middleware.ui.impl.UIBusImpl" alt="" coords="16,19,99,45"/>
+<area shape="rect" id="c219020" href="./UIStrategyCoordinatorMng.html" title="org.universAAL.middleware.ui.impl.UIStrategyCoordinatorMng" alt="" coords="144,19,320,45"/>
+<area shape="rect" id="c219021" href="./UIStrategyHandler.html" title="org.universAAL.middleware.ui.impl.UIStrategyHandler" alt="" coords="167,118,297,143"/>
+<area shape="rect" id="c219022" href="./UIStrategyCaller.html" title="org.universAAL.middleware.ui.impl.UIStrategyCaller" alt="" coords="173,214,291,239"/>
+<area shape="rect" id="c219023" href="./UIStrategyCaller.UIRequestCall.html" title="org.universAAL.middleware.ui.impl.UIStrategyCaller.UIRequestCall" alt="" coords="420,118,527,143"/>
+<area shape="rect" id="c219024" href="./IUIStrategyMessageSharedProps.html" title="org.universAAL.middleware.ui.impl.IUIStrategyMessageSharedProps" alt="" coords="365,11,581,53"/>
+<area shape="rect" id="c219025" href="./RunningDialogsManager.html" title="org.universAAL.middleware.ui.impl.RunningDialogsManager" alt="" coords="627,19,789,45"/>
+<area shape="rect" id="c219026" href="./UIBusFactory.html" title="org.universAAL.middleware.ui.impl.UIBusFactory" alt="" coords="835,19,936,45"/>
+</map>

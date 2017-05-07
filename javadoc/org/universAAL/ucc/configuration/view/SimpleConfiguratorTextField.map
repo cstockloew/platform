@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c9545749" href="../model/interfaces/OnConfigurationChangedListener.html" title="org.universAAL.ucc.configuration.model.interfaces.OnConfigurationChangedListener" alt="" coords="16,11,229,53"/>
+<area shape="rect" id="c9545780" href="./SimpleConfiguratorTextField.html" title="org.universAAL.ucc.configuration.view.SimpleConfiguratorTextField" alt="" coords="125,118,310,143"/>
+<area shape="rect" id="c9545859" href="http://java.sun.com/j2se/1.4.2/docs/api/com/vaadin/ui/TextField.html" title="com.vaadin.ui.TextField" alt="" coords="275,19,349,45"/>
+</map>

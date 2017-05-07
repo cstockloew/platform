@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c913401" href="./SecuritySubProfileRoleManagement.html" title="org.universAAL.security.authorisator.profiles.SecuritySubProfileRoleManagement" alt="" coords="15,17,246,42"/>
+<area shape="rect" id="c913402" href="./RoleMngServiceProfile.html" title="org.universAAL.security.authorisator.profiles.RoleMngServiceProfile" alt="" coords="290,17,443,42"/>
+<area shape="rect" id="c913403" href="./AuthorisationServiceProfile.html" title="org.universAAL.security.authorisator.profiles.AuthorisationServiceProfile" alt="" coords="487,17,665,42"/>
+</map>

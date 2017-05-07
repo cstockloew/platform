@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c1549783" href="../api/APIFixableCheck.html" title="org.universAAL.support.directives.api.APIFixableCheck" alt="" coords="16,11,139,53"/>
+<area shape="rect" id="c1549797" href="./FelixDepCheckFix.html" title="org.universAAL.support.directives.checks.FelixDepCheckFix" alt="" coords="87,118,217,143"/>
+<area shape="rect" id="c1549820" href="../util/PomFixer.html" title="org.universAAL.support.directives.util.PomFixer" alt="" coords="184,11,269,53"/>
+</map>

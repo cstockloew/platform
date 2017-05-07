@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c7569685" href="./LinkMessage.html" title="org.universAAL.ri.gateway.protocol.LinkMessage" alt="" coords="325,113,422,138"/>
+<area shape="rect" id="c7569691" href="./link/DisconnectionRequest.html" title="org.universAAL.ri.gateway.protocol.link.DisconnectionRequest" alt="" coords="15,209,169,234"/>
+<area shape="rect" id="c7569692" href="./link/ConnectionRequest.html" title="org.universAAL.ri.gateway.protocol.link.ConnectionRequest" alt="" coords="213,209,349,234"/>
+<area shape="rect" id="c7569693" href="./link/ConnectionResponse.html" title="org.universAAL.ri.gateway.protocol.link.ConnectionResponse" alt="" coords="394,209,539,234"/>
+<area shape="rect" id="c7569694" href="./link/ReconnectionRequest.html" title="org.universAAL.ri.gateway.protocol.link.ReconnectionRequest" alt="" coords="584,209,733,234"/>
+<area shape="rect" id="c7569687" href="./Message.html" title="org.universAAL.ri.gateway.protocol.Message" alt="" coords="337,17,410,42"/>
+</map>

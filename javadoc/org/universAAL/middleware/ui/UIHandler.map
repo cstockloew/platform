@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c2970567" href="../bus/member/Callee.html" title="org.universAAL.middleware.bus.member.Callee" alt="" coords="129,17,186,42"/>
+<area shape="rect" id="c2970681" href="./UIHandler.html" title="org.universAAL.middleware.ui.UIHandler" alt="" coords="117,113,197,138"/>
+<area shape="rect" id="c2972408" href="../../ui/handler/gui/swing/Handler.html" title="org.universAAL.ui.handler.gui.swing.Handler" alt="" coords="15,209,81,234"/>
+<area shape="rect" id="c2972555" href="../../ui/ui/handler/web/html/Handler.html" title="org.universAAL.ui.ui.handler.web.html.Handler" alt="" coords="125,209,190,234"/>
+<area shape="rect" id="c2972581" href="../../ui/handler/sms/SmsUIHandler.html" title="org.universAAL.ui.handler.sms.SmsUIHandler" alt="" coords="235,209,341,234"/>
+</map>

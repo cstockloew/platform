@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c4785440" href="./MinimumSize.html" title="org.universAAL.ontology.recommendations.MinimumSize" alt="" coords="15,209,115,234"/>
+<area shape="rect" id="c4785441" href="./MaximumSize.html" title="org.universAAL.ontology.recommendations.MaximumSize" alt="" coords="160,209,264,234"/>
+<area shape="rect" id="c4785443" href="./Size.html" title="org.universAAL.ontology.recommendations.Size" alt="" coords="189,113,235,138"/>
+<area shape="rect" id="c4785444" href="./PreferredSize.html" title="org.universAAL.ontology.recommendations.PreferredSize" alt="" coords="309,209,409,234"/>
+<area shape="rect" id="c4785447" href="./VisualRecommendation.html" title="org.universAAL.ontology.recommendations.VisualRecommendation" alt="" coords="133,17,291,42"/>
+</map>

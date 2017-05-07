@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="c4057046" href="../../middleware/owl/ManagedIndividual.html" title="org.universAAL.middleware.owl.ManagedIndividual" alt="" coords="1103,17,1233,42"/>
+<area shape="rect" id="c4057815" href="./ActivityHubSensorEvent.html" title="org.universAAL.ontology.activityhub.ActivityHubSensorEvent" alt="" coords="1086,113,1250,138"/>
+<area shape="rect" id="c4057791" href="./PersSensorEvent.html" title="org.universAAL.ontology.activityhub.PersSensorEvent" alt="" coords="16,209,139,234"/>
+<area shape="rect" id="c4057795" href="./MotionSensorEvent.html" title="org.universAAL.ontology.activityhub.MotionSensorEvent" alt="" coords="183,209,318,234"/>
+<area shape="rect" id="c4057800" href="./SwitchSensorEvent.html" title="org.universAAL.ontology.activityhub.SwitchSensorEvent" alt="" coords="363,209,499,234"/>
+<area shape="rect" id="c4057802" href="./MedicationDosageSensorEvent.html" title="org.universAAL.ontology.activityhub.MedicationDosageSensorEvent" alt="" coords="543,209,747,234"/>
+<area shape="rect" id="c4057804" href="./ContactClosureSensorEvent.html" title="org.universAAL.ontology.activityhub.ContactClosureSensorEvent" alt="" coords="792,209,979,234"/>
+<area shape="rect" id="c4057805" href="./FallSensorEvent.html" title="org.universAAL.ontology.activityhub.FallSensorEvent" alt="" coords="1024,209,1141,234"/>
+<area shape="rect" id="c4057807" href="./UsageSensorEvent.html" title="org.universAAL.ontology.activityhub.UsageSensorEvent" alt="" coords="1187,209,1320,234"/>
+<area shape="rect" id="c4057809" href="./EnvironmentalSensorEvent.html" title="org.universAAL.ontology.activityhub.EnvironmentalSensorEvent" alt="" coords="1365,209,1544,234"/>
+<area shape="rect" id="c4057810" href="./TemperatureSensorEvent.html" title="org.universAAL.ontology.activityhub.TemperatureSensorEvent" alt="" coords="1589,209,1758,234"/>
+<area shape="rect" id="c4057812" href="./PropertyExitSensorEvent.html" title="org.universAAL.ontology.activityhub.PropertyExitSensorEvent" alt="" coords="1803,209,1971,234"/>
+<area shape="rect" id="c4057816" href="./EnuresisSensorEvent.html" title="org.universAAL.ontology.activityhub.EnuresisSensorEvent" alt="" coords="2016,209,2163,234"/>
+<area shape="rect" id="c4057817" href="./ext/AdaptorPlugActuatorEvent.html" title="org.universAAL.ontology.activityhub.ext.AdaptorPlugActuatorEvent" alt="" coords="2207,209,2382,234"/>
+</map>

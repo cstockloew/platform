@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c5089331" href="../../../../interfaces/configuration/configurationEditionTypes/ConfigurationParameterEditor.html" title="org.universAAL.middleware.interfaces.configuration.configurationEditionTypes.ConfigurationParameterEditor" alt="" coords="16,11,208,53"/>
+<area shape="rect" id="c5090315" href="./RemoteConfigurationParamaterEditor.html" title="org.universAAL.middleware.managers.configuration.core.impl.RemoteConfigurationParamaterEditor" alt="" coords="108,118,345,143"/>
+<area shape="rect" id="c5090314" href="./RemoteConfigurationEntity.html" title="org.universAAL.middleware.managers.configuration.core.impl.RemoteConfigurationEntity" alt="" coords="253,19,430,45"/>
+</map>

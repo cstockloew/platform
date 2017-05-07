@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c77864" href="./ICommunicationChannels.html" title="org.universAAL.middleware.interfaces.aalspace.model.ICommunicationChannels" alt="" coords="16,11,187,53"/>
+<area shape="rect" id="c77865" href="./ISpaceDescriptor.html" title="org.universAAL.middleware.interfaces.aalspace.model.ISpaceDescriptor" alt="" coords="231,11,353,53"/>
+<area shape="rect" id="c77866" href="./IAALSpace.html" title="org.universAAL.middleware.interfaces.aalspace.model.IAALSpace" alt="" coords="397,11,483,53"/>
+<area shape="rect" id="c77867" href="./IPeeringChannel.html" title="org.universAAL.middleware.interfaces.aalspace.model.IPeeringChannel" alt="" coords="528,11,645,53"/>
+<area shape="rect" id="c77868" href="./IChannelDescriptor.html" title="org.universAAL.middleware.interfaces.aalspace.model.IChannelDescriptor" alt="" coords="691,11,824,53"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c1828788" href="./LengthRestriction.html" title="org.universAAL.middleware.owl.LengthRestriction" alt="" coords="16,209,139,234"/>
+<area shape="rect" id="c1828796" href="./TypeRestriction.html" title="org.universAAL.middleware.owl.TypeRestriction" alt="" coords="115,113,229,138"/>
+<area shape="rect" id="c1828798" href="./BoundedValueRestriction.html" title="org.universAAL.middleware.owl.BoundedValueRestriction" alt="" coords="184,209,352,234"/>
+<area shape="rect" id="c1828811" href="./TypeExpression.html" title="org.universAAL.middleware.owl.TypeExpression" alt="" coords="115,17,229,42"/>
+</map>

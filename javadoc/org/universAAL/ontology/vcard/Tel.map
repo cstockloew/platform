@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="c3594170" href="../../middleware/owl/ManagedIndividual.html" title="org.universAAL.middleware.owl.ManagedIndividual" alt="" coords="477,17,606,42"/>
+<area shape="rect" id="c3594778" href="./Tel.html" title="org.universAAL.ontology.vcard.Tel" alt="" coords="522,113,561,138"/>
+<area shape="rect" id="c3594762" href="./Fax.html" title="org.universAAL.ontology.vcard.Fax" alt="" coords="20,209,63,234"/>
+<area shape="rect" id="c3594763" href="./Voice.html" title="org.universAAL.ontology.vcard.Voice" alt="" coords="112,209,165,234"/>
+<area shape="rect" id="c3594765" href="./Modem.html" title="org.universAAL.ontology.vcard.Modem" alt="" coords="211,209,275,234"/>
+<area shape="rect" id="c3594767" href="./Cell.html" title="org.universAAL.ontology.vcard.Cell" alt="" coords="323,209,367,234"/>
+<area shape="rect" id="c3594768" href="./Video.html" title="org.universAAL.ontology.vcard.Video" alt="" coords="416,209,469,234"/>
+<area shape="rect" id="c3594769" href="./Pager.html" title="org.universAAL.ontology.vcard.Pager" alt="" coords="514,209,569,234"/>
+<area shape="rect" id="c3594770" href="./PCS.html" title="org.universAAL.ontology.vcard.PCS" alt="" coords="614,209,663,234"/>
+<area shape="rect" id="c3594774" href="./ISDN.html" title="org.universAAL.ontology.vcard.ISDN" alt="" coords="709,209,763,234"/>
+<area shape="rect" id="c3594775" href="./BBS.html" title="org.universAAL.ontology.vcard.BBS" alt="" coords="809,209,857,234"/>
+<area shape="rect" id="c3594777" href="./Car.html" title="org.universAAL.ontology.vcard.Car" alt="" coords="909,209,950,234"/>
+<area shape="rect" id="c3594779" href="./Msg.html" title="org.universAAL.ontology.vcard.Msg" alt="" coords="1003,209,1048,234"/>
+</map>

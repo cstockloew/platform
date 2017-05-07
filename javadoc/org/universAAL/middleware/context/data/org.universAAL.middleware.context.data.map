@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="c181557" href="./CalledPeers.html" title="org.universAAL.middleware.context.data.CalledPeers" alt="" coords="18,118,110,143"/>
+<area shape="rect" id="c181558" href="./PropsDataMap.html" title="org.universAAL.middleware.context.data.PropsDataMap" alt="" coords="154,118,262,143"/>
+<area shape="rect" id="c181559" href="./ProvisionsDataList.html" title="org.universAAL.middleware.context.data.ProvisionsDataList" alt="" coords="307,118,437,143"/>
+<area shape="rect" id="c181560" href="./AllProvisionDataVector.html" title="org.universAAL.middleware.context.data.AllProvisionDataVector" alt="" coords="482,118,638,143"/>
+<area shape="rect" id="c181561" href="./NumCalledPeersDataMap.html" title="org.universAAL.middleware.context.data.NumCalledPeersDataMap" alt="" coords="683,118,856,143"/>
+<area shape="rect" id="c181562" href="./AbstractFiltererContainer.html" title="org.universAAL.middleware.context.data.AbstractFiltererContainer" alt="" coords="901,118,1067,143"/>
+<area shape="rect" id="c181563" href="./FiltererContainerData.html" title="org.universAAL.middleware.context.data.FiltererContainerData" alt="" coords="911,214,1057,239"/>
+<area shape="rect" id="c181564" href="./ICalledPeers.html" title="org.universAAL.middleware.context.data.ICalledPeers" alt="" coords="16,11,112,53"/>
+<area shape="rect" id="c181565" href="./IAllProvisionData.html" title="org.universAAL.middleware.context.data.IAllProvisionData" alt="" coords="499,11,621,53"/>
+<area shape="rect" id="c181566" href="./IPropsData.html" title="org.universAAL.middleware.context.data.IPropsData" alt="" coords="165,11,251,53"/>
+<area shape="rect" id="c181567" href="./INumCalledPeersData.html" title="org.universAAL.middleware.context.data.INumCalledPeersData" alt="" coords="693,11,845,53"/>
+<area shape="rect" id="c181568" href="./IProvisionsData.html" title="org.universAAL.middleware.context.data.IProvisionsData" alt="" coords="315,11,429,53"/>
+<area shape="rect" id="c181569" href="./IFiltererContainer.html" title="org.universAAL.middleware.context.data.IFiltererContainer" alt="" coords="923,11,1045,53"/>
+</map>

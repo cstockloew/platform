@@ -1,0 +1,21 @@
+<map id="G" name="G">
+<area shape="rect" id="c227666" href="./MediaObject.html" title="org.universAAL.middleware.ui.rdf.MediaObject" alt="" coords="123,379,216,405"/>
+<area shape="rect" id="c227667" href="./InputField.html" title="org.universAAL.middleware.ui.rdf.InputField" alt="" coords="229,478,307,503"/>
+<area shape="rect" id="c227668" href="./TextArea.html" title="org.universAAL.middleware.ui.rdf.TextArea" alt="" coords="351,478,425,503"/>
+<area shape="rect" id="c227669" href="./Select1.html" title="org.universAAL.middleware.ui.rdf.Select1" alt="" coords="465,577,530,602"/>
+<area shape="rect" id="c227670" href="./SimpleOutput.html" title="org.universAAL.middleware.ui.rdf.SimpleOutput" alt="" coords="261,379,361,405"/>
+<area shape="rect" id="c227671" href="./Select.html" title="org.universAAL.middleware.ui.rdf.Select" alt="" coords="469,478,526,503"/>
+<area shape="rect" id="c227683" href="./Label.html" title="org.universAAL.middleware.ui.rdf.Label" alt="" coords="651,577,703,602"/>
+<area shape="rect" id="c227672" href="./Range.html" title="org.universAAL.middleware.ui.rdf.Range" alt="" coords="571,478,629,503"/>
+<area shape="rect" id="c227673" href="./Output.html" title="org.universAAL.middleware.ui.rdf.Output" alt="" coords="281,265,341,290"/>
+<area shape="rect" id="c227674" href="./Form.html" title="org.universAAL.middleware.ui.rdf.Form" alt="" coords="121,115,172,141"/>
+<area shape="rect" id="c227677" href="./Group.html" title="org.universAAL.middleware.ui.rdf.Group" alt="" coords="132,265,188,290"/>
+<area shape="rect" id="c227675" href="./Repeat.html" title="org.universAAL.middleware.ui.rdf.Repeat" alt="" coords="15,379,78,405"/>
+<area shape="rect" id="c227676" href="./Input.html" title="org.universAAL.middleware.ui.rdf.Input" alt="" coords="406,379,455,405"/>
+<area shape="rect" id="c227678" href="./FormControl.html" title="org.universAAL.middleware.ui.rdf.FormControl" alt="" coords="325,115,419,141"/>
+<area shape="rect" id="c227679" href="./Submit.html" title="org.universAAL.middleware.ui.rdf.Submit" alt="" coords="453,265,515,290"/>
+<area shape="rect" id="c227680" href="./SubdialogTrigger.html" title="org.universAAL.middleware.ui.rdf.SubdialogTrigger" alt="" coords="501,379,619,405"/>
+<area shape="rect" id="c227681" href="./ChoiceItem.html" title="org.universAAL.middleware.ui.rdf.ChoiceItem" alt="" coords="547,691,635,717"/>
+<area shape="rect" id="c227682" href="./FormElement.html" title="org.universAAL.middleware.ui.rdf.FormElement" alt="" coords="323,17,421,42"/>
+<area shape="rect" id="c227684" href="./ChoiceList.html" title="org.universAAL.middleware.ui.rdf.ChoiceList" alt="" coords="680,691,763,717"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="c2542150" href="./AALSpaceListener.html" title="org.universAAL.middleware.managers.api.AALSpaceListener" alt="" coords="451,11,581,53"/>
+<area shape="rect" id="c2542319" href="../../ui/impl/generic/CoordinatedStrategy.html" title="org.universAAL.middleware.ui.impl.generic.CoordinatedStrategy" alt="" coords="15,118,155,143"/>
+<area shape="rect" id="c2543029" href="../deploy/DeployManagerImpl.html" title="org.universAAL.middleware.managers.deploy.DeployManagerImpl" alt="" coords="199,118,337,143"/>
+<area shape="rect" id="c2543072" href="../distributedmw/impl/SpaceListener.html" title="org.universAAL.middleware.managers.distributedmw.impl.SpaceListener" alt="" coords="381,118,485,143"/>
+<area shape="rect" id="c2543082" href="../distributedmw/impl/ListenerHandler.html" title="org.universAAL.middleware.managers.distributedmw.impl.ListenerHandler" alt="" coords="531,118,667,143"/>
+<area shape="rect" id="c2543224" href="../../../context/sysinfo/SystemEventsListener.html" title="org.universAAL.context.sysinfo.SystemEventsListener" alt="" coords="711,118,865,143"/>
+<area shape="rect" id="c2544365" href="../../../tools/logmonitor/bus_member/SpaceListener.html" title="org.universAAL.tools.logmonitor.bus_member.SpaceListener" alt="" coords="909,118,1013,143"/>
+</map>

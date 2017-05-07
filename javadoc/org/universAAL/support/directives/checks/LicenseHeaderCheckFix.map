@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c1521033" href="../api/APIFixableCheck.html" title="org.universAAL.support.directives.api.APIFixableCheck" alt="" coords="16,11,139,53"/>
+<area shape="rect" id="c1521037" href="./LicenseHeaderCheckFix.html" title="org.universAAL.support.directives.checks.LicenseHeaderCheckFix" alt="" coords="75,118,239,143"/>
+<area shape="rect" id="c1521068" href="../util/SourceChecker.html" title="org.universAAL.support.directives.util.SourceChecker" alt="" coords="183,11,294,53"/>
+</map>

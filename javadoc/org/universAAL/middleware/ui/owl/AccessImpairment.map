@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c3045042" href="../../owl/ManagedIndividual.html" title="org.universAAL.middleware.owl.ManagedIndividual" alt="" coords="291,17,421,42"/>
+<area shape="rect" id="c3045459" href="./AccessImpairment.html" title="org.universAAL.middleware.ui.owl.AccessImpairment" alt="" coords="291,113,421,138"/>
+<area shape="rect" id="c3045865" href="../../../ontology/impairment/PhysicalImpairment.html" title="org.universAAL.ontology.impairment.PhysicalImpairment" alt="" coords="16,209,152,234"/>
+<area shape="rect" id="c3045867" href="../../../ontology/impairment/SpeakingImpairment.html" title="org.universAAL.ontology.impairment.SpeakingImpairment" alt="" coords="197,209,337,234"/>
+<area shape="rect" id="c3045871" href="../../../ontology/impairment/HearingImpairment.html" title="org.universAAL.ontology.impairment.HearingImpairment" alt="" coords="381,209,512,234"/>
+<area shape="rect" id="c3045872" href="../../../ontology/impairment/SightImpairment.html" title="org.universAAL.ontology.impairment.SightImpairment" alt="" coords="557,209,673,234"/>
+</map>

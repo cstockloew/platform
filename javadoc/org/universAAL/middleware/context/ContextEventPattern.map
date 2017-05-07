@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c2728822" href="../rdf/FinalizedResource.html" title="org.universAAL.middleware.rdf.FinalizedResource" alt="" coords="15,19,145,45"/>
+<area shape="rect" id="c2729096" href="./ContextEventPattern.html" title="org.universAAL.middleware.context.ContextEventPattern" alt="" coords="187,118,330,143"/>
+<area shape="rect" id="c2729073" href="../bus/model/matchable/EventAdvertisement.html" title="org.universAAL.middleware.bus.model.matchable.EventAdvertisement" alt="" coords="189,11,328,53"/>
+<area shape="rect" id="c2729076" href="../bus/model/matchable/Subscription.html" title="org.universAAL.middleware.bus.model.matchable.Subscription" alt="" coords="373,11,467,53"/>
+<area shape="rect" id="c2729485" href="../../support/utils/context/Pattern.html" title="org.universAAL.support.utils.context.Pattern" alt="" coords="227,214,290,239"/>
+</map>

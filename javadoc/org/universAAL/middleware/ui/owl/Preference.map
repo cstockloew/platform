@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="c3036417" href="../../owl/ManagedIndividual.html" title="org.universAAL.middleware.owl.ManagedIndividual" alt="" coords="511,17,641,42"/>
+<area shape="rect" id="c3036831" href="./Preference.html" title="org.universAAL.middleware.ui.owl.Preference" alt="" coords="534,113,618,138"/>
+<area shape="rect" id="c3037280" href="../../../ontology/ui/preferences/SystemMenuPreferences.html" title="org.universAAL.ontology.ui.preferences.SystemMenuPreferences" alt="" coords="16,209,184,234"/>
+<area shape="rect" id="c3037281" href="../../../ontology/ui/preferences/AccessMode.html" title="org.universAAL.ontology.ui.preferences.AccessMode" alt="" coords="229,209,326,234"/>
+<area shape="rect" id="c3037282" href="../../../ontology/ui/preferences/GeneralInteractionPreferences.html" title="org.universAAL.ontology.ui.preferences.GeneralInteractionPreferences" alt="" coords="371,209,568,234"/>
+<area shape="rect" id="c3037283" href="../../../ontology/ui/preferences/AuditoryPreferences.html" title="org.universAAL.ontology.ui.preferences.AuditoryPreferences" alt="" coords="613,209,752,234"/>
+<area shape="rect" id="c3037284" href="../../../ontology/ui/preferences/VisualPreferences.html" title="org.universAAL.ontology.ui.preferences.VisualPreferences" alt="" coords="797,209,923,234"/>
+<area shape="rect" id="c3037285" href="../../../ontology/ui/preferences/AlertPreferences.html" title="org.universAAL.ontology.ui.preferences.AlertPreferences" alt="" coords="968,209,1085,234"/>
+</map>

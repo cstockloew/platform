@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="c1696490" href="./DependencyTreeResolutionListener.html" title="org.universAAL.maven.treebuilder.DependencyTreeResolutionListener" alt="" coords="15,118,243,143"/>
+<area shape="rect" id="c1699296" href="http://java.sun.com/j2se/1.4.2/docs/api/org/apache/maven/artifact/resolver/ResolutionListenerForDepMgmt.html" title="org.apache.maven.artifact.resolver.ResolutionListenerForDepMgmt" alt="" coords="27,11,232,53"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c9010731" href="../ontology/gui/OntologyPane.html" title="org.universAAL.tools.logmonitor.ontology.gui.OntologyPane" alt="" coords="15,209,118,234"/>
+<area shape="rect" id="c9010750" href="./HTMLPaneBase.html" title="org.universAAL.tools.logmonitor.util.HTMLPaneBase" alt="" coords="99,17,216,42"/>
+<area shape="rect" id="c9010751" href="./HTMLVisibilityPane.html" title="org.universAAL.tools.logmonitor.util.HTMLVisibilityPane" alt="" coords="89,113,225,138"/>
+<area shape="rect" id="c9010752" href="./HTMLBusOperationsPane.html" title="org.universAAL.tools.logmonitor.util.HTMLBusOperationsPane" alt="" coords="163,209,336,234"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c158517" href="./TurtleParser.html" title="org.universAAL.middleware.serialization.turtle.TurtleParser" alt="" coords="15,17,107,42"/>
+<area shape="rect" id="c158518" href="./TurtleWriter.html" title="org.universAAL.middleware.serialization.turtle.TurtleWriter" alt="" coords="151,17,241,42"/>
+<area shape="rect" id="c158519" href="./TurtleSerializer.html" title="org.universAAL.middleware.serialization.turtle.TurtleSerializer" alt="" coords="285,17,393,42"/>
+<area shape="rect" id="c158520" href="./TurtleUtil.html" title="org.universAAL.middleware.serialization.turtle.TurtleUtil" alt="" coords="437,17,510,42"/>
+</map>

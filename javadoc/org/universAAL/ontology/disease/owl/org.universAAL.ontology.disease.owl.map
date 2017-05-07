@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="c420845" href="./DiseaseTimeEvolvingStatus.html" title="org.universAAL.ontology.disease.owl.DiseaseTimeEvolvingStatus" alt="" coords="15,17,201,42"/>
+<area shape="rect" id="c420846" href="./DiseaseOntology.html" title="org.universAAL.ontology.disease.owl.DiseaseOntology" alt="" coords="245,17,366,42"/>
+<area shape="rect" id="c420847" href="./Sympthom.html" title="org.universAAL.ontology.disease.owl.Sympthom" alt="" coords="410,17,494,42"/>
+<area shape="rect" id="c420848" href="./Pronostic.html" title="org.universAAL.ontology.disease.owl.Pronostic" alt="" coords="538,17,614,42"/>
+<area shape="rect" id="c420849" href="./Diagnostic.html" title="org.universAAL.ontology.disease.owl.Diagnostic" alt="" coords="659,17,741,42"/>
+<area shape="rect" id="c420850" href="./Epidemiology.html" title="org.universAAL.ontology.disease.owl.Epidemiology" alt="" coords="787,17,885,42"/>
+<area shape="rect" id="c420851" href="./Patogeny.html" title="org.universAAL.ontology.disease.owl.Patogeny" alt="" coords="930,17,1006,42"/>
+<area shape="rect" id="c420852" href="./Etiology.html" title="org.universAAL.ontology.disease.owl.Etiology" alt="" coords="1050,17,1118,42"/>
+<area shape="rect" id="c420853" href="./DiseaseSeverityStatus.html" title="org.universAAL.ontology.disease.owl.DiseaseSeverityStatus" alt="" coords="1163,17,1317,42"/>
+<area shape="rect" id="c420854" href="./Disease.html" title="org.universAAL.ontology.disease.owl.Disease" alt="" coords="1363,17,1432,42"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c9456608" href="./OnConfigurationChangedListener.html" title="org.universAAL.ucc.configuration.model.interfaces.OnConfigurationChangedListener" alt="" coords="324,11,537,53"/>
+<area shape="rect" id="c9456635" href="../../view/ConfigurationListSelect.html" title="org.universAAL.ucc.configuration.view.ConfigurationListSelect" alt="" coords="15,118,171,143"/>
+<area shape="rect" id="c9456636" href="../../view/SimpleConfiguratorPasswordField.html" title="org.universAAL.ucc.configuration.view.SimpleConfiguratorPasswordField" alt="" coords="215,118,433,143"/>
+<area shape="rect" id="c9456637" href="../../view/MultiselectionList.html" title="org.universAAL.ucc.configuration.view.MultiselectionList" alt="" coords="477,118,598,143"/>
+<area shape="rect" id="c9456639" href="../../view/SimpleConfiguratorTextField.html" title="org.universAAL.ucc.configuration.view.SimpleConfiguratorTextField" alt="" coords="642,118,827,143"/>
+</map>

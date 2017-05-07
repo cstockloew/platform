@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c959460" href="./ClientSocketCommunicationHandler.html" title="org.universAAL.ri.gateway.communicator.service.impl.ClientSocketCommunicationHandler" alt="" coords="16,118,248,143"/>
+<area shape="rect" id="c959461" href="./SessionManager.html" title="org.universAAL.ri.gateway.communicator.service.impl.SessionManager" alt="" coords="439,19,556,45"/>
+<area shape="rect" id="c959462" href="./AbstractLinkHandler.html" title="org.universAAL.ri.gateway.communicator.service.impl.AbstractLinkHandler" alt="" coords="601,19,740,45"/>
+<area shape="rect" id="c959463" href="./AbstractLinkHandler.LinkHandlerStatus.html" title="org.universAAL.ri.gateway.communicator.service.impl.AbstractLinkHandler.LinkHandlerStatus" alt="" coords="785,11,913,53"/>
+<area shape="rect" id="c959464" href="./ServerSocketCommunicationHandler.html" title="org.universAAL.ri.gateway.communicator.service.impl.ServerSocketCommunicationHandler" alt="" coords="293,118,529,143"/>
+<area shape="rect" id="c959465" href="./AbstractSocketCommunicationHandler.html" title="org.universAAL.ri.gateway.communicator.service.impl.AbstractSocketCommunicationHandler" alt="" coords="147,19,394,45"/>
+</map>

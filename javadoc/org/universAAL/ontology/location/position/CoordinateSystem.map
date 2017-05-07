@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c3390045" href="../../../middleware/owl/ManagedIndividual.html" title="org.universAAL.middleware.owl.ManagedIndividual" alt="" coords="15,17,145,42"/>
+<area shape="rect" id="c3390582" href="./CoordinateSystem.html" title="org.universAAL.ontology.location.position.CoordinateSystem" alt="" coords="15,113,145,138"/>
+<area shape="rect" id="c3390581" href="./OriginedMetric.html" title="org.universAAL.ontology.location.position.OriginedMetric" alt="" coords="27,209,133,234"/>
+</map>

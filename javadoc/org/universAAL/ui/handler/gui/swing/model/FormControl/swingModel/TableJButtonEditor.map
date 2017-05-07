@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c8136330" href="./TableJButtonEditor.html" title="org.universAAL.ui.handler.gui.swing.model.FormControl.swingModel.TableJButtonEditor" alt="" coords="175,118,307,143"/>
+<area shape="rect" id="c8136900" href="http://java.sun.com/j2se/1.4.2/docs/api/javax/swing/AbstractCellEditor.html" title="javax.swing.AbstractCellEditor" alt="" coords="15,19,142,45"/>
+<area shape="rect" id="c8136901" href="http://java.sun.com/j2se/1.4.2/docs/api/javax/swing/table/TableCellEditor.html" title="javax.swing.table.TableCellEditor" alt="" coords="187,11,296,53"/>
+<area shape="rect" id="c8136902" href="http://java.sun.com/j2se/1.4.2/docs/api/javax/swing/table/TableCellRenderer.html" title="javax.swing.table.TableCellRenderer" alt="" coords="341,11,470,53"/>
+</map>

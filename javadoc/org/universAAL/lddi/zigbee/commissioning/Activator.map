@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c6977176" href="./Activator.html" title="org.universAAL.lddi.zigbee.commissioning.Activator" alt="" coords="179,118,253,143"/>
+<area shape="rect" id="c6978148" href="http://java.sun.com/j2se/1.4.2/docs/api/org/osgi/framework/BundleActivator.html" title="org.osgi.framework.BundleActivator" alt="" coords="15,11,129,53"/>
+<area shape="rect" id="c6978149" href="http://java.sun.com/j2se/1.4.2/docs/api/it/cnr/isti/thread/Stoppable.html" title="it.cnr.isti.thread.Stoppable" alt="" coords="173,11,259,53"/>
+<area shape="rect" id="c6978150" href="http://java.sun.com/j2se/1.4.2/docs/api/org/osgi/service/cm/ManagedService.html" title="org.osgi.service.cm.ManagedService" alt="" coords="304,11,421,53"/>
+</map>

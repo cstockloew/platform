@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c7828531" href="../adapters/AdapterMessageInternationalization.html" title="org.universAAL.ui.dm.adapters.AdapterMessageInternationalization" alt="" coords="15,118,243,143"/>
+<area shape="rect" id="c7828532" href="../adapters/AdapterUIPreferences.html" title="org.universAAL.ui.dm.adapters.AdapterUIPreferences" alt="" coords="288,118,437,143"/>
+<area shape="rect" id="c7828533" href="../adapters/AdapterDialogPrivacyLevel.html" title="org.universAAL.ui.dm.adapters.AdapterDialogPrivacyLevel" alt="" coords="482,118,659,143"/>
+<area shape="rect" id="c7828534" href="../adapters/AdapterUserImpairments.html" title="org.universAAL.ui.dm.adapters.AdapterUserImpairments" alt="" coords="704,118,869,143"/>
+<area shape="rect" id="c7828535" href="../adapters/AdapterUserLocation.html" title="org.universAAL.ui.dm.adapters.AdapterUserLocation" alt="" coords="914,118,1057,143"/>
+<area shape="rect" id="c7828546" href="./IAdapter.html" title="org.universAAL.ui.dm.interfaces.IAdapter" alt="" coords="528,11,613,53"/>
+</map>

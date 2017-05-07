@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c4190108" href="./Heating.html" title="org.universAAL.ontology.hvac.Heating" alt="" coords="15,209,81,234"/>
+<area shape="rect" id="c4190111" href="./Target_Temperature.html" title="org.universAAL.ontology.hvac.Target_Temperature" alt="" coords="46,113,183,138"/>
+<area shape="rect" id="c4190112" href="./Air_Conditioning.html" title="org.universAAL.ontology.hvac.Air_Conditioning" alt="" coords="125,209,241,234"/>
+<area shape="rect" id="c4190116" href="./Hvac.html" title="org.universAAL.ontology.hvac.Hvac" alt="" coords="89,17,141,42"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c3534338" href="../phThing/PhysicalThing.html" title="org.universAAL.ontology.phThing.PhysicalThing" alt="" coords="73,17,175,42"/>
+<area shape="rect" id="c3534382" href="./User.html" title="org.universAAL.ontology.profile.User" alt="" coords="99,113,149,138"/>
+<area shape="rect" id="c3534376" href="./Caregiver.html" title="org.universAAL.ontology.profile.Caregiver" alt="" coords="16,209,93,234"/>
+<area shape="rect" id="c3534383" href="./AssistedPerson.html" title="org.universAAL.ontology.profile.AssistedPerson" alt="" coords="138,209,251,234"/>
+</map>

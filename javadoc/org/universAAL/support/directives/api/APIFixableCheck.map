@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="c1509528" href="./AggregatedCheck.html" title="org.universAAL.support.directives.api.AggregatedCheck" alt="" coords="16,219,141,245"/>
+<area shape="rect" id="c1509531" href="./APICheck.html" title="org.universAAL.support.directives.api.APICheck" alt="" coords="692,11,777,53"/>
+<area shape="rect" id="c1509532" href="./APIFixableCheck.html" title="org.universAAL.support.directives.api.APIFixableCheck" alt="" coords="673,113,796,154"/>
+<area shape="rect" id="c1509535" href="../checks/DependencyManagementCheckFix.html" title="org.universAAL.support.directives.checks.DependencyManagementCheckFix" alt="" coords="186,219,411,245"/>
+<area shape="rect" id="c1509536" href="../checks/LicenseHeaderCheckFix.html" title="org.universAAL.support.directives.checks.LicenseHeaderCheckFix" alt="" coords="455,219,619,245"/>
+<area shape="rect" id="c1509541" href="../checks/LicenseFileCheckFix.html" title="org.universAAL.support.directives.checks.LicenseFileCheckFix" alt="" coords="663,219,806,245"/>
+<area shape="rect" id="c1509542" href="../checks/ItestsCheckFix.html" title="org.universAAL.support.directives.checks.ItestsCheckFix" alt="" coords="851,219,960,245"/>
+<area shape="rect" id="c1509545" href="../checks/ModulesCheckFix.html" title="org.universAAL.support.directives.checks.ModulesCheckFix" alt="" coords="1005,219,1131,245"/>
+<area shape="rect" id="c1509546" href="../checks/FelixDepCheckFix.html" title="org.universAAL.support.directives.checks.FelixDepCheckFix" alt="" coords="1175,219,1305,245"/>
+</map>

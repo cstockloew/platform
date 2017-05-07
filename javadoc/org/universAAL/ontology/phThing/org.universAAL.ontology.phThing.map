@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c250785" href="./PhysicalContainer.html" title="org.universAAL.ontology.phThing.PhysicalContainer" alt="" coords="15,113,142,138"/>
+<area shape="rect" id="c250786" href="./Device.html" title="org.universAAL.ontology.phThing.Device" alt="" coords="187,113,248,138"/>
+<area shape="rect" id="c250787" href="./DeviceService.html" title="org.universAAL.ontology.phThing.DeviceService" alt="" coords="243,17,349,42"/>
+<area shape="rect" id="c250788" href="./PhThingOntology.html" title="org.universAAL.ontology.phThing.PhThingOntology" alt="" coords="393,17,514,42"/>
+<area shape="rect" id="c250789" href="./PhysicalThing.html" title="org.universAAL.ontology.phThing.PhysicalThing" alt="" coords="97,17,199,42"/>
+</map>

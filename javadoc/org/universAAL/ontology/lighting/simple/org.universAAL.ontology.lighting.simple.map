@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="c1230136" href="./LightingInterfaceLevel3.html" title="org.universAAL.ontology.lighting.simple.LightingInterfaceLevel3" alt="" coords="16,11,171,53"/>
+<area shape="rect" id="c1230137" href="./LightingSimplified.html" title="org.universAAL.ontology.lighting.simple.LightingSimplified" alt="" coords="216,19,339,45"/>
+<area shape="rect" id="c1230138" href="./LightingInterface.html" title="org.universAAL.ontology.lighting.simple.LightingInterface" alt="" coords="384,11,501,53"/>
+<area shape="rect" id="c1230139" href="./LightingOntologySimplified.html" title="org.universAAL.ontology.lighting.simple.LightingOntologySimplified" alt="" coords="546,19,721,45"/>
+<area shape="rect" id="c1230140" href="./LightingInterfaceLevel1.html" title="org.universAAL.ontology.lighting.simple.LightingInterfaceLevel1" alt="" coords="765,11,920,53"/>
+<area shape="rect" id="c1230141" href="./LightingServerURIs.html" title="org.universAAL.ontology.lighting.simple.LightingServerURIs" alt="" coords="965,11,1099,53"/>
+<area shape="rect" id="c1230142" href="./LightingServerURIs.GetControlledLamps.html" title="org.universAAL.ontology.lighting.simple.LightingServerURIs.GetControlledLamps" alt="" coords="1143,11,1283,53"/>
+<area shape="rect" id="c1230143" href="./LightingServerURIs.GetControlledLamps.Output.html" title="org.universAAL.ontology.lighting.simple.LightingServerURIs.GetControlledLamps.Output" alt="" coords="1328,11,1413,53"/>
+<area shape="rect" id="c1230144" href="./LightingServerURIs.GetLampInfo.html" title="org.universAAL.ontology.lighting.simple.LightingServerURIs.GetLampInfo" alt="" coords="1459,11,1555,53"/>
+<area shape="rect" id="c1230145" href="./LightingServerURIs.GetLampInfo.Input.html" title="org.universAAL.ontology.lighting.simple.LightingServerURIs.GetLampInfo.Input" alt="" coords="1600,11,1685,53"/>
+<area shape="rect" id="c1230146" href="./LightingServerURIs.GetLampInfo.Output.html" title="org.universAAL.ontology.lighting.simple.LightingServerURIs.GetLampInfo.Output" alt="" coords="1731,11,1816,53"/>
+<area shape="rect" id="c1230147" href="./LightingServerURIs.TurnOn.html" title="org.universAAL.ontology.lighting.simple.LightingServerURIs.TurnOn" alt="" coords="1861,11,1947,53"/>
+<area shape="rect" id="c1230148" href="./LightingServerURIs.TurnOn.Input.html" title="org.universAAL.ontology.lighting.simple.LightingServerURIs.TurnOn.Input" alt="" coords="1992,11,2077,53"/>
+<area shape="rect" id="c1230149" href="./LightingServerURIs.TurnOff.html" title="org.universAAL.ontology.lighting.simple.LightingServerURIs.TurnOff" alt="" coords="2123,11,2208,53"/>
+<area shape="rect" id="c1230150" href="./LightingServerURIs.TurnOff.Input.html" title="org.universAAL.ontology.lighting.simple.LightingServerURIs.TurnOff.Input" alt="" coords="2253,11,2339,53"/>
+<area shape="rect" id="c1230151" href="./LightingInterfaceLevel2.html" title="org.universAAL.ontology.lighting.simple.LightingInterfaceLevel2" alt="" coords="2384,11,2539,53"/>
+<area shape="rect" id="c1230152" href="./Activator.html" title="org.universAAL.ontology.lighting.simple.Activator" alt="" coords="2583,19,2657,45"/>
+</map>

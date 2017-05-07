@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="c210371" href="./ProcessEffect.html" title="org.universAAL.middleware.service.owls.process.ProcessEffect" alt="" coords="16,17,120,42"/>
+<area shape="rect" id="c210372" href="./OutputBinding.html" title="org.universAAL.middleware.service.owls.process.OutputBinding" alt="" coords="165,17,267,42"/>
+<area shape="rect" id="c210373" href="./ProcessLocal.html" title="org.universAAL.middleware.service.owls.process.ProcessLocal" alt="" coords="183,113,283,138"/>
+<area shape="rect" id="c210374" href="./Conversion.html" title="org.universAAL.middleware.service.owls.process.Conversion" alt="" coords="485,17,571,42"/>
+<area shape="rect" id="c210375" href="./ProcessResult.html" title="org.universAAL.middleware.service.owls.process.ProcessResult" alt="" coords="616,17,723,42"/>
+<area shape="rect" id="c210376" href="./ProcessInput.html" title="org.universAAL.middleware.service.owls.process.ProcessInput" alt="" coords="327,113,425,138"/>
+<area shape="rect" id="c210377" href="./ProcessParameter.html" title="org.universAAL.middleware.service.owls.process.ProcessParameter" alt="" coords="311,17,441,42"/>
+<area shape="rect" id="c210378" href="./ProcessOutput.html" title="org.universAAL.middleware.service.owls.process.ProcessOutput" alt="" coords="469,113,577,138"/>
+</map>

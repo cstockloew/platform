@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c5550562" href="./SCaller.CHEException.html" title="org.universAAL.context.prof.serv.SCaller.CHEException" alt="" coords="347,113,455,138"/>
+<area shape="rect" id="c5550563" href="./SCaller.CHENotFoundException.html" title="org.universAAL.context.prof.serv.SCaller.CHENotFoundException" alt="" coords="16,209,181,234"/>
+<area shape="rect" id="c5550564" href="./SCaller.CHETimeOutException.html" title="org.universAAL.context.prof.serv.SCaller.CHETimeOutException" alt="" coords="227,209,384,234"/>
+<area shape="rect" id="c5550565" href="./SCaller.CHEErrorException.html" title="org.universAAL.context.prof.serv.SCaller.CHEErrorException" alt="" coords="429,209,565,234"/>
+<area shape="rect" id="c5550566" href="./SCaller.CHEDeniedException.html" title="org.universAAL.context.prof.serv.SCaller.CHEDeniedException" alt="" coords="611,209,760,234"/>
+<area shape="rect" id="c5552030" href="http://java.sun.com/j2se/1.4.2/docs/api/java/lang/Exception.html" title="java.lang.Exception" alt="" coords="362,17,441,42"/>
+</map>

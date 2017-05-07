@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c4379046" href="../../middleware/owl/ManagedIndividual.html" title="org.universAAL.middleware.owl.ManagedIndividual" alt="" coords="299,17,429,42"/>
+<area shape="rect" id="c4379927" href="./Question.html" title="org.universAAL.ontology.questionnaire.Question" alt="" coords="327,113,401,138"/>
+<area shape="rect" id="c4379922" href="./MultiChoiceQuestion.html" title="org.universAAL.ontology.questionnaire.MultiChoiceQuestion" alt="" coords="16,209,157,234"/>
+<area shape="rect" id="c4379923" href="./ConditionalQuestion.html" title="org.universAAL.ontology.questionnaire.ConditionalQuestion" alt="" coords="202,209,339,234"/>
+<area shape="rect" id="c4379924" href="./SingleChoiceQuestion.html" title="org.universAAL.ontology.questionnaire.SingleChoiceQuestion" alt="" coords="384,209,533,234"/>
+<area shape="rect" id="c4379928" href="./QuestionWithMedia.html" title="org.universAAL.ontology.questionnaire.QuestionWithMedia" alt="" coords="578,209,713,234"/>
+</map>

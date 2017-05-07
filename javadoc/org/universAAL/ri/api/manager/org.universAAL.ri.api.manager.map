@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="c1002642" href="./RemoteUAAL.html" title="org.universAAL.ri.api.manager.RemoteUAAL" alt="" coords="16,19,117,45"/>
+<area shape="rect" id="c1002643" href="./RemoteUAAL.CListener.html" title="org.universAAL.ri.api.manager.RemoteUAAL.CListener" alt="" coords="163,19,240,45"/>
+<area shape="rect" id="c1002644" href="./RemoteUAAL.SListener.html" title="org.universAAL.ri.api.manager.RemoteUAAL.SListener" alt="" coords="285,19,361,45"/>
+<area shape="rect" id="c1002645" href="./RemoteAPIImpl.html" title="org.universAAL.ri.api.manager.RemoteAPIImpl" alt="" coords="393,118,506,143"/>
+<area shape="rect" id="c1002646" href="./Activator.html" title="org.universAAL.ri.api.manager.Activator" alt="" coords="538,19,611,45"/>
+<area shape="rect" id="c1002647" href="./Configuration.html" title="org.universAAL.ri.api.manager.Configuration" alt="" coords="655,19,753,45"/>
+<area shape="rect" id="c1002648" href="./RemoteAPI.html" title="org.universAAL.ri.api.manager.RemoteAPI" alt="" coords="405,11,494,53"/>
+</map>

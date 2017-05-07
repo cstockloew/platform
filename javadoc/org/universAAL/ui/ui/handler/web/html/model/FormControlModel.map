@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c8421088" href="./SubmitModel.html" title="org.universAAL.ui.ui.handler.web.html.model.SubmitModel" alt="" coords="15,209,113,234"/>
+<area shape="rect" id="c8421090" href="./InputModel.html" title="org.universAAL.ui.ui.handler.web.html.model.InputModel" alt="" coords="157,209,243,234"/>
+<area shape="rect" id="c8421093" href="./GroupModel.html" title="org.universAAL.ui.ui.handler.web.html.model.GroupModel" alt="" coords="288,209,379,234"/>
+<area shape="rect" id="c8421096" href="./Model.html" title="org.universAAL.ui.ui.handler.web.html.model.Model" alt="" coords="239,17,295,42"/>
+<area shape="rect" id="c8421097" href="./FormControlModel.html" title="org.universAAL.ui.ui.handler.web.html.model.FormControlModel" alt="" coords="203,113,331,138"/>
+<area shape="rect" id="c8421098" href="./OutputModel.html" title="org.universAAL.ui.ui.handler.web.html.model.OutputModel" alt="" coords="423,209,518,234"/>
+</map>

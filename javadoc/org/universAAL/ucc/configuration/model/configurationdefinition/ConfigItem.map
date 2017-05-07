@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c9422083" href="./SPARQLConfigItem.html" title="org.universAAL.ucc.configuration.model.configurationdefinition.SPARQLConfigItem" alt="" coords="16,113,155,138"/>
+<area shape="rect" id="c9422086" href="./MapConfigItem.html" title="org.universAAL.ucc.configuration.model.configurationdefinition.MapConfigItem" alt="" coords="200,113,309,138"/>
+<area shape="rect" id="c9422087" href="./SimpleConfigItem.html" title="org.universAAL.ucc.configuration.model.configurationdefinition.SimpleConfigItem" alt="" coords="355,113,480,138"/>
+<area shape="rect" id="c9422091" href="./ConfigItem.html" title="org.universAAL.ucc.configuration.model.configurationdefinition.ConfigItem" alt="" coords="212,17,297,42"/>
+</map>

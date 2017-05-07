@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c3525170" href="../../middleware/owl/ManagedIndividual.html" title="org.universAAL.middleware.owl.ManagedIndividual" alt="" coords="179,17,309,42"/>
+<area shape="rect" id="c3525754" href="./Profile.html" title="org.universAAL.ontology.profile.Profile" alt="" coords="215,113,273,138"/>
+<area shape="rect" id="c3525745" href="./AALSpaceProfile.html" title="org.universAAL.ontology.profile.AALSpaceProfile" alt="" coords="16,209,136,234"/>
+<area shape="rect" id="c3525747" href="./AALServiceProfile.html" title="org.universAAL.ontology.profile.AALServiceProfile" alt="" coords="181,209,307,234"/>
+<area shape="rect" id="c3525755" href="./UserProfile.html" title="org.universAAL.ontology.profile.UserProfile" alt="" coords="352,209,437,234"/>
+</map>

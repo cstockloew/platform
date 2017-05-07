@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c3022321" href="../../../bus/model/BusStrategy.html" title="org.universAAL.middleware.bus.model.BusStrategy" alt="" coords="40,17,133,42"/>
+<area shape="rect" id="c3022449" href="./EventBasedStrategy.html" title="org.universAAL.middleware.ui.impl.generic.EventBasedStrategy" alt="" coords="16,113,157,138"/>
+<area shape="rect" id="c3022450" href="./CallBasedStrategy.html" title="org.universAAL.middleware.ui.impl.generic.CallBasedStrategy" alt="" coords="22,209,151,234"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="c7552402" href="../Session.html" title="org.universAAL.ri.gateway.Session" alt="" coords="15,121,83,146"/>
+<area shape="rect" id="c7552414" href="../configuration/NoSecurityDefinition.html" title="org.universAAL.ri.gateway.configuration.NoSecurityDefinition" alt="" coords="128,121,269,146"/>
+<area shape="rect" id="c7552417" href="../configuration/TurtleFileSecurityDefinition.html" title="org.universAAL.ri.gateway.configuration.TurtleFileSecurityDefinition" alt="" coords="314,121,491,146"/>
+<area shape="rect" id="c7552419" href="../configuration/Configuration.html" title="org.universAAL.ri.gateway.configuration.Configuration" alt="" coords="535,113,633,154"/>
+<area shape="rect" id="c7552421" href="./AllowDefault.html" title="org.universAAL.ri.gateway.operations.AllowDefault" alt="" coords="677,121,771,146"/>
+<area shape="rect" id="c7552422" href="./DenyDefault.html" title="org.universAAL.ri.gateway.operations.DenyDefault" alt="" coords="816,121,909,146"/>
+<area shape="rect" id="c7552427" href="./OperationChainManager.html" title="org.universAAL.ri.gateway.operations.OperationChainManager" alt="" coords="413,11,574,53"/>
+</map>

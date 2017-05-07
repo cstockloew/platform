@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="c778070" href="./FS20Event.html" title="org.universAAL.lddi.fs20.connect.FS20Event" alt="" coords="16,19,101,45"/>
+<area shape="rect" id="c778071" href="./FS20EventListener.html" title="org.universAAL.lddi.fs20.connect.FS20EventListener" alt="" coords="146,11,278,53"/>
+<area shape="rect" id="c778072" href="./FHZ1000PC.html" title="org.universAAL.lddi.fs20.connect.FHZ1000PC" alt="" coords="323,19,416,45"/>
+<area shape="rect" id="c778073" href="./FHZ1000PC.FHZ1000Device.html" title="org.universAAL.lddi.fs20.connect.FHZ1000PC.FHZ1000Device" alt="" coords="461,11,577,53"/>
+<area shape="rect" id="c778074" href="./FHZ1000PC.JD2XXFHZ1000Device.html" title="org.universAAL.lddi.fs20.connect.FHZ1000PC.JD2XXFHZ1000Device" alt="" coords="340,118,497,143"/>
+<area shape="rect" id="c778075" href="./FHZ1000PC.FHZ1000SerialDevice.html" title="org.universAAL.lddi.fs20.connect.FHZ1000PC.FHZ1000SerialDevice" alt="" coords="543,118,692,143"/>
+<area shape="rect" id="c778076" href="./FS20Listener.html" title="org.universAAL.lddi.fs20.connect.FS20Listener" alt="" coords="621,19,718,45"/>
+</map>

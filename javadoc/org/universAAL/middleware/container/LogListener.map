@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c1719506" href="./LogListener.html" title="org.universAAL.middleware.container.LogListener" alt="" coords="247,11,335,53"/>
+<area shape="rect" id="c1720723" href="../managers/distributedmw/impl/LogListenerHandler.LocalLogListener.html" title="org.universAAL.middleware.managers.distributedmw.impl.LogListenerHandler.LocalLogListener" alt="" coords="15,121,134,146"/>
+<area shape="rect" id="c1721996" href="../../tools/logmonitor/LogMonitor.html" title="org.universAAL.tools.logmonitor.LogMonitor" alt="" coords="179,121,264,146"/>
+<area shape="rect" id="c1722001" href="../../tools/logmonitor/LogListenerEx.html" title="org.universAAL.tools.logmonitor.LogListenerEx" alt="" coords="309,113,413,154"/>
+<area shape="rect" id="c1722045" href="../../tools/makrorecorder/osgi/pattern/BusRecorder.html" title="org.universAAL.tools.makrorecorder.osgi.pattern.BusRecorder" alt="" coords="458,121,555,146"/>
+</map>

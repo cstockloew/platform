@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="c1871901" href="./TypeURI.html" title="org.universAAL.middleware.owl.TypeURI" alt="" coords="15,209,89,234"/>
+<area shape="rect" id="c1871904" href="./Complement.html" title="org.universAAL.middleware.owl.Complement" alt="" coords="133,209,227,234"/>
+<area shape="rect" id="c1871907" href="./Union.html" title="org.universAAL.middleware.owl.Union" alt="" coords="271,209,326,234"/>
+<area shape="rect" id="c1871921" href="./TypeRestriction.html" title="org.universAAL.middleware.owl.TypeRestriction" alt="" coords="370,209,483,234"/>
+<area shape="rect" id="c1871926" href="./PropertyRestriction.html" title="org.universAAL.middleware.owl.PropertyRestriction" alt="" coords="528,209,661,234"/>
+<area shape="rect" id="c1871930" href="./Intersection.html" title="org.universAAL.middleware.owl.Intersection" alt="" coords="706,209,795,234"/>
+<area shape="rect" id="c1871936" href="./TypeExpression.html" title="org.universAAL.middleware.owl.TypeExpression" alt="" coords="369,113,484,138"/>
+<area shape="rect" id="c1871937" href="./Enumeration.html" title="org.universAAL.middleware.owl.Enumeration" alt="" coords="840,209,933,234"/>
+<area shape="rect" id="c1871964" href="../rdf/Resource.html" title="org.universAAL.middleware.rdf.Resource" alt="" coords="388,17,465,42"/>
+</map>

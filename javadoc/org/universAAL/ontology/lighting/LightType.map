@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c4281296" href="../../middleware/owl/ManagedIndividual.html" title="org.universAAL.middleware.owl.ManagedIndividual" alt="" coords="134,17,263,42"/>
+<area shape="rect" id="c4282143" href="./LightType.html" title="org.universAAL.ontology.lighting.LightType" alt="" coords="160,113,237,138"/>
+<area shape="rect" id="c4282133" href="./NaturalLight.html" title="org.universAAL.ontology.lighting.NaturalLight" alt="" coords="16,209,107,234"/>
+<area shape="rect" id="c4282135" href="./ElectricLight.html" title="org.universAAL.ontology.lighting.ElectricLight" alt="" coords="152,209,245,234"/>
+<area shape="rect" id="c4282136" href="./FlamingLight.html" title="org.universAAL.ontology.lighting.FlamingLight" alt="" coords="290,209,385,234"/>
+</map>

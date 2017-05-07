@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c1028556" href="./DialogManagerImpl.html" title="org.universAAL.ui.dm.DialogManagerImpl" alt="" coords="16,17,149,42"/>
+<area shape="rect" id="c1028557" href="./DMServiceCaller.html" title="org.universAAL.ui.dm.DMServiceCaller" alt="" coords="195,17,315,42"/>
+<area shape="rect" id="c1028558" href="./LocalizedMessagesURLProvider.html" title="org.universAAL.ui.dm.LocalizedMessagesURLProvider" alt="" coords="360,17,571,42"/>
+<area shape="rect" id="c1028559" href="./UserDialogManager.html" title="org.universAAL.ui.dm.UserDialogManager" alt="" coords="616,17,752,42"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c2487488" href="../Payload.html" title="org.universAAL.middleware.brokers.message.Payload" alt="" coords="69,17,137,42"/>
+<area shape="rect" id="c2487503" href="./DeployPayload.html" title="org.universAAL.middleware.brokers.message.deploy.DeployPayload" alt="" coords="48,113,157,138"/>
+<area shape="rect" id="c2487501" href="./DeployNotificationPayload.html" title="org.universAAL.middleware.brokers.message.deploy.DeployNotificationPayload" alt="" coords="15,209,190,234"/>
+</map>

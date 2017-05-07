@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c769437" href="./device.html" title="com.signove.health.device" alt="" coords="16,11,101,53"/>
+<area shape="rect" id="c769438" href="./manager.html" title="com.signove.health.manager" alt="" coords="147,11,232,53"/>
+<area shape="rect" id="c769439" href="./agent.html" title="com.signove.health.agent" alt="" coords="277,11,363,53"/>
+</map>

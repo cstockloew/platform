@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c3937021" href="./Grouping.html" title="org.universAAL.support.utils.ui.Grouping" alt="" coords="15,118,89,143"/>
+<area shape="rect" id="c3937023" href="./IContainer.html" title="org.universAAL.support.utils.ui.IContainer" alt="" coords="244,11,329,53"/>
+<area shape="rect" id="c3937024" href="./DataTable.html" title="org.universAAL.support.utils.ui.DataTable" alt="" coords="133,118,214,143"/>
+<area shape="rect" id="c3937030" href="./low/Dialog.html" title="org.universAAL.support.utils.ui.low.Dialog" alt="" coords="258,118,315,143"/>
+<area shape="rect" id="c3937031" href="./low/Message.html" title="org.universAAL.support.utils.ui.low.Message" alt="" coords="359,118,433,143"/>
+<area shape="rect" id="c3937032" href="./low/SubDialog.html" title="org.universAAL.support.utils.ui.low.SubDialog" alt="" coords="477,118,558,143"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c1065982" href="./TaskBarSystemMenuProvider.html" title="org.universAAL.ui.dm.userInteraction.systemMenu.TaskBarSystemMenuProvider" alt="" coords="16,17,211,42"/>
+<area shape="rect" id="c1065983" href="./ClassicSystemMenuProvider.html" title="org.universAAL.ui.dm.userInteraction.systemMenu.ClassicSystemMenuProvider" alt="" coords="256,17,445,42"/>
+<area shape="rect" id="c1065984" href="./SmartPendingSystemMenuProvider.html" title="org.universAAL.ui.dm.userInteraction.systemMenu.SmartPendingSystemMenuProvider" alt="" coords="490,17,718,42"/>
+</map>

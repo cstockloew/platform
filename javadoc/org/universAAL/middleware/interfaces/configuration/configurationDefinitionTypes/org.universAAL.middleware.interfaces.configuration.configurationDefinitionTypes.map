@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c92259" href="./DynamicDescribedEntity.html" title="org.universAAL.middleware.interfaces.configuration.configurationDefinitionTypes.DynamicDescribedEntity" alt="" coords="16,11,181,53"/>
+<area shape="rect" id="c92260" href="./ConfigurationParameter.html" title="org.universAAL.middleware.interfaces.configuration.configurationDefinitionTypes.ConfigurationParameter" alt="" coords="21,113,179,154"/>
+<area shape="rect" id="c92261" href="./ConfigurationFile.html" title="org.universAAL.middleware.interfaces.configuration.configurationDefinitionTypes.ConfigurationFile" alt="" coords="223,113,342,154"/>
+<area shape="rect" id="c92262" href="./DynamicDescribedEntityListener.html" title="org.universAAL.middleware.interfaces.configuration.configurationDefinitionTypes.DynamicDescribedEntityListener" alt="" coords="383,11,595,53"/>
+<area shape="rect" id="c92263" href="./DescribedEntity.html" title="org.universAAL.middleware.interfaces.configuration.configurationDefinitionTypes.DescribedEntity" alt="" coords="226,11,339,53"/>
+<area shape="rect" id="c92264" href="./ConfigurationDefinedElsewhere.html" title="org.universAAL.middleware.interfaces.configuration.configurationDefinitionTypes.ConfigurationDefinedElsewhere" alt="" coords="386,121,590,146"/>
+</map>

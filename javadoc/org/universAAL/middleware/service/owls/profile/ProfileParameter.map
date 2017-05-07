@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="c2958823" href="../../../rdf/FinalizedResource.html" title="org.universAAL.middleware.rdf.FinalizedResource" alt="" coords="381,17,510,42"/>
+<area shape="rect" id="c2959177" href="./ProfileParameter.html" title="org.universAAL.middleware.service.owls.profile.ProfileParameter" alt="" coords="387,113,504,138"/>
+<area shape="rect" id="c2959173" href="./QoSRating.html" title="org.universAAL.middleware.service.owls.profile.QoSRating" alt="" coords="16,209,101,234"/>
+<area shape="rect" id="c2959174" href="./MultiLocationParameter.html" title="org.universAAL.middleware.service.owls.profile.MultiLocationParameter" alt="" coords="147,209,304,234"/>
+<area shape="rect" id="c2959175" href="./ResponseTimeInMilliseconds.html" title="org.universAAL.middleware.service.owls.profile.ResponseTimeInMilliseconds" alt="" coords="349,209,541,234"/>
+<area shape="rect" id="c2959176" href="./SingleLocationParameter.html" title="org.universAAL.middleware.service.owls.profile.SingleLocationParameter" alt="" coords="587,209,752,234"/>
+<area shape="rect" id="c2959178" href="./NumberOfSamples.html" title="org.universAAL.middleware.service.owls.profile.NumberOfSamples" alt="" coords="797,209,929,234"/>
+</map>

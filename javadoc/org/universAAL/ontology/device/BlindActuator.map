@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c3804676" href="./BlindController.html" title="org.universAAL.ontology.device.BlindController" alt="" coords="15,209,121,234"/>
+<area shape="rect" id="c3804725" href="./Actuator.html" title="org.universAAL.ontology.device.Actuator" alt="" coords="33,17,103,42"/>
+<area shape="rect" id="c3804726" href="./BlindActuator.html" title="org.universAAL.ontology.device.BlindActuator" alt="" coords="19,113,117,138"/>
+</map>

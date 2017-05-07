@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c175795" href="./Permission.html" title="org.universAAL.middleware.bus.permission.Permission" alt="" coords="16,19,101,45"/>
+<area shape="rect" id="c175796" href="./AccessControl.html" title="org.universAAL.middleware.bus.permission.AccessControl" alt="" coords="147,19,253,45"/>
+<area shape="rect" id="c175797" href="./AccessControl.AccessControlMode.html" title="org.universAAL.middleware.bus.permission.AccessControl.AccessControlMode" alt="" coords="299,11,437,53"/>
+<area shape="rect" id="c175798" href="./AccessControl.AccessControlModeUpdate.html" title="org.universAAL.middleware.bus.permission.AccessControl.AccessControlModeUpdate" alt="" coords="483,11,664,53"/>
+</map>

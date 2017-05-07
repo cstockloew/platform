@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c7822794" href="./ISystemMenuProvider.html" title="org.universAAL.ui.dm.interfaces.ISystemMenuProvider" alt="" coords="276,113,425,154"/>
+<area shape="rect" id="c7822828" href="../userInteraction/systemMenu/TaskBarSystemMenuProvider.html" title="org.universAAL.ui.dm.userInteraction.systemMenu.TaskBarSystemMenuProvider" alt="" coords="16,219,211,245"/>
+<area shape="rect" id="c7822829" href="../userInteraction/systemMenu/ClassicSystemMenuProvider.html" title="org.universAAL.ui.dm.userInteraction.systemMenu.ClassicSystemMenuProvider" alt="" coords="256,219,445,245"/>
+<area shape="rect" id="c7822830" href="../userInteraction/systemMenu/SmartPendingSystemMenuProvider.html" title="org.universAAL.ui.dm.userInteraction.systemMenu.SmartPendingSystemMenuProvider" alt="" coords="490,219,718,245"/>
+<area shape="rect" id="c7822800" href="./ISubmitGroupListener.html" title="org.universAAL.ui.dm.interfaces.ISubmitGroupListener" alt="" coords="277,11,424,53"/>
+</map>

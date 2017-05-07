@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="c1733887" href="./SharedObjectListener.html" title="org.universAAL.middleware.container.SharedObjectListener" alt="" coords="1437,11,1582,53"/>
+<area shape="rect" id="c1734337" href="../ui/impl/generic/CoordinatedStrategy.html" title="org.universAAL.middleware.ui.impl.generic.CoordinatedStrategy" alt="" coords="15,118,155,143"/>
+<area shape="rect" id="c1734666" href="../../ioc/dependencies/impl/PassiveDependencyProxy.html" title="org.universAAL.ioc.dependencies.impl.PassiveDependencyProxy" alt="" coords="199,118,398,143"/>
+<area shape="rect" id="c1735045" href="../brokers/control/ControlBroker.html" title="org.universAAL.middleware.brokers.control.ControlBroker" alt="" coords="443,118,544,143"/>
+<area shape="rect" id="c1735047" href="../managers/deploy/DeployManagerImpl.html" title="org.universAAL.middleware.managers.deploy.DeployManagerImpl" alt="" coords="589,118,726,143"/>
+<area shape="rect" id="c1735065" href="../managers/configuration/core/impl/secondaryManagers/SharedObjectConnector.html" title="org.universAAL.middleware.managers.configuration.core.impl.secondaryManagers.SharedObjectConnector" alt="" coords="771,118,931,143"/>
+<area shape="rect" id="c1735084" href="../connectors/deploy/karaf/KarafDeployConnector.html" title="org.universAAL.middleware.connectors.deploy.karaf.KarafDeployConnector" alt="" coords="975,118,1129,143"/>
+<area shape="rect" id="c1735090" href="../managers/distributedmw/impl/SpaceListener.html" title="org.universAAL.middleware.managers.distributedmw.impl.SpaceListener" alt="" coords="1173,118,1277,143"/>
+<area shape="rect" id="c1735102" href="../managers/distributedmw/impl/SharedObjectConnector.html" title="org.universAAL.middleware.managers.distributedmw.impl.SharedObjectConnector" alt="" coords="1323,118,1483,143"/>
+<area shape="rect" id="c1735122" href="../modules/communication/CommunicationModuleImpl.html" title="org.universAAL.middleware.modules.communication.CommunicationModuleImpl" alt="" coords="1528,118,1707,143"/>
+<area shape="rect" id="c1735128" href="../modules/aalspace/AALSpaceModuleImpl.html" title="org.universAAL.middleware.modules.aalspace.AALSpaceModuleImpl" alt="" coords="1752,118,1901,143"/>
+<area shape="rect" id="c1735129" href="../connectors/discovery/slp/SLPDiscoveryConnector.html" title="org.universAAL.middleware.connectors.discovery.slp.SLPDiscoveryConnector" alt="" coords="1947,118,2112,143"/>
+<area shape="rect" id="c1735133" href="../managers/aalspace/AALSpaceManagerImpl.html" title="org.universAAL.middleware.managers.aalspace.AALSpaceManagerImpl" alt="" coords="2157,118,2315,143"/>
+<area shape="rect" id="c1735242" href="../../context/sysinfo/SystemEventsListener.html" title="org.universAAL.context.sysinfo.SystemEventsListener" alt="" coords="2359,118,2513,143"/>
+<area shape="rect" id="c1735793" href="../../security/authenticator/profile/AuthenticatorActivator.html" title="org.universAAL.security.authenticator.profile.AuthenticatorActivator" alt="" coords="2557,118,2707,143"/>
+<area shape="rect" id="c1735818" href="../../security/session/manager/helpers/SerializerGetter.html" title="org.universAAL.security.session.manager.helpers.SerializerGetter" alt="" coords="2751,118,2862,143"/>
+<area shape="rect" id="c1736383" href="../../tools/logmonitor/bus_member/SpaceListener.html" title="org.universAAL.tools.logmonitor.bus_member.SpaceListener" alt="" coords="2907,118,3011,143"/>
+</map>

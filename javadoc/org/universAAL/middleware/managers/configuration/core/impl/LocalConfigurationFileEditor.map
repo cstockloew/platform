@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c5083584" href="../../../../interfaces/configuration/configurationEditionTypes/ConfigurationFileEditor.html" title="org.universAAL.middleware.interfaces.configuration.configurationEditionTypes.ConfigurationFileEditor" alt="" coords="15,11,169,53"/>
+<area shape="rect" id="c5084563" href="./LocalConfigurationFileEditor.html" title="org.universAAL.middleware.managers.configuration.core.impl.LocalConfigurationFileEditor" alt="" coords="101,118,285,143"/>
+<area shape="rect" id="c5084566" href="./LocalConfigurationEntity.html" title="org.universAAL.middleware.managers.configuration.core.impl.LocalConfigurationEntity" alt="" coords="213,19,376,45"/>
+</map>

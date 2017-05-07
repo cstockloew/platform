@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c2852435" href="../rdf/ScopedResource.html" title="org.universAAL.middleware.rdf.ScopedResource" alt="" coords="26,19,147,45"/>
+<area shape="rect" id="c2852765" href="./ServiceRequest.html" title="org.universAAL.middleware.service.ServiceRequest" alt="" coords="103,118,217,143"/>
+<area shape="rect" id="c2852698" href="../bus/model/matchable/Request.html" title="org.universAAL.middleware.bus.model.matchable.Request" alt="" coords="192,11,277,53"/>
+<area shape="rect" id="c2852767" href="./aapi/AapiServiceRequest.html" title="org.universAAL.middleware.service.aapi.AapiServiceRequest" alt="" coords="15,214,155,239"/>
+<area shape="rect" id="c2853125" href="../../support/utils/service/low/Request.html" title="org.universAAL.support.utils.service.low.Request" alt="" coords="200,214,269,239"/>
+</map>

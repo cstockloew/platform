@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="c970982" href="./ErrorMessage.html" title="org.universAAL.ri.gateway.protocol.ErrorMessage" alt="" coords="16,118,117,143"/>
+<area shape="rect" id="c970983" href="./ImportMessage.html" title="org.universAAL.ri.gateway.protocol.ImportMessage" alt="" coords="162,118,273,143"/>
+<area shape="rect" id="c970984" href="./ImportMessage.ImportMessageType.html" title="org.universAAL.ri.gateway.protocol.ImportMessage.ImportMessageType" alt="" coords="371,11,511,53"/>
+<area shape="rect" id="c970985" href="./LinkMessage.html" title="org.universAAL.ri.gateway.protocol.LinkMessage" alt="" coords="317,118,414,143"/>
+<area shape="rect" id="c970986" href="./LinkMessage.LinkMessageType.html" title="org.universAAL.ri.gateway.protocol.LinkMessage.LinkMessageType" alt="" coords="555,11,682,53"/>
+<area shape="rect" id="c970987" href="./Message.html" title="org.universAAL.ri.gateway.protocol.Message" alt="" coords="254,19,327,45"/>
+<area shape="rect" id="c970988" href="./WrappedBusMessage.html" title="org.universAAL.ri.gateway.protocol.WrappedBusMessage" alt="" coords="459,118,608,143"/>
+<area shape="rect" id="c970989" href="./MessageReceiver.html" title="org.universAAL.ri.gateway.protocol.MessageReceiver" alt="" coords="727,11,852,53"/>
+<area shape="rect" id="c970990" href="./MessageSender.html" title="org.universAAL.ri.gateway.protocol.MessageSender" alt="" coords="897,11,1012,53"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c4799812" href="./HorizontalLayout.html" title="org.universAAL.ontology.recommendations.HorizontalLayout" alt="" coords="15,209,134,234"/>
+<area shape="rect" id="c4799814" href="./VerticalLayout.html" title="org.universAAL.ontology.recommendations.VerticalLayout" alt="" coords="179,209,283,234"/>
+<area shape="rect" id="c4799817" href="./GridLayout.html" title="org.universAAL.ontology.recommendations.GridLayout" alt="" coords="327,209,411,234"/>
+<area shape="rect" id="c4799822" href="./VisualRecommendation.html" title="org.universAAL.ontology.recommendations.VisualRecommendation" alt="" coords="151,17,310,42"/>
+<area shape="rect" id="c4799823" href="./Layout.html" title="org.universAAL.ontology.recommendations.Layout" alt="" coords="201,113,261,138"/>
+</map>

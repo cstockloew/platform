@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c4442296" href="../../middleware/owl/ManagedIndividual.html" title="org.universAAL.middleware.owl.ManagedIndividual" alt="" coords="94,17,223,42"/>
+<area shape="rect" id="c4443199" href="./Persistent.html" title="org.universAAL.ontology.reasoner.Persistent" alt="" coords="119,113,199,138"/>
+<area shape="rect" id="c4443195" href="./Situation.html" title="org.universAAL.ontology.reasoner.Situation" alt="" coords="16,209,88,234"/>
+<area shape="rect" id="c4443196" href="./Rule.html" title="org.universAAL.ontology.reasoner.Rule" alt="" coords="135,209,183,234"/>
+<area shape="rect" id="c4443198" href="./Query.html" title="org.universAAL.ontology.reasoner.Query" alt="" coords="229,209,285,234"/>
+</map>

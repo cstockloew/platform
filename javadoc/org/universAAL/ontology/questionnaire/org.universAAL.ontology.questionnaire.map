@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="c377618" href="./QuestionnaireService.html" title="org.universAAL.ontology.questionnaire.QuestionnaireService" alt="" coords="15,17,161,42"/>
+<area shape="rect" id="c377619" href="./QuestionnaireOntology.html" title="org.universAAL.ontology.questionnaire.QuestionnaireOntology" alt="" coords="205,17,358,42"/>
+<area shape="rect" id="c377620" href="./AnsweredQuestionnaire.html" title="org.universAAL.ontology.questionnaire.AnsweredQuestionnaire" alt="" coords="402,17,561,42"/>
+<area shape="rect" id="c377621" href="./Questionnaire.html" title="org.universAAL.ontology.questionnaire.Questionnaire" alt="" coords="605,17,707,42"/>
+<area shape="rect" id="c377622" href="./MultiChoiceQuestion.html" title="org.universAAL.ontology.questionnaire.MultiChoiceQuestion" alt="" coords="439,113,580,138"/>
+<area shape="rect" id="c377623" href="./ConditionalQuestion.html" title="org.universAAL.ontology.questionnaire.ConditionalQuestion" alt="" coords="625,113,762,138"/>
+<area shape="rect" id="c377624" href="./SingleChoiceQuestion.html" title="org.universAAL.ontology.questionnaire.SingleChoiceQuestion" alt="" coords="807,113,956,138"/>
+<area shape="rect" id="c377625" href="./Answer.html" title="org.universAAL.ontology.questionnaire.Answer" alt="" coords="869,17,934,42"/>
+<area shape="rect" id="c377626" href="./ChoiceLabel.html" title="org.universAAL.ontology.questionnaire.ChoiceLabel" alt="" coords="979,17,1072,42"/>
+<area shape="rect" id="c377627" href="./Question.html" title="org.universAAL.ontology.questionnaire.Question" alt="" coords="751,17,825,42"/>
+<area shape="rect" id="c377628" href="./QuestionWithMedia.html" title="org.universAAL.ontology.questionnaire.QuestionWithMedia" alt="" coords="1001,113,1135,138"/>
+</map>

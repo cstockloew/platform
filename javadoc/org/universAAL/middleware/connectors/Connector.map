@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c2562281" href="./DeployConnector.html" title="org.universAAL.middleware.connectors.DeployConnector" alt="" coords="15,113,137,154"/>
+<area shape="rect" id="c2562282" href="./CommunicationConnector.html" title="org.universAAL.middleware.connectors.CommunicationConnector" alt="" coords="181,113,353,154"/>
+<area shape="rect" id="c2562283" href="./Connector.html" title="org.universAAL.middleware.connectors.Connector" alt="" coords="224,11,309,53"/>
+<area shape="rect" id="c2562284" href="./DiscoveryConnector.html" title="org.universAAL.middleware.connectors.DiscoveryConnector" alt="" coords="397,113,537,154"/>
+</map>

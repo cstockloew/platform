@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c4419836" href="../phThing/Device.html" title="org.universAAL.ontology.phThing.Device" alt="" coords="125,17,187,42"/>
+<area shape="rect" id="c4420191" href="./MDS.html" title="org.universAAL.ontology.X73.MDS" alt="" coords="131,113,181,138"/>
+<area shape="rect" id="c4420180" href="./WeighingScale.html" title="org.universAAL.ontology.X73.WeighingScale" alt="" coords="15,209,123,234"/>
+<area shape="rect" id="c4420182" href="./BloodPressureMonitor.html" title="org.universAAL.ontology.X73.BloodPressureMonitor" alt="" coords="168,209,317,234"/>
+</map>

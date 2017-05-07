@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="c2447238" href="./BrokerMessage.html" title="org.universAAL.middleware.brokers.message.BrokerMessage" alt="" coords="553,11,665,53"/>
+<area shape="rect" id="c2447243" href="./aalspace/AALSpaceMessage.html" title="org.universAAL.middleware.brokers.message.aalspace.AALSpaceMessage" alt="" coords="16,118,152,143"/>
+<area shape="rect" id="c2447245" href="./configuration/ConfigurationMessage.html" title="org.universAAL.middleware.brokers.message.configuration.ConfigurationMessage" alt="" coords="197,118,347,143"/>
+<area shape="rect" id="c2447247" href="./control/ControlMessage.html" title="org.universAAL.middleware.brokers.message.control.ControlMessage" alt="" coords="391,118,507,143"/>
+<area shape="rect" id="c2447253" href="./deploy/DeployMessage.html" title="org.universAAL.middleware.brokers.message.deploy.DeployMessage" alt="" coords="552,118,667,143"/>
+<area shape="rect" id="c2447256" href="./distributedmw/DistributedMWMessage.html" title="org.universAAL.middleware.brokers.message.distributedmw.DistributedMWMessage" alt="" coords="711,118,873,143"/>
+<area shape="rect" id="c2447327" href="../../bus/msg/BusMessage.html" title="org.universAAL.middleware.bus.msg.BusMessage" alt="" coords="917,118,1014,143"/>
+<area shape="rect" id="c2449403" href="../../broker/client/SimpleMessage.html" title="org.universAAL.middleware.broker.client.SimpleMessage" alt="" coords="1058,118,1171,143"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="c541806" href="./Activator.html" title="ch.ethz.iks.slp.impl.Activator" alt="" coords="15,19,89,45"/>
+<area shape="rect" id="c541807" href="./OSGiPlatformAbstraction.html" title="ch.ethz.iks.slp.impl.OSGiPlatformAbstraction" alt="" coords="117,118,285,143"/>
+<area shape="rect" id="c541808" href="./SLPDaemonImpl.html" title="ch.ethz.iks.slp.impl.SLPDaemonImpl" alt="" coords="331,118,451,143"/>
+<area shape="rect" id="c541809" href="./AdvertiserImpl.html" title="ch.ethz.iks.slp.impl.AdvertiserImpl" alt="" coords="482,19,587,45"/>
+<area shape="rect" id="c541810" href="./SLPCore.html" title="ch.ethz.iks.slp.impl.SLPCore" alt="" coords="631,19,705,45"/>
+<area shape="rect" id="c541811" href="./LocatorImpl.html" title="ch.ethz.iks.slp.impl.LocatorImpl" alt="" coords="749,19,838,45"/>
+<area shape="rect" id="c541812" href="./PlatformAbstraction.html" title="ch.ethz.iks.slp.impl.PlatformAbstraction" alt="" coords="133,11,269,53"/>
+<area shape="rect" id="c541813" href="./AuthenticatedURL.html" title="ch.ethz.iks.slp.impl.AuthenticatedURL" alt="" coords="883,19,1011,45"/>
+<area shape="rect" id="c541814" href="./SLPDaemon.html" title="ch.ethz.iks.slp.impl.SLPDaemon" alt="" coords="343,11,438,53"/>
+<area shape="rect" id="c541815" href="./SLPMessage.html" title="ch.ethz.iks.slp.impl.SLPMessage" alt="" coords="1056,19,1155,45"/>
+</map>

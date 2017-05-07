@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="c415086" href="./NervousSystemDisease.html" title="org.universAAL.ontology.ICD10Diseases.owl.NervousSystemDisease" alt="" coords="16,17,179,42"/>
+<area shape="rect" id="c415087" href="./MentalDisorder.html" title="org.universAAL.ontology.ICD10Diseases.owl.MentalDisorder" alt="" coords="224,17,333,42"/>
+<area shape="rect" id="c415088" href="./DigestiveSystemDisease.html" title="org.universAAL.ontology.ICD10Diseases.owl.DigestiveSystemDisease" alt="" coords="378,17,547,42"/>
+<area shape="rect" id="c415089" href="./Neoplasms.html" title="org.universAAL.ontology.ICD10Diseases.owl.Neoplasms" alt="" coords="591,17,678,42"/>
+<area shape="rect" id="c415090" href="./CertainInfectiousParasiticDisease.html" title="org.universAAL.ontology.ICD10Diseases.owl.CertainInfectiousParasiticDisease" alt="" coords="723,17,941,42"/>
+<area shape="rect" id="c415091" href="./RespiratorySystemDisease.html" title="org.universAAL.ontology.ICD10Diseases.owl.RespiratorySystemDisease" alt="" coords="987,17,1168,42"/>
+<area shape="rect" id="c415092" href="./CirculatorySystemDisease.html" title="org.universAAL.ontology.ICD10Diseases.owl.CirculatorySystemDisease" alt="" coords="1213,17,1390,42"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c6772933" href="./FS20STDevice.html" title="org.universAAL.lddi.fs20.devicemodel.FS20STDevice" alt="" coords="16,113,125,138"/>
+<area shape="rect" id="c6772934" href="./FS20SIGDevice.html" title="org.universAAL.lddi.fs20.devicemodel.FS20SIGDevice" alt="" coords="170,113,286,138"/>
+<area shape="rect" id="c6772935" href="./FS20RGBSADevice.html" title="org.universAAL.lddi.fs20.devicemodel.FS20RGBSADevice" alt="" coords="330,113,470,138"/>
+<area shape="rect" id="c6772936" href="./FS20PIRxDevice.html" title="org.universAAL.lddi.fs20.devicemodel.FS20PIRxDevice" alt="" coords="515,113,637,138"/>
+<area shape="rect" id="c6772939" href="./FS20Device.html" title="org.universAAL.lddi.fs20.devicemodel.FS20Device" alt="" coords="353,17,447,42"/>
+<area shape="rect" id="c6772940" href="./FS20FMSDevice.html" title="org.universAAL.lddi.fs20.devicemodel.FS20FMSDevice" alt="" coords="682,113,803,138"/>
+</map>

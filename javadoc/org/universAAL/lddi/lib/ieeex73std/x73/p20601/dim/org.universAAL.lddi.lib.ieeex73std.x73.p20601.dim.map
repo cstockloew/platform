@@ -1,0 +1,20 @@
+<map id="G" name="G">
+<area shape="rect" id="c726226" href="./Enumeration.html" title="org.universAAL.lddi.lib.ieeex73std.x73.p20601.dim.Enumeration" alt="" coords="269,214,363,239"/>
+<area shape="rect" id="c726227" href="./PeriCfgScanner.html" title="org.universAAL.lddi.lib.ieeex73std.x73.p20601.dim.PeriCfgScanner" alt="" coords="443,411,557,437"/>
+<area shape="rect" id="c726228" href="./EpiCfgScanner_Events.html" title="org.universAAL.lddi.lib.ieeex73std.x73.p20601.dim.EpiCfgScanner_Events" alt="" coords="671,305,828,346"/>
+<area shape="rect" id="c726230" href="./EpiCfgscanner.html" title="org.universAAL.lddi.lib.ieeex73std.x73.p20601.dim.EpiCfgscanner" alt="" coords="608,411,715,437"/>
+<area shape="rect" id="c726229" href="./CfgScanner.html" title="org.universAAL.lddi.lib.ieeex73std.x73.p20601.dim.CfgScanner" alt="" coords="537,313,626,338"/>
+<area shape="rect" id="c726231" href="./Numeric.html" title="org.universAAL.lddi.lib.ieeex73std.x73.p20601.dim.Numeric" alt="" coords="408,214,477,239"/>
+<area shape="rect" id="c726232" href="./Scanner.html" title="org.universAAL.lddi.lib.ieeex73std.x73.p20601.dim.Scanner" alt="" coords="547,214,616,239"/>
+<area shape="rect" id="c726233" href="./RT_SA.html" title="org.universAAL.lddi.lib.ieeex73std.x73.p20601.dim.RT_SA" alt="" coords="16,214,80,239"/>
+<area shape="rect" id="c726234" href="./PeriCfgScanner_Events.html" title="org.universAAL.lddi.lib.ieeex73std.x73.p20601.dim.PeriCfgScanner_Events" alt="" coords="331,305,493,346"/>
+<area shape="rect" id="c726235" href="./Metric.html" title="org.universAAL.lddi.lib.ieeex73std.x73.p20601.dim.Metric" alt="" coords="262,118,319,143"/>
+<area shape="rect" id="c726236" href="./PM_Segment.html" title="org.universAAL.lddi.lib.ieeex73std.x73.p20601.dim.PM_Segment" alt="" coords="125,214,225,239"/>
+<area shape="rect" id="c726237" href="./PM_Store_Events.html" title="org.universAAL.lddi.lib.ieeex73std.x73.p20601.dim.PM_Store_Events" alt="" coords="361,11,487,53"/>
+<area shape="rect" id="c726238" href="./PM_Store.html" title="org.universAAL.lddi.lib.ieeex73std.x73.p20601.dim.PM_Store" alt="" coords="385,118,463,143"/>
+<area shape="rect" id="c726239" href="./Attribute.html" title="org.universAAL.lddi.lib.ieeex73std.x73.p20601.dim.Attribute" alt="" coords="820,19,889,45"/>
+<area shape="rect" id="c726240" href="./GET_Service.html" title="org.universAAL.lddi.lib.ieeex73std.x73.p20601.dim.GET_Service" alt="" coords="532,11,631,53"/>
+<area shape="rect" id="c726243" href="./MDS.html" title="org.universAAL.lddi.lib.ieeex73std.x73.p20601.dim.MDS" alt="" coords="556,118,607,143"/>
+<area shape="rect" id="c726241" href="./MDS_Events.html" title="org.universAAL.lddi.lib.ieeex73std.x73.p20601.dim.MDS_Events" alt="" coords="676,11,775,53"/>
+<area shape="rect" id="c726242" href="./DIM.html" title="org.universAAL.lddi.lib.ieeex73std.x73.p20601.dim.DIM" alt="" coords="268,19,313,45"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c4276086" href="../phThing/Device.html" title="org.universAAL.ontology.phThing.Device" alt="" coords="141,17,203,42"/>
+<area shape="rect" id="c4276391" href="./LightSource.html" title="org.universAAL.ontology.lighting.LightSource" alt="" coords="127,113,217,138"/>
+<area shape="rect" id="c4276382" href="./BlinkableLightSource.html" title="org.universAAL.ontology.lighting.BlinkableLightSource" alt="" coords="15,209,158,234"/>
+<area shape="rect" id="c4276392" href="./BeamingSource.html" title="org.universAAL.ontology.lighting.BeamingSource" alt="" coords="202,209,315,234"/>
+</map>

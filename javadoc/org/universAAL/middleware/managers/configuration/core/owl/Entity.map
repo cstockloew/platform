@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c5138062" href="../../../../owl/ManagedIndividual.html" title="org.universAAL.middleware.owl.ManagedIndividual" alt="" coords="121,17,250,42"/>
+<area shape="rect" id="c5139207" href="./Entity.html" title="org.universAAL.middleware.managers.configuration.core.owl.Entity" alt="" coords="158,113,213,138"/>
+<area shape="rect" id="c5139203" href="./ConfigurationParameter.html" title="org.universAAL.middleware.managers.configuration.core.owl.ConfigurationParameter" alt="" coords="16,209,173,234"/>
+<area shape="rect" id="c5139204" href="./ConfigurationFile.html" title="org.universAAL.middleware.managers.configuration.core.owl.ConfigurationFile" alt="" coords="218,209,337,234"/>
+</map>

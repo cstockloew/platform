@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="c3801808" href="./HeaterActuator.html" title="org.universAAL.ontology.device.HeaterActuator" alt="" coords="16,209,125,234"/>
+<area shape="rect" id="c3801809" href="./WaterFlowActuator.html" title="org.universAAL.ontology.device.WaterFlowActuator" alt="" coords="171,209,304,234"/>
+<area shape="rect" id="c3801820" href="./LightActuator.html" title="org.universAAL.ontology.device.LightActuator" alt="" coords="349,209,446,234"/>
+<area shape="rect" id="c3801824" href="./WindowActuator.html" title="org.universAAL.ontology.device.WindowActuator" alt="" coords="491,209,608,234"/>
+<area shape="rect" id="c3801828" href="./DimmerActuator.html" title="org.universAAL.ontology.device.DimmerActuator" alt="" coords="653,209,769,234"/>
+<area shape="rect" id="c3801834" href="./SwitchActuator.html" title="org.universAAL.ontology.device.SwitchActuator" alt="" coords="813,209,923,234"/>
+<area shape="rect" id="c3801839" href="./DoorActuator.html" title="org.universAAL.ontology.device.DoorActuator" alt="" coords="967,209,1065,234"/>
+<area shape="rect" id="c3801846" href="./CurtainActuator.html" title="org.universAAL.ontology.device.CurtainActuator" alt="" coords="1109,209,1221,234"/>
+<area shape="rect" id="c3801850" href="./Actuator.html" title="org.universAAL.ontology.device.Actuator" alt="" coords="907,113,976,138"/>
+<area shape="rect" id="c3801851" href="./BlindActuator.html" title="org.universAAL.ontology.device.BlindActuator" alt="" coords="1267,209,1365,234"/>
+<area shape="rect" id="c3801942" href="../activityhub/ext/AdaptorPlugActuator.html" title="org.universAAL.ontology.activityhub.ext.AdaptorPlugActuator" alt="" coords="1411,209,1552,234"/>
+<area shape="rect" id="c3801975" href="./home/Oven.html" title="org.universAAL.ontology.device.home.Oven" alt="" coords="1597,209,1649,234"/>
+<area shape="rect" id="c3801976" href="./home/SirenActuator.html" title="org.universAAL.ontology.device.home.SirenActuator" alt="" coords="1693,209,1793,234"/>
+<area shape="rect" id="c3801855" href="./ValueDevice.html" title="org.universAAL.ontology.device.ValueDevice" alt="" coords="894,17,989,42"/>
+</map>

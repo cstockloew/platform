@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c6623345" href="../devicecategory/Iso11073FallSensor.html" title="org.universAAL.lddi.lib.activityhub.devicecategory.Iso11073FallSensor" alt="" coords="16,11,152,53"/>
+<area shape="rect" id="c6623361" href="./FallSensor.html" title="org.universAAL.lddi.lib.activityhub.devicemodel.FallSensor" alt="" coords="131,118,213,143"/>
+<area shape="rect" id="c6623367" href="./ActivityHubSensor.html" title="org.universAAL.lddi.lib.activityhub.devicemodel.ActivityHubSensor" alt="" coords="197,19,326,45"/>
+</map>

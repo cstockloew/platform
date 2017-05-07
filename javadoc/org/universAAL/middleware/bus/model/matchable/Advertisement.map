@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c2680198" href="./EventAdvertisement.html" title="org.universAAL.middleware.bus.model.matchable.EventAdvertisement" alt="" coords="16,214,155,255"/>
+<area shape="rect" id="c2680202" href="./UtilityAdvertisement.html" title="org.universAAL.middleware.bus.model.matchable.UtilityAdvertisement" alt="" coords="200,214,339,255"/>
+<area shape="rect" id="c2680204" href="./Advertisement.html" title="org.universAAL.middleware.bus.model.matchable.Advertisement" alt="" coords="125,113,230,154"/>
+<area shape="rect" id="c2680206" href="./Matchable.html" title="org.universAAL.middleware.bus.model.matchable.Matchable" alt="" coords="135,11,220,53"/>
+</map>

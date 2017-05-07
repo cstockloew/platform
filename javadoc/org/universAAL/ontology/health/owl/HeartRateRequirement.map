@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c4736532" href="./ActivityHeartRateRequirement.html" title="org.universAAL.ontology.health.owl.ActivityHeartRateRequirement" alt="" coords="15,209,214,234"/>
+<area shape="rect" id="c4736543" href="./ReposeHeartRateRequirement.html" title="org.universAAL.ontology.health.owl.ReposeHeartRateRequirement" alt="" coords="259,209,459,234"/>
+<area shape="rect" id="c4736550" href="./MeasurementRequirements.html" title="org.universAAL.ontology.health.owl.MeasurementRequirements" alt="" coords="145,17,327,42"/>
+<area shape="rect" id="c4736551" href="./HeartRateRequirement.html" title="org.universAAL.ontology.health.owl.HeartRateRequirement" alt="" coords="159,113,313,138"/>
+</map>

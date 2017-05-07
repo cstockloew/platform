@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c3019202" href="../../../rdf/Resource.html" title="org.universAAL.middleware.rdf.Resource" alt="" coords="16,19,93,45"/>
+<area shape="rect" id="c3019573" href="./CallMessage.html" title="org.universAAL.middleware.ui.impl.generic.CallMessage" alt="" coords="20,118,345,143"/>
+<area shape="rect" id="c3019567" href="../UIStrategyCaller.UIRequestCall.html" title="org.universAAL.middleware.ui.impl.UIStrategyCaller.UIRequestCall" alt="" coords="129,214,236,239"/>
+<area shape="rect" id="c3019572" href="./EventMessage.html" title="org.universAAL.middleware.ui.impl.generic.EventMessage" alt="" coords="139,11,485,53"/>
+</map>

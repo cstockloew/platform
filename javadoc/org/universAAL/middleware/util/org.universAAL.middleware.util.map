@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="c60536" href="./Constants.html" title="org.universAAL.middleware.util.Constants" alt="" coords="15,19,97,45"/>
+<area shape="rect" id="c60537" href="./ResourceUtil.html" title="org.universAAL.middleware.util.ResourceUtil" alt="" coords="141,19,238,45"/>
+<area shape="rect" id="c60538" href="./RatingAggregator.html" title="org.universAAL.middleware.util.RatingAggregator" alt="" coords="282,19,403,45"/>
+<area shape="rect" id="c60539" href="./ResourceComparator.html" title="org.universAAL.middleware.util.ResourceComparator" alt="" coords="447,19,593,45"/>
+<area shape="rect" id="c60540" href="./Specializer.html" title="org.universAAL.middleware.util.Specializer" alt="" coords="637,19,723,45"/>
+<area shape="rect" id="c60541" href="./GraphIterator.html" title="org.universAAL.middleware.util.GraphIterator" alt="" coords="767,19,865,45"/>
+<area shape="rect" id="c60544" href="./GraphIterator.GraphIteratorResources.html" title="org.universAAL.middleware.util.GraphIterator.GraphIteratorResources" alt="" coords="736,118,896,143"/>
+<area shape="rect" id="c60542" href="./GraphIterator.ObjectEqualsResource.html" title="org.universAAL.middleware.util.GraphIterator.ObjectEqualsResource" alt="" coords="909,19,1064,45"/>
+<area shape="rect" id="c60543" href="./GraphIterator.StackElement.html" title="org.universAAL.middleware.util.GraphIterator.StackElement" alt="" coords="1109,19,1211,45"/>
+<area shape="rect" id="c60545" href="./GraphIteratorElement.html" title="org.universAAL.middleware.util.GraphIteratorElement" alt="" coords="1255,19,1401,45"/>
+<area shape="rect" id="c60546" href="./OntologyListener.html" title="org.universAAL.middleware.util.OntologyListener" alt="" coords="1445,11,1563,53"/>
+<area shape="rect" id="c60547" href="./IntAggregator.html" title="org.universAAL.middleware.util.IntAggregator" alt="" coords="1608,19,1707,45"/>
+<area shape="rect" id="c60548" href="./MatchLogEntry.html" title="org.universAAL.middleware.util.MatchLogEntry" alt="" coords="1752,19,1861,45"/>
+</map>

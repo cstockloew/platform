@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="c305589" href="./SelectRange.html" title="org.universAAL.support.utils.ui.SelectRange" alt="" coords="621,214,717,239"/>
+<area shape="rect" id="c305590" href="./Check.html" title="org.universAAL.support.utils.ui.Check" alt="" coords="763,214,821,239"/>
+<area shape="rect" id="c305591" href="./Forms.html" title="org.universAAL.support.utils.ui.Forms" alt="" coords="391,19,449,45"/>
+<area shape="rect" id="c305592" href="./Text.html" title="org.universAAL.support.utils.ui.Text" alt="" coords="397,214,443,239"/>
+<area shape="rect" id="c305593" href="./Area.html" title="org.universAAL.support.utils.ui.Area" alt="" coords="396,310,444,335"/>
+<area shape="rect" id="c305594" href="./SelectOne.html" title="org.universAAL.support.utils.ui.SelectOne" alt="" coords="493,310,574,335"/>
+<area shape="rect" id="c305595" href="./SelectMulti.html" title="org.universAAL.support.utils.ui.SelectMulti" alt="" coords="491,214,576,239"/>
+<area shape="rect" id="c305596" href="./Grouping.html" title="org.universAAL.support.utils.ui.Grouping" alt="" coords="15,118,89,143"/>
+<area shape="rect" id="c305597" href="./Media.html" title="org.universAAL.support.utils.ui.Media" alt="" coords="624,118,680,143"/>
+<area shape="rect" id="c305598" href="./IContainer.html" title="org.universAAL.support.utils.ui.IContainer" alt="" coords="99,11,184,53"/>
+<area shape="rect" id="c305599" href="./DataTable.html" title="org.universAAL.support.utils.ui.DataTable" alt="" coords="133,118,214,143"/>
+<area shape="rect" id="c305600" href="./Out.html" title="org.universAAL.support.utils.ui.Out" alt="" coords="263,118,305,143"/>
+<area shape="rect" id="c305601" href="./InputControl.html" title="org.universAAL.support.utils.ui.InputControl" alt="" coords="487,118,579,143"/>
+<area shape="rect" id="c305602" href="./Control.html" title="org.universAAL.support.utils.ui.Control" alt="" coords="285,19,347,45"/>
+<area shape="rect" id="c305603" href="./SubmitCmd.html" title="org.universAAL.support.utils.ui.SubmitCmd" alt="" coords="354,118,443,143"/>
+<area shape="rect" id="c305604" href="./TriggerCmd.html" title="org.universAAL.support.utils.ui.TriggerCmd" alt="" coords="261,214,350,239"/>
+</map>

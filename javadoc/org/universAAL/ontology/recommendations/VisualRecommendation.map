@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c4796340" href="../../middleware/ui/owl/Recommendation.html" title="org.universAAL.middleware.ui.owl.Recommendation" alt="" coords="89,17,212,42"/>
+<area shape="rect" id="c4796947" href="./VisualRecommendation.html" title="org.universAAL.ontology.recommendations.VisualRecommendation" alt="" coords="71,113,230,138"/>
+<area shape="rect" id="c4796943" href="./Size.html" title="org.universAAL.ontology.recommendations.Size" alt="" coords="18,209,65,234"/>
+<area shape="rect" id="c4796945" href="./Alignment.html" title="org.universAAL.ontology.recommendations.Alignment" alt="" coords="111,209,190,234"/>
+<area shape="rect" id="c4796948" href="./Layout.html" title="org.universAAL.ontology.recommendations.Layout" alt="" coords="234,209,294,234"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c9013595" href="../bus_member/gui/BusMemberPane.html" title="org.universAAL.tools.logmonitor.bus_member.gui.BusMemberPane" alt="" coords="15,209,137,234"/>
+<area shape="rect" id="c9013620" href="../service_bus_matching/gui/MatchmakingPane.html" title="org.universAAL.tools.logmonitor.service_bus_matching.gui.MatchmakingPane" alt="" coords="181,209,310,234"/>
+<area shape="rect" id="c9013626" href="./HTMLVisibilityPane.html" title="org.universAAL.tools.logmonitor.util.HTMLVisibilityPane" alt="" coords="92,17,228,42"/>
+<area shape="rect" id="c9013627" href="./HTMLBusOperationsPane.html" title="org.universAAL.tools.logmonitor.util.HTMLBusOperationsPane" alt="" coords="73,113,247,138"/>
+</map>

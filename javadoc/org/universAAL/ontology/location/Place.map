@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c3312929" href="./Way.html" title="org.universAAL.ontology.location.Way" alt="" coords="17,209,65,234"/>
+<area shape="rect" id="c3312930" href="./Place.html" title="org.universAAL.ontology.location.Place" alt="" coords="199,113,252,138"/>
+<area shape="rect" id="c3312943" href="./indoor/IndoorPlace.html" title="org.universAAL.ontology.location.indoor.IndoorPlace" alt="" coords="111,209,201,234"/>
+<area shape="rect" id="c3312954" href="./outdoor/OutdoorPlace.html" title="org.universAAL.ontology.location.outdoor.OutdoorPlace" alt="" coords="245,209,345,234"/>
+<area shape="rect" id="c3312996" href="../profile/AALSpace.html" title="org.universAAL.ontology.profile.AALSpace" alt="" coords="389,209,472,234"/>
+<area shape="rect" id="c3312931" href="./Location.html" title="org.universAAL.ontology.location.Location" alt="" coords="191,17,260,42"/>
+</map>

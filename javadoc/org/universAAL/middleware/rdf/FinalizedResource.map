@@ -1,0 +1,20 @@
+<map id="G" name="G">
+<area shape="rect" id="c1940932" href="../owl/ManagedIndividual.html" title="org.universAAL.middleware.owl.ManagedIndividual" alt="" coords="15,209,145,234"/>
+<area shape="rect" id="c1940952" href="./ScopedResource.html" title="org.universAAL.middleware.rdf.ScopedResource" alt="" coords="189,209,310,234"/>
+<area shape="rect" id="c1940956" href="./PropertyPath.html" title="org.universAAL.middleware.rdf.PropertyPath" alt="" coords="354,209,451,234"/>
+<area shape="rect" id="c1940959" href="./Property.html" title="org.universAAL.middleware.rdf.Property" alt="" coords="496,209,565,234"/>
+<area shape="rect" id="c1940963" href="./RDFClassInfo.html" title="org.universAAL.middleware.rdf.RDFClassInfo" alt="" coords="610,209,715,234"/>
+<area shape="rect" id="c1940965" href="./FinalizedResource.html" title="org.universAAL.middleware.rdf.FinalizedResource" alt="" coords="1111,113,1241,138"/>
+<area shape="rect" id="c1940966" href="./Variable.html" title="org.universAAL.middleware.rdf.Variable" alt="" coords="759,209,827,234"/>
+<area shape="rect" id="c1941239" href="../context/ContextEventPattern.html" title="org.universAAL.middleware.context.ContextEventPattern" alt="" coords="871,209,1014,234"/>
+<area shape="rect" id="c1941279" href="../service/CallStatus.html" title="org.universAAL.middleware.service.CallStatus" alt="" coords="1058,209,1139,234"/>
+<area shape="rect" id="c1941280" href="../service/AggregationFunction.html" title="org.universAAL.middleware.service.AggregationFunction" alt="" coords="1183,209,1323,234"/>
+<area shape="rect" id="c1941281" href="../service/AggregatingFilter.html" title="org.universAAL.middleware.service.AggregatingFilter" alt="" coords="1367,209,1486,234"/>
+<area shape="rect" id="c1941302" href="../service/impl/ServiceRealization.html" title="org.universAAL.middleware.service.impl.ServiceRealization" alt="" coords="1530,209,1659,234"/>
+<area shape="rect" id="c1941311" href="../service/owls/process/ProcessResult.html" title="org.universAAL.middleware.service.owls.process.ProcessResult" alt="" coords="1704,209,1811,234"/>
+<area shape="rect" id="c1941319" href="../service/owls/profile/ProfileParameter.html" title="org.universAAL.middleware.service.owls.profile.ProfileParameter" alt="" coords="1856,209,1973,234"/>
+<area shape="rect" id="c1941321" href="../service/owls/profile/ServiceProfile.html" title="org.universAAL.middleware.service.owls.profile.ServiceProfile" alt="" coords="2019,209,2120,234"/>
+<area shape="rect" id="c1941326" href="../ui/UIHandlerProfile.html" title="org.universAAL.middleware.ui.UIHandlerProfile" alt="" coords="2165,209,2283,234"/>
+<area shape="rect" id="c1941368" href="../ui/rdf/FormElement.html" title="org.universAAL.middleware.ui.rdf.FormElement" alt="" coords="2328,209,2427,234"/>
+<area shape="rect" id="c1940969" href="./Resource.html" title="org.universAAL.middleware.rdf.Resource" alt="" coords="1137,17,1215,42"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c3407295" href="../../middleware/owl/ManagedIndividual.html" title="org.universAAL.middleware.owl.ManagedIndividual" alt="" coords="203,17,333,42"/>
+<area shape="rect" id="c3407838" href="./PhysicalThing.html" title="org.universAAL.ontology.phThing.PhysicalThing" alt="" coords="217,113,319,138"/>
+<area shape="rect" id="c3407834" href="./PhysicalContainer.html" title="org.universAAL.ontology.phThing.PhysicalContainer" alt="" coords="15,209,142,234"/>
+<area shape="rect" id="c3407835" href="./Device.html" title="org.universAAL.ontology.phThing.Device" alt="" coords="187,209,248,234"/>
+<area shape="rect" id="c3407882" href="../profile/User.html" title="org.universAAL.ontology.profile.User" alt="" coords="294,209,343,234"/>
+<area shape="rect" id="c3408103" href="../furniture/Furniture.html" title="org.universAAL.ontology.furniture.Furniture" alt="" coords="389,209,461,234"/>
+</map>

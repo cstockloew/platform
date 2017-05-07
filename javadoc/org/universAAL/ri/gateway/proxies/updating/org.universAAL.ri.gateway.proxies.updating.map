@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c985379" href="./RegistrationParametersAdder.html" title="org.universAAL.ri.gateway.proxies.updating.RegistrationParametersAdder" alt="" coords="16,118,208,143"/>
+<area shape="rect" id="c985380" href="./RegistrationParametersRemover.html" title="org.universAAL.ri.gateway.proxies.updating.RegistrationParametersRemover" alt="" coords="253,118,464,143"/>
+<area shape="rect" id="c985381" href="./Updater.html" title="org.universAAL.ri.gateway.proxies.updating.Updater" alt="" coords="192,11,277,53"/>
+</map>

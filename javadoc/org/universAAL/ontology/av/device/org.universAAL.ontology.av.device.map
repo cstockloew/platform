@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c337278" href="./LoudSpeaker.html" title="org.universAAL.ontology.av.device.LoudSpeaker" alt="" coords="15,17,113,42"/>
+<area shape="rect" id="c337279" href="./VideoCamera.html" title="org.universAAL.ontology.av.device.VideoCamera" alt="" coords="157,17,257,42"/>
+<area shape="rect" id="c337280" href="./Microphone.html" title="org.universAAL.ontology.av.device.Microphone" alt="" coords="301,17,389,42"/>
+</map>

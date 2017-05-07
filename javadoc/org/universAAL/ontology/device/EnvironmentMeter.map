@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c3821936" href="./COMeter.html" title="org.universAAL.ontology.device.COMeter" alt="" coords="15,209,89,234"/>
+<area shape="rect" id="c3821965" href="./GasMeter.html" title="org.universAAL.ontology.device.GasMeter" alt="" coords="133,209,211,234"/>
+<area shape="rect" id="c3821969" href="./SmokeMeter.html" title="org.universAAL.ontology.device.SmokeMeter" alt="" coords="255,209,350,234"/>
+<area shape="rect" id="c3821981" href="./Sensor.html" title="org.universAAL.ontology.device.Sensor" alt="" coords="207,17,268,42"/>
+<area shape="rect" id="c3821982" href="./EnvironmentMeter.html" title="org.universAAL.ontology.device.EnvironmentMeter" alt="" coords="174,113,301,138"/>
+<area shape="rect" id="c3821983" href="./CO2Meter.html" title="org.universAAL.ontology.device.CO2Meter" alt="" coords="394,209,475,234"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c4002795" href="../../middleware/service/owl/Service.html" title="org.universAAL.middleware.service.owl.Service" alt="" coords="51,17,117,42"/>
+<area shape="rect" id="c4003171" href="./ActivityHub.html" title="org.universAAL.ontology.activityhub.ActivityHub" alt="" coords="39,113,129,138"/>
+<area shape="rect" id="c4004096" href="../../lddi/exporter/activityhub/AHServiceOntology.html" title="org.universAAL.lddi.exporter.activityhub.AHServiceOntology" alt="" coords="16,209,152,234"/>
+</map>

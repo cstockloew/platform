@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c1071737" href="./ResourceMapper.html" title="org.universAAL.ui.handler.gui.swing.ResourceMapper" alt="" coords="16,19,136,45"/>
+<area shape="rect" id="c1071738" href="./IContainerManager.html" title="org.universAAL.ui.handler.gui.swing.IContainerManager" alt="" coords="181,11,312,53"/>
+<area shape="rect" id="c1071739" href="./ModelMapper.html" title="org.universAAL.ui.handler.gui.swing.ModelMapper" alt="" coords="357,19,456,45"/>
+<area shape="rect" id="c1071740" href="./Handler.html" title="org.universAAL.ui.handler.gui.swing.Handler" alt="" coords="501,19,566,45"/>
+<area shape="rect" id="c1071741" href="./Renderer.html" title="org.universAAL.ui.handler.gui.swing.Renderer" alt="" coords="610,19,683,45"/>
+<area shape="rect" id="c1071742" href="./Renderer.RenderStarter.html" title="org.universAAL.ui.handler.gui.swing.Renderer.RenderStarter" alt="" coords="728,19,829,45"/>
+</map>

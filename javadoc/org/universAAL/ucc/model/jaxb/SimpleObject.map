@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c9122923" href="./StringValue.html" title="org.universAAL.ucc.model.jaxb.StringValue" alt="" coords="16,113,104,138"/>
+<area shape="rect" id="c9122924" href="./IntegerValue.html" title="org.universAAL.ucc.model.jaxb.IntegerValue" alt="" coords="149,113,243,138"/>
+<area shape="rect" id="c9122929" href="./BooleanValue.html" title="org.universAAL.ucc.model.jaxb.BooleanValue" alt="" coords="288,113,389,138"/>
+<area shape="rect" id="c9122932" href="./DoubleValue.html" title="org.universAAL.ucc.model.jaxb.DoubleValue" alt="" coords="434,113,529,138"/>
+<area shape="rect" id="c9122933" href="./SimpleObject.html" title="org.universAAL.ucc.model.jaxb.SimpleObject" alt="" coords="289,17,388,42"/>
+<area shape="rect" id="c9122934" href="./CalendarValue.html" title="org.universAAL.ucc.model.jaxb.CalendarValue" alt="" coords="573,113,678,138"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c4638756" href="../../ICD10CirculatorySystemDiseases/owl/HypertensiveDisease.html" title="org.universAAL.ontology.ICD10CirculatorySystemDiseases.owl.HypertensiveDisease" alt="" coords="15,209,161,234"/>
+<area shape="rect" id="c4638758" href="../../ICD10CirculatorySystemDiseases/owl/OtherCirculatorySystemDisease.html" title="org.universAAL.ontology.ICD10CirculatorySystemDiseases.owl.OtherCirculatorySystemDisease" alt="" coords="205,209,414,234"/>
+<area shape="rect" id="c4638759" href="../../ICD10CirculatorySystemDiseases/owl/AcuteRheumaticFever.html" title="org.universAAL.ontology.ICD10CirculatorySystemDiseases.owl.AcuteRheumaticFever" alt="" coords="458,209,609,234"/>
+<area shape="rect" id="c4638760" href="../../ICD10CirculatorySystemDiseases/owl/IschemicHeartDisease.html" title="org.universAAL.ontology.ICD10CirculatorySystemDiseases.owl.IschemicHeartDisease" alt="" coords="653,209,806,234"/>
+<area shape="rect" id="c4638767" href="./CirculatorySystemDisease.html" title="org.universAAL.ontology.ICD10Diseases.owl.CirculatorySystemDisease" alt="" coords="333,113,510,138"/>
+<area shape="rect" id="c4638779" href="../../disease/owl/Disease.html" title="org.universAAL.ontology.disease.owl.Disease" alt="" coords="387,17,456,42"/>
+</map>

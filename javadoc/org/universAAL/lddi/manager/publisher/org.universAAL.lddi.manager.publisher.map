@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c737750" href="./ServiceProvider.html" title="org.universAAL.lddi.manager.publisher.ServiceProvider" alt="" coords="15,19,129,45"/>
+<area shape="rect" id="c737751" href="./Activator.html" title="org.universAAL.lddi.manager.publisher.Activator" alt="" coords="173,19,246,45"/>
+<area shape="rect" id="c737752" href="./Publisher.html" title="org.universAAL.lddi.manager.publisher.Publisher" alt="" coords="291,19,365,45"/>
+<area shape="rect" id="c737753" href="./hdpManager.html" title="org.universAAL.lddi.manager.publisher.hdpManager" alt="" coords="433,118,525,143"/>
+<area shape="rect" id="c737754" href="./hdpManagerListener.html" title="org.universAAL.lddi.manager.publisher.hdpManagerListener" alt="" coords="410,11,547,53"/>
+</map>

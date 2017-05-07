@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c7894671" href="../../../interfaces/IMainMenuProvider.html" title="org.universAAL.ui.dm.interfaces.IMainMenuProvider" alt="" coords="51,11,184,53"/>
+<area shape="rect" id="c7894695" href="./FileMainMenuProvider.html" title="org.universAAL.ui.dm.userInteraction.mainMenu.file.FileMainMenuProvider" alt="" coords="43,118,192,143"/>
+<area shape="rect" id="c7894698" href="../profilable/ProfilableFileMainMenuProvider.html" title="org.universAAL.ui.dm.userInteraction.mainMenu.profilable.ProfilableFileMainMenuProvider" alt="" coords="15,214,219,239"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="c216136" href="./UIBusFacade.html" title="org.universAAL.middleware.ui.UIBusFacade" alt="" coords="16,19,117,45"/>
+<area shape="rect" id="c216137" href="./UIHandler.html" title="org.universAAL.middleware.ui.UIHandler" alt="" coords="163,19,243,45"/>
+<area shape="rect" id="c216138" href="./UICaller.html" title="org.universAAL.middleware.ui.UICaller" alt="" coords="288,19,357,45"/>
+<area shape="rect" id="c216139" href="./UIResponse.html" title="org.universAAL.middleware.ui.UIResponse" alt="" coords="403,19,496,45"/>
+<area shape="rect" id="c216140" href="./UIHandlerProfile.html" title="org.universAAL.middleware.ui.UIHandlerProfile" alt="" coords="541,19,659,45"/>
+<area shape="rect" id="c216141" href="./UIRequest.html" title="org.universAAL.middleware.ui.UIRequest" alt="" coords="703,19,787,45"/>
+<area shape="rect" id="c216142" href="./IDialogManager.html" title="org.universAAL.middleware.ui.IDialogManager" alt="" coords="832,11,944,53"/>
+<area shape="rect" id="c216143" href="./IUIBus.html" title="org.universAAL.middleware.ui.IUIBus" alt="" coords="989,11,1075,53"/>
+</map>

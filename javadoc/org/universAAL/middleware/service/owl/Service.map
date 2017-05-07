@@ -1,0 +1,37 @@
+<map id="G" name="G">
+<area shape="rect" id="c2921415" href="../../owl/ManagedIndividual.html" title="org.universAAL.middleware.owl.ManagedIndividual" alt="" coords="2657,17,2786,42"/>
+<area shape="rect" id="c2921789" href="./Service.html" title="org.universAAL.middleware.service.owl.Service" alt="" coords="2689,113,2754,138"/>
+<area shape="rect" id="c2921786" href="./UserInterfaceService.html" title="org.universAAL.middleware.service.owl.UserInterfaceService" alt="" coords="16,209,160,234"/>
+<area shape="rect" id="c2921956" href="../../../ontology/phThing/DeviceService.html" title="org.universAAL.ontology.phThing.DeviceService" alt="" coords="205,209,310,234"/>
+<area shape="rect" id="c2921977" href="../../../ontology/space/SpaceConfigurationService.html" title="org.universAAL.ontology.space.SpaceConfigurationService" alt="" coords="355,209,533,234"/>
+<area shape="rect" id="c2922004" href="../../../ontology/profile/service/ProfilingEditorService.html" title="org.universAAL.ontology.profile.service.ProfilingEditorService" alt="" coords="578,209,723,234"/>
+<area shape="rect" id="c2922005" href="../../../ontology/profile/service/ProfilingService.html" title="org.universAAL.ontology.profile.service.ProfilingService" alt="" coords="768,209,880,234"/>
+<area shape="rect" id="c2922033" href="../../../ontology/unit/services/UnitService.html" title="org.universAAL.ontology.unit.services.UnitService" alt="" coords="925,209,1014,234"/>
+<area shape="rect" id="c2922034" href="../../../ontology/unit/services/UnitConversionService.html" title="org.universAAL.ontology.unit.services.UnitConversionService" alt="" coords="1059,209,1213,234"/>
+<area shape="rect" id="c2922165" href="../../../ontology/activityhub/ActivityHub.html" title="org.universAAL.ontology.activityhub.ActivityHub" alt="" coords="1258,209,1347,234"/>
+<area shape="rect" id="c2922191" href="../../../ontology/asor/Asor.html" title="org.universAAL.ontology.asor.Asor" alt="" coords="1393,209,1441,234"/>
+<area shape="rect" id="c2922200" href="../../../ontology/av/service/CameraService.html" title="org.universAAL.ontology.av.service.CameraService" alt="" coords="1487,209,1598,234"/>
+<area shape="rect" id="c2922201" href="../../../ontology/av/service/LoudSpeakerService.html" title="org.universAAL.ontology.av.service.LoudSpeakerService" alt="" coords="1643,209,1784,234"/>
+<area shape="rect" id="c2922202" href="../../../ontology/av/service/MicrophoneService.html" title="org.universAAL.ontology.av.service.MicrophoneService" alt="" coords="1829,209,1961,234"/>
+<area shape="rect" id="c2922216" href="../../../ontology/che/ContextHistoryService.html" title="org.universAAL.ontology.che.ContextHistoryService" alt="" coords="2005,209,2158,234"/>
+<area shape="rect" id="c2922257" href="../../../ontology/lighting/Lighting.html" title="org.universAAL.ontology.lighting.Lighting" alt="" coords="2202,209,2267,234"/>
+<area shape="rect" id="c2922286" href="../../../ontology/ui/preferences/service/UIPreferencesService.html" title="org.universAAL.ontology.ui.preferences.service.UIPreferencesService" alt="" coords="2312,209,2461,234"/>
+<area shape="rect" id="c2922287" href="../../../ontology/questionnaire/QuestionnaireService.html" title="org.universAAL.ontology.questionnaire.QuestionnaireService" alt="" coords="2506,209,2651,234"/>
+<area shape="rect" id="c2922306" href="../../../ontology/X73/X73.html" title="org.universAAL.ontology.X73.X73" alt="" coords="2699,209,2743,234"/>
+<area shape="rect" id="c2922316" href="../../../ontology/reasoner/ReasoningService.html" title="org.universAAL.ontology.reasoner.ReasoningService" alt="" coords="2791,209,2918,234"/>
+<area shape="rect" id="c2922322" href="../../../ontology/profile/contact/ContactManagementService.html" title="org.universAAL.ontology.profile.contact.ContactManagementService" alt="" coords="2962,209,3147,234"/>
+<area shape="rect" id="c2922355" href="../../../ontology/handgestures/HandGestureService.html" title="org.universAAL.ontology.handgestures.HandGestureService" alt="" coords="3192,209,3333,234"/>
+<area shape="rect" id="c2922373" href="../../../ontology/continua/ContinuaHealthManager.html" title="org.universAAL.ontology.continua.ContinuaHealthManager" alt="" coords="3378,209,3539,234"/>
+<area shape="rect" id="c2922427" href="../../../ontology/health/owl/services/HealthService.html" title="org.universAAL.ontology.health.owl.services.HealthService" alt="" coords="3583,209,3686,234"/>
+<area shape="rect" id="c2922429" href="../../../ontology/health/owl/services/DisplayTreatmentService.html" title="org.universAAL.ontology.health.owl.services.DisplayTreatmentService" alt="" coords="3731,209,3899,234"/>
+<area shape="rect" id="c2922447" href="../../../ontology/drools/DroolsReasoning.html" title="org.universAAL.ontology.drools.DroolsReasoning" alt="" coords="3943,209,4065,234"/>
+<area shape="rect" id="c2922465" href="../../../ontology/cryptographic/CryptographicService.html" title="org.universAAL.ontology.cryptographic.CryptographicService" alt="" coords="4109,209,4254,234"/>
+<area shape="rect" id="c2922485" href="../../../ontology/security/RoleManagementService.html" title="org.universAAL.ontology.security.RoleManagementService" alt="" coords="4298,209,4465,234"/>
+<area shape="rect" id="c2922496" href="../../../ontology/security/AnonymizationService.html" title="org.universAAL.ontology.security.AnonymizationService" alt="" coords="4509,209,4659,234"/>
+<area shape="rect" id="c2922497" href="../../../ontology/security/SessionManagementService.html" title="org.universAAL.ontology.security.SessionManagementService" alt="" coords="4704,209,4891,234"/>
+<area shape="rect" id="c2922500" href="../../../ontology/security/AuthenticationService.html" title="org.universAAL.ontology.security.AuthenticationService" alt="" coords="4935,209,5083,234"/>
+<area shape="rect" id="c2922506" href="../../../ontology/security/AuthorizationService.html" title="org.universAAL.ontology.security.AuthorizationService" alt="" coords="5128,209,5269,234"/>
+<area shape="rect" id="c2922643" href="../../api/impl/SimplifiedApiService.html" title="org.universAAL.middleware.api.impl.SimplifiedApiService" alt="" coords="5315,209,5456,234"/>
+<area shape="rect" id="c2923468" href="../../../service/asor/ExecutionEngine.html" title="org.universAAL.service.asor.ExecutionEngine" alt="" coords="5501,209,5619,234"/>
+<area shape="rect" id="c2923804" href="../../../ontology/lighting/simple/LightingSimplified.html" title="org.universAAL.ontology.lighting.simple.LightingSimplified" alt="" coords="5664,209,5787,234"/>
+</map>

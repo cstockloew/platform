@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c4742283" href="./BloodPressureMeasurementTreatment.html" title="org.universAAL.ontology.health.owl.BloodPressureMeasurementTreatment" alt="" coords="15,209,259,234"/>
+<area shape="rect" id="c4742287" href="./MeasuredPhysicalActivity.html" title="org.universAAL.ontology.health.owl.MeasuredPhysicalActivity" alt="" coords="303,209,475,234"/>
+<area shape="rect" id="c4742291" href="./WeightMeasurementTreatment.html" title="org.universAAL.ontology.health.owl.WeightMeasurementTreatment" alt="" coords="520,209,720,234"/>
+<area shape="rect" id="c4742302" href="./Treatment.html" title="org.universAAL.ontology.health.owl.Treatment" alt="" coords="464,17,544,42"/>
+<area shape="rect" id="c4742303" href="./TakeMeasurementActivity.html" title="org.universAAL.ontology.health.owl.TakeMeasurementActivity" alt="" coords="417,113,591,138"/>
+<area shape="rect" id="c4742304" href="./HeartRateMeasurementTreatment.html" title="org.universAAL.ontology.health.owl.HeartRateMeasurementTreatment" alt="" coords="765,209,984,234"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c4204211" href="../phThing/Device.html" title="org.universAAL.ontology.phThing.Device" alt="" coords="129,17,191,42"/>
+<area shape="rect" id="c4204491" href="./Hvac.html" title="org.universAAL.ontology.hvac.Hvac" alt="" coords="134,113,186,138"/>
+<area shape="rect" id="c4204486" href="./Target_Temperature.html" title="org.universAAL.ontology.hvac.Target_Temperature" alt="" coords="15,209,153,234"/>
+<area shape="rect" id="c4204492" href="./Ventilation.html" title="org.universAAL.ontology.hvac.Ventilation" alt="" coords="197,209,278,234"/>
+</map>

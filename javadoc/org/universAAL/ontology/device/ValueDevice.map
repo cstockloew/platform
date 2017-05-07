@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c3816085" href="../phThing/Device.html" title="org.universAAL.ontology.phThing.Device" alt="" coords="75,17,136,42"/>
+<area shape="rect" id="c3816230" href="./ValueDevice.html" title="org.universAAL.ontology.device.ValueDevice" alt="" coords="58,113,153,138"/>
+<area shape="rect" id="c3816225" href="./Actuator.html" title="org.universAAL.ontology.device.Actuator" alt="" coords="16,209,85,234"/>
+<area shape="rect" id="c3816231" href="./Sensor.html" title="org.universAAL.ontology.device.Sensor" alt="" coords="131,209,192,234"/>
+</map>

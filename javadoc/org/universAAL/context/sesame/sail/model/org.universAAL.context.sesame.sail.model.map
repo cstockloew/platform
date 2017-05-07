@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c625268" href="./NativeLiteral.html" title="org.universAAL.context.sesame.sail.model.NativeLiteral" alt="" coords="16,121,109,146"/>
+<area shape="rect" id="c625269" href="./NativeBNode.html" title="org.universAAL.context.sesame.sail.model.NativeBNode" alt="" coords="95,219,193,245"/>
+<area shape="rect" id="c625270" href="./NativeResource.html" title="org.universAAL.context.sesame.sail.model.NativeResource" alt="" coords="155,113,269,154"/>
+<area shape="rect" id="c625271" href="./NativeURI.html" title="org.universAAL.context.sesame.sail.model.NativeURI" alt="" coords="239,219,321,245"/>
+<area shape="rect" id="c625272" href="./NativeValue.html" title="org.universAAL.context.sesame.sail.model.NativeValue" alt="" coords="91,11,183,53"/>
+</map>

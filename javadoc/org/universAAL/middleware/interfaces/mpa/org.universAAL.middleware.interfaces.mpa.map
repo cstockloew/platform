@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c103784" href="./UAPPStatus.html" title="org.universAAL.middleware.interfaces.mpa.UAPPStatus" alt="" coords="16,19,112,45"/>
+<area shape="rect" id="c103785" href="./UAPPCard.html" title="org.universAAL.middleware.interfaces.mpa.UAPPCard" alt="" coords="157,19,243,45"/>
+<area shape="rect" id="c103786" href="./UAPPPartStatus.html" title="org.universAAL.middleware.interfaces.mpa.UAPPPartStatus" alt="" coords="288,11,408,53"/>
+<area shape="rect" id="c103787" href="./Pair.html" title="org.universAAL.middleware.interfaces.mpa.Pair" alt="" coords="457,19,501,45"/>
+</map>

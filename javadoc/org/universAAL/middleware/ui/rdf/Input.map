@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="c3082838" href="./InputField.html" title="org.universAAL.middleware.ui.rdf.InputField" alt="" coords="16,329,93,354"/>
+<area shape="rect" id="c3082839" href="./TextArea.html" title="org.universAAL.middleware.ui.rdf.TextArea" alt="" coords="138,329,211,354"/>
+<area shape="rect" id="c3082842" href="./Select.html" title="org.universAAL.middleware.ui.rdf.Select" alt="" coords="255,329,313,354"/>
+<area shape="rect" id="c3082843" href="./Range.html" title="org.universAAL.middleware.ui.rdf.Range" alt="" coords="357,329,416,354"/>
+<area shape="rect" id="c3082847" href="./Input.html" title="org.universAAL.middleware.ui.rdf.Input" alt="" coords="205,230,254,255"/>
+<area shape="rect" id="c3082849" href="./FormControl.html" title="org.universAAL.middleware.ui.rdf.FormControl" alt="" coords="189,17,283,42"/>
+<area shape="rect" id="c3082850" href="./Submit.html" title="org.universAAL.middleware.ui.rdf.Submit" alt="" coords="256,115,317,141"/>
+</map>

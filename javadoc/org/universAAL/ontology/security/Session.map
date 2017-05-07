@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c4977046" href="../../middleware/owl/ManagedIndividual.html" title="org.universAAL.middleware.owl.ManagedIndividual" alt="" coords="119,17,249,42"/>
+<area shape="rect" id="c4978135" href="./Session.html" title="org.universAAL.ontology.security.Session" alt="" coords="150,113,218,138"/>
+<area shape="rect" id="c4978129" href="./DeviceBoundSession.html" title="org.universAAL.ontology.security.DeviceBoundSession" alt="" coords="15,209,161,234"/>
+<area shape="rect" id="c4978136" href="./LocationBoundSession.html" title="org.universAAL.ontology.security.LocationBoundSession" alt="" coords="205,209,358,234"/>
+</map>

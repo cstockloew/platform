@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="c5878456" href="./ASN1EnumItemMetadata.html" title="org.universAAL.lddi.lib.ieeex73std.org.bn.metadata.ASN1EnumItemMetadata" alt="" coords="15,209,185,234"/>
+<area shape="rect" id="c5878457" href="./ASN1NullMetadata.html" title="org.universAAL.lddi.lib.ieeex73std.org.bn.metadata.ASN1NullMetadata" alt="" coords="229,209,363,234"/>
+<area shape="rect" id="c5878458" href="./ASN1AnyMetadata.html" title="org.universAAL.lddi.lib.ieeex73std.org.bn.metadata.ASN1AnyMetadata" alt="" coords="408,209,541,234"/>
+<area shape="rect" id="c5878459" href="./ASN1SequenceOfMetadata.html" title="org.universAAL.lddi.lib.ieeex73std.org.bn.metadata.ASN1SequenceOfMetadata" alt="" coords="587,209,768,234"/>
+<area shape="rect" id="c5878460" href="./ASN1BitStringMetadata.html" title="org.universAAL.lddi.lib.ieeex73std.org.bn.metadata.ASN1BitStringMetadata" alt="" coords="813,209,973,234"/>
+<area shape="rect" id="c5878462" href="./ASN1RealMetadata.html" title="org.universAAL.lddi.lib.ieeex73std.org.bn.metadata.ASN1RealMetadata" alt="" coords="1018,209,1155,234"/>
+<area shape="rect" id="c5878463" href="./ASN1BoxedTypeMetadata.html" title="org.universAAL.lddi.lib.ieeex73std.org.bn.metadata.ASN1BoxedTypeMetadata" alt="" coords="1200,209,1376,234"/>
+<area shape="rect" id="c5878465" href="./ASN1BooleanMetadata.html" title="org.universAAL.lddi.lib.ieeex73std.org.bn.metadata.ASN1BooleanMetadata" alt="" coords="1421,209,1579,234"/>
+<area shape="rect" id="c5878466" href="./ASN1OctetStringMetadata.html" title="org.universAAL.lddi.lib.ieeex73std.org.bn.metadata.ASN1OctetStringMetadata" alt="" coords="1624,209,1800,234"/>
+<area shape="rect" id="c5878467" href="./ASN1IntegerMetadata.html" title="org.universAAL.lddi.lib.ieeex73std.org.bn.metadata.ASN1IntegerMetadata" alt="" coords="1845,209,1995,234"/>
+<area shape="rect" id="c5878468" href="./ASN1StringMetadata.html" title="org.universAAL.lddi.lib.ieeex73std.org.bn.metadata.ASN1StringMetadata" alt="" coords="2040,209,2184,234"/>
+<area shape="rect" id="c5878469" href="./ASN1ObjectIdentifierMetadata.html" title="org.universAAL.lddi.lib.ieeex73std.org.bn.metadata.ASN1ObjectIdentifierMetadata" alt="" coords="2229,209,2427,234"/>
+<area shape="rect" id="c5878472" href="./ASN1FieldMetadata.html" title="org.universAAL.lddi.lib.ieeex73std.org.bn.metadata.ASN1FieldMetadata" alt="" coords="1219,113,1357,138"/>
+<area shape="rect" id="c5878473" href="./ASN1ElementMetadata.html" title="org.universAAL.lddi.lib.ieeex73std.org.bn.metadata.ASN1ElementMetadata" alt="" coords="2472,209,2629,234"/>
+<area shape="rect" id="c5878475" href="./ASN1Metadata.html" title="org.universAAL.lddi.lib.ieeex73std.org.bn.metadata.ASN1Metadata" alt="" coords="1233,17,1343,42"/>
+</map>

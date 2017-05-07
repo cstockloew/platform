@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="c6847715" href="./KnxDpt2GroupDevice.html" title="org.universAAL.lddi.knx.groupdevicemodel.KnxDpt2GroupDevice" alt="" coords="15,214,163,239"/>
+<area shape="rect" id="c6847716" href="./KnxDpt5GroupDevice.html" title="org.universAAL.lddi.knx.groupdevicemodel.KnxDpt5GroupDevice" alt="" coords="207,214,355,239"/>
+<area shape="rect" id="c6847718" href="./KnxDpt4GroupDevice.html" title="org.universAAL.lddi.knx.groupdevicemodel.KnxDpt4GroupDevice" alt="" coords="399,214,547,239"/>
+<area shape="rect" id="c6847719" href="./KnxDpt1GroupDevice.html" title="org.universAAL.lddi.knx.groupdevicemodel.KnxDpt1GroupDevice" alt="" coords="591,214,739,239"/>
+<area shape="rect" id="c6847720" href="./KnxDpt9GroupDevice.html" title="org.universAAL.lddi.knx.groupdevicemodel.KnxDpt9GroupDevice" alt="" coords="783,214,931,239"/>
+<area shape="rect" id="c6847721" href="./KnxDpt3GroupDevice.html" title="org.universAAL.lddi.knx.groupdevicemodel.KnxDpt3GroupDevice" alt="" coords="975,214,1123,239"/>
+<area shape="rect" id="c6847722" href="./KnxGroupDevice.html" title="org.universAAL.lddi.knx.groupdevicemodel.KnxGroupDevice" alt="" coords="509,118,629,143"/>
+<area shape="rect" id="c6847725" href="../interfaces/IKnxSendMessage.html" title="org.universAAL.lddi.knx.interfaces.IKnxSendMessage" alt="" coords="319,11,449,53"/>
+<area shape="rect" id="c6847726" href="../interfaces/IKnxReceiveMessage.html" title="org.universAAL.lddi.knx.interfaces.IKnxReceiveMessage" alt="" coords="495,11,644,53"/>
+<area shape="rect" id="c6848739" href="http://java.sun.com/j2se/1.4.2/docs/api/org/osgi/service/device/Device.html" title="org.osgi.service.device.Device" alt="" coords="689,11,775,53"/>
+</map>

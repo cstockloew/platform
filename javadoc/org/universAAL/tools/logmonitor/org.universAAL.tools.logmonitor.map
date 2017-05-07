@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="c1273317" href="./Activator.html" title="org.universAAL.tools.logmonitor.Activator" alt="" coords="15,19,89,45"/>
+<area shape="rect" id="c1273318" href="./MainGui.html" title="org.universAAL.tools.logmonitor.MainGui" alt="" coords="133,19,203,45"/>
+<area shape="rect" id="c1273319" href="./LogMonitor.html" title="org.universAAL.tools.logmonitor.LogMonitor" alt="" coords="248,19,333,45"/>
+<area shape="rect" id="c1273320" href="./Utils.html" title="org.universAAL.tools.logmonitor.Utils" alt="" coords="380,19,428,45"/>
+<area shape="rect" id="c1273321" href="./BusMemberMonitor.html" title="org.universAAL.tools.logmonitor.BusMemberMonitor" alt="" coords="475,19,608,45"/>
+<area shape="rect" id="c1273322" href="./MemberData.html" title="org.universAAL.tools.logmonitor.MemberData" alt="" coords="653,19,749,45"/>
+<area shape="rect" id="c1273323" href="./BusMemberListener.html" title="org.universAAL.tools.logmonitor.BusMemberListener" alt="" coords="794,11,931,53"/>
+<area shape="rect" id="c1273324" href="./LogListenerEx.html" title="org.universAAL.tools.logmonitor.LogListenerEx" alt="" coords="976,11,1080,53"/>
+</map>

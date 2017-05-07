@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c1405764" href="./OnConfigurationChangedListenerFactory.html" title="org.universAAL.ucc.configuration.model.interfaces.OnConfigurationChangedListenerFactory" alt="" coords="15,11,273,53"/>
+<area shape="rect" id="c1405765" href="./ConfigurationValidatorFactory.html" title="org.universAAL.ucc.configuration.model.interfaces.ConfigurationValidatorFactory" alt="" coords="317,11,510,53"/>
+<area shape="rect" id="c1405766" href="./ModelRegistryChangedListener.html" title="org.universAAL.ucc.configuration.model.interfaces.ModelRegistryChangedListener" alt="" coords="555,11,757,53"/>
+<area shape="rect" id="c1405767" href="./OnConfigurationChangedListener.html" title="org.universAAL.ucc.configuration.model.interfaces.OnConfigurationChangedListener" alt="" coords="803,11,1016,53"/>
+<area shape="rect" id="c1405768" href="./ConfigurationValidator.html" title="org.universAAL.ucc.configuration.model.interfaces.ConfigurationValidator" alt="" coords="1061,11,1211,53"/>
+</map>

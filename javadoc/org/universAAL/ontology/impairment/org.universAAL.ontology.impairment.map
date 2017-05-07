@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="c360318" href="./NearSightedness.html" title="org.universAAL.ontology.impairment.NearSightedness" alt="" coords="15,113,137,138"/>
+<area shape="rect" id="c360319" href="./PhysicalImpairment.html" title="org.universAAL.ontology.impairment.PhysicalImpairment" alt="" coords="495,17,631,42"/>
+<area shape="rect" id="c360320" href="./LightSensitivity.html" title="org.universAAL.ontology.impairment.LightSensitivity" alt="" coords="181,113,291,138"/>
+<area shape="rect" id="c360321" href="./SpeakingImpairment.html" title="org.universAAL.ontology.impairment.SpeakingImpairment" alt="" coords="675,17,815,42"/>
+<area shape="rect" id="c360322" href="./FarSightedness.html" title="org.universAAL.ontology.impairment.FarSightedness" alt="" coords="336,113,448,138"/>
+<area shape="rect" id="c360323" href="./ColorBlindness.html" title="org.universAAL.ontology.impairment.ColorBlindness" alt="" coords="493,113,603,138"/>
+<area shape="rect" id="c360324" href="./ImpairmentOntology.html" title="org.universAAL.ontology.impairment.ImpairmentOntology" alt="" coords="859,17,997,42"/>
+<area shape="rect" id="c360325" href="./HearingImpairment.html" title="org.universAAL.ontology.impairment.HearingImpairment" alt="" coords="1041,17,1172,42"/>
+<area shape="rect" id="c360326" href="./SightImpairment.html" title="org.universAAL.ontology.impairment.SightImpairment" alt="" coords="334,17,450,42"/>
+<area shape="rect" id="c360327" href="./Astigmatism.html" title="org.universAAL.ontology.impairment.Astigmatism" alt="" coords="648,113,741,138"/>
+</map>

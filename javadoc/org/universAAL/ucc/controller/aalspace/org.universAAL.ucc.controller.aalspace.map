@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c1460448" href="./AddNewHardwareController.html" title="org.universAAL.ucc.controller.aalspace.AddNewHardwareController" alt="" coords="15,17,198,42"/>
+<area shape="rect" id="c1460449" href="./AddNewPersonController.html" title="org.universAAL.ucc.controller.aalspace.AddNewPersonController" alt="" coords="243,17,411,42"/>
+<area shape="rect" id="c1460450" href="./RoomsWindowController.html" title="org.universAAL.ucc.controller.aalspace.RoomsWindowController" alt="" coords="456,17,621,42"/>
+<area shape="rect" id="c1460451" href="./HardwareWindowController.html" title="org.universAAL.ucc.controller.aalspace.HardwareWindowController" alt="" coords="666,17,846,42"/>
+<area shape="rect" id="c1460452" href="./PersonWindowController.html" title="org.universAAL.ucc.controller.aalspace.PersonWindowController" alt="" coords="891,17,1056,42"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c9508378" href="../../api/ConfigPreferences.html" title="org.universAAL.ucc.configuration.api.ConfigPreferences" alt="" coords="15,118,145,143"/>
+<area shape="rect" id="c9508382" href="./StorageChangedListener.html" title="org.universAAL.ucc.configuration.storage.interfaces.StorageChangedListener" alt="" coords="102,11,266,53"/>
+<area shape="rect" id="c9508394" href="../../view/ConfigurationOverviewWindow.html" title="org.universAAL.ucc.configuration.view.ConfigurationOverviewWindow" alt="" coords="189,118,389,143"/>
+</map>

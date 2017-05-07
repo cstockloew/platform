@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c2194048" href="../../../aalspace/json/model/AALSpace.PeeringChannel.html" title="org.universAAL.middleware.aalspace.json.model.AALSpace.PeeringChannel" alt="" coords="15,118,129,143"/>
+<area shape="rect" id="c2194109" href="./IPeeringChannel.html" title="org.universAAL.middleware.interfaces.aalspace.model.IPeeringChannel" alt="" coords="92,11,209,53"/>
+<area shape="rect" id="c2194115" href="../xml/model/Aalspace.PeeringChannel.html" title="org.universAAL.middleware.interfaces.aalspace.xml.model.Aalspace.PeeringChannel" alt="" coords="173,118,286,143"/>
+</map>

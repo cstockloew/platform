@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c4197921" href="../../middleware/owl/ManagedIndividual.html" title="org.universAAL.middleware.owl.ManagedIndividual" alt="" coords="178,17,307,42"/>
+<area shape="rect" id="c4198739" href="./Mode.html" title="org.universAAL.ontology.hvac.Mode" alt="" coords="216,113,269,138"/>
+<area shape="rect" id="c4198734" href="./Heating_Mode.html" title="org.universAAL.ontology.hvac.Heating_Mode" alt="" coords="15,209,121,234"/>
+<area shape="rect" id="c4198735" href="./Air_Conditioning_Mode.html" title="org.universAAL.ontology.hvac.Air_Conditioning_Mode" alt="" coords="165,209,320,234"/>
+<area shape="rect" id="c4198740" href="./Ventilation_Mode.html" title="org.universAAL.ontology.hvac.Ventilation_Mode" alt="" coords="365,209,486,234"/>
+</map>

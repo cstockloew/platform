@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="c1195600" href="./Activator.html" title="org.universAAL.samples.sensor.simulator.Activator" alt="" coords="15,19,89,45"/>
+<area shape="rect" id="c1195601" href="./TypeOfUser.html" title="org.universAAL.samples.sensor.simulator.TypeOfUser" alt="" coords="133,11,238,53"/>
+<area shape="rect" id="c1195602" href="./RoomTemperaturePublisher.html" title="org.universAAL.samples.sensor.simulator.RoomTemperaturePublisher" alt="" coords="282,19,465,45"/>
+<area shape="rect" id="c1195603" href="./LocationContextPublisher.html" title="org.universAAL.samples.sensor.simulator.LocationContextPublisher" alt="" coords="509,19,678,45"/>
+<area shape="rect" id="c1195604" href="./SensorSimulatorGUI.html" title="org.universAAL.samples.sensor.simulator.SensorSimulatorGUI" alt="" coords="723,19,864,45"/>
+<area shape="rect" id="c1195605" href="./LampMap.html" title="org.universAAL.samples.sensor.simulator.LampMap" alt="" coords="909,19,987,45"/>
+<area shape="rect" id="c1195606" href="./LampStatePublisher.html" title="org.universAAL.samples.sensor.simulator.LampStatePublisher" alt="" coords="1031,19,1169,45"/>
+<area shape="rect" id="c1195607" href="./RoomHumidityPublisher.html" title="org.universAAL.samples.sensor.simulator.RoomHumidityPublisher" alt="" coords="1213,19,1374,45"/>
+</map>

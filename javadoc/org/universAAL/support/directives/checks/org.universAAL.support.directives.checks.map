@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="c2882" href="./DependencyManagementCheckFix.html" title="org.universAAL.support.directives.checks.DependencyManagementCheckFix" alt="" coords="15,17,241,42"/>
+<area shape="rect" id="c2883" href="./LicenseHeaderCheckFix.html" title="org.universAAL.support.directives.checks.LicenseHeaderCheckFix" alt="" coords="285,17,449,42"/>
+<area shape="rect" id="c2884" href="./LicenseHeaderCheckFix.CommentParserState.html" title="org.universAAL.support.directives.checks.LicenseHeaderCheckFix.CommentParserState" alt="" coords="493,17,640,42"/>
+<area shape="rect" id="c2885" href="./CodificationCheck.html" title="org.universAAL.support.directives.checks.CodificationCheck" alt="" coords="685,17,813,42"/>
+<area shape="rect" id="c2886" href="./MainMethodCheck.html" title="org.universAAL.support.directives.checks.MainMethodCheck" alt="" coords="858,17,987,42"/>
+<area shape="rect" id="c2887" href="./MainMethodCheck.CommentRemoverStateMachine.html" title="org.universAAL.support.directives.checks.MainMethodCheck.CommentRemoverStateMachine" alt="" coords="1032,17,1243,42"/>
+<area shape="rect" id="c2888" href="./LicenseFileCheckFix.html" title="org.universAAL.support.directives.checks.LicenseFileCheckFix" alt="" coords="1287,17,1430,42"/>
+<area shape="rect" id="c2889" href="./ItestsCheckFix.html" title="org.universAAL.support.directives.checks.ItestsCheckFix" alt="" coords="1475,17,1584,42"/>
+<area shape="rect" id="c2890" href="./MavenCoordinateCheck.html" title="org.universAAL.support.directives.checks.MavenCoordinateCheck" alt="" coords="1629,17,1790,42"/>
+<area shape="rect" id="c2891" href="./DecoupleCheck.html" title="org.universAAL.support.directives.checks.DecoupleCheck" alt="" coords="1834,17,1947,42"/>
+<area shape="rect" id="c2892" href="./ModulesCheckFix.html" title="org.universAAL.support.directives.checks.ModulesCheckFix" alt="" coords="1992,17,2117,42"/>
+<area shape="rect" id="c2893" href="./FelixDepCheckFix.html" title="org.universAAL.support.directives.checks.FelixDepCheckFix" alt="" coords="2162,17,2291,42"/>
+</map>

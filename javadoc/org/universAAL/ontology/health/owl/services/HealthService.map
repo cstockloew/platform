@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c4756045" href="../../../../middleware/service/owl/Service.html" title="org.universAAL.middleware.service.owl.Service" alt="" coords="502,17,567,42"/>
+<area shape="rect" id="c4756683" href="./HealthService.html" title="org.universAAL.ontology.health.owl.services.HealthService" alt="" coords="483,113,586,138"/>
+<area shape="rect" id="c4756680" href="./PerformedSessionManagementService.html" title="org.universAAL.ontology.health.owl.services.PerformedSessionManagementService" alt="" coords="15,209,262,234"/>
+<area shape="rect" id="c4756681" href="./TreatmentManagementService.html" title="org.universAAL.ontology.health.owl.services.TreatmentManagementService" alt="" coords="306,209,505,234"/>
+<area shape="rect" id="c4756682" href="./PlannedSessionManagementService.html" title="org.universAAL.ontology.health.owl.services.PlannedSessionManagementService" alt="" coords="549,209,782,234"/>
+<area shape="rect" id="c4756684" href="./ProfileManagementService.html" title="org.universAAL.ontology.health.owl.services.ProfileManagementService" alt="" coords="826,209,1003,234"/>
+</map>

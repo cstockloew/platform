@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c4492084" href="./InteractionFault.html" title="org.universAAL.ontology.dependability.InteractionFault" alt="" coords="15,209,126,234"/>
+<area shape="rect" id="c4492085" href="./ExternalFault.html" title="org.universAAL.ontology.dependability.ExternalFault" alt="" coords="170,209,267,234"/>
+<area shape="rect" id="c4492091" href="./OperationalFault.html" title="org.universAAL.ontology.dependability.OperationalFault" alt="" coords="86,113,202,138"/>
+<area shape="rect" id="c4492108" href="./Fault.html" title="org.universAAL.ontology.dependability.Fault" alt="" coords="119,17,169,42"/>
+</map>

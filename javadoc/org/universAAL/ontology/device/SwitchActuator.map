@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c3755830" href="./SwitchController.html" title="org.universAAL.ontology.device.SwitchController" alt="" coords="16,209,133,234"/>
+<area shape="rect" id="c3755834" href="./SwitchActuator.html" title="org.universAAL.ontology.device.SwitchActuator" alt="" coords="20,113,129,138"/>
+<area shape="rect" id="c3755850" href="./Actuator.html" title="org.universAAL.ontology.device.Actuator" alt="" coords="40,17,109,42"/>
+</map>

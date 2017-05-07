@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c3315311" href="../../middleware/owl/supply/AbsLocation.html" title="org.universAAL.middleware.owl.supply.AbsLocation" alt="" coords="44,17,137,42"/>
+<area shape="rect" id="c3315806" href="./Location.html" title="org.universAAL.ontology.location.Location" alt="" coords="56,113,125,138"/>
+<area shape="rect" id="c3315805" href="./Place.html" title="org.universAAL.ontology.location.Place" alt="" coords="16,209,69,234"/>
+<area shape="rect" id="c3315833" href="./position/Point.html" title="org.universAAL.ontology.location.position.Point" alt="" coords="115,209,165,234"/>
+</map>

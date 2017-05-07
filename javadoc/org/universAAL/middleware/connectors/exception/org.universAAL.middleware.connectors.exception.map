@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c141248" href="./DiscoveryConnectorErrorCodes.html" title="org.universAAL.middleware.connectors.exception.DiscoveryConnectorErrorCodes" alt="" coords="16,19,221,45"/>
+<area shape="rect" id="c141249" href="./CommunicationConnectorErrorCode.html" title="org.universAAL.middleware.connectors.exception.CommunicationConnectorErrorCode" alt="" coords="266,11,497,53"/>
+<area shape="rect" id="c141250" href="./CommunicationConnectorException.html" title="org.universAAL.middleware.connectors.exception.CommunicationConnectorException" alt="" coords="541,19,771,45"/>
+<area shape="rect" id="c141251" href="./DiscoveryConnectorException.html" title="org.universAAL.middleware.connectors.exception.DiscoveryConnectorException" alt="" coords="816,19,1013,45"/>
+</map>

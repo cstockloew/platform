@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c7316583" href="./DelegationAccessChecker.html" title="org.universAAL.security.authorisator.access_checkers.DelegationAccessChecker" alt="" coords="16,214,192,239"/>
+<area shape="rect" id="c7316584" href="./CheckUserRoles.html" title="org.universAAL.security.authorisator.access_checkers.CheckUserRoles" alt="" coords="98,118,219,143"/>
+<area shape="rect" id="c7316586" href="../interfaces/AccessChecker.html" title="org.universAAL.security.authorisator.interfaces.AccessChecker" alt="" coords="47,11,161,53"/>
+</map>

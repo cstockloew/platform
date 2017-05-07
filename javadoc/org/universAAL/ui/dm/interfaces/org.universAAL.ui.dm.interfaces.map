@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="c1037196" href="./IUIRequestStore.html" title="org.universAAL.ui.dm.interfaces.IUIRequestStore" alt="" coords="15,11,134,53"/>
+<area shape="rect" id="c1037197" href="./IUIPreferencesBuffer.html" title="org.universAAL.ui.dm.interfaces.IUIPreferencesBuffer" alt="" coords="179,11,323,53"/>
+<area shape="rect" id="c1037198" href="./ISystemMenuProvider.html" title="org.universAAL.ui.dm.interfaces.ISystemMenuProvider" alt="" coords="273,113,423,154"/>
+<area shape="rect" id="c1037199" href="./IMainMenuProvider.html" title="org.universAAL.ui.dm.interfaces.IMainMenuProvider" alt="" coords="468,113,601,154"/>
+<area shape="rect" id="c1037200" href="./IAdapter.html" title="org.universAAL.ui.dm.interfaces.IAdapter" alt="" coords="560,11,645,53"/>
+<area shape="rect" id="c1037201" href="./IUIPreferencesChangeListener.html" title="org.universAAL.ui.dm.interfaces.IUIPreferencesChangeListener" alt="" coords="691,11,891,53"/>
+<area shape="rect" id="c1037202" href="./IUIRequestPool.html" title="org.universAAL.ui.dm.interfaces.IUIRequestPool" alt="" coords="935,11,1049,53"/>
+<area shape="rect" id="c1037203" href="./IDialogBuilder.html" title="org.universAAL.ui.dm.interfaces.IDialogBuilder" alt="" coords="1093,11,1195,53"/>
+<area shape="rect" id="c1037204" href="./ISubmitGroupListener.html" title="org.universAAL.ui.dm.interfaces.ISubmitGroupListener" alt="" coords="368,11,515,53"/>
+</map>

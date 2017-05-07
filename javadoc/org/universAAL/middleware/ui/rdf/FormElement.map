@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c3099700" href="../../rdf/FinalizedResource.html" title="org.universAAL.middleware.rdf.FinalizedResource" alt="" coords="95,17,224,42"/>
+<area shape="rect" id="c3100103" href="./FormElement.html" title="org.universAAL.middleware.ui.rdf.FormElement" alt="" coords="110,115,209,141"/>
+<area shape="rect" id="c3100095" href="./Form.html" title="org.universAAL.middleware.ui.rdf.Form" alt="" coords="17,214,67,239"/>
+<area shape="rect" id="c3100099" href="./FormControl.html" title="org.universAAL.middleware.ui.rdf.FormControl" alt="" coords="113,214,206,239"/>
+<area shape="rect" id="c3100104" href="./Label.html" title="org.universAAL.middleware.ui.rdf.Label" alt="" coords="192,329,244,354"/>
+</map>

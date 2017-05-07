@@ -1,0 +1,30 @@
+<map id="G" name="G">
+<area shape="rect" id="c873082" href="./LightdimmerSensorWrapper.html" title="org.universAAL.lddi.smarthome.exporter.devices.LightdimmerSensorWrapper" alt="" coords="1453,310,1635,335"/>
+<area shape="rect" id="c873083" href="./DimmerActuatorWrapper.html" title="org.universAAL.lddi.smarthome.exporter.devices.DimmerActuatorWrapper" alt="" coords="1680,310,1845,335"/>
+<area shape="rect" id="c873084" href="./BlindControllerWrapper.html" title="org.universAAL.lddi.smarthome.exporter.devices.BlindControllerWrapper" alt="" coords="1891,310,2045,335"/>
+<area shape="rect" id="c873085" href="./CurtainActuatorWrapper.html" title="org.universAAL.lddi.smarthome.exporter.devices.CurtainActuatorWrapper" alt="" coords="2090,310,2251,335"/>
+<area shape="rect" id="c873086" href="./WindowSensorWrapper.html" title="org.universAAL.lddi.smarthome.exporter.devices.WindowSensorWrapper" alt="" coords="16,310,173,335"/>
+<area shape="rect" id="c873087" href="./WaterflowSensorWrapper.html" title="org.universAAL.lddi.smarthome.exporter.devices.WaterflowSensorWrapper" alt="" coords="218,310,387,335"/>
+<area shape="rect" id="c873088" href="./DimmerSensorWrapper.html" title="org.universAAL.lddi.smarthome.exporter.devices.DimmerSensorWrapper" alt="" coords="2296,310,2453,335"/>
+<area shape="rect" id="c873089" href="./LightdimmerControllerWrapper.html" title="org.universAAL.lddi.smarthome.exporter.devices.LightdimmerControllerWrapper" alt="" coords="2499,310,2696,335"/>
+<area shape="rect" id="c873090" href="./ContactSensorWrapper.html" title="org.universAAL.lddi.smarthome.exporter.devices.ContactSensorWrapper" alt="" coords="432,310,589,335"/>
+<area shape="rect" id="c873091" href="./LightswitchControllerWrapper.html" title="org.universAAL.lddi.smarthome.exporter.devices.LightswitchControllerWrapper" alt="" coords="2741,310,2933,335"/>
+<area shape="rect" id="c873092" href="./PresenceSensorWrapper.html" title="org.universAAL.lddi.smarthome.exporter.devices.PresenceSensorWrapper" alt="" coords="635,310,800,335"/>
+<area shape="rect" id="c873093" href="./LightswitchSensorWrapper.html" title="org.universAAL.lddi.smarthome.exporter.devices.LightswitchSensorWrapper" alt="" coords="2978,310,3155,335"/>
+<area shape="rect" id="c873094" href="./SwitchControllerWrapper.html" title="org.universAAL.lddi.smarthome.exporter.devices.SwitchControllerWrapper" alt="" coords="845,310,1011,335"/>
+<area shape="rect" id="c873095" href="./LightswitchActuatorWrapper.html" title="org.universAAL.lddi.smarthome.exporter.devices.LightswitchActuatorWrapper" alt="" coords="3199,310,3385,335"/>
+<area shape="rect" id="c873096" href="./BlindActuatorWrapper.html" title="org.universAAL.lddi.smarthome.exporter.devices.BlindActuatorWrapper" alt="" coords="3429,310,3577,335"/>
+<area shape="rect" id="c873097" href="./BlindSensorWrapper.html" title="org.universAAL.lddi.smarthome.exporter.devices.BlindSensorWrapper" alt="" coords="3621,310,3761,335"/>
+<area shape="rect" id="c873098" href="./DimmerControllerWrapper.html" title="org.universAAL.lddi.smarthome.exporter.devices.DimmerControllerWrapper" alt="" coords="3805,310,3977,335"/>
+<area shape="rect" id="c873099" href="./TemperatureSensorWrapper.html" title="org.universAAL.lddi.smarthome.exporter.devices.TemperatureSensorWrapper" alt="" coords="4667,310,4851,335"/>
+<area shape="rect" id="c873100" href="./LightdimmerActuatorWrapper.html" title="org.universAAL.lddi.smarthome.exporter.devices.LightdimmerActuatorWrapper" alt="" coords="4021,310,4211,335"/>
+<area shape="rect" id="c873101" href="./SwitchActuatorWrapper.html" title="org.universAAL.lddi.smarthome.exporter.devices.SwitchActuatorWrapper" alt="" coords="1055,310,1214,335"/>
+<area shape="rect" id="c873102" href="./CurtainSensorWrapper.html" title="org.universAAL.lddi.smarthome.exporter.devices.CurtainSensorWrapper" alt="" coords="4255,310,4409,335"/>
+<area shape="rect" id="c873103" href="./AbstractStatusValueCallee.html" title="org.universAAL.lddi.smarthome.exporter.devices.AbstractStatusValueCallee" alt="" coords="734,214,911,239"/>
+<area shape="rect" id="c873104" href="./SwitchSensorWrapper.html" title="org.universAAL.lddi.smarthome.exporter.devices.SwitchSensorWrapper" alt="" coords="1258,310,1409,335"/>
+<area shape="rect" id="c873105" href="./AbstractIntegerCallee.html" title="org.universAAL.lddi.smarthome.exporter.devices.AbstractIntegerCallee" alt="" coords="2993,214,3140,239"/>
+<area shape="rect" id="c873106" href="./CurtainControllerWrapper.html" title="org.universAAL.lddi.smarthome.exporter.devices.CurtainControllerWrapper" alt="" coords="4453,310,4621,335"/>
+<area shape="rect" id="c873107" href="./GenericDevice.html" title="org.universAAL.lddi.smarthome.exporter.devices.GenericDevice" alt="" coords="3013,11,3120,53"/>
+<area shape="rect" id="c873108" href="./AbstractCallee.html" title="org.universAAL.lddi.smarthome.exporter.devices.AbstractCallee" alt="" coords="3013,118,3120,143"/>
+<area shape="rect" id="c873109" href="./AbstractFloatCallee.html" title="org.universAAL.lddi.smarthome.exporter.devices.AbstractFloatCallee" alt="" coords="3937,214,4073,239"/>
+</map>

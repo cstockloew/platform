@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c5290427" href="../../container/SharedObjectListener.html" title="org.universAAL.middleware.container.SharedObjectListener" alt="" coords="15,113,161,154"/>
+<area shape="rect" id="c5291662" href="./CommunicationModuleImpl.html" title="org.universAAL.middleware.modules.communication.CommunicationModuleImpl" alt="" coords="309,219,488,245"/>
+<area shape="rect" id="c5290726" href="../ConfigurableCommunicationModule.html" title="org.universAAL.middleware.modules.ConfigurableCommunicationModule" alt="" coords="205,113,432,154"/>
+<area shape="rect" id="c5290730" href="../CommunicationModule.html" title="org.universAAL.middleware.modules.CommunicationModule" alt="" coords="322,11,475,53"/>
+<area shape="rect" id="c5293220" href="http://java.sun.com/j2se/1.4.2/docs/api/java/util/concurrent/RejectedExecutionHandler.html" title="java.util.concurrent.RejectedExecutionHandler" alt="" coords="528,113,704,154"/>
+</map>

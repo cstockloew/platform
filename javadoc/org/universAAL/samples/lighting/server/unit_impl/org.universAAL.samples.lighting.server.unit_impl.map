@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c1178332" href="./UILampsController.html" title="org.universAAL.samples.lighting.server.unit_impl.UILampsController" alt="" coords="15,118,145,143"/>
+<area shape="rect" id="c1178333" href="./UILampsView.html" title="org.universAAL.samples.lighting.server.unit_impl.UILampsView" alt="" coords="189,19,291,45"/>
+<area shape="rect" id="c1178334" href="./MyLighting.html" title="org.universAAL.samples.lighting.server.unit_impl.MyLighting" alt="" coords="335,19,419,45"/>
+<area shape="rect" id="c1178335" href="./LampStateListener.html" title="org.universAAL.samples.lighting.server.unit_impl.LampStateListener" alt="" coords="15,11,145,53"/>
+</map>

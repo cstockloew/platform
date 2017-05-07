@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c7880300" href="../interfaces/IDialogBuilder.html" title="org.universAAL.ui.dm.interfaces.IDialogBuilder" alt="" coords="16,11,117,53"/>
+<area shape="rect" id="c7880315" href="./PendingDialogBuilder.html" title="org.universAAL.ui.dm.userInteraction.PendingDialogBuilder" alt="" coords="43,118,189,143"/>
+<area shape="rect" id="c7880301" href="../interfaces/ISubmitGroupListener.html" title="org.universAAL.ui.dm.interfaces.ISubmitGroupListener" alt="" coords="163,11,309,53"/>
+<area shape="rect" id="c7880314" href="./PendingDialogBuilderWithSubmits.html" title="org.universAAL.ui.dm.userInteraction.PendingDialogBuilderWithSubmits" alt="" coords="66,214,286,239"/>
+</map>

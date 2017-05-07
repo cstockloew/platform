@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c7819918" href="./IUIPreferencesBuffer.html" title="org.universAAL.ui.dm.interfaces.IUIPreferencesBuffer" alt="" coords="265,11,409,53"/>
+<area shape="rect" id="c7819927" href="../ui/preferences/buffer/UIPreferencesBufferPoller.html" title="org.universAAL.ui.dm.ui.preferences.buffer.UIPreferencesBufferPoller" alt="" coords="16,118,189,143"/>
+<area shape="rect" id="c7819928" href="../ui/preferences/buffer/UIPreferencesBufferSubscriptor.html" title="org.universAAL.ui.dm.ui.preferences.buffer.UIPreferencesBufferSubscriptor" alt="" coords="235,118,440,143"/>
+<area shape="rect" id="c7819929" href="../ui/preferences/buffer/UIPreferencesBufferNoUpdate.html" title="org.universAAL.ui.dm.ui.preferences.buffer.UIPreferencesBufferNoUpdate" alt="" coords="485,118,683,143"/>
+</map>

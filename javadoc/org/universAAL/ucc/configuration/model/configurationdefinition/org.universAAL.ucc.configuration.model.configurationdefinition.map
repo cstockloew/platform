@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="c1397120" href="./Item.html" title="org.universAAL.ucc.configuration.model.configurationdefinition.Item" alt="" coords="18,17,65,42"/>
+<area shape="rect" id="c1397121" href="./Configuration.html" title="org.universAAL.ucc.configuration.model.configurationdefinition.Configuration" alt="" coords="111,17,209,42"/>
+<area shape="rect" id="c1397122" href="./SPARQLConfigItem.html" title="org.universAAL.ucc.configuration.model.configurationdefinition.SPARQLConfigItem" alt="" coords="57,113,196,138"/>
+<area shape="rect" id="c1397123" href="./OnConfigurationModelChangedListener.html" title="org.universAAL.ucc.configuration.model.configurationdefinition.OnConfigurationModelChangedListener" alt="" coords="384,17,632,42"/>
+<area shape="rect" id="c1397124" href="./Dependency.html" title="org.universAAL.ucc.configuration.model.configurationdefinition.Dependency" alt="" coords="677,17,771,42"/>
+<area shape="rect" id="c1397125" href="./MapConfigItem.html" title="org.universAAL.ucc.configuration.model.configurationdefinition.MapConfigItem" alt="" coords="241,113,351,138"/>
+<area shape="rect" id="c1397126" href="./SimpleConfigItem.html" title="org.universAAL.ucc.configuration.model.configurationdefinition.SimpleConfigItem" alt="" coords="396,113,521,138"/>
+<area shape="rect" id="c1397127" href="./Option.html" title="org.universAAL.ucc.configuration.model.configurationdefinition.Option" alt="" coords="816,17,875,42"/>
+<area shape="rect" id="c1397128" href="./Category.html" title="org.universAAL.ucc.configuration.model.configurationdefinition.Category" alt="" coords="919,17,993,42"/>
+<area shape="rect" id="c1397129" href="./Options.html" title="org.universAAL.ucc.configuration.model.configurationdefinition.Options" alt="" coords="1037,17,1102,42"/>
+<area shape="rect" id="c1397130" href="./ConfigItem.html" title="org.universAAL.ucc.configuration.model.configurationdefinition.ConfigItem" alt="" coords="253,17,339,42"/>
+<area shape="rect" id="c1397131" href="./ObjectFactory.html" title="org.universAAL.ucc.configuration.model.configurationdefinition.ObjectFactory" alt="" coords="1146,17,1249,42"/>
+<area shape="rect" id="c1397132" href="./Validators.html" title="org.universAAL.ucc.configuration.model.configurationdefinition.Validators" alt="" coords="1293,17,1371,42"/>
+<area shape="rect" id="c1397133" href="./Validator.html" title="org.universAAL.ucc.configuration.model.configurationdefinition.Validator" alt="" coords="1416,17,1488,42"/>
+</map>

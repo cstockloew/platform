@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c2990697" href="../../bus/model/AbstractBus.html" title="org.universAAL.middleware.bus.model.AbstractBus" alt="" coords="16,19,109,45"/>
+<area shape="rect" id="c2990813" href="./UIBusImpl.html" title="org.universAAL.middleware.ui.impl.UIBusImpl" alt="" coords="88,118,171,143"/>
+<area shape="rect" id="c2990812" href="../IUIBus.html" title="org.universAAL.middleware.ui.IUIBus" alt="" coords="155,11,240,53"/>
+</map>

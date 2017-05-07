@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c317110" href="./WaitingDependencyProxy.html" title="org.universAAL.ioc.dependencies.impl.WaitingDependencyProxy" alt="" coords="15,17,211,42"/>
+<area shape="rect" id="c317111" href="./PassiveDependencyProxy.html" title="org.universAAL.ioc.dependencies.impl.PassiveDependencyProxy" alt="" coords="255,17,454,42"/>
+<area shape="rect" id="c317112" href="./NPEDependencyProxy.html" title="org.universAAL.ioc.dependencies.impl.NPEDependencyProxy" alt="" coords="498,17,678,42"/>
+</map>

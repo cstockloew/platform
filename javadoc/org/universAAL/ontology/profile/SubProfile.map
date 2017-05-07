@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="c3522295" href="../../middleware/owl/ManagedIndividual.html" title="org.universAAL.middleware.owl.ManagedIndividual" alt="" coords="653,17,782,42"/>
+<area shape="rect" id="c3522878" href="./SubProfile.html" title="org.universAAL.ontology.profile.SubProfile" alt="" coords="677,113,758,138"/>
+<area shape="rect" id="c3522862" href="./AALAppSubProfile.html" title="org.universAAL.ontology.profile.AALAppSubProfile" alt="" coords="15,209,145,234"/>
+<area shape="rect" id="c3522864" href="./PersonalInformationSubprofile.html" title="org.universAAL.ontology.profile.PersonalInformationSubprofile" alt="" coords="189,209,384,234"/>
+<area shape="rect" id="c3522866" href="./HRSubProfile.html" title="org.universAAL.ontology.profile.HRSubProfile" alt="" coords="429,209,531,234"/>
+<area shape="rect" id="c3522868" href="./HWSubProfile.html" title="org.universAAL.ontology.profile.HWSubProfile" alt="" coords="576,209,680,234"/>
+<area shape="rect" id="c3523164" href="../ui/preferences/UIPreferencesSubProfile.html" title="org.universAAL.ontology.ui.preferences.UIPreferencesSubProfile" alt="" coords="725,209,891,234"/>
+<area shape="rect" id="c3523191" href="./ui/mainmenu/MenuProfile.html" title="org.universAAL.ontology.profile.ui.mainmenu.MenuProfile" alt="" coords="935,209,1025,234"/>
+<area shape="rect" id="c3523284" href="../health/owl/HealthProfile.html" title="org.universAAL.ontology.health.owl.HealthProfile" alt="" coords="1069,209,1165,234"/>
+<area shape="rect" id="c3523375" href="../security/SecuritySubprofile.html" title="org.universAAL.ontology.security.SecuritySubprofile" alt="" coords="1210,209,1337,234"/>
+</map>

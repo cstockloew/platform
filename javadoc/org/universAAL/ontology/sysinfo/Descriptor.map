@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c5002921" href="../../middleware/owl/ManagedIndividual.html" title="org.universAAL.middleware.owl.ManagedIndividual" alt="" coords="203,17,333,42"/>
+<area shape="rect" id="c5004019" href="./Descriptor.html" title="org.universAAL.ontology.sysinfo.Descriptor" alt="" coords="227,113,309,138"/>
+<area shape="rect" id="c5004016" href="./PeerCardDescriptor.html" title="org.universAAL.ontology.sysinfo.PeerCardDescriptor" alt="" coords="16,209,152,234"/>
+<area shape="rect" id="c5004017" href="./AALSpaceDescriptor.html" title="org.universAAL.ontology.sysinfo.AALSpaceDescriptor" alt="" coords="197,209,339,234"/>
+<area shape="rect" id="c5004020" href="./AALSpaceStatusDescriptor.html" title="org.universAAL.ontology.sysinfo.AALSpaceStatusDescriptor" alt="" coords="384,209,565,234"/>
+</map>

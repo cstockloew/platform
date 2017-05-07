@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c4985671" href="../../middleware/owl/ManagedIndividual.html" title="org.universAAL.middleware.owl.ManagedIndividual" alt="" coords="182,17,311,42"/>
+<area shape="rect" id="c4986763" href="./Factor.html" title="org.universAAL.ontology.security.Factor" alt="" coords="218,113,275,138"/>
+<area shape="rect" id="c4986742" href="./PossessionFactor.html" title="org.universAAL.ontology.security.PossessionFactor" alt="" coords="16,209,141,234"/>
+<area shape="rect" id="c4986748" href="./KnowledgeFactor.html" title="org.universAAL.ontology.security.KnowledgeFactor" alt="" coords="186,209,307,234"/>
+<area shape="rect" id="c4986764" href="./InherenceFactor.html" title="org.universAAL.ontology.security.InherenceFactor" alt="" coords="352,209,467,234"/>
+</map>

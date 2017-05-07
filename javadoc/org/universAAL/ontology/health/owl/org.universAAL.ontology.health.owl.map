@@ -1,0 +1,25 @@
+<map id="G" name="G">
+<area shape="rect" id="c426607" href="./ActivityHeartRateRequirement.html" title="org.universAAL.ontology.health.owl.ActivityHeartRateRequirement" alt="" coords="277,209,475,234"/>
+<area shape="rect" id="c426608" href="./BloodPressureMeasurementTreatment.html" title="org.universAAL.ontology.health.owl.BloodPressureMeasurementTreatment" alt="" coords="973,209,1217,234"/>
+<area shape="rect" id="c426609" href="./BloodPressureRequirement.html" title="org.universAAL.ontology.health.owl.BloodPressureRequirement" alt="" coords="15,113,195,138"/>
+<area shape="rect" id="c426610" href="./HealthProfile.html" title="org.universAAL.ontology.health.owl.HealthProfile" alt="" coords="1276,17,1372,42"/>
+<area shape="rect" id="c426611" href="./Diet.html" title="org.universAAL.ontology.health.owl.Diet" alt="" coords="768,209,813,234"/>
+<area shape="rect" id="c426612" href="./MeasuredPhysicalActivity.html" title="org.universAAL.ontology.health.owl.MeasuredPhysicalActivity" alt="" coords="1261,209,1433,234"/>
+<area shape="rect" id="c426613" href="./Walking.html" title="org.universAAL.ontology.health.owl.Walking" alt="" coords="861,209,929,234"/>
+<area shape="rect" id="c426614" href="./HealthyHabitsAdoption.html" title="org.universAAL.ontology.health.owl.HealthyHabitsAdoption" alt="" coords="817,113,972,138"/>
+<area shape="rect" id="c426615" href="./WeightRequirement.html" title="org.universAAL.ontology.health.owl.WeightRequirement" alt="" coords="240,113,376,138"/>
+<area shape="rect" id="c426616" href="./WeightMeasurementTreatment.html" title="org.universAAL.ontology.health.owl.WeightMeasurementTreatment" alt="" coords="1477,209,1677,234"/>
+<area shape="rect" id="c426617" href="./PerformedMeasurementSession.html" title="org.universAAL.ontology.health.owl.PerformedMeasurementSession" alt="" coords="1478,113,1685,138"/>
+<area shape="rect" id="c426618" href="./ReposeHeartRateRequirement.html" title="org.universAAL.ontology.health.owl.ReposeHeartRateRequirement" alt="" coords="520,209,720,234"/>
+<area shape="rect" id="c426619" href="./HealthProfileOntology.html" title="org.universAAL.ontology.health.owl.HealthProfileOntology" alt="" coords="1690,17,1838,42"/>
+<area shape="rect" id="c426620" href="./PlannedSession.html" title="org.universAAL.ontology.health.owl.PlannedSession" alt="" coords="1883,17,1997,42"/>
+<area shape="rect" id="c426621" href="./PerformedSession.html" title="org.universAAL.ontology.health.owl.PerformedSession" alt="" coords="1517,17,1645,42"/>
+<area shape="rect" id="c426622" href="./MotivationalStatusType.html" title="org.universAAL.ontology.health.owl.MotivationalStatusType" alt="" coords="2043,17,2200,42"/>
+<area shape="rect" id="c426623" href="./StatusType.html" title="org.universAAL.ontology.health.owl.StatusType" alt="" coords="2245,17,2333,42"/>
+<area shape="rect" id="c426624" href="./TreatmentPlanning.html" title="org.universAAL.ontology.health.owl.TreatmentPlanning" alt="" coords="2378,17,2507,42"/>
+<area shape="rect" id="c426625" href="./MeasurementRequirements.html" title="org.universAAL.ontology.health.owl.MeasurementRequirements" alt="" coords="217,17,399,42"/>
+<area shape="rect" id="c426626" href="./HeartRateRequirement.html" title="org.universAAL.ontology.health.owl.HeartRateRequirement" alt="" coords="421,113,576,138"/>
+<area shape="rect" id="c426627" href="./Treatment.html" title="org.universAAL.ontology.health.owl.Treatment" alt="" coords="953,17,1033,42"/>
+<area shape="rect" id="c426628" href="./TakeMeasurementActivity.html" title="org.universAAL.ontology.health.owl.TakeMeasurementActivity" alt="" coords="1260,113,1433,138"/>
+<area shape="rect" id="c426629" href="./HeartRateMeasurementTreatment.html" title="org.universAAL.ontology.health.owl.HeartRateMeasurementTreatment" alt="" coords="1723,209,1941,234"/>
+</map>

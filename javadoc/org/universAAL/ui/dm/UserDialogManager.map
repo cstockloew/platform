@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c7780862" href="../../middleware/ui/IDialogManager.html" title="org.universAAL.middleware.ui.IDialogManager" alt="" coords="16,11,128,53"/>
+<area shape="rect" id="c7782528" href="./UserDialogManager.html" title="org.universAAL.ui.dm.UserDialogManager" alt="" coords="104,118,240,143"/>
+<area shape="rect" id="c7782545" href="./interfaces/IUIPreferencesChangeListener.html" title="org.universAAL.ui.dm.interfaces.IUIPreferencesChangeListener" alt="" coords="173,11,373,53"/>
+</map>

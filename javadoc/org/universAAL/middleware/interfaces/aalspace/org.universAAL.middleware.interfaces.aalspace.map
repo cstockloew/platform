@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c86503" href="./AALSpaceStatus.html" title="org.universAAL.middleware.interfaces.aalspace.AALSpaceStatus" alt="" coords="15,11,137,53"/>
+<area shape="rect" id="c86504" href="./AALSpaceDescriptor.html" title="org.universAAL.middleware.interfaces.aalspace.AALSpaceDescriptor" alt="" coords="181,19,323,45"/>
+<area shape="rect" id="c86505" href="./AALSpaceType.html" title="org.universAAL.middleware.interfaces.aalspace.AALSpaceType" alt="" coords="368,11,480,53"/>
+<area shape="rect" id="c86506" href="./Consts.html" title="org.universAAL.middleware.interfaces.aalspace.Consts" alt="" coords="525,19,587,45"/>
+<area shape="rect" id="c86507" href="./AALSpaceCard.html" title="org.universAAL.middleware.interfaces.aalspace.AALSpaceCard" alt="" coords="631,19,742,45"/>
+</map>

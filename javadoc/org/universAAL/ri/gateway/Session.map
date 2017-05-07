@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c7480524" href="./Session.html" title="org.universAAL.ri.gateway.Session" alt="" coords="250,118,318,143"/>
+<area shape="rect" id="c7480549" href="./operations/OperationChainManager.html" title="org.universAAL.ri.gateway.operations.OperationChainManager" alt="" coords="15,11,177,53"/>
+<area shape="rect" id="c7480559" href="./protocol/MessageReceiver.html" title="org.universAAL.ri.gateway.protocol.MessageReceiver" alt="" coords="221,11,347,53"/>
+<area shape="rect" id="c7480560" href="./protocol/MessageSender.html" title="org.universAAL.ri.gateway.protocol.MessageSender" alt="" coords="392,11,507,53"/>
+</map>

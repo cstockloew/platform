@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="c380504" href="./BodyWeight.html" title="org.universAAL.ontology.X73.BodyWeight" alt="" coords="15,113,107,138"/>
+<area shape="rect" id="c380505" href="./WeighingScale.html" title="org.universAAL.ontology.X73.WeighingScale" alt="" coords="594,113,702,138"/>
+<area shape="rect" id="c380506" href="./Pulse.html" title="org.universAAL.ontology.X73.Pulse" alt="" coords="152,113,205,138"/>
+<area shape="rect" id="c380507" href="./BloodPressureMonitor.html" title="org.universAAL.ontology.X73.BloodPressureMonitor" alt="" coords="747,113,896,138"/>
+<area shape="rect" id="c380508" href="./BloodPressureDia.html" title="org.universAAL.ontology.X73.BloodPressureDia" alt="" coords="251,113,376,138"/>
+<area shape="rect" id="c380509" href="./BloodPressureSys.html" title="org.universAAL.ontology.X73.BloodPressureSys" alt="" coords="421,113,550,138"/>
+<area shape="rect" id="c380510" href="./MDSAttribute.html" title="org.universAAL.ontology.X73.MDSAttribute" alt="" coords="195,17,295,42"/>
+<area shape="rect" id="c380511" href="./X73Ontology.html" title="org.universAAL.ontology.X73.X73Ontology" alt="" coords="805,17,901,42"/>
+<area shape="rect" id="c380512" href="./X73.html" title="org.universAAL.ontology.X73.X73" alt="" coords="950,17,994,42"/>
+<area shape="rect" id="c380513" href="./AbsoluteTimeStamp.html" title="org.universAAL.ontology.X73.AbsoluteTimeStamp" alt="" coords="1043,17,1181,42"/>
+<area shape="rect" id="c380514" href="./compoundBasicNuValue.html" title="org.universAAL.ontology.X73.compoundBasicNuValue" alt="" coords="1226,17,1390,42"/>
+<area shape="rect" id="c380515" href="./SystemModel.html" title="org.universAAL.ontology.X73.SystemModel" alt="" coords="1435,17,1536,42"/>
+<area shape="rect" id="c380516" href="./MDS.html" title="org.universAAL.ontology.X73.MDS" alt="" coords="709,17,760,42"/>
+</map>

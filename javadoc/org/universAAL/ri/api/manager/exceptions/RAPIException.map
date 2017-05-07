@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c7684733" href="./APIImplException.html" title="org.universAAL.ri.api.manager.exceptions.APIImplException" alt="" coords="16,209,141,234"/>
+<area shape="rect" id="c7684734" href="./RAPIException.html" title="org.universAAL.ri.api.manager.exceptions.RAPIException" alt="" coords="105,113,215,138"/>
+<area shape="rect" id="c7684735" href="./PushException.html" title="org.universAAL.ri.api.manager.exceptions.PushException" alt="" coords="187,209,296,234"/>
+<area shape="rect" id="c7685460" href="http://java.sun.com/j2se/1.4.2/docs/api/java/lang/Exception.html" title="java.lang.Exception" alt="" coords="121,17,199,42"/>
+</map>

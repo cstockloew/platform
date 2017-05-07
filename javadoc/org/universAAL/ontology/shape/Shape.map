@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c3459045" href="../../middleware/owl/ManagedIndividual.html" title="org.universAAL.middleware.owl.ManagedIndividual" alt="" coords="138,17,267,42"/>
+<area shape="rect" id="c3459606" href="./Shape.html" title="org.universAAL.ontology.shape.Shape" alt="" coords="174,113,231,138"/>
+<area shape="rect" id="c3459596" href="./BooleanShape.html" title="org.universAAL.ontology.shape.BooleanShape" alt="" coords="15,209,121,234"/>
+<area shape="rect" id="c3459602" href="./Shape2D.html" title="org.universAAL.ontology.shape.Shape2D" alt="" coords="165,209,240,234"/>
+<area shape="rect" id="c3459603" href="./Shape3D.html" title="org.universAAL.ontology.shape.Shape3D" alt="" coords="285,209,360,234"/>
+</map>

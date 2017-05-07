@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="c950821" href="./ProxyMessageReceiver.html" title="org.universAAL.ri.gateway.ProxyMessageReceiver" alt="" coords="16,19,176,45"/>
+<area shape="rect" id="c950822" href="./Exporter.html" title="org.universAAL.ri.gateway.Exporter" alt="" coords="221,19,291,45"/>
+<area shape="rect" id="c950823" href="./Server.html" title="org.universAAL.ri.gateway.Server" alt="" coords="336,19,395,45"/>
+<area shape="rect" id="c950824" href="./Gateway.html" title="org.universAAL.ri.gateway.Gateway" alt="" coords="477,118,550,143"/>
+<area shape="rect" id="c950825" href="./SessionEventListener.html" title="org.universAAL.ri.gateway.SessionEventListener" alt="" coords="439,11,587,53"/>
+<area shape="rect" id="c950826" href="./SessionEvent.html" title="org.universAAL.ri.gateway.SessionEvent" alt="" coords="632,11,733,53"/>
+<area shape="rect" id="c950830" href="./Session.SessionStatusEvent.html" title="org.universAAL.ri.gateway.Session.SessionStatusEvent" alt="" coords="613,118,753,143"/>
+<area shape="rect" id="c950827" href="./SessionEvent.SessionStatus.html" title="org.universAAL.ri.gateway.SessionEvent.SessionStatus" alt="" coords="778,11,883,53"/>
+<area shape="rect" id="c950828" href="./Importer.html" title="org.universAAL.ri.gateway.Importer" alt="" coords="928,19,997,45"/>
+<area shape="rect" id="c950829" href="./Session.html" title="org.universAAL.ri.gateway.Session" alt="" coords="1042,19,1110,45"/>
+</map>

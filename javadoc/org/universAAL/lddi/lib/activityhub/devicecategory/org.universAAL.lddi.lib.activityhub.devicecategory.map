@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="c743509" href="./Iso11073PersSensor.html" title="org.universAAL.lddi.lib.activityhub.devicecategory.Iso11073PersSensor" alt="" coords="16,113,157,154"/>
+<area shape="rect" id="c743510" href="./Iso11073SwitchSensor.html" title="org.universAAL.lddi.lib.activityhub.devicecategory.Iso11073SwitchSensor" alt="" coords="203,113,357,154"/>
+<area shape="rect" id="c743511" href="./Iso11073EnuresisSensor.html" title="org.universAAL.lddi.lib.activityhub.devicecategory.Iso11073EnuresisSensor" alt="" coords="403,113,568,154"/>
+<area shape="rect" id="c743512" href="./Iso11073CoSensor.html" title="org.universAAL.lddi.lib.activityhub.devicecategory.Iso11073CoSensor" alt="" coords="613,113,745,154"/>
+<area shape="rect" id="c743513" href="./Iso11073MotionSensor.html" title="org.universAAL.lddi.lib.activityhub.devicecategory.Iso11073MotionSensor" alt="" coords="789,113,942,154"/>
+<area shape="rect" id="c743514" href="./Iso11073TemperatureSensor.html" title="org.universAAL.lddi.lib.activityhub.devicecategory.Iso11073TemperatureSensor" alt="" coords="986,113,1174,154"/>
+<area shape="rect" id="c743515" href="./Iso11073FallSensor.html" title="org.universAAL.lddi.lib.activityhub.devicecategory.Iso11073FallSensor" alt="" coords="1219,113,1355,154"/>
+<area shape="rect" id="c743516" href="./Iso11073SmokeSensor.html" title="org.universAAL.lddi.lib.activityhub.devicecategory.Iso11073SmokeSensor" alt="" coords="1399,113,1555,154"/>
+<area shape="rect" id="c743517" href="./Iso11073WaterSensor.html" title="org.universAAL.lddi.lib.activityhub.devicecategory.Iso11073WaterSensor" alt="" coords="1600,113,1749,154"/>
+<area shape="rect" id="c743518" href="./Iso11073GasSensor.html" title="org.universAAL.lddi.lib.activityhub.devicecategory.Iso11073GasSensor" alt="" coords="1795,113,1933,154"/>
+<area shape="rect" id="c743519" href="./Iso11073PropertyExitSensor.html" title="org.universAAL.lddi.lib.activityhub.devicecategory.Iso11073PropertyExitSensor" alt="" coords="1979,113,2165,154"/>
+<area shape="rect" id="c743520" href="./Iso11073UsageSensor.html" title="org.universAAL.lddi.lib.activityhub.devicecategory.Iso11073UsageSensor" alt="" coords="2210,113,2363,154"/>
+<area shape="rect" id="c743521" href="./Iso11073ContactClosureSensor.html" title="org.universAAL.lddi.lib.activityhub.devicecategory.Iso11073ContactClosureSensor" alt="" coords="2408,113,2613,154"/>
+<area shape="rect" id="c743522" href="./ActivityHubBaseDeviceCategory.html" title="org.universAAL.lddi.lib.activityhub.devicecategory.ActivityHubBaseDeviceCategory" alt="" coords="1275,11,1488,53"/>
+<area shape="rect" id="c743523" href="./Iso11073MedicationDosageSensor.html" title="org.universAAL.lddi.lib.activityhub.devicecategory.Iso11073MedicationDosageSensor" alt="" coords="2658,113,2881,154"/>
+<area shape="rect" id="c743524" href="./ActivityHubDeviceCategoryUtil.html" title="org.universAAL.lddi.lib.activityhub.devicecategory.ActivityHubDeviceCategoryUtil" alt="" coords="1533,19,1736,45"/>
+<area shape="rect" id="c743525" href="./ActivityHubDeviceCategoryUtil.ActivityHubDeviceCategory.html" title="org.universAAL.lddi.lib.activityhub.devicecategory.ActivityHubDeviceCategoryUtil.ActivityHubDeviceCategory" alt="" coords="1781,11,1963,53"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c3102967" href="./Select.html" title="org.universAAL.middleware.ui.rdf.Select" alt="" coords="15,115,73,141"/>
+<area shape="rect" id="c3102979" href="./Label.html" title="org.universAAL.middleware.ui.rdf.Label" alt="" coords="138,230,190,255"/>
+<area shape="rect" id="c3102974" href="./FormControl.html" title="org.universAAL.middleware.ui.rdf.FormControl" alt="" coords="117,115,211,141"/>
+<area shape="rect" id="c3102977" href="./ChoiceItem.html" title="org.universAAL.middleware.ui.rdf.ChoiceItem" alt="" coords="33,345,121,370"/>
+<area shape="rect" id="c3102978" href="./FormElement.html" title="org.universAAL.middleware.ui.rdf.FormElement" alt="" coords="177,17,276,42"/>
+<area shape="rect" id="c3102980" href="./ChoiceList.html" title="org.universAAL.middleware.ui.rdf.ChoiceList" alt="" coords="167,345,249,370"/>
+</map>

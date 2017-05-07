@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c2303402" href="./InstanceScope.html" title="org.universAAL.middleware.interfaces.configuration.scope.InstanceScope" alt="" coords="15,209,123,234"/>
+<area shape="rect" id="c2303404" href="./AALSpaceScope.html" title="org.universAAL.middleware.interfaces.configuration.scope.AALSpaceScope" alt="" coords="88,113,208,138"/>
+<area shape="rect" id="c2303405" href="./ApplicationScope.html" title="org.universAAL.middleware.interfaces.configuration.scope.ApplicationScope" alt="" coords="167,209,289,234"/>
+<area shape="rect" id="c2303407" href="./Scope.html" title="org.universAAL.middleware.interfaces.configuration.scope.Scope" alt="" coords="119,17,177,42"/>
+</map>

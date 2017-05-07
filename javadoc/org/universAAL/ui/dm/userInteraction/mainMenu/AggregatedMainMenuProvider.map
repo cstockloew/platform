@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c7888921" href="../../interfaces/IMainMenuProvider.html" title="org.universAAL.ui.dm.interfaces.IMainMenuProvider" alt="" coords="79,11,212,53"/>
+<area shape="rect" id="c7888943" href="./AggregatedMainMenuProvider.html" title="org.universAAL.ui.dm.userInteraction.mainMenu.AggregatedMainMenuProvider" alt="" coords="48,118,243,143"/>
+<area shape="rect" id="c7888944" href="./SearchableAggregatedMainMenuProvider.html" title="org.universAAL.ui.dm.userInteraction.mainMenu.SearchableAggregatedMainMenuProvider" alt="" coords="15,214,275,239"/>
+</map>

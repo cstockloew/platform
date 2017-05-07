@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="c1834525" href="./IntRestriction.html" title="org.universAAL.middleware.owl.IntRestriction" alt="" coords="16,209,115,234"/>
+<area shape="rect" id="c1834535" href="./IndividualRestriction.html" title="org.universAAL.middleware.owl.IndividualRestriction" alt="" coords="160,209,299,234"/>
+<area shape="rect" id="c1834536" href="./LongRestriction.html" title="org.universAAL.middleware.owl.LongRestriction" alt="" coords="344,209,456,234"/>
+<area shape="rect" id="c1834542" href="./FloatRestriction.html" title="org.universAAL.middleware.owl.FloatRestriction" alt="" coords="501,209,614,234"/>
+<area shape="rect" id="c1834546" href="./TypeRestriction.html" title="org.universAAL.middleware.owl.TypeRestriction" alt="" coords="343,17,457,42"/>
+<area shape="rect" id="c1834548" href="./BoundedValueRestriction.html" title="org.universAAL.middleware.owl.BoundedValueRestriction" alt="" coords="316,113,484,138"/>
+<area shape="rect" id="c1834549" href="./DoubleRestriction.html" title="org.universAAL.middleware.owl.DoubleRestriction" alt="" coords="659,209,784,234"/>
+</map>

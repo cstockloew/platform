@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c1034315" href="./UIRequestPriorityComparator.html" title="org.universAAL.ui.dm.dialogManagement.UIRequestPriorityComparator" alt="" coords="15,17,209,42"/>
+<area shape="rect" id="c1034316" href="./DialogPriorityQueueVerbosity.html" title="org.universAAL.ui.dm.dialogManagement.DialogPriorityQueueVerbosity" alt="" coords="253,17,445,42"/>
+<area shape="rect" id="c1034317" href="./DialogPoolCopier.html" title="org.universAAL.ui.dm.dialogManagement.DialogPoolCopier" alt="" coords="490,17,611,42"/>
+<area shape="rect" id="c1034318" href="./DialogPoolFileStorage.html" title="org.universAAL.ui.dm.dialogManagement.DialogPoolFileStorage" alt="" coords="656,17,805,42"/>
+<area shape="rect" id="c1034319" href="./DialogPriorityQueue.html" title="org.universAAL.ui.dm.dialogManagement.DialogPriorityQueue" alt="" coords="850,17,987,42"/>
+<area shape="rect" id="c1034320" href="./NonRedundantDialogPriorityQueue.html" title="org.universAAL.ui.dm.dialogManagement.NonRedundantDialogPriorityQueue" alt="" coords="807,113,1031,138"/>
+</map>

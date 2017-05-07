@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c2941574" href="../../../rdf/Variable.html" title="org.universAAL.middleware.rdf.Variable" alt="" coords="174,17,242,42"/>
+<area shape="rect" id="c2941921" href="./ProcessParameter.html" title="org.universAAL.middleware.service.owls.process.ProcessParameter" alt="" coords="143,113,273,138"/>
+<area shape="rect" id="c2941917" href="./ProcessLocal.html" title="org.universAAL.middleware.service.owls.process.ProcessLocal" alt="" coords="15,209,115,234"/>
+<area shape="rect" id="c2941920" href="./ProcessInput.html" title="org.universAAL.middleware.service.owls.process.ProcessInput" alt="" coords="159,209,257,234"/>
+<area shape="rect" id="c2941922" href="./ProcessOutput.html" title="org.universAAL.middleware.service.owls.process.ProcessOutput" alt="" coords="301,209,409,234"/>
+</map>

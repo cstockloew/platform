@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c8170772" href="../IContainerManager.html" title="org.universAAL.ui.handler.gui.swing.IContainerManager" alt="" coords="16,11,147,53"/>
+<area shape="rect" id="c8170853" href="./Activator.html" title="org.universAAL.ui.handler.gui.swing.osgi.Activator" alt="" coords="127,118,201,143"/>
+<area shape="rect" id="c8171410" href="http://java.sun.com/j2se/1.4.2/docs/api/org/osgi/framework/BundleActivator.html" title="org.osgi.framework.BundleActivator" alt="" coords="191,11,305,53"/>
+</map>

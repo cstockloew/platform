@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c4509331" href="./StructuralFault.html" title="org.universAAL.ontology.dependability.StructuralFault" alt="" coords="15,209,121,234"/>
+<area shape="rect" id="c4509332" href="./ShapeFault.html" title="org.universAAL.ontology.dependability.ShapeFault" alt="" coords="165,209,251,234"/>
+<area shape="rect" id="c4509347" href="./PhysicalFault.html" title="org.universAAL.ontology.dependability.PhysicalFault" alt="" coords="158,113,258,138"/>
+<area shape="rect" id="c4509348" href="./PropertyFault.html" title="org.universAAL.ontology.dependability.PropertyFault" alt="" coords="296,209,395,234"/>
+<area shape="rect" id="c4509358" href="./Fault.html" title="org.universAAL.ontology.dependability.Fault" alt="" coords="183,17,233,42"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="c968105" href="./OSGIActivator.html" title="org.universAAL.ri.gateway.osgi.OSGIActivator" alt="" coords="15,17,121,42"/>
+<area shape="rect" id="c968106" href="./GatewayCommand.html" title="org.universAAL.ri.gateway.osgi.GatewayCommand" alt="" coords="165,17,299,42"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c7616918" href="../../../../middleware/service/ServiceCallee.html" title="org.universAAL.middleware.service.ServiceCallee" alt="" coords="16,19,117,45"/>
+<area shape="rect" id="c7618583" href="./ProxySCallee.html" title="org.universAAL.ri.gateway.proxies.importing.ProxySCallee" alt="" coords="95,118,196,143"/>
+<area shape="rect" id="c7618579" href="../ProxyBusMember.html" title="org.universAAL.ri.gateway.proxies.ProxyBusMember" alt="" coords="163,11,288,53"/>
+</map>

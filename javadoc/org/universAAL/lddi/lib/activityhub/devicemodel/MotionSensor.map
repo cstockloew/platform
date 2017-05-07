@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c6617593" href="../devicecategory/Iso11073MotionSensor.html" title="org.universAAL.lddi.lib.activityhub.devicecategory.Iso11073MotionSensor" alt="" coords="15,11,169,53"/>
+<area shape="rect" id="c6617609" href="./MotionSensor.html" title="org.universAAL.lddi.lib.activityhub.devicemodel.MotionSensor" alt="" coords="133,118,235,143"/>
+<area shape="rect" id="c6617617" href="./ActivityHubSensor.html" title="org.universAAL.lddi.lib.activityhub.devicemodel.ActivityHubSensor" alt="" coords="213,19,342,45"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="c4051982" href="../device/Sensor.html" title="org.universAAL.ontology.device.Sensor" alt="" coords="1067,17,1128,42"/>
+<area shape="rect" id="c4052063" href="./ActivityHubSensor.html" title="org.universAAL.ontology.activityhub.ActivityHubSensor" alt="" coords="1033,113,1162,138"/>
+<area shape="rect" id="c4052038" href="./WaterSensor.html" title="org.universAAL.ontology.activityhub.WaterSensor" alt="" coords="15,209,113,234"/>
+<area shape="rect" id="c4052039" href="./MotionSensor.html" title="org.universAAL.ontology.activityhub.MotionSensor" alt="" coords="157,209,259,234"/>
+<area shape="rect" id="c4052040" href="./ContactClosureSensor.html" title="org.universAAL.ontology.activityhub.ContactClosureSensor" alt="" coords="303,209,457,234"/>
+<area shape="rect" id="c4052042" href="./PersSensor.html" title="org.universAAL.ontology.activityhub.PersSensor" alt="" coords="501,209,590,234"/>
+<area shape="rect" id="c4052043" href="./CoSensor.html" title="org.universAAL.ontology.activityhub.CoSensor" alt="" coords="634,209,713,234"/>
+<area shape="rect" id="c4052044" href="./MedicationDosageSensor.html" title="org.universAAL.ontology.activityhub.MedicationDosageSensor" alt="" coords="757,209,926,234"/>
+<area shape="rect" id="c4052047" href="./SmokeSensor.html" title="org.universAAL.ontology.activityhub.SmokeSensor" alt="" coords="970,209,1073,234"/>
+<area shape="rect" id="c4052048" href="./EnuresisSensor.html" title="org.universAAL.ontology.activityhub.EnuresisSensor" alt="" coords="1117,209,1230,234"/>
+<area shape="rect" id="c4052051" href="./SwitchSensor.html" title="org.universAAL.ontology.activityhub.SwitchSensor" alt="" coords="1275,209,1376,234"/>
+<area shape="rect" id="c4052053" href="./GasSensor.html" title="org.universAAL.ontology.activityhub.GasSensor" alt="" coords="1421,209,1507,234"/>
+<area shape="rect" id="c4052056" href="./FallSensor.html" title="org.universAAL.ontology.activityhub.FallSensor" alt="" coords="1552,209,1635,234"/>
+<area shape="rect" id="c4052058" href="./UsageSensor.html" title="org.universAAL.ontology.activityhub.UsageSensor" alt="" coords="1679,209,1779,234"/>
+<area shape="rect" id="c4052061" href="./TemperatureSensor.html" title="org.universAAL.ontology.activityhub.TemperatureSensor" alt="" coords="1823,209,1958,234"/>
+<area shape="rect" id="c4052064" href="./PropertyExitSensor.html" title="org.universAAL.ontology.activityhub.PropertyExitSensor" alt="" coords="2003,209,2136,234"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="G" name="G">
+<area shape="rect" id="c253665" href="./QuasiCylinder.html" title="org.universAAL.ontology.shape.QuasiCylinder" alt="" coords="271,209,374,234"/>
+<area shape="rect" id="c253666" href="./ConeSegment.html" title="org.universAAL.ontology.shape.ConeSegment" alt="" coords="619,497,723,522"/>
+<area shape="rect" id="c253667" href="./Line.html" title="org.universAAL.ontology.shape.Line" alt="" coords="648,305,693,330"/>
+<area shape="rect" id="c253668" href="./LineSegment.html" title="org.universAAL.ontology.shape.LineSegment" alt="" coords="622,401,719,426"/>
+<area shape="rect" id="c253669" href="./Box.html" title="org.universAAL.ontology.shape.Box" alt="" coords="422,209,466,234"/>
+<area shape="rect" id="c253670" href="./Polyhedron.html" title="org.universAAL.ontology.shape.Polyhedron" alt="" coords="515,209,600,234"/>
+<area shape="rect" id="c253671" href="./Path.html" title="org.universAAL.ontology.shape.Path" alt="" coords="647,209,695,234"/>
+<area shape="rect" id="c253672" href="./BooleanShape.html" title="org.universAAL.ontology.shape.BooleanShape" alt="" coords="15,113,121,138"/>
+<area shape="rect" id="c253673" href="./MergedShape.html" title="org.universAAL.ontology.shape.MergedShape" alt="" coords="17,209,119,234"/>
+<area shape="rect" id="c253674" href="./Ellipse.html" title="org.universAAL.ontology.shape.Ellipse" alt="" coords="167,209,227,234"/>
+<area shape="rect" id="c253675" href="./Circle.html" title="org.universAAL.ontology.shape.Circle" alt="" coords="170,305,225,330"/>
+<area shape="rect" id="c253676" href="./ShapeOntology.html" title="org.universAAL.ontology.shape.ShapeOntology" alt="" coords="276,17,385,42"/>
+<area shape="rect" id="c253677" href="./Sphere.html" title="org.universAAL.ontology.shape.Sphere" alt="" coords="741,209,803,234"/>
+<area shape="rect" id="c253678" href="./Shape2D.html" title="org.universAAL.ontology.shape.Shape2D" alt="" coords="165,113,240,138"/>
+<area shape="rect" id="c253679" href="./Shape3D.html" title="org.universAAL.ontology.shape.Shape3D" alt="" coords="520,113,595,138"/>
+<area shape="rect" id="c253680" href="./Polygon.html" title="org.universAAL.ontology.shape.Polygon" alt="" coords="847,209,915,234"/>
+<area shape="rect" id="c253681" href="./Triangle.html" title="org.universAAL.ontology.shape.Triangle" alt="" coords="848,305,915,330"/>
+<area shape="rect" id="c253682" href="./Shape.html" title="org.universAAL.ontology.shape.Shape" alt="" coords="174,17,231,42"/>
+</map>

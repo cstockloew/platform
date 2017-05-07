@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c3770179" href="./DoorController.html" title="org.universAAL.ontology.device.DoorController" alt="" coords="15,209,121,234"/>
+<area shape="rect" id="c3770214" href="./DoorActuator.html" title="org.universAAL.ontology.device.DoorActuator" alt="" coords="19,113,117,138"/>
+<area shape="rect" id="c3770225" href="./Actuator.html" title="org.universAAL.ontology.device.Actuator" alt="" coords="33,17,103,42"/>
+</map>

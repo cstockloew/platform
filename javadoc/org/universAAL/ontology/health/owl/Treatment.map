@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c4738421" href="../../../middleware/owl/ManagedIndividual.html" title="org.universAAL.middleware.owl.ManagedIndividual" alt="" coords="133,17,262,42"/>
+<area shape="rect" id="c4739427" href="./Treatment.html" title="org.universAAL.ontology.health.owl.Treatment" alt="" coords="157,113,237,138"/>
+<area shape="rect" id="c4739414" href="./HealthyHabitsAdoption.html" title="org.universAAL.ontology.health.owl.HealthyHabitsAdoption" alt="" coords="16,209,171,234"/>
+<area shape="rect" id="c4739428" href="./TakeMeasurementActivity.html" title="org.universAAL.ontology.health.owl.TakeMeasurementActivity" alt="" coords="216,209,389,234"/>
+</map>

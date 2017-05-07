@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c3614295" href="../../middleware/owl/ManagedIndividual.html" title="org.universAAL.middleware.owl.ManagedIndividual" alt="" coords="15,17,145,42"/>
+<area shape="rect" id="c3614910" href="./Unit.html" title="org.universAAL.ontology.unit.Unit" alt="" coords="60,230,105,255"/>
+<area shape="rect" id="c3614923" href="../measurement/Measurement.html" title="org.universAAL.ontology.measurement.Measurement" alt="" coords="95,115,195,141"/>
+<area shape="rect" id="c3614906" href="./DerivedUnit.html" title="org.universAAL.ontology.unit.DerivedUnit" alt="" coords="38,329,127,354"/>
+</map>

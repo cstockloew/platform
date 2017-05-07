@@ -1,0 +1,23 @@
+<map id="G" name="G">
+<area shape="rect" id="c1103445" href="./SelectLAF.html" title="org.universAAL.ui.gui.swing.bluesteelLAF.SelectLAF" alt="" coords="15,17,97,42"/>
+<area shape="rect" id="c1103446" href="./MediaObjectLAF.html" title="org.universAAL.ui.gui.swing.bluesteelLAF.MediaObjectLAF" alt="" coords="141,17,259,42"/>
+<area shape="rect" id="c1103447" href="./SubmitLAF.html" title="org.universAAL.ui.gui.swing.bluesteelLAF.SubmitLAF" alt="" coords="304,17,389,42"/>
+<area shape="rect" id="c1103448" href="./RepeatLAF.html" title="org.universAAL.ui.gui.swing.bluesteelLAF.RepeatLAF" alt="" coords="434,17,521,42"/>
+<area shape="rect" id="c1103449" href="./Init.html" title="org.universAAL.ui.gui.swing.bluesteelLAF.Init" alt="" coords="571,17,610,42"/>
+<area shape="rect" id="c1103450" href="./GroupTabbedPanelLAF.html" title="org.universAAL.ui.gui.swing.bluesteelLAF.GroupTabbedPanelLAF" alt="" coords="661,17,817,42"/>
+<area shape="rect" id="c1103451" href="./GroupLAF.html" title="org.universAAL.ui.gui.swing.bluesteelLAF.GroupLAF" alt="" coords="861,17,941,42"/>
+<area shape="rect" id="c1103452" href="./Select1RadioButtonLAF.html" title="org.universAAL.ui.gui.swing.bluesteelLAF.Select1RadioButtonLAF" alt="" coords="986,17,1147,42"/>
+<area shape="rect" id="c1103453" href="./SelectCheckBoxLAF.html" title="org.universAAL.ui.gui.swing.bluesteelLAF.SelectCheckBoxLAF" alt="" coords="1191,17,1334,42"/>
+<area shape="rect" id="c1103454" href="./RangeLAF.html" title="org.universAAL.ui.gui.swing.bluesteelLAF.RangeLAF" alt="" coords="1379,17,1461,42"/>
+<area shape="rect" id="c1103455" href="./RepeatModelGridLAF.html" title="org.universAAL.ui.gui.swing.bluesteelLAF.RepeatModelGridLAF" alt="" coords="1506,17,1651,42"/>
+<area shape="rect" id="c1103456" href="./TextAreaLAF.html" title="org.universAAL.ui.gui.swing.bluesteelLAF.TextAreaLAF" alt="" coords="1695,17,1793,42"/>
+<area shape="rect" id="c1103457" href="./LabelLAF.html" title="org.universAAL.ui.gui.swing.bluesteelLAF.LabelLAF" alt="" coords="1837,17,1913,42"/>
+<area shape="rect" id="c1103458" href="./SimpleOutputLAF.html" title="org.universAAL.ui.gui.swing.bluesteelLAF.SimpleOutputLAF" alt="" coords="1957,17,2081,42"/>
+<area shape="rect" id="c1103459" href="./RepeatModelTableLAF.html" title="org.universAAL.ui.gui.swing.bluesteelLAF.RepeatModelTableLAF" alt="" coords="2125,17,2278,42"/>
+<area shape="rect" id="c1103460" href="./SubdialogTriggerLAF.html" title="org.universAAL.ui.gui.swing.bluesteelLAF.SubdialogTriggerLAF" alt="" coords="2323,17,2464,42"/>
+<area shape="rect" id="c1103461" href="./ColorLAF.html" title="org.universAAL.ui.gui.swing.bluesteelLAF.ColorLAF" alt="" coords="2509,17,2585,42"/>
+<area shape="rect" id="c1103462" href="./InputFieldLAF.html" title="org.universAAL.ui.gui.swing.bluesteelLAF.InputFieldLAF" alt="" coords="2629,17,2731,42"/>
+<area shape="rect" id="c1103463" href="./Select1LAF.html" title="org.universAAL.ui.gui.swing.bluesteelLAF.Select1LAF" alt="" coords="2775,17,2865,42"/>
+<area shape="rect" id="c1103464" href="./GroupPanelLAF.html" title="org.universAAL.ui.gui.swing.bluesteelLAF.GroupPanelLAF" alt="" coords="2909,17,3022,42"/>
+<area shape="rect" id="c1103465" href="./FormLAF.html" title="org.universAAL.ui.gui.swing.bluesteelLAF.FormLAF" alt="" coords="3067,17,3141,42"/>
+</map>

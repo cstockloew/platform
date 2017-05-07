@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="c432386" href="./HorizontalAlignment.html" title="org.universAAL.ontology.recommendations.HorizontalAlignment" alt="" coords="453,209,590,234"/>
+<area shape="rect" id="c432387" href="./HorizontalLayout.html" title="org.universAAL.ontology.recommendations.HorizontalLayout" alt="" coords="802,209,921,234"/>
+<area shape="rect" id="c432388" href="./RecommendationsOntology.html" title="org.universAAL.ontology.recommendations.RecommendationsOntology" alt="" coords="749,17,931,42"/>
+<area shape="rect" id="c432389" href="./VerticalLayout.html" title="org.universAAL.ontology.recommendations.VerticalLayout" alt="" coords="965,209,1069,234"/>
+<area shape="rect" id="c432390" href="./MinimumSize.html" title="org.universAAL.ontology.recommendations.MinimumSize" alt="" coords="15,209,115,234"/>
+<area shape="rect" id="c432391" href="./MaximumSize.html" title="org.universAAL.ontology.recommendations.MaximumSize" alt="" coords="160,209,264,234"/>
+<area shape="rect" id="c432392" href="./GridLayout.html" title="org.universAAL.ontology.recommendations.GridLayout" alt="" coords="1114,209,1198,234"/>
+<area shape="rect" id="c432393" href="./Size.html" title="org.universAAL.ontology.recommendations.Size" alt="" coords="262,113,309,138"/>
+<area shape="rect" id="c432394" href="./PreferredSize.html" title="org.universAAL.ontology.recommendations.PreferredSize" alt="" coords="309,209,409,234"/>
+<area shape="rect" id="c432395" href="./Alignment.html" title="org.universAAL.ontology.recommendations.Alignment" alt="" coords="495,113,574,138"/>
+<area shape="rect" id="c432396" href="./VerticalAlignment.html" title="org.universAAL.ontology.recommendations.VerticalAlignment" alt="" coords="635,209,757,234"/>
+<area shape="rect" id="c432397" href="./VisualRecommendation.html" title="org.universAAL.ontology.recommendations.VisualRecommendation" alt="" coords="455,17,614,42"/>
+<area shape="rect" id="c432398" href="./Layout.html" title="org.universAAL.ontology.recommendations.Layout" alt="" coords="909,113,969,138"/>
+<area shape="rect" id="c432399" href="./ScriptedRecommendation.html" title="org.universAAL.ontology.recommendations.ScriptedRecommendation" alt="" coords="1003,17,1173,42"/>
+<area shape="rect" id="c432400" href="./CSSRecommendation.html" title="org.universAAL.ontology.recommendations.CSSRecommendation" alt="" coords="1013,113,1163,138"/>
+<area shape="rect" id="c432401" href="./SizeUnit.html" title="org.universAAL.ontology.recommendations.SizeUnit" alt="" coords="1218,17,1289,42"/>
+</map>

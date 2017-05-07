@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c3945639" href="./SelectRange.html" title="org.universAAL.support.utils.ui.SelectRange" alt="" coords="16,209,112,234"/>
+<area shape="rect" id="c3945640" href="./Check.html" title="org.universAAL.support.utils.ui.Check" alt="" coords="157,209,216,234"/>
+<area shape="rect" id="c3945642" href="./Text.html" title="org.universAAL.support.utils.ui.Text" alt="" coords="263,209,310,234"/>
+<area shape="rect" id="c3945645" href="./SelectMulti.html" title="org.universAAL.support.utils.ui.SelectMulti" alt="" coords="357,209,443,234"/>
+<area shape="rect" id="c3945651" href="./InputControl.html" title="org.universAAL.support.utils.ui.InputControl" alt="" coords="190,113,282,138"/>
+<area shape="rect" id="c3945652" href="./Control.html" title="org.universAAL.support.utils.ui.Control" alt="" coords="205,17,267,42"/>
+</map>

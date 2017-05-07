@@ -1,0 +1,34 @@
+<map id="G" name="G">
+<area shape="rect" id="c3819052" href="./TemperatureLevelSensor.html" title="org.universAAL.ontology.device.TemperatureLevelSensor" alt="" coords="16,209,181,234"/>
+<area shape="rect" id="c3819053" href="./EnuresisSensor.html" title="org.universAAL.ontology.device.EnuresisSensor" alt="" coords="226,209,339,234"/>
+<area shape="rect" id="c3819057" href="./TemperatureSensor.html" title="org.universAAL.ontology.device.TemperatureSensor" alt="" coords="383,209,518,234"/>
+<area shape="rect" id="c3819060" href="./BlindSensor.html" title="org.universAAL.ontology.device.BlindSensor" alt="" coords="563,209,653,234"/>
+<area shape="rect" id="c3819064" href="./WaterFlowSensor.html" title="org.universAAL.ontology.device.WaterFlowSensor" alt="" coords="699,209,824,234"/>
+<area shape="rect" id="c3819065" href="./ContactSensor.html" title="org.universAAL.ontology.device.ContactSensor" alt="" coords="869,209,977,234"/>
+<area shape="rect" id="c3819066" href="./PanicButtonSensor.html" title="org.universAAL.ontology.device.PanicButtonSensor" alt="" coords="1021,209,1155,234"/>
+<area shape="rect" id="c3819067" href="./DimmerSensor.html" title="org.universAAL.ontology.device.DimmerSensor" alt="" coords="1199,209,1307,234"/>
+<area shape="rect" id="c3819069" href="./PresenceSensor.html" title="org.universAAL.ontology.device.PresenceSensor" alt="" coords="1352,209,1469,234"/>
+<area shape="rect" id="c3819071" href="./FallSensor.html" title="org.universAAL.ontology.device.FallSensor" alt="" coords="1515,209,1597,234"/>
+<area shape="rect" id="c3819072" href="./HeaterSensor.html" title="org.universAAL.ontology.device.HeaterSensor" alt="" coords="1643,209,1744,234"/>
+<area shape="rect" id="c3819076" href="./LightSensor.html" title="org.universAAL.ontology.device.LightSensor" alt="" coords="1789,209,1878,234"/>
+<area shape="rect" id="c3819077" href="./CurtainSensor.html" title="org.universAAL.ontology.device.CurtainSensor" alt="" coords="1923,209,2027,234"/>
+<area shape="rect" id="c3819081" href="./EnvironmentSensor.html" title="org.universAAL.ontology.device.EnvironmentSensor" alt="" coords="2071,209,2206,234"/>
+<area shape="rect" id="c3819083" href="./WindowSensor.html" title="org.universAAL.ontology.device.WindowSensor" alt="" coords="2251,209,2360,234"/>
+<area shape="rect" id="c3819086" href="./DosageSensor.html" title="org.universAAL.ontology.device.DosageSensor" alt="" coords="2405,209,2512,234"/>
+<area shape="rect" id="c3819088" href="./MotionSensor.html" title="org.universAAL.ontology.device.MotionSensor" alt="" coords="2557,209,2659,234"/>
+<area shape="rect" id="c3819091" href="./FloodSensor.html" title="org.universAAL.ontology.device.FloodSensor" alt="" coords="2704,209,2797,234"/>
+<area shape="rect" id="c3819093" href="./ExitSensor.html" title="org.universAAL.ontology.device.ExitSensor" alt="" coords="2843,209,2928,234"/>
+<area shape="rect" id="c3819095" href="./GlassBreakSensor.html" title="org.universAAL.ontology.device.GlassBreakSensor" alt="" coords="2973,209,3102,234"/>
+<area shape="rect" id="c3819098" href="./HumiditySensor.html" title="org.universAAL.ontology.device.HumiditySensor" alt="" coords="3146,209,3259,234"/>
+<area shape="rect" id="c3819099" href="./DoorSensor.html" title="org.universAAL.ontology.device.DoorSensor" alt="" coords="3303,209,3393,234"/>
+<area shape="rect" id="c3819103" href="./SwitchSensor.html" title="org.universAAL.ontology.device.SwitchSensor" alt="" coords="3437,209,3539,234"/>
+<area shape="rect" id="c3819105" href="./ValueDevice.html" title="org.universAAL.ontology.device.ValueDevice" alt="" coords="2334,17,2429,42"/>
+<area shape="rect" id="c3819106" href="./Sensor.html" title="org.universAAL.ontology.device.Sensor" alt="" coords="2351,113,2412,138"/>
+<area shape="rect" id="c3819107" href="./EnvironmentMeter.html" title="org.universAAL.ontology.device.EnvironmentMeter" alt="" coords="3583,209,3710,234"/>
+<area shape="rect" id="c3819187" href="../activityhub/ActivityHubSensor.html" title="org.universAAL.ontology.activityhub.ActivityHubSensor" alt="" coords="3754,209,3883,234"/>
+<area shape="rect" id="c3819223" href="./home/CarpetSensor.html" title="org.universAAL.ontology.device.home.CarpetSensor" alt="" coords="3928,209,4029,234"/>
+<area shape="rect" id="c3819372" href="../personalhealthdevice/BloodOxygenSatSensor.html" title="org.universAAL.ontology.personalhealthdevice.BloodOxygenSatSensor" alt="" coords="4075,209,4235,234"/>
+<area shape="rect" id="c3819373" href="../personalhealthdevice/BloodPressureSensor.html" title="org.universAAL.ontology.personalhealthdevice.BloodPressureSensor" alt="" coords="4280,209,4427,234"/>
+<area shape="rect" id="c3819374" href="../personalhealthdevice/HeartRateSensor.html" title="org.universAAL.ontology.personalhealthdevice.HeartRateSensor" alt="" coords="4471,209,4593,234"/>
+<area shape="rect" id="c3819376" href="../personalhealthdevice/WeighingScale.html" title="org.universAAL.ontology.personalhealthdevice.WeighingScale" alt="" coords="4637,209,4745,234"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c3027751" href="../../../container/SharedObjectListener.html" title="org.universAAL.middleware.container.SharedObjectListener" alt="" coords="15,11,161,53"/>
+<area shape="rect" id="c3028201" href="./CoordinatedStrategy.html" title="org.universAAL.middleware.ui.impl.generic.CoordinatedStrategy" alt="" coords="199,118,339,143"/>
+<area shape="rect" id="c3028032" href="../../../managers/api/AALSpaceListener.html" title="org.universAAL.middleware.managers.api.AALSpaceListener" alt="" coords="205,11,334,53"/>
+<area shape="rect" id="c3028196" href="./CoordinatedRegistrationManagement.html" title="org.universAAL.middleware.ui.impl.generic.CoordinatedRegistrationManagement" alt="" coords="151,214,387,239"/>
+<area shape="rect" id="c3028200" href="./CallBasedStrategy.html" title="org.universAAL.middleware.ui.impl.generic.CallBasedStrategy" alt="" coords="378,19,507,45"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="G" name="G">
+<area shape="rect" id="c711660" href="./ConfirmMeasurePrstAPDUtest.html" title="org.universAAL.lddi.lib.ieeex73std.testchannel20601.ConfirmMeasurePrstAPDUtest" alt="" coords="15,17,217,42"/>
+<area shape="rect" id="c711661" href="./RlrqAPDUtest.html" title="org.universAAL.lddi.lib.ieeex73std.testchannel20601.RlrqAPDUtest" alt="" coords="261,17,366,42"/>
+<area shape="rect" id="c711662" href="./RealMeasure10415PrstAPDUtest.html" title="org.universAAL.lddi.lib.ieeex73std.testchannel20601.RealMeasure10415PrstAPDUtest" alt="" coords="410,17,627,42"/>
+<area shape="rect" id="c711663" href="./ExtendedCfg10408.html" title="org.universAAL.lddi.lib.ieeex73std.testchannel20601.ExtendedCfg10408" alt="" coords="671,17,803,42"/>
+<area shape="rect" id="c711664" href="./ExtendedMeasure10408APDUtest.html" title="org.universAAL.lddi.lib.ieeex73std.testchannel20601.ExtendedMeasure10408APDUtest" alt="" coords="848,17,1069,42"/>
+<area shape="rect" id="c711665" href="./ExtendedMeasure10404APDUtest.html" title="org.universAAL.lddi.lib.ieeex73std.testchannel20601.ExtendedMeasure10404APDUtest" alt="" coords="1115,17,1336,42"/>
+<area shape="rect" id="c711666" href="./RlreAPDUtest.html" title="org.universAAL.lddi.lib.ieeex73std.testchannel20601.RlreAPDUtest" alt="" coords="1381,17,1486,42"/>
+<area shape="rect" id="c711667" href="./ExtendedMeasure10415APDUtest.html" title="org.universAAL.lddi.lib.ieeex73std.testchannel20601.ExtendedMeasure10415APDUtest" alt="" coords="1531,17,1752,42"/>
+<area shape="rect" id="c711668" href="./Measure10407PrstAPDUtest.html" title="org.universAAL.lddi.lib.ieeex73std.testchannel20601.Measure10407PrstAPDUtest" alt="" coords="1797,17,1987,42"/>
+<area shape="rect" id="c711669" href="./AbrtAPDUtest.html" title="org.universAAL.lddi.lib.ieeex73std.testchannel20601.AbrtAPDUtest" alt="" coords="2031,17,2137,42"/>
+<area shape="rect" id="c711670" href="./Measure10417PrstAPDUtest.html" title="org.universAAL.lddi.lib.ieeex73std.testchannel20601.Measure10417PrstAPDUtest" alt="" coords="2181,17,2371,42"/>
+<area shape="rect" id="c711671" href="./AareAPDUtest.html" title="org.universAAL.lddi.lib.ieeex73std.testchannel20601.AareAPDUtest" alt="" coords="2415,17,2523,42"/>
+<area shape="rect" id="c711672" href="./ExtendedCfg10415.html" title="org.universAAL.lddi.lib.ieeex73std.testchannel20601.ExtendedCfg10415" alt="" coords="2567,17,2699,42"/>
+<area shape="rect" id="c711673" href="./Aarq10415APDUtest.html" title="org.universAAL.lddi.lib.ieeex73std.testchannel20601.Aarq10415APDUtest" alt="" coords="2743,17,2886,42"/>
+<area shape="rect" id="c711674" href="./UnknownCfg.html" title="org.universAAL.lddi.lib.ieeex73std.testchannel20601.UnknownCfg" alt="" coords="2930,17,3027,42"/>
+<area shape="rect" id="c711675" href="./Aarq10407APDUtest.html" title="org.universAAL.lddi.lib.ieeex73std.testchannel20601.Aarq10407APDUtest" alt="" coords="3071,17,3214,42"/>
+<area shape="rect" id="c711676" href="./Measure10415PrstAPDUtest.html" title="org.universAAL.lddi.lib.ieeex73std.testchannel20601.Measure10415PrstAPDUtest" alt="" coords="3259,17,3448,42"/>
+<area shape="rect" id="c711677" href="./Aarq10417APDUtest.html" title="org.universAAL.lddi.lib.ieeex73std.testchannel20601.Aarq10417APDUtest" alt="" coords="3493,17,3635,42"/>
+<area shape="rect" id="c711678" href="./ExtendedCfg10404.html" title="org.universAAL.lddi.lib.ieeex73std.testchannel20601.ExtendedCfg10404" alt="" coords="3679,17,3811,42"/>
+</map>

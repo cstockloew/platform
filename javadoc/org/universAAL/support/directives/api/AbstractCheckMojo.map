@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c1512408" href="./AbstractCheckMojo.html" title="org.universAAL.support.directives.api.AbstractCheckMojo" alt="" coords="337,113,473,138"/>
+<area shape="rect" id="c1512409" href="./AbstractFixableCheckMojo.html" title="org.universAAL.support.directives.api.AbstractFixableCheckMojo" alt="" coords="15,209,193,234"/>
+<area shape="rect" id="c1512423" href="../mojos/DecoupleCheckMojo.html" title="org.universAAL.support.directives.mojos.DecoupleCheckMojo" alt="" coords="237,209,379,234"/>
+<area shape="rect" id="c1512425" href="../mojos/MainMethodCheckMojo.html" title="org.universAAL.support.directives.mojos.MainMethodCheckMojo" alt="" coords="424,209,581,234"/>
+<area shape="rect" id="c1512435" href="../mojos/NamingCheckMojo.html" title="org.universAAL.support.directives.mojos.NamingCheckMojo" alt="" coords="626,209,758,234"/>
+<area shape="rect" id="c1515278" href="http://java.sun.com/j2se/1.4.2/docs/api/org/apache/maven/plugin/AbstractMojo.html" title="org.apache.maven.plugin.AbstractMojo" alt="" coords="357,17,454,42"/>
+</map>

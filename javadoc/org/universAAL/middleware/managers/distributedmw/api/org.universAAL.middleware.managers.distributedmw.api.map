@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c530281" href="./DistributedLogManager.html" title="org.universAAL.middleware.managers.distributedmw.api.DistributedLogManager" alt="" coords="16,11,171,53"/>
+<area shape="rect" id="c530282" href="./DistributedBusMemberListener.html" title="org.universAAL.middleware.managers.distributedmw.api.DistributedBusMemberListener" alt="" coords="216,11,416,53"/>
+<area shape="rect" id="c530283" href="./DistributedBusMemberManager.html" title="org.universAAL.middleware.managers.distributedmw.api.DistributedBusMemberManager" alt="" coords="461,11,665,53"/>
+<area shape="rect" id="c530284" href="./DistributedLogListener.html" title="org.universAAL.middleware.managers.distributedmw.api.DistributedLogListener" alt="" coords="709,11,859,53"/>
+</map>

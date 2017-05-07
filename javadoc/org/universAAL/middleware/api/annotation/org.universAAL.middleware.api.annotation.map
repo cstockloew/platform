@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="c573462" href="./Restrictions.html" title="org.universAAL.middleware.api.annotation.Restrictions" alt="" coords="16,19,107,45"/>
+<area shape="rect" id="c573463" href="./ChangeEffects.html" title="org.universAAL.middleware.api.annotation.ChangeEffects" alt="" coords="151,19,259,45"/>
+<area shape="rect" id="c573464" href="./Restriction.html" title="org.universAAL.middleware.api.annotation.Restriction" alt="" coords="303,19,387,45"/>
+<area shape="rect" id="c573465" href="./ChangeEffect.html" title="org.universAAL.middleware.api.annotation.ChangeEffect" alt="" coords="432,19,533,45"/>
+<area shape="rect" id="c573466" href="./UniversAALService.html" title="org.universAAL.middleware.api.annotation.UniversAALService" alt="" coords="578,19,713,45"/>
+<area shape="rect" id="c573467" href="./Input.html" title="org.universAAL.middleware.api.annotation.Input" alt="" coords="758,19,807,45"/>
+<area shape="rect" id="c573468" href="./OntologyClasses.html" title="org.universAAL.middleware.api.annotation.OntologyClasses" alt="" coords="853,19,974,45"/>
+<area shape="rect" id="c573469" href="./Cardinality.html" title="org.universAAL.middleware.api.annotation.Cardinality" alt="" coords="1018,11,1123,53"/>
+<area shape="rect" id="c573470" href="./Output.html" title="org.universAAL.middleware.api.annotation.Output" alt="" coords="1167,19,1227,45"/>
+<area shape="rect" id="c573471" href="./Outputs.html" title="org.universAAL.middleware.api.annotation.Outputs" alt="" coords="1272,19,1339,45"/>
+<area shape="rect" id="c573472" href="./ServiceOperation.html" title="org.universAAL.middleware.api.annotation.ServiceOperation" alt="" coords="1383,19,1505,45"/>
+<area shape="rect" id="c573473" href="./ServiceOperation.MatchMakingType.html" title="org.universAAL.middleware.api.annotation.ServiceOperation.MatchMakingType" alt="" coords="1549,11,1677,53"/>
+</map>

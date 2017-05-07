@@ -1,0 +1,32 @@
+<map id="G" name="G">
+<area shape="rect" id="c394905" href="./DirectFault.html" title="org.universAAL.ontology.dependability.DirectFault" alt="" coords="16,113,101,138"/>
+<area shape="rect" id="c394906" href="./StructuralFault.html" title="org.universAAL.ontology.dependability.StructuralFault" alt="" coords="1431,209,1537,234"/>
+<area shape="rect" id="c394907" href="./ShapeFault.html" title="org.universAAL.ontology.dependability.ShapeFault" alt="" coords="1581,209,1667,234"/>
+<area shape="rect" id="c394908" href="./DevelopmentFault.html" title="org.universAAL.ontology.dependability.DevelopmentFault" alt="" coords="146,113,273,138"/>
+<area shape="rect" id="c394909" href="./InteractionFault.html" title="org.universAAL.ontology.dependability.InteractionFault" alt="" coords="677,209,787,234"/>
+<area shape="rect" id="c394910" href="./ExternalFault.html" title="org.universAAL.ontology.dependability.ExternalFault" alt="" coords="831,209,929,234"/>
+<area shape="rect" id="c394911" href="./EarlyTimingFault.html" title="org.universAAL.ontology.dependability.EarlyTimingFault" alt="" coords="1855,209,1974,234"/>
+<area shape="rect" id="c394912" href="./SoftwareFault.html" title="org.universAAL.ontology.dependability.SoftwareFault" alt="" coords="317,113,419,138"/>
+<area shape="rect" id="c394913" href="./PermanentFault.html" title="org.universAAL.ontology.dependability.PermanentFault" alt="" coords="463,113,577,138"/>
+<area shape="rect" id="c394914" href="./ValueFault.html" title="org.universAAL.ontology.dependability.ValueFault" alt="" coords="621,113,704,138"/>
+<area shape="rect" id="c394915" href="./RecoveryAction.html" title="org.universAAL.ontology.dependability.RecoveryAction" alt="" coords="1271,17,1385,42"/>
+<area shape="rect" id="c394916" href="./OperationalFault.html" title="org.universAAL.ontology.dependability.OperationalFault" alt="" coords="749,113,865,138"/>
+<area shape="rect" id="c394917" href="./IntermittentFault.html" title="org.universAAL.ontology.dependability.IntermittentFault" alt="" coords="909,113,1025,138"/>
+<area shape="rect" id="c394918" href="./ParametricFault.html" title="org.universAAL.ontology.dependability.ParametricFault" alt="" coords="1069,113,1182,138"/>
+<area shape="rect" id="c394919" href="./TransientFault.html" title="org.universAAL.ontology.dependability.TransientFault" alt="" coords="1227,113,1331,138"/>
+<area shape="rect" id="c394920" href="./ContinuedFault.html" title="org.universAAL.ontology.dependability.ContinuedFault" alt="" coords="1376,113,1485,138"/>
+<area shape="rect" id="c394921" href="./NonParametricFault.html" title="org.universAAL.ontology.dependability.NonParametricFault" alt="" coords="1530,113,1667,138"/>
+<area shape="rect" id="c394922" href="./PhysicalFault.html" title="org.universAAL.ontology.dependability.PhysicalFault" alt="" coords="1711,113,1811,138"/>
+<area shape="rect" id="c394923" href="./PropertyFault.html" title="org.universAAL.ontology.dependability.PropertyFault" alt="" coords="1712,209,1811,234"/>
+<area shape="rect" id="c394924" href="./DependabilityOntology.html" title="org.universAAL.ontology.dependability.DependabilityOntology" alt="" coords="1429,17,1581,42"/>
+<area shape="rect" id="c394925" href="./FCR.html" title="org.universAAL.ontology.dependability.FCR" alt="" coords="1627,17,1677,42"/>
+<area shape="rect" id="c394926" href="./TimingFault.html" title="org.universAAL.ontology.dependability.TimingFault" alt="" coords="1855,113,1945,138"/>
+<area shape="rect" id="c394927" href="./LateTimingFault.html" title="org.universAAL.ontology.dependability.LateTimingFault" alt="" coords="2018,209,2131,234"/>
+<area shape="rect" id="c394928" href="./IndirectFault.html" title="org.universAAL.ontology.dependability.IndirectFault" alt="" coords="1989,113,2083,138"/>
+<area shape="rect" id="c394929" href="./InternalCauseFault.html" title="org.universAAL.ontology.dependability.InternalCauseFault" alt="" coords="2128,113,2259,138"/>
+<area shape="rect" id="c394930" href="./ErrorDetector.html" title="org.universAAL.ontology.dependability.ErrorDetector" alt="" coords="1723,17,1821,42"/>
+<area shape="rect" id="c394931" href="./Symptom.html" title="org.universAAL.ontology.dependability.Symptom" alt="" coords="1867,17,1944,42"/>
+<area shape="rect" id="c394932" href="./Sensor.html" title="org.universAAL.ontology.dependability.Sensor" alt="" coords="1989,17,2051,42"/>
+<area shape="rect" id="c394933" href="./Fault.html" title="org.universAAL.ontology.dependability.Fault" alt="" coords="1177,17,1226,42"/>
+<area shape="rect" id="c394934" href="./NonMaliciousFault.html" title="org.universAAL.ontology.dependability.NonMaliciousFault" alt="" coords="2303,113,2433,138"/>
+</map>

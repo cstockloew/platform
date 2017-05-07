@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c4436920" href="../../middleware/service/owl/Service.html" title="org.universAAL.middleware.service.owl.Service" alt="" coords="71,17,137,42"/>
+<area shape="rect" id="c4437447" href="./ReasoningService.html" title="org.universAAL.ontology.reasoner.ReasoningService" alt="" coords="41,113,167,138"/>
+<area shape="rect" id="c4437824" href="../../context/reasoner/ProvidedReasoningService.html" title="org.universAAL.context.reasoner.ProvidedReasoningService" alt="" coords="15,209,193,234"/>
+</map>

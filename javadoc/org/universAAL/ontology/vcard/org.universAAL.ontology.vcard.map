@@ -1,0 +1,21 @@
+<map id="G" name="G">
+<area shape="rect" id="c265212" href="./X400.html" title="org.universAAL.ontology.vcard.X400" alt="" coords="16,113,67,138"/>
+<area shape="rect" id="c265213" href="./Fax.html" title="org.universAAL.ontology.vcard.Fax" alt="" coords="225,113,268,138"/>
+<area shape="rect" id="c265214" href="./Voice.html" title="org.universAAL.ontology.vcard.Voice" alt="" coords="317,113,371,138"/>
+<area shape="rect" id="c265215" href="./VCard.html" title="org.universAAL.ontology.vcard.VCard" alt="" coords="817,17,874,42"/>
+<area shape="rect" id="c265216" href="./Modem.html" title="org.universAAL.ontology.vcard.Modem" alt="" coords="416,113,480,138"/>
+<area shape="rect" id="c265217" href="./Name.html" title="org.universAAL.ontology.vcard.Name" alt="" coords="919,17,975,42"/>
+<area shape="rect" id="c265218" href="./Cell.html" title="org.universAAL.ontology.vcard.Cell" alt="" coords="529,113,573,138"/>
+<area shape="rect" id="c265219" href="./Video.html" title="org.universAAL.ontology.vcard.Video" alt="" coords="621,113,675,138"/>
+<area shape="rect" id="c265220" href="./Pager.html" title="org.universAAL.ontology.vcard.Pager" alt="" coords="719,113,774,138"/>
+<area shape="rect" id="c265221" href="./PCS.html" title="org.universAAL.ontology.vcard.PCS" alt="" coords="819,113,869,138"/>
+<area shape="rect" id="c265222" href="./Internet.html" title="org.universAAL.ontology.vcard.Internet" alt="" coords="111,113,177,138"/>
+<area shape="rect" id="c265223" href="./VCardOntology.html" title="org.universAAL.ontology.vcard.VCardOntology" alt="" coords="1020,17,1129,42"/>
+<area shape="rect" id="c265224" href="./Organization.html" title="org.universAAL.ontology.vcard.Organization" alt="" coords="1175,17,1268,42"/>
+<area shape="rect" id="c265225" href="./ISDN.html" title="org.universAAL.ontology.vcard.ISDN" alt="" coords="915,113,968,138"/>
+<area shape="rect" id="c265226" href="./BBS.html" title="org.universAAL.ontology.vcard.BBS" alt="" coords="1015,113,1063,138"/>
+<area shape="rect" id="c265227" href="./Email.html" title="org.universAAL.ontology.vcard.Email" alt="" coords="65,17,119,42"/>
+<area shape="rect" id="c265228" href="./Car.html" title="org.universAAL.ontology.vcard.Car" alt="" coords="1114,113,1155,138"/>
+<area shape="rect" id="c265229" href="./Tel.html" title="org.universAAL.ontology.vcard.Tel" alt="" coords="727,17,766,42"/>
+<area shape="rect" id="c265230" href="./Msg.html" title="org.universAAL.ontology.vcard.Msg" alt="" coords="1208,113,1253,138"/>
+</map>

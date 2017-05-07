@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c685728" href="./ASN1SignedNumberConstraint.html" title="org.universAAL.lddi.lib.ieeex73std.org.bn.annotations.constraints.ASN1SignedNumberConstraint" alt="" coords="15,17,217,42"/>
+<area shape="rect" id="c685729" href="./ASN1PatternConstraint.html" title="org.universAAL.lddi.lib.ieeex73std.org.bn.annotations.constraints.ASN1PatternConstraint" alt="" coords="261,17,419,42"/>
+<area shape="rect" id="c685730" href="./ASN1ValueRangeConstraint.html" title="org.universAAL.lddi.lib.ieeex73std.org.bn.annotations.constraints.ASN1ValueRangeConstraint" alt="" coords="464,17,651,42"/>
+<area shape="rect" id="c685731" href="./ASN1SizeConstraint.html" title="org.universAAL.lddi.lib.ieeex73std.org.bn.annotations.constraints.ASN1SizeConstraint" alt="" coords="696,17,837,42"/>
+</map>

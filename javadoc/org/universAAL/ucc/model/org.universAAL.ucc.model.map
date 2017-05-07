@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="c1330882" href="./AppItem.html" title="org.universAAL.ucc.model.AppItem" alt="" coords="16,17,85,42"/>
+<area shape="rect" id="c1330883" href="./Activator.html" title="org.universAAL.ucc.model.Activator" alt="" coords="130,17,203,42"/>
+<area shape="rect" id="c1330884" href="./Provider.html" title="org.universAAL.ucc.model.Provider" alt="" coords="248,17,317,42"/>
+<area shape="rect" id="c1330885" href="./UAPPPart.html" title="org.universAAL.ucc.model.UAPPPart" alt="" coords="362,17,443,42"/>
+<area shape="rect" id="c1330886" href="./UAPP.html" title="org.universAAL.ucc.model.UAPP" alt="" coords="487,17,545,42"/>
+<area shape="rect" id="c1330887" href="./AALService.html" title="org.universAAL.ucc.model.AALService" alt="" coords="589,17,678,42"/>
+<area shape="rect" id="c1330888" href="./RegisteredService.html" title="org.universAAL.ucc.model.RegisteredService" alt="" coords="723,17,851,42"/>
+<area shape="rect" id="c1330889" href="./UAPPReqAtom.html" title="org.universAAL.ucc.model.UAPPReqAtom" alt="" coords="895,17,1009,42"/>
+</map>

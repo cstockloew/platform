@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c4882171" href="../../middleware/owl/ManagedIndividual.html" title="org.universAAL.middleware.owl.ManagedIndividual" alt="" coords="127,17,257,42"/>
+<area shape="rect" id="c4883227" href="./CryptographicTechnique.html" title="org.universAAL.ontology.cryptographic.CryptographicTechnique" alt="" coords="111,113,273,138"/>
+<area shape="rect" id="c4883215" href="./KeyExchange.html" title="org.universAAL.ontology.cryptographic.KeyExchange" alt="" coords="16,209,117,234"/>
+<area shape="rect" id="c4883220" href="./Digest.html" title="org.universAAL.ontology.cryptographic.Digest" alt="" coords="163,209,221,234"/>
+<area shape="rect" id="c4883228" href="./Encryption.html" title="org.universAAL.ontology.cryptographic.Encryption" alt="" coords="267,209,349,234"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="c1451792" href="./ConfigurationSaveWindow.html" title="org.universAAL.ucc.configuration.view.ConfigurationSaveWindow" alt="" coords="15,19,190,45"/>
+<area shape="rect" id="c1451793" href="./SaveFormFactory.html" title="org.universAAL.ucc.configuration.view.SaveFormFactory" alt="" coords="235,19,360,45"/>
+<area shape="rect" id="c1451794" href="./ConfigurationListSelect.html" title="org.universAAL.ucc.configuration.view.ConfigurationListSelect" alt="" coords="405,19,561,45"/>
+<area shape="rect" id="c1451795" href="./SimpleConfiguratorPasswordField.html" title="org.universAAL.ucc.configuration.view.SimpleConfiguratorPasswordField" alt="" coords="605,19,822,45"/>
+<area shape="rect" id="c1451796" href="./MultiselectionList.html" title="org.universAAL.ucc.configuration.view.MultiselectionList" alt="" coords="866,19,987,45"/>
+<area shape="rect" id="c1451797" href="./ConfigurationOverviewWindow.html" title="org.universAAL.ucc.configuration.view.ConfigurationOverviewWindow" alt="" coords="1032,19,1232,45"/>
+<area shape="rect" id="c1451798" href="./SimpleConfiguratorTextField.html" title="org.universAAL.ucc.configuration.view.SimpleConfiguratorTextField" alt="" coords="1277,19,1462,45"/>
+<area shape="rect" id="c1451799" href="./WhichBundleShouldBeConfiguredWindow.html" title="org.universAAL.ucc.configuration.view.WhichBundleShouldBeConfiguredWindow" alt="" coords="1507,19,1771,45"/>
+<area shape="rect" id="c1451800" href="./YesNoDialog.html" title="org.universAAL.ucc.configuration.view.YesNoDialog" alt="" coords="1815,19,1913,45"/>
+<area shape="rect" id="c1451801" href="./YesNoDialog.Callback.html" title="org.universAAL.ucc.configuration.view.YesNoDialog.Callback" alt="" coords="1957,11,2043,53"/>
+<area shape="rect" id="c1451802" href="./ConfigurationPanel.html" title="org.universAAL.ucc.configuration.view.ConfigurationPanel" alt="" coords="2088,19,2219,45"/>
+</map>

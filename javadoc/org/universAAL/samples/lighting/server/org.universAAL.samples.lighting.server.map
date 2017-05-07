@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="c1175450" href="./LightingSimplifiedServiceLevel1.html" title="org.universAAL.samples.lighting.server.LightingSimplifiedServiceLevel1" alt="" coords="16,113,221,138"/>
+<area shape="rect" id="c1175451" href="./LightingSimplifiedServiceLevel3.html" title="org.universAAL.samples.lighting.server.LightingSimplifiedServiceLevel3" alt="" coords="365,17,571,42"/>
+<area shape="rect" id="c1175452" href="./MyLightingOntologified.html" title="org.universAAL.samples.lighting.server.MyLightingOntologified" alt="" coords="167,17,321,42"/>
+<area shape="rect" id="c1175453" href="./LightingSimplifiedServiceLevel2.html" title="org.universAAL.samples.lighting.server.LightingSimplifiedServiceLevel2" alt="" coords="267,113,472,138"/>
+<area shape="rect" id="c1175454" href="./ProvidedLightingService.html" title="org.universAAL.samples.lighting.server.ProvidedLightingService" alt="" coords="615,17,777,42"/>
+<area shape="rect" id="c1175455" href="./LightingProvider.html" title="org.universAAL.samples.lighting.server.LightingProvider" alt="" coords="821,17,934,42"/>
+<area shape="rect" id="c1175456" href="./Activator.html" title="org.universAAL.samples.lighting.server.Activator" alt="" coords="978,17,1051,42"/>
+</map>

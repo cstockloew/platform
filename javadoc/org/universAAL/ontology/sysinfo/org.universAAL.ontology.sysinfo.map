@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c452590" href="./SysinfoOntology.html" title="org.universAAL.ontology.sysinfo.SysinfoOntology" alt="" coords="65,17,183,42"/>
+<area shape="rect" id="c452591" href="./PeerCardDescriptor.html" title="org.universAAL.ontology.sysinfo.PeerCardDescriptor" alt="" coords="16,113,152,138"/>
+<area shape="rect" id="c452592" href="./AALSpaceDescriptor.html" title="org.universAAL.ontology.sysinfo.AALSpaceDescriptor" alt="" coords="197,113,339,138"/>
+<area shape="rect" id="c452593" href="./SystemInfo.html" title="org.universAAL.ontology.sysinfo.SystemInfo" alt="" coords="353,17,441,42"/>
+<area shape="rect" id="c452594" href="./Descriptor.html" title="org.universAAL.ontology.sysinfo.Descriptor" alt="" coords="227,17,309,42"/>
+<area shape="rect" id="c452595" href="./AALSpaceStatusDescriptor.html" title="org.universAAL.ontology.sysinfo.AALSpaceStatusDescriptor" alt="" coords="384,113,565,138"/>
+</map>

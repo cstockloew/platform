@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c2654319" href="./BusStrategy.html" title="org.universAAL.middleware.bus.model.BusStrategy" alt="" coords="185,113,279,138"/>
+<area shape="rect" id="c2654367" href="../../context/impl/ContextStrategy.html" title="org.universAAL.middleware.context.impl.ContextStrategy" alt="" coords="15,209,131,234"/>
+<area shape="rect" id="c2654402" href="../../service/impl/ServiceStrategy.html" title="org.universAAL.middleware.service.impl.ServiceStrategy" alt="" coords="175,209,289,234"/>
+<area shape="rect" id="c2654447" href="../../ui/impl/generic/EventBasedStrategy.html" title="org.universAAL.middleware.ui.impl.generic.EventBasedStrategy" alt="" coords="333,209,475,234"/>
+<area shape="rect" id="c2656792" href="http://java.sun.com/j2se/1.4.2/docs/api/java/lang/Thread.html" title="java.lang.Thread" alt="" coords="201,17,263,42"/>
+</map>

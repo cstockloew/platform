@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c4922795" href="../../middleware/service/owl/Service.html" title="org.universAAL.middleware.service.owl.Service" alt="" coords="66,17,131,42"/>
+<area shape="rect" id="c4923491" href="./RoleManagementService.html" title="org.universAAL.ontology.security.RoleManagementService" alt="" coords="15,113,182,138"/>
+<area shape="rect" id="c4924326" href="../../security/authorisator/profiles/RoleMngServiceProfile.html" title="org.universAAL.security.authorisator.profiles.RoleMngServiceProfile" alt="" coords="22,209,175,234"/>
+</map>

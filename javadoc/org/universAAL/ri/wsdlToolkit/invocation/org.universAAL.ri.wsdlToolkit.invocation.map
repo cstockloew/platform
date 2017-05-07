@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="c939300" href="./Axis1WebServiceInvoker.html" title="org.universAAL.ri.wsdlToolkit.invocation.Axis1WebServiceInvoker" alt="" coords="16,17,184,42"/>
+<area shape="rect" id="c939301" href="./Axis2WebServiceInvoker.html" title="org.universAAL.ri.wsdlToolkit.invocation.Axis2WebServiceInvoker" alt="" coords="229,17,397,42"/>
+<area shape="rect" id="c939302" href="./Axis2_RpcEncodedMessageBuilder.html" title="org.universAAL.ri.wsdlToolkit.invocation.Axis2_RpcEncodedMessageBuilder" alt="" coords="443,17,672,42"/>
+<area shape="rect" id="c939303" href="./Axis2InvocationResultHandler_RpcEncoded.html" title="org.universAAL.ri.wsdlToolkit.invocation.Axis2InvocationResultHandler_RpcEncoded" alt="" coords="717,17,995,42"/>
+<area shape="rect" id="c939304" href="./Axis2InvocationResultHandler.html" title="org.universAAL.ri.wsdlToolkit.invocation.Axis2InvocationResultHandler" alt="" coords="1040,17,1237,42"/>
+<area shape="rect" id="c939305" href="./Axis2InvocationResultHandler_RPC.html" title="org.universAAL.ri.wsdlToolkit.invocation.Axis2InvocationResultHandler_RPC" alt="" coords="1282,17,1515,42"/>
+<area shape="rect" id="c939306" href="./InvocationResult.html" title="org.universAAL.ri.wsdlToolkit.invocation.InvocationResult" alt="" coords="1559,17,1678,42"/>
+</map>

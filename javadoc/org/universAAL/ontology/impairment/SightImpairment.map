@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="c4232838" href="../../middleware/ui/owl/AccessImpairment.html" title="org.universAAL.middleware.ui.owl.AccessImpairment" alt="" coords="327,17,457,42"/>
+<area shape="rect" id="c4233251" href="./SightImpairment.html" title="org.universAAL.ontology.impairment.SightImpairment" alt="" coords="334,113,450,138"/>
+<area shape="rect" id="c4233243" href="./NearSightedness.html" title="org.universAAL.ontology.impairment.NearSightedness" alt="" coords="15,209,137,234"/>
+<area shape="rect" id="c4233245" href="./LightSensitivity.html" title="org.universAAL.ontology.impairment.LightSensitivity" alt="" coords="181,209,291,234"/>
+<area shape="rect" id="c4233247" href="./FarSightedness.html" title="org.universAAL.ontology.impairment.FarSightedness" alt="" coords="336,209,448,234"/>
+<area shape="rect" id="c4233248" href="./ColorBlindness.html" title="org.universAAL.ontology.impairment.ColorBlindness" alt="" coords="493,209,603,234"/>
+<area shape="rect" id="c4233252" href="./Astigmatism.html" title="org.universAAL.ontology.impairment.Astigmatism" alt="" coords="648,209,741,234"/>
+</map>

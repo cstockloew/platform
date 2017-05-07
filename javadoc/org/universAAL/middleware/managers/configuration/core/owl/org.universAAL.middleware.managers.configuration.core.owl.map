@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c507262" href="./ConfigurationParameter.html" title="org.universAAL.middleware.managers.configuration.core.owl.ConfigurationParameter" alt="" coords="16,113,173,138"/>
+<area shape="rect" id="c507263" href="./ConfigurationFile.html" title="org.universAAL.middleware.managers.configuration.core.owl.ConfigurationFile" alt="" coords="218,113,337,138"/>
+<area shape="rect" id="c507264" href="./AALConfigurationOntology.html" title="org.universAAL.middleware.managers.configuration.core.owl.AALConfigurationOntology" alt="" coords="257,17,431,42"/>
+<area shape="rect" id="c507265" href="./AALConfigurationOntology.Factory.html" title="org.universAAL.middleware.managers.configuration.core.owl.AALConfigurationOntology.Factory" alt="" coords="475,17,541,42"/>
+<area shape="rect" id="c507266" href="./Entity.html" title="org.universAAL.middleware.managers.configuration.core.owl.Entity" alt="" coords="158,17,213,42"/>
+</map>

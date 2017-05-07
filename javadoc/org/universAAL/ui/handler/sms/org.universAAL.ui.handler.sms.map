@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c1138037" href="./SMSActivator.html" title="org.universAAL.ui.handler.sms.SMSActivator" alt="" coords="16,19,117,45"/>
+<area shape="rect" id="c1138038" href="./ISMSSender.html" title="org.universAAL.ui.handler.sms.ISMSSender" alt="" coords="162,11,257,53"/>
+<area shape="rect" id="c1138039" href="./SmsUIHandler.html" title="org.universAAL.ui.handler.sms.SmsUIHandler" alt="" coords="301,19,408,45"/>
+</map>

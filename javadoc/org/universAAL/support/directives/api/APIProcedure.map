@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c1500901" href="./APIProcedure.html" title="org.universAAL.support.directives.api.APIProcedure" alt="" coords="347,11,448,53"/>
+<area shape="rect" id="c1500926" href="../mojos/UpdateParentPom.UpdateProcedure.html" title="org.universAAL.support.directives.mojos.UpdateParentPom.UpdateProcedure" alt="" coords="15,118,137,143"/>
+<area shape="rect" id="c1500934" href="../procedures/ChangeVersionProcedure.html" title="org.universAAL.support.directives.procedures.ChangeVersionProcedure" alt="" coords="181,118,350,143"/>
+<area shape="rect" id="c1500935" href="../procedures/UpdateRootVersionsProcedure.html" title="org.universAAL.support.directives.procedures.UpdateRootVersionsProcedure" alt="" coords="491,214,693,239"/>
+<area shape="rect" id="c1500936" href="../procedures/IncreaseVersionProcedure.html" title="org.universAAL.support.directives.procedures.IncreaseVersionProcedure" alt="" coords="445,118,619,143"/>
+<area shape="rect" id="c1500937" href="../procedures/UpdateParentPomInteractiveProcedure.html" title="org.universAAL.support.directives.procedures.UpdateParentPomInteractiveProcedure" alt="" coords="664,118,912,143"/>
+</map>

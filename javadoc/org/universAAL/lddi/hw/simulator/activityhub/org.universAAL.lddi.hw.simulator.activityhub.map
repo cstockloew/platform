@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c1201362" href="./Activator.html" title="org.universAAL.lddi.hw.simulator.activityhub.Activator" alt="" coords="15,17,89,42"/>
+<area shape="rect" id="c1201363" href="./AHSimulator.html" title="org.universAAL.lddi.hw.simulator.activityhub.AHSimulator" alt="" coords="133,17,227,42"/>
+<area shape="rect" id="c1201364" href="./AHContextPublisherSimulator.html" title="org.universAAL.lddi.hw.simulator.activityhub.AHContextPublisherSimulator" alt="" coords="272,17,467,42"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c2657121" href="../../brokers/Broker.html" title="org.universAAL.middleware.brokers.Broker" alt="" coords="116,11,201,53"/>
+<area shape="rect" id="c2657196" href="./AbstractBus.html" title="org.universAAL.middleware.bus.model.AbstractBus" alt="" coords="185,118,279,143"/>
+<area shape="rect" id="c2657183" href="../../modules/listener/MessageListener.html" title="org.universAAL.middleware.modules.listener.MessageListener" alt="" coords="247,11,367,53"/>
+<area shape="rect" id="c2657242" href="../../context/impl/ContextBusImpl.html" title="org.universAAL.middleware.context.impl.ContextBusImpl" alt="" coords="16,214,131,239"/>
+<area shape="rect" id="c2657276" href="../../service/impl/ServiceBusImpl.html" title="org.universAAL.middleware.service.impl.ServiceBusImpl" alt="" coords="175,214,289,239"/>
+<area shape="rect" id="c2657312" href="../../ui/impl/UIBusImpl.html" title="org.universAAL.middleware.ui.impl.UIBusImpl" alt="" coords="333,214,416,239"/>
+</map>

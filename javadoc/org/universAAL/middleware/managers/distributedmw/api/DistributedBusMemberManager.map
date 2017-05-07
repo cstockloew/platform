@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c5187194" href="../../api/Manager.html" title="org.universAAL.middleware.managers.api.Manager" alt="" coords="75,11,160,53"/>
+<area shape="rect" id="c5188112" href="./DistributedBusMemberManager.html" title="org.universAAL.middleware.managers.distributedmw.api.DistributedBusMemberManager" alt="" coords="15,113,219,154"/>
+<area shape="rect" id="c5188125" href="../impl/DistributedMWManagerImpl.html" title="org.universAAL.middleware.managers.distributedmw.impl.DistributedMWManagerImpl" alt="" coords="26,219,209,245"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="c3879496" href="./Change.html" title="org.universAAL.support.utils.service.Change" alt="" coords="15,113,81,138"/>
+<area shape="rect" id="c3879497" href="./Remove.html" title="org.universAAL.support.utils.service.Remove" alt="" coords="125,113,195,138"/>
+<area shape="rect" id="c3879498" href="./Output.html" title="org.universAAL.support.utils.service.Output" alt="" coords="239,113,299,138"/>
+<area shape="rect" id="c3879499" href="./Variable.html" title="org.universAAL.support.utils.service.Variable" alt="" coords="343,113,411,138"/>
+<area shape="rect" id="c3879501" href="./Typematch.html" title="org.universAAL.support.utils.service.Typematch" alt="" coords="456,113,541,138"/>
+<area shape="rect" id="c3879502" href="./Value.html" title="org.universAAL.support.utils.service.Value" alt="" coords="296,17,349,42"/>
+<area shape="rect" id="c3879503" href="./Add.html" title="org.universAAL.support.utils.service.Add" alt="" coords="590,113,634,138"/>
+</map>
