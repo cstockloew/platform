@@ -14,7 +14,13 @@ env:
   global:
     secure: "dSVf9JLfkUsfi9c/atKC5KYE/yI4ERIkAYXYRN8PWQm5hQkJLPUzhGdt0XnhxgeCOFnmWkr7cc+dXu+z9Og3xHHAdRQB3puVxgTZHfGzUg4m1AKCOoVPb29kqdOvWJ3qNxzjVSIlYIf3AoinSKvIUnhDSt8mEAmt/g3XCinTjGMoQBcuFiNx4fk85rXhD4sA9Mexh+ftOT+mAupGuHiPj7BnCZhJfZ9M10jtMXEnqUqQjx5RKCdpdZSeED+YjkA+nBpWFYW8xDwEhOmSRNRF86WG/3wQGrPCXI0wvyGS1WDytFfk4cp1voxb3GcfKAH44oW5/CHwgm0oS/dVMlPNgBKWMLTGDLDk8zlh6Wrcy5vA2oPqqNor3sd4EcWvhhCgx7fuNQl5i4OEztD6MSaNzJEtowcV8Re+Ff7jUOHsHp2c62ncCSXG7CjzzGLIeSARMWWg3Ul2j7tL5LeuKXPCLJVDg9NQ4a0fiZgrpF0Q6778RQvu94K0U/j0CseTkU3jBpyf/xJz86ekFRwcbK8/c4nblugoshUMX/YwnWdeK8hGYvvsUA4Qx7/+4IwDYkkRmQjk52TPYOUpMm58SroLk3GI6nYkGqGK9Ss80LT8gsK/mQEqRa6eq4SxYEXi+W3/UWMVrNBL2av6zSlmgrBqW3MZYZ44OzgwB3NoGVOMEmk="
 
-before_install: 
+addons:
+  apt:
+    packages:
+      - graphviz
+
+before_install:
+ - dot -V
  - git submodule foreach git pull origin master
 # - mvn org.apache.maven.plugins:maven-dependency-plugin:2.1:get -DrepoUrl=http://depot.universaal.org/maven-repo/thirdparty -Dartifact=org.slf4j:com.springsource.slf4j.api:1.5.0
 # - mvn org.apache.maven.plugins:maven-dependency-plugin:2.1:get -DrepoUrl=http://depot.universaal.org/maven-repo/thirdparty -Dartifact=org.slf4j:com.springsource.slf4j.log4j:1.5.0
@@ -34,7 +40,7 @@ script:
  - mkdir target || true
  - mkdir target/site || true
  - mkdir target/site/apidocs || true
- - mvn javadoc:javadoc -fn > target/site/apidocs/javadoc-javadoc.txt
+# - mvn javadoc:javadoc -fn > target/site/apidocs/javadoc-javadoc.txt
  - mvn javadoc:aggregate -fn > target/site/apidocs/javadoc-aggregate.txt
  - cd target/site/apidocs
  - find . > find_all_files1.txt
