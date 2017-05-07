@@ -21,7 +21,7 @@ before_install:
  - chmod +x filter-maven-travis.sh
  - chmod +x push-to-gh-pages.sh
  - cd uAAL.pom
- - /usr/lib/jvm/java-8-oracle/jre/../bin/javadoc -help
+# - /usr/lib/jvm/java-8-oracle/jre/../bin/javadoc -help
  
 install:
  -
