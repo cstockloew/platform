@@ -12,9 +12,9 @@ if [ "$TRAVIS_REPO_SLUG" == "cstockloew/platform" ] && [ "$TRAVIS_PULL_REQUEST" 
   git clone --quiet --branch=gh-pages https://${GH_TOKEN}@github.com/cstockloew/platform gh-pages > /dev/null
 
   cd gh-pages
-  git rm -rf ./javadoc
+  git rm -rf ./javadoc > /dev/null
   cp -Rf $HOME/javadoc-latest ./javadoc
-  git add -f .
+  git add -f . > /dev/null
   git commit -m "Latest javadoc on successful travis build $TRAVIS_BUILD_NUMBER auto-pushed to gh-pages"  > /dev/null
   git push -fq origin gh-pages > /dev/null
 
