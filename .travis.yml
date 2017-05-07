@@ -31,12 +31,12 @@ script:
 # - mvn clean install -Dmaven.javadoc.skip=true -B
 # - mvn clean install -Dmaven.javadoc.skip=true -B
 # - mvn clean install -DskipTests=true -Dmaven.javadoc.skip=true -B
- - mvn javadoc:javadoc -fn > /dev/null
- - mvn javadoc:aggregate -fn > /dev/null
+ - mvn javadoc:javadoc -fn > target/site/apidocs/javadoc-javadoc.txt
+ - mvn javadoc:aggregate -fn > target/site/apidocs/javadoc-aggregate.txt
  - cd target/site/apidocs
  - find . > find_all_files1.txt
  - chmod +x javadoc.sh
- - ./javadoc.sh > /dev/null 2> /dev/null || true
+ - ./javadoc.sh >javadoc.sh.txt 2>&1 || true
  - find . > find_all_files2.txt
  - cd ../../..
 
