@@ -34,9 +34,10 @@ script:
  - mvn javadoc:javadoc -fn > /dev/null
  - mvn javadoc:aggregate -fn > /dev/null
  - cd target/site/apidocs
+ - find . > find_all_files1.txt
  - chmod +x javadoc.sh
- - ./javadoc.sh || true
- - find . > find_all_files.txt
+ - ./javadoc.sh > /dev/null || true
+ - find . > find_all_files2.txt
  - cd ../../..
 
 after_success:
