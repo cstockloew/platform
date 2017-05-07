@@ -21,6 +21,7 @@ before_install:
  - chmod +x filter-maven-travis.sh
  - chmod +x push-to-gh-pages.sh
  - cd uAAL.pom
+ - /usr/lib/jvm/java-8-oracle/jre/../bin/javadoc -help
  
 install:
  -
@@ -33,7 +34,7 @@ script:
  - mvn javadoc:aggregate -fn > /dev/null
  - cd target/site/apidocs
  - chmod +x javadoc.sh
- - (./javadoc.sh > /dev/null) || true
+ - ./javadoc.sh || true
  - cd ../../..
 
 after_success:
