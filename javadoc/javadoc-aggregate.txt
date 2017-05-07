@@ -354,10 +354,10 @@ Downloading: https://repository.apache.org/snapshots/org/universAAL/support/ites
 Downloading: https://repository.apache.org/snapshots/org/universAAL/ontology/ont.security/3.4.1-SNAPSHOT/maven-metadata.xml
 Downloading: https://repository.apache.org/snapshots/org/universAAL/ontology/ont.sysinfo/3.4.1-SNAPSHOT/maven-metadata.xml
 Downloading: https://oss.sonatype.org/content/repositories/releases/org/ops4j/pax/logging/pax-logging-api/maven-metadata.xml
-Downloading: https://repository.apache.org/releases/org/ops4j/pax/logging/pax-logging-api/maven-metadata.xml
 Downloading: https://repository.apache.org/snapshots/org/ops4j/pax/logging/pax-logging-api/maven-metadata.xml
-Downloading: https://oss.sonatype.org/content/repositories/releases/org/ops4j/pax/logging/pax-logging-service/maven-metadata.xml
-Downloading: https://repository.apache.org/releases/org/ops4j/pax/logging/pax-logging-service/maven-metadata.xml
+Downloading: https://repository.apache.org/releases/org/ops4j/pax/logging/pax-logging-api/maven-metadata.xml
+Downloading: https://repository.apache.org/releases/org/ops4j/pax/logging/pax-logging-service/maven-metadata.xml
+Downloading: https://oss.sonatype.org/content/repositories/releases/org/ops4j/pax/logging/pax-logging-service/maven-metadata.xml
 Downloading: https://repository.apache.org/snapshots/org/ops4j/pax/logging/pax-logging-service/maven-metadata.xml
 Downloading: https://repository.apache.org/snapshots/org/universAAL/middleware/mw.container.osgi/3.4.1-SNAPSHOT/maven-metadata.xml
 Downloading: https://repository.apache.org/snapshots/org/universAAL/middleware/mw.interfaces.osgi/3.4.1-SNAPSHOT/maven-metadata.xml
@@ -374,116 +374,116 @@ Downloading: https://repository.apache.org/snapshots/org/ops4j/pax/logging/pax-l
 Downloading: https://repository.apache.org/snapshots/org/universAAL/middleware/mw.managers.deploy.core/3.4.1-SNAPSHOT/maven-metadata.xml
 Downloading: https://repository.apache.org/snapshots/org/universAAL/middleware/mw.managers.configuration.core/3.4.1-SNAPSHOT/maven-metadata.xml
 Downloading: https://repository.apache.org/snapshots/org/universAAL/middleware/mw.managers.tenant.core/3.4.1-SNAPSHOT/maven-metadata.xml
-Downloading: https://repository.apache.org/releases/org/apache/karaf/shell/org.apache.karaf.shell.console/maven-metadata.xml
+Downloading: https://oss.sonatype.org/content/repositories/releases/org/apache/karaf/shell/org.apache.karaf.shell.console/maven-metadata.xml
+Downloading: https://repository.apache.org/releases/org/apache/karaf/shell/org.apache.karaf.shell.console/maven-metadata.xml
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/maven-metadata.xml
-Downloading: https://oss.sonatype.org/content/repositories/releases/org/apache/karaf/shell/org.apache.karaf.shell.console/maven-metadata.xml
-837/837 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/maven-metadata.xml (837 B at 11.2 KB/sec)
+837/837 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/maven-metadata.xml (837 B at 12.4 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/2.2.12-SNAPSHOT/maven-metadata.xml
-811/811 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/2.2.12-SNAPSHOT/maven-metadata.xml (811 B at 13.4 KB/sec)
+811/811 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/2.2.12-SNAPSHOT/maven-metadata.xml (811 B at 10.6 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/shell/shell/2.2.12-SNAPSHOT/maven-metadata.xml
-610/610 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/shell/2.2.12-SNAPSHOT/maven-metadata.xml (610 B at 8.8 KB/sec)
+610/610 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/shell/2.2.12-SNAPSHOT/maven-metadata.xml (610 B at 9.9 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/karaf/2.2.12-SNAPSHOT/maven-metadata.xml
-604/604 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/karaf/2.2.12-SNAPSHOT/maven-metadata.xml (604 B at 6.9 KB/sec)
+604/604 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/karaf/2.2.12-SNAPSHOT/maven-metadata.xml (604 B at 7.7 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.modules/2.2.12-SNAPSHOT/maven-metadata.xml
-809/809 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.modules/2.2.12-SNAPSHOT/maven-metadata.xml (809 B at 13.2 KB/sec)
+809/809 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.modules/2.2.12-SNAPSHOT/maven-metadata.xml (809 B at 15.8 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/jaas/2.2.12-SNAPSHOT/maven-metadata.xml
-608/608 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/jaas/2.2.12-SNAPSHOT/maven-metadata.xml (608 B at 9.3 KB/sec)
+608/608 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/jaas/2.2.12-SNAPSHOT/maven-metadata.xml (608 B at 13.8 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.config/2.2.12-SNAPSHOT/maven-metadata.xml
-808/808 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.config/2.2.12-SNAPSHOT/maven-metadata.xml (808 B at 14.3 KB/sec)
+808/808 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.config/2.2.12-SNAPSHOT/maven-metadata.xml (808 B at 18.4 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.boot/2.2.12-SNAPSHOT/maven-metadata.xml
-806/806 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.boot/2.2.12-SNAPSHOT/maven-metadata.xml (806 B at 14.9 KB/sec)
+806/806 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.boot/2.2.12-SNAPSHOT/maven-metadata.xml (806 B at 3.6 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/org.apache.karaf.util/2.2.12-SNAPSHOT/maven-metadata.xml
-796/796 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/org.apache.karaf.util/2.2.12-SNAPSHOT/maven-metadata.xml (796 B at 15.9 KB/sec)
+796/796 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/org.apache.karaf.util/2.2.12-SNAPSHOT/maven-metadata.xml (796 B at 9.0 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/2.99.99-SNAPSHOT/maven-metadata.xml
-808/808 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/2.99.99-SNAPSHOT/maven-metadata.xml (808 B at 15.2 KB/sec)
+808/808 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/2.99.99-SNAPSHOT/maven-metadata.xml (808 B at 11.0 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/shell/shell/2.99.99-SNAPSHOT/maven-metadata.xml
-608/608 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/shell/2.99.99-SNAPSHOT/maven-metadata.xml (608 B at 12.9 KB/sec)
+608/608 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/shell/2.99.99-SNAPSHOT/maven-metadata.xml (608 B at 9.1 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/karaf/2.99.99-SNAPSHOT/maven-metadata.xml
-602/602 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/karaf/2.99.99-SNAPSHOT/maven-metadata.xml (602 B at 12.0 KB/sec)
+602/602 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/karaf/2.99.99-SNAPSHOT/maven-metadata.xml (602 B at 10.0 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.modules/2.99.99-SNAPSHOT/maven-metadata.xml
-806/806 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.modules/2.99.99-SNAPSHOT/maven-metadata.xml (806 B at 16.1 KB/sec)
+806/806 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.modules/2.99.99-SNAPSHOT/maven-metadata.xml (806 B at 9.0 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/jaas/2.99.99-SNAPSHOT/maven-metadata.xml
-606/606 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/jaas/2.99.99-SNAPSHOT/maven-metadata.xml (606 B at 11.8 KB/sec)
+606/606 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/jaas/2.99.99-SNAPSHOT/maven-metadata.xml (606 B at 8.8 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.config/2.99.99-SNAPSHOT/maven-metadata.xml
-805/805 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.config/2.99.99-SNAPSHOT/maven-metadata.xml (805 B at 14.8 KB/sec)
+805/805 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.config/2.99.99-SNAPSHOT/maven-metadata.xml (805 B at 12.3 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.boot/2.99.99-SNAPSHOT/maven-metadata.xml
-803/803 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.boot/2.99.99-SNAPSHOT/maven-metadata.xml (803 B at 14.5 KB/sec)
+803/803 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.boot/2.99.99-SNAPSHOT/maven-metadata.xml (803 B at 14.0 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/3.0.9-SNAPSHOT/maven-metadata.xml
-802/802 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/3.0.9-SNAPSHOT/maven-metadata.xml (802 B at 5.7 KB/sec)
+802/802 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/3.0.9-SNAPSHOT/maven-metadata.xml (802 B at 13.3 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/shell/shell/3.0.9-SNAPSHOT/maven-metadata.xml
-604/604 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/shell/3.0.9-SNAPSHOT/maven-metadata.xml (604 B at 9.4 KB/sec)
+604/604 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/shell/3.0.9-SNAPSHOT/maven-metadata.xml (604 B at 10.3 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/karaf/3.0.9-SNAPSHOT/maven-metadata.xml
-598/598 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/karaf/3.0.9-SNAPSHOT/maven-metadata.xml (598 B at 8.5 KB/sec)
+598/598 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/karaf/3.0.9-SNAPSHOT/maven-metadata.xml (598 B at 10.6 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.modules/3.0.9-SNAPSHOT/maven-metadata.xml
-800/800 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.modules/3.0.9-SNAPSHOT/maven-metadata.xml (800 B at 12.4 KB/sec)
+800/800 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.modules/3.0.9-SNAPSHOT/maven-metadata.xml (800 B at 11.2 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/jaas/3.0.9-SNAPSHOT/maven-metadata.xml
 602/602 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/jaas/3.0.9-SNAPSHOT/maven-metadata.xml (602 B at 10.5 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.config/3.0.9-SNAPSHOT/maven-metadata.xml
-799/799 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.config/3.0.9-SNAPSHOT/maven-metadata.xml (799 B at 14.7 KB/sec)
+799/799 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.config/3.0.9-SNAPSHOT/maven-metadata.xml (799 B at 13.5 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/3.1.0-SNAPSHOT/maven-metadata.xml
-805/805 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/3.1.0-SNAPSHOT/maven-metadata.xml (805 B at 13.8 KB/sec)
+805/805 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/3.1.0-SNAPSHOT/maven-metadata.xml (805 B at 14.6 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/shell/shell/3.1.0-SNAPSHOT/maven-metadata.xml
-606/606 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/shell/3.1.0-SNAPSHOT/maven-metadata.xml (606 B at 8.7 KB/sec)
+606/606 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/shell/3.1.0-SNAPSHOT/maven-metadata.xml (606 B at 10.6 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/karaf/3.1.0-SNAPSHOT/maven-metadata.xml
-600/600 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/karaf/3.1.0-SNAPSHOT/maven-metadata.xml (600 B at 9.9 KB/sec)
+600/600 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/karaf/3.1.0-SNAPSHOT/maven-metadata.xml (600 B at 6.4 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.modules/3.1.0-SNAPSHOT/maven-metadata.xml
-803/803 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.modules/3.1.0-SNAPSHOT/maven-metadata.xml (803 B at 15.7 KB/sec)
+803/803 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.modules/3.1.0-SNAPSHOT/maven-metadata.xml (803 B at 13.8 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/jaas/3.1.0-SNAPSHOT/maven-metadata.xml
-604/604 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/jaas/3.1.0-SNAPSHOT/maven-metadata.xml (604 B at 12.8 KB/sec)
+604/604 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/jaas/3.1.0-SNAPSHOT/maven-metadata.xml (604 B at 9.5 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.config/3.1.0-SNAPSHOT/maven-metadata.xml
-802/802 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.config/3.1.0-SNAPSHOT/maven-metadata.xml (802 B at 16.0 KB/sec)
+802/802 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.config/3.1.0-SNAPSHOT/maven-metadata.xml (802 B at 15.7 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.boot/3.1.0-SNAPSHOT/maven-metadata.xml
 800/800 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.boot/3.1.0-SNAPSHOT/maven-metadata.xml (800 B at 14.5 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.core/3.1.0-SNAPSHOT/maven-metadata.xml
-802/802 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.core/3.1.0-SNAPSHOT/maven-metadata.xml (802 B at 15.7 KB/sec)
+802/802 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.core/3.1.0-SNAPSHOT/maven-metadata.xml (802 B at 14.2 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/felix/org.apache.felix.fileinstall/3.4.3-SNAPSHOT/maven-metadata.xml
-1008/1008 B                 Downloaded: https://repository.apache.org/snapshots/org/apache/felix/org.apache.felix.fileinstall/3.4.3-SNAPSHOT/maven-metadata.xml (1008 B at 3.8 KB/sec)
+1008/1008 B                 Downloaded: https://repository.apache.org/snapshots/org/apache/felix/org.apache.felix.fileinstall/3.4.3-SNAPSHOT/maven-metadata.xml (1008 B at 12.8 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/4.0.0.M4-SNAPSHOT/maven-metadata.xml
-814/814 B                 Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/4.0.0.M4-SNAPSHOT/maven-metadata.xml (814 B at 16.9 KB/sec)
+814/814 B                 Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/4.0.0.M4-SNAPSHOT/maven-metadata.xml (814 B at 13.0 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/shell/shell/4.0.0.M4-SNAPSHOT/maven-metadata.xml
-610/610 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/shell/4.0.0.M4-SNAPSHOT/maven-metadata.xml (610 B at 11.2 KB/sec)
+610/610 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/shell/4.0.0.M4-SNAPSHOT/maven-metadata.xml (610 B at 11.9 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/karaf/4.0.0.M4-SNAPSHOT/maven-metadata.xml
-604/604 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/karaf/4.0.0.M4-SNAPSHOT/maven-metadata.xml (604 B at 10.9 KB/sec)
+604/604 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/karaf/4.0.0.M4-SNAPSHOT/maven-metadata.xml (604 B at 10.7 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.modules/4.0.0.M4-SNAPSHOT/maven-metadata.xml
 812/812 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.modules/4.0.0.M4-SNAPSHOT/maven-metadata.xml (812 B at 14.4 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/jaas/4.0.0.M4-SNAPSHOT/maven-metadata.xml
-608/608 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/jaas/4.0.0.M4-SNAPSHOT/maven-metadata.xml (608 B at 12.1 KB/sec)
+608/608 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/jaas/4.0.0.M4-SNAPSHOT/maven-metadata.xml (608 B at 11.2 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.config/4.0.0.M4-SNAPSHOT/maven-metadata.xml
-811/811 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.config/4.0.0.M4-SNAPSHOT/maven-metadata.xml (811 B at 16.9 KB/sec)
+811/811 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.config/4.0.0.M4-SNAPSHOT/maven-metadata.xml (811 B at 14.9 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.boot/4.0.0.M4-SNAPSHOT/maven-metadata.xml
-809/809 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.boot/4.0.0.M4-SNAPSHOT/maven-metadata.xml (809 B at 15.8 KB/sec)
+809/809 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.boot/4.0.0.M4-SNAPSHOT/maven-metadata.xml (809 B at 14.9 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.core/4.0.0.M4-SNAPSHOT/maven-metadata.xml
-811/811 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.core/4.0.0.M4-SNAPSHOT/maven-metadata.xml (811 B at 16.2 KB/sec)
+811/811 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.core/4.0.0.M4-SNAPSHOT/maven-metadata.xml (811 B at 14.1 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/universAAL/middleware/mw.connectors.api.osgi/3.4.1-SNAPSHOT/maven-metadata.xml
             Downloading: https://repository.apache.org/snapshots/org/universAAL/middleware/mw.brokers.control.osgi/3.4.1-SNAPSHOT/maven-metadata.xml
             Downloading: https://oss.sonatype.org/content/repositories/releases/org/apache/karaf/features/org.apache.karaf.features.core/maven-metadata.xml
-Downloading: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/maven-metadata.xml
 Downloading: https://repository.apache.org/releases/org/apache/karaf/features/org.apache.karaf.features.core/maven-metadata.xml
-                        840/840 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/maven-metadata.xml (840 B at 16.7 KB/sec)
+Downloading: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/maven-metadata.xml
+                        840/840 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/maven-metadata.xml (840 B at 11.6 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/2.2.12-SNAPSHOT/maven-metadata.xml
-814/814 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/2.2.12-SNAPSHOT/maven-metadata.xml (814 B at 13.9 KB/sec)
+814/814 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/2.2.12-SNAPSHOT/maven-metadata.xml (814 B at 14.2 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/features/features/2.2.12-SNAPSHOT/maven-metadata.xml
-616/616 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/features/2.2.12-SNAPSHOT/maven-metadata.xml (616 B at 12.0 KB/sec)
+616/616 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/features/2.2.12-SNAPSHOT/maven-metadata.xml (616 B at 10.7 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.obr/2.2.12-SNAPSHOT/maven-metadata.xml
-807/807 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.obr/2.2.12-SNAPSHOT/maven-metadata.xml (807 B at 14.9 KB/sec)
+807/807 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.obr/2.2.12-SNAPSHOT/maven-metadata.xml (807 B at 14.3 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/2.99.99-SNAPSHOT/maven-metadata.xml
-811/811 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/2.99.99-SNAPSHOT/maven-metadata.xml (811 B at 12.4 KB/sec)
+811/811 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/2.99.99-SNAPSHOT/maven-metadata.xml (811 B at 9.9 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/features/features/2.99.99-SNAPSHOT/maven-metadata.xml
 614/614 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/features/2.99.99-SNAPSHOT/maven-metadata.xml (614 B at 11.3 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.obr/2.99.99-SNAPSHOT/maven-metadata.xml
-804/804 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.obr/2.99.99-SNAPSHOT/maven-metadata.xml (804 B at 16.7 KB/sec)
+804/804 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.obr/2.99.99-SNAPSHOT/maven-metadata.xml (804 B at 14.3 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/3.0.9-SNAPSHOT/maven-metadata.xml
-805/805 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/3.0.9-SNAPSHOT/maven-metadata.xml (805 B at 16.4 KB/sec)
+805/805 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/3.0.9-SNAPSHOT/maven-metadata.xml (805 B at 13.8 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/features/features/3.0.9-SNAPSHOT/maven-metadata.xml
-610/610 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/features/3.0.9-SNAPSHOT/maven-metadata.xml (610 B at 12.7 KB/sec)
+610/610 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/features/3.0.9-SNAPSHOT/maven-metadata.xml (610 B at 10.8 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/3.1.0-SNAPSHOT/maven-metadata.xml
-808/808 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/3.1.0-SNAPSHOT/maven-metadata.xml (808 B at 14.3 KB/sec)
+808/808 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/3.1.0-SNAPSHOT/maven-metadata.xml (808 B at 14.6 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/features/features/3.1.0-SNAPSHOT/maven-metadata.xml
-612/612 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/features/3.1.0-SNAPSHOT/maven-metadata.xml (612 B at 12.5 KB/sec)
+612/612 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/features/3.1.0-SNAPSHOT/maven-metadata.xml (612 B at 10.5 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/4.0.0.M4-SNAPSHOT/maven-metadata.xml
-817/817 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/4.0.0.M4-SNAPSHOT/maven-metadata.xml (817 B at 16.3 KB/sec)
+817/817 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/4.0.0.M4-SNAPSHOT/maven-metadata.xml (817 B at 13.5 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/features/features/4.0.0.M4-SNAPSHOT/maven-metadata.xml
-616/616 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/features/4.0.0.M4-SNAPSHOT/maven-metadata.xml (616 B at 12.5 KB/sec)
+616/616 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/features/4.0.0.M4-SNAPSHOT/maven-metadata.xml (616 B at 11.6 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/universAAL/middleware/mw.managers.distributedmw.core/3.4.1-SNAPSHOT/maven-metadata.xml
             Downloading: https://repository.apache.org/snapshots/org/universAAL/middleware/mw.data.serialization.osgi/3.4.1-SNAPSHOT/maven-metadata.xml
             Downloading: https://repository.apache.org/snapshots/org/universAAL/middleware/mw.bus.tracker.osgi/3.4.1-SNAPSHOT/maven-metadata.xml
@@ -14761,7 +14761,7 @@ Warning, could not find a line that matches the pattern '(Class|Interface|Enum) 
 Building Context view for class org.universAAL.ucc.deploymanagerservice.impl.DeployManagerServiceImpl
 Warning, could not find a line that matches the pattern '(Class|Interface|Enum) DeployManagerServiceImpl.*'.
  Class diagram reference not inserted
-100 errors
+1 error
 100 warnings
 [INFO] ------------------------------------------------------------------------
 [INFO] Reactor Summary:
@@ -14769,7 +14769,7 @@ Warning, could not find a line that matches the pattern '(Class|Interface|Enum) 
 [INFO] universAAL Maven Plugins ........................... SKIPPED
 [INFO] universAAL Support uaalDirectives-maven-plugin ..... SKIPPED
 [INFO] universAAL Support Manifest Maven Plugin ........... SKIPPED
-[INFO] universAAL Super POM ............................... FAILURE [02:57 min]
+[INFO] universAAL Super POM ............................... FAILURE [03:27 min]
 [INFO] universAAL Maven Archetypes ........................ SKIPPED
 [INFO] Archetype - create an empty karaf feature repository, ready for adding features and then install and deploy it. SKIPPED
 [INFO] Archetype - template for universAAL OSGi module .... SKIPPED
@@ -15035,605 +15035,113 @@ Warning, could not find a line that matches the pattern '(Class|Interface|Enum) 
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD FAILURE
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time: 03:06 min
-[INFO] Finished at: 2017-05-07T16:15:37+00:00
-[INFO] Final Memory: 190M/500M
+[INFO] Total time: 03:41 min
+[INFO] Finished at: 2017-05-07T16:57:15+00:00
+[INFO] Final Memory: 190M/493M
 [INFO] ------------------------------------------------------------------------
 [ERROR] Failed to execute goal org.apache.maven.plugins:maven-javadoc-plugin:2.8.1:aggregate (default-cli) on project uAAL.pom: An error has occurred in JavaDocs report generation:
 [ERROR] Exit code: 1 - javadoc: warning - Multiple sources of package comments found for package "org.osgi.service.cm"
 [ERROR] javadoc: warning - Multiple sources of package comments found for package "org.osgi.util.tracker"
 [ERROR] javadoc: warning - Multiple sources of package comments found for package "org.osgi.service.http"
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/api/AbstractProcedureMojo.java:25: error: unknown tag: requiresDirectInvocation
-[ERROR] * @requiresDirectInvocation
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/checks/CodificationCheck.java:56: error: no tag name after @
-[ERROR] /** {@ inheritDoc}	 */
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/checks/CodificationCheck.java:81: error: no tag name after @
-[ERROR] /** {@ inheritDoc}	 */
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/checks/FelixDepCheckFix.java:39: error: no tag name after @
-[ERROR] /** {@ inheritDoc}	 */
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/checks/FelixDepCheckFix.java:53: error: no tag name after @
-[ERROR] /** {@ inheritDoc}	 */
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/checks/FelixDepCheckFix.java:67: error: no tag name after @
-[ERROR] /** {@ inheritDoc}	 */
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/checks/MainMethodCheck.java:45: error: no tag name after @
-[ERROR] /** {@ inheritDoc}	 */
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/checks/MainMethodCheck.java:63: error: no tag name after @
-[ERROR] /** {@ inheritDoc}	 */
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/ChangeVersionMojo.java:30: error: unknown tag: goal
-[ERROR] * @goal change-version
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/CheckReportMojo.java:51: error: unknown tag: goal
-[ERROR] * @goal check-report
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/CheckReportMojo.java:52: error: unknown tag: phase
-[ERROR] * @phase site
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/CheckReportMojo.java:82: error: unknown tag: Component
-[ERROR] * @Component
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/DecoupleCheckMojo.java:30: error: unknown tag: goal
-[ERROR] * @goal decouple-check
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/DependencyManagementCheckMojo.java:34: error: unknown tag: goal
-[ERROR] * @goal dependency-check
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/DependencyManagementCheckMojo.java:36: error: unknown tag: phase
-[ERROR] * @phase process-sources
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/DirectiveCheckMojo.java:41: error: unknown tag: goal
-[ERROR] * @goal check
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/FelixDependencyCheckFixMojo.java:28: error: unknown tag: goal
-[ERROR] * @goal felix-check
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/FelixDependencyCheckFixMojo.java:30: error: unknown tag: phase
-[ERROR] * @phase process-sources
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/IncreaseVersionMojo.java:35: error: unknown tag: goal
-[ERROR] * @goal increase-version
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/IncreaseVersionMojo.java:37: error: unknown tag: requiresDirectInvocation
-[ERROR] * @requiresDirectInvocation
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/ItestsCheckFixMojo.java:30: error: unknown tag: goal
-[ERROR] * @goal itest-check
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/ItestsCheckFixMojo.java:32: error: unknown tag: phase
-[ERROR] * @phase process-sources
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/LicenseMojo.java:34: error: unknown tag: goal
-[ERROR] * @goal license-check
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/MainMethodCheckMojo.java:29: error: unknown tag: goal
-[ERROR] * @goal mainMethod-check
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/ModulesCheckMojo.java:28: error: unknown tag: aggregator
-[ERROR] * @aggregator
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/ModulesCheckMojo.java:30: error: unknown tag: goal
-[ERROR] * @goal modules-check
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/ModulesCheckMojo.java:32: error: unknown tag: phase
-[ERROR] * @phase process-sources
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/NamingCheckMojo.java:37: error: unknown tag: goal
-[ERROR] * @goal name-check
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/UpdateParentPom.java:39: error: unknown tag: goal
-[ERROR] * @goal update-root-children
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/UpdateRootVersionsMojo.java:38: error: unknown tag: goal
-[ERROR] * @goal update-roots
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/procedures/ChangeVersionProcedure.java:39: warning: no @param for newVersion
-[ERROR] public ChangeVersionProcedure(String newVersion) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/procedures/UpdateParentPomInteractiveProcedure.java:168: warning: no description for @param
-[ERROR] * @param groupID
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/procedures/UpdateParentPomInteractiveProcedure.java:169: warning: no description for @param
-[ERROR] * @param artifactID
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/procedures/UpdateParentPomInteractiveProcedure.java:170: warning: no description for @param
-[ERROR] * @param currentVersion
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/procedures/UpdateParentPomInteractiveProcedure.java:171: warning: no description for @return
-[ERROR] * @return
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-manifest-maven-plugin/target/generated-sources/plugin/org/universAAL/support/maven/manifest/HelpMojo.java:11: error: self-closing element not allowed
-[ERROR] * Display help information on uaal-manifest-maven-plugin.<br/> Call <pre>  mvn uaal-manifest:help -Ddetail=true -Dgoal=&lt;goal-name&gt;</pre> to display parameter details.
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-manifest-maven-plugin/target/generated-sources/plugin/org/universAAL/support/maven/manifest/HelpMojo.java:15: error: unknown tag: goal
-[ERROR] * @goal help
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-manifest-maven-plugin/target/generated-sources/plugin/org/universAAL/support/maven/manifest/HelpMojo.java:16: error: unknown tag: requiresProject
-[ERROR] * @requiresProject false
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-manifest-maven-plugin/src/main/java/org/universAAL/support/maven/manifest/ManifestReader.java:59: error: invalid use of @return
-[ERROR] * @return the parsed {@link #uaalManifest} File
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-manifest-maven-plugin/src/main/java/org/universAAL/support/maven/manifest/MavenPlugin.java:26: error: unknown tag: goal
-[ERROR] * @goal uaalManifest
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-maven-plugin/src/main/java/org/universAAL/maven/LaunchOrderDependencyNodeVisitor.java:145: warning: no @param for startSpecs
-[ERROR] public LaunchOrderDependencyNodeVisitor(final Log log,
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-maven-plugin/src/main/java/org/universAAL/maven/MyMojoExecutorV15.java:48: error: self-closing element not allowed
-[ERROR] * <p/>
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-maven-plugin/src/main/java/org/universAAL/maven/UaalCompositeMojo.java:51: error: unknown tag: goal
-[ERROR] * @goal composite
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-maven-plugin/src/main/java/org/universAAL/maven/UaalRunnerMojo.java:55: error: unknown tag: goal
-[ERROR] * @goal run
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-maven-plugin/src/main/java/org/universAAL/maven/UaalRunnerMojo.java:135: error: unknown tag: parameter
-[ERROR] * @parameter expression="${localRepository}"
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-maven-plugin/src/main/java/org/universAAL/maven/UaalRunnerMojo.java:136: error: unknown tag: readonly
-[ERROR] * @readonly
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-maven-plugin/src/main/java/org/universAAL/maven/UaalRunnerMojo.java:137: error: unknown tag: required
-[ERROR] * @required
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-maven-plugin/src/main/java/org/universAAL/maven/UaalTestMojo.java:55: error: unknown tag: goal
-[ERROR] * @goal test
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-maven-plugin/src/main/java/org/universAAL/maven/treebuilder/DependencyTreeBuilder.java:73: error: self-closing element not allowed
-[ERROR] * <li/>regular maven dependencies: compile and runtime
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-maven-plugin/src/main/java/org/universAAL/maven/treebuilder/DependencyTreeBuilder.java:74: error: self-closing element not allowed
-[ERROR] * <li/>maven dependencies from "uAAL-Runtime" profile: compile, runtime and
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-maven-plugin/src/main/java/org/universAAL/maven/treebuilder/DependencyTreeBuilder.java:131: warning: no @param for useMwComposite
-[ERROR] public DependencyTreeBuilder(final ArtifactFactory artifactFactory,
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-maven-plugin/src/main/java/org/universAAL/maven/treebuilder/ExecutionListCreator.java:290: warning: no description for @param
-[ERROR] * @param mvnurl
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-maven-plugin/src/main/java/org/universAAL/maven/treebuilder/ExecutionListCreator.java:322: warning: no description for @param
-[ERROR] * @param mavenProject
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-maven-plugin/src/main/java/org/universAAL/maven/treebuilder/ExecutionListCreator.java:323: warning: no description for @return
-[ERROR] * @return
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-maven-plugin/src/main/java/org/universAAL/maven/treebuilder/ExecutionListCreator.java:324: warning: no description for @throws
-[ERROR] * @throws MojoExecutionException
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-maven-plugin/src/main/java/org/universAAL/maven/treebuilder/ExecutionListCreator.java:325: warning: no description for @throws
-[ERROR] * @throws MojoFailureException
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-maven-plugin/src/main/java/org/universAAL/maven/treebuilder/ExecutionListCreator.java:327: warning: no @param for separatedArtifactDepsOfRootMvnUrls
-[ERROR] public List createArtifactExecutionList(final MavenProject mavenProject,
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-maven-plugin/src/main/java/org/universAAL/maven/treebuilder/ExecutionListCreator.java:327: warning: no @param for includeTestRuntimes
-[ERROR] public List createArtifactExecutionList(final MavenProject mavenProject,
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-maven-plugin/src/main/java/org/universAAL/maven/treebuilder/ExecutionListCreator.java:327: warning: no @param for useMwComposite
-[ERROR] public List createArtifactExecutionList(final MavenProject mavenProject,
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-maven-plugin/src/main/java/org/universAAL/maven/treebuilder/ExecutionListCreator.java:392: warning: no description for @throws
-[ERROR] * @throws MojoExecutionException
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-maven-plugin/src/main/java/org/universAAL/maven/treebuilder/ExecutionListCreator.java:393: warning: no description for @throws
-[ERROR] * @throws MojoFailureException
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-maven-plugin/src/main/java/org/universAAL/maven/treebuilder/ExecutionListCreator.java:395: warning: no @param for includeTestRuntimes
-[ERROR] public List createArtifactExecutionList(final String[] provisions,
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/itests/itests/src/main/java/org/universAAL/itests/IntegrationTest.java:302: error: text not allowed in <ul> element
-[ERROR] * Default value is LOG_DEBUG.
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/itests/itests/src/main/java/org/universAAL/itests/IntegrationTest.java:301: error: element not closed: ul
-[ERROR] * <ul>
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/itests/itests/src/main/java/org/universAAL/itests/IntegrationTest.java:294: error: element not closed: ul
-[ERROR] * <ul>
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/itests/itests/src/main/java/org/universAAL/itests/IntegrationTest.java:304: warning: no @param for level
-[ERROR] protected void setLogLevel(final int level) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/itests/itests/src/main/java/org/universAAL/itests/IntegrationTest.java:368: warning: no description for @param
-[ERROR] * @param useOnlyLocalRepo
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/itests/itests/src/main/java/org/universAAL/itests/IntegrationTest.java:379: warning: no description for @param
-[ERROR] * @param ignoreLast
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/xtras/itests/itests/src/main/java/org/universAAL/itests/IntegrationTest.java:390: warning: no @param for ignoreVersionMismatch
-[ERROR] public void setIgnoreVersionMismatch(final boolean ignoreVersionMismatch) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/Container.java:43: warning: no @return
-[ERROR] public Object fetchSharedObject(ModuleContext requester,
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/Container.java:59: warning: no @return
-[ERROR] public Object[] fetchSharedObject(ModuleContext requester,
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/Container.java:90: warning: no @return
-[ERROR] public Iterator logListeners();
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/Container.java:125: error: @param name not found
-[ERROR] * @param fetchParams
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/Container.java:129: warning: no @param for objToRemove
-[ERROR] public void removeSharedObject(ModuleContext requester, Object objToRemove,
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/Container.java:129: warning: no @param for shareParams
-[ERROR] public void removeSharedObject(ModuleContext requester, Object objToRemove,
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/ModuleContext.java:52: warning: no @param for requester
-[ERROR] public boolean canBeStarted(ModuleContext requester);
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/ModuleContext.java:52: warning: no @return
-[ERROR] public boolean canBeStarted(ModuleContext requester);
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/ModuleContext.java:60: warning: no @param for requester
-[ERROR] public boolean canBeStopped(ModuleContext requester);
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/ModuleContext.java:60: warning: no @return
-[ERROR] public boolean canBeStopped(ModuleContext requester);
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/ModuleContext.java:68: warning: no @param for requester
-[ERROR] public boolean canBeUninstalled(ModuleContext requester);
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/ModuleContext.java:68: warning: no @return
-[ERROR] public boolean canBeUninstalled(ModuleContext requester);
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/ModuleContext.java:76: warning: no @param for attrName
-[ERROR] public Object getAttribute(String attrName);
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/ModuleContext.java:76: warning: no @return
-[ERROR] public Object getAttribute(String attrName);
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/ModuleContext.java:82: warning: no @return
-[ERROR] public Container getContainer();
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/ModuleContext.java:93: warning: no @param for requester
-[ERROR] public File[] listConfigFiles(ModuleContext requester);
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/ModuleContext.java:93: warning: no @return
-[ERROR] public File[] listConfigFiles(ModuleContext requester);
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/ModuleContext.java:166: warning: no @return
-[ERROR] public boolean isLogErrorEnabled();
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/ModuleContext.java:169: warning: no @return
-[ERROR] public boolean isLogWarnEnabled();
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/ModuleContext.java:172: warning: no @return
-[ERROR] public boolean isLogInfoEnabled();
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/ModuleContext.java:175: warning: no @return
-[ERROR] public boolean isLogDebugEnabled();
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/ModuleContext.java:178: warning: no @return
-[ERROR] public boolean isLogTraceEnabled();
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/ModuleContext.java:188: warning: no @param for configFileParams
-[ERROR] public void registerConfigFile(Object[] configFileParams);
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/ModuleContext.java:195: warning: no @param for attrName
-[ERROR] public void setAttribute(String attrName, Object attrValue);
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/ModuleContext.java:195: warning: no @param for attrValue
-[ERROR] public void setAttribute(String attrName, Object attrValue);
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/ModuleContext.java:202: warning: no @param for requester
-[ERROR] public boolean start(ModuleContext requester);
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/ModuleContext.java:202: warning: no @return
-[ERROR] public boolean start(ModuleContext requester);
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/ModuleContext.java:209: warning: no @param for requester
-[ERROR] public boolean stop(ModuleContext requester);
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/ModuleContext.java:209: warning: no @return
-[ERROR] public boolean stop(ModuleContext requester);
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/ModuleContext.java:217: warning: no @param for requester
-[ERROR] public boolean uninstall(ModuleContext requester);
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/ModuleContext.java:217: warning: no @return
-[ERROR] public boolean uninstall(ModuleContext requester);
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/utils/LogUtils.java:126: error: element not closed: ol
-[ERROR] * <ol>
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/utils/LogUtils.java:183: error: element not closed: ol
-[ERROR] * <ol>
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/utils/LogUtils.java:240: error: element not closed: ol
-[ERROR] * <ol>
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/utils/LogUtils.java:297: error: element not closed: ol
-[ERROR] * <ol>
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/utils/LogUtils.java:354: error: element not closed: ol
-[ERROR] * <ol>
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/utils/Messages.java:152: warning: no description for @param
-[ERROR] * @param loc
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/utils/StringUtils.java:66: warning: no @return
-[ERROR] public static String createUniqueID() {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/utils/StringUtils.java:74: warning: no @param for pp1
-[ERROR] public static boolean areEqualPropPaths(String[] pp1, String[] pp2) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/utils/StringUtils.java:74: warning: no @param for pp2
-[ERROR] public static boolean areEqualPropPaths(String[] pp1, String[] pp2) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/utils/StringUtils.java:74: warning: no @return
-[ERROR] public static boolean areEqualPropPaths(String[] pp1, String[] pp2) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/utils/StringUtils.java:95: warning: no @param for arg
-[ERROR] public static String deriveLabel(String arg) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/utils/StringUtils.java:95: warning: no @return
-[ERROR] public static String deriveLabel(String arg) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/utils/StringUtils.java:144: warning: no @param for c
-[ERROR] public static boolean isQuote(char c) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/utils/StringUtils.java:144: warning: no @return
-[ERROR] public static boolean isQuote(char c) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/utils/StringUtils.java:149: warning: no @param for c
-[ERROR] public static boolean isDigit(char c) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/utils/StringUtils.java:149: warning: no @return
-[ERROR] public static boolean isDigit(char c) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/utils/StringUtils.java:154: warning: no @param for c
-[ERROR] public static boolean isAsciiLetter(char c) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/utils/StringUtils.java:154: warning: no @return
-[ERROR] public static boolean isAsciiLetter(char c) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/utils/StringUtils.java:159: warning: no @param for arg
-[ERROR] public static boolean isNullOrEmpty(String arg) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/utils/StringUtils.java:159: warning: no @return
-[ERROR] public static boolean isNullOrEmpty(String arg) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/utils/StringUtils.java:164: warning: no @param for arg
-[ERROR] public static boolean isNonEmpty(String arg) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/utils/StringUtils.java:164: warning: no @return
-[ERROR] public static boolean isNonEmpty(String arg) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/utils/StringUtils.java:178: warning: no @param for uri
-[ERROR] public static boolean isQualifiedName(String uri) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/utils/StringUtils.java:178: warning: no @return
-[ERROR] public static boolean isQualifiedName(String uri) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/utils/StringUtils.java:197: warning: no @param for arg
-[ERROR] public static boolean startsWithURIScheme(String arg) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/utils/StringUtils.java:197: warning: no @return
-[ERROR] public static boolean startsWithURIScheme(String arg) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.junit/src/main/java/org/universAAL/container/JUnit/JUnitContainer.java:90: warning: no @param for listener
-[ERROR] public void registerLogListener(LogListener listener) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.junit/src/main/java/org/universAAL/container/JUnit/JUnitContainer.java:95: warning: no @param for listener
-[ERROR] public void unregisterLogListener(LogListener listener) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/datarep/DataRepFactory.java:34: error: reference not found
-[ERROR] * @see org.universAAL.middleware.rdf.impl.ResourceFactoryImpl#createInstance(String,
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/owl/PropertyRestriction.java:162: warning: no @param for subtype
-[ERROR] protected Object matchesNonRestriction(TypeExpression subtype,
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/owl/PropertyRestriction.java:162: warning: no @param for context
-[ERROR] protected Object matchesNonRestriction(TypeExpression subtype,
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/owl/PropertyRestriction.java:162: warning: no @param for ttl
-[ERROR] protected Object matchesNonRestriction(TypeExpression subtype,
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/owl/PropertyRestriction.java:162: warning: no @param for log
-[ERROR] protected Object matchesNonRestriction(TypeExpression subtype,
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/owl/PropertyRestriction.java:162: warning: no @return
-[ERROR] protected Object matchesNonRestriction(TypeExpression subtype,
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/owl/PropertyRestriction.java:323: warning: no @param for propURI
-[ERROR] public AllValuesFromRestriction getRestrictionOnProperty(String propURI) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/owl/PropertyRestriction.java:323: warning: no @return
-[ERROR] public AllValuesFromRestriction getRestrictionOnProperty(String propURI) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/owl/TypeExpression.java:210: warning: no @param for typeURI
-[ERROR] protected void collectTypesMinimized(String typeURI, List<String> l) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/owl/TypeExpression.java:210: warning: no @param for l
-[ERROR] protected void collectTypesMinimized(String typeURI, List<String> l) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/owl/TypeExpression.java:240: warning: no @return
-[ERROR] public abstract String[] getNamedSuperclasses();
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/owl/TypeExpression.java:246: warning: no @return
-[ERROR] public abstract Object[] getUpperEnumeration();
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/owl/TypeExpression.java:264: warning: no @param for member
-[ERROR] public final boolean hasMember(Object member, Hashtable context) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/owl/TypeExpression.java:264: warning: no @param for context
-[ERROR] public final boolean hasMember(Object member, Hashtable context) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/owl/TypeExpression.java:264: warning: no @return
-[ERROR] public final boolean hasMember(Object member, Hashtable context) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/owl/TypeExpression.java:328: error: reference not found
-[ERROR] *             {@link #isDisjointWith(Object, HashMap, int, List)}.
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/owl/TypeExpression.java:330: warning: no @param for other
-[ERROR] public final boolean isDisjointWith(TypeExpression other, Hashtable context) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/owl/TypeExpression.java:330: warning: no @param for context
-[ERROR] public final boolean isDisjointWith(TypeExpression other, Hashtable context) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/owl/TypeExpression.java:330: warning: no @return
-[ERROR] public final boolean isDisjointWith(TypeExpression other, Hashtable context) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/owl/TypeExpression.java:402: error: reference not found
-[ERROR] * @deprecated replaced by {@link #matches(Object, HashMap, int, List)}.
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/owl/TypeExpression.java:404: warning: no @param for subset
-[ERROR] public final boolean matches(TypeExpression subset, Hashtable context) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/owl/TypeExpression.java:404: warning: no @param for context
-[ERROR] public final boolean matches(TypeExpression subset, Hashtable context) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/owl/TypeExpression.java:404: warning: no @return
-[ERROR] public final boolean matches(TypeExpression subset, Hashtable context) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/rdf/Resource.java:268: warning: no @return
-[ERROR] public static final String generateAnonURI() {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/rdf/Resource.java:294: warning: no @param for uri
-[ERROR] public static final boolean isAnon(String uri) {
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/rdf/Resource.java:451: error: reference not found
-[ERROR] * @see #copyAsNonXMLLiteral()
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/owl/MergedRestriction.java:178: error: unexpected end tag: </p>
-[ERROR] * </p>
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/owl/MergedRestriction.java:201: error: unexpected end tag: </p>
-[ERROR] * </p>
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/owl/MergedRestriction.java:239: error: unexpected end tag: </p>
-[ERROR] * </p>
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/owl/MergedRestriction.java:305: error: unexpected end tag: </p>
-[ERROR] * </p>
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/owl/MergedRestriction.java:363: error: unexpected end tag: </p>
-[ERROR] * </p>
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/owl/MergedRestriction.java:398: error: unexpected end tag: </p>
-[ERROR] * </p>
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/owl/MergedRestriction.java:446: error: unexpected end tag: </p>
-[ERROR] * </p>
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/xsd/Base64Binary.java:54: error: @param name not found
-[ERROR] * @param val
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/xsd/util/Base64.java:1834: error: unexpected end tag: </i>
-[ERROR] *     (only meaningful when encoding)</i>
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/xsd/util/Base64.java:2046: error: unexpected end tag: </i>
-[ERROR] *     (only meaningful when encoding)</i>
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/interfaces/aalspace/model/ICommunicationChannels.java:52: error: reference not found
-[ERROR] * {@link ChannelDescriptor }
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/interfaces/aalspace/model/IPeeringChannel.java:37: error: reference not found
-[ERROR] *     {@link ChannelDescriptor }
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/interfaces/aalspace/model/IPeeringChannel.java:47: error: reference not found
-[ERROR] *     {@link ChannelDescriptor }
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/connectors/deploy/karaf/model/Bundle.java:43: error: bad use of '>'
-[ERROR] * &lt;complexType name="bundle">
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/connectors/deploy/karaf/model/Bundle.java:44: error: bad use of '>'
-[ERROR] *   &lt;simpleContent>
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/connectors/deploy/karaf/model/Bundle.java:45: error: bad use of '>'
-[ERROR] *     &lt;extension base="&lt;http://www.w3.org/2001/XMLSchema>anyURI">
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/connectors/deploy/karaf/model/Bundle.java:45: error: bad use of '>'
-[ERROR] *     &lt;extension base="&lt;http://www.w3.org/2001/XMLSchema>anyURI">
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/connectors/deploy/karaf/model/Bundle.java:46: error: bad use of '>'
-[ERROR] *       &lt;attribute name="start-level" type="{http://www.w3.org/2001/XMLSchema}int" />
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/connectors/deploy/karaf/model/Bundle.java:47: error: bad use of '>'
-[ERROR] *       &lt;attribute name="start" type="{http://www.w3.org/2001/XMLSchema}boolean" />
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/connectors/deploy/karaf/model/Bundle.java:48: error: bad use of '>'
-[ERROR] *       &lt;attribute name="dependency" type="{http://www.w3.org/2001/XMLSchema}boolean" />
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/connectors/deploy/karaf/model/Bundle.java:49: error: bad use of '>'
-[ERROR] *     &lt;/extension>
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/connectors/deploy/karaf/model/Bundle.java:50: error: bad use of '>'
-[ERROR] *   &lt;/simpleContent>
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/connectors/deploy/karaf/model/Bundle.java:51: error: bad use of '>'
-[ERROR] * &lt;/complexType>
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/connectors/deploy/karaf/model/Config.java:42: error: bad use of '>'
-[ERROR] * &lt;complexType name="config">
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/connectors/deploy/karaf/model/Config.java:43: error: bad use of '>'
-[ERROR] *   &lt;simpleContent>
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/connectors/deploy/karaf/model/Config.java:44: error: bad use of '>'
-[ERROR] *     &lt;extension base="&lt;http://www.w3.org/2001/XMLSchema>string">
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/connectors/deploy/karaf/model/Config.java:44: error: bad use of '>'
-[ERROR] *     &lt;extension base="&lt;http://www.w3.org/2001/XMLSchema>string">
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/connectors/deploy/karaf/model/Config.java:45: error: bad use of '>'
-[ERROR] *       &lt;attribute name="name" use="required" type="{http://www.w3.org/2001/XMLSchema}string" />
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/connectors/deploy/karaf/model/Config.java:46: error: bad use of '>'
-[ERROR] *     &lt;/extension>
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/connectors/deploy/karaf/model/Config.java:47: error: bad use of '>'
-[ERROR] *   &lt;/simpleContent>
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/connectors/deploy/karaf/model/Config.java:48: error: bad use of '>'
-[ERROR] * &lt;/complexType>
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/connectors/deploy/karaf/model/ConfigFile.java:42: error: bad use of '>'
-[ERROR] * &lt;complexType name="configFile">
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/connectors/deploy/karaf/model/ConfigFile.java:43: error: bad use of '>'
-[ERROR] *   &lt;simpleContent>
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/connectors/deploy/karaf/model/ConfigFile.java:44: error: bad use of '>'
-[ERROR] *     &lt;extension base="&lt;http://www.w3.org/2001/XMLSchema>string">
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/connectors/deploy/karaf/model/ConfigFile.java:44: error: bad use of '>'
-[ERROR] *     &lt;extension base="&lt;http://www.w3.org/2001/XMLSchema>string">
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/connectors/deploy/karaf/model/ConfigFile.java:45: error: bad use of '>'
-[ERROR] *       &lt;attribute name="finalname" use="required" type="{http://www.w3.org/2001/XMLSchema}string" />
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/connectors/deploy/karaf/model/ConfigFile.java:46: error: bad use of '>'
-[ERROR] *     &lt;/extension>
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/connectors/deploy/karaf/model/ConfigFile.java:47: error: bad use of '>'
-[ERROR] *   &lt;/simpleContent>
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/connectors/deploy/karaf/model/ConfigFile.java:48: error: bad use of '>'
-[ERROR] * &lt;/complexType>
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/connectors/deploy/karaf/model/Dependency.java:42: error: bad use of '>'
-[ERROR] * &lt;complexType name="dependency">
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/connectors/deploy/karaf/model/Dependency.java:43: error: bad use of '>'
-[ERROR] *   &lt;simpleContent>
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/connectors/deploy/karaf/model/Dependency.java:44: error: bad use of '>'
-[ERROR] *     &lt;extension base="&lt;http://karaf.apache.org/xmlns/features/v1.0.0>featureName">
-[ERROR] ^
-[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/connectors/deploy/karaf/model/Dependency.java:44: error: bad use of '>'
-[ERROR] *     &lt;extension base="&lt;http://karaf.apache.org/xmlns/features/v1.0.0>featureName">
-[ERROR] ^
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/api/AbstractProcedureMojo.java:27: warning - @requiresDirectInvocation is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/checks/CodificationCheck.java:82: warning - @ is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/checks/CodificationCheck.java:57: warning - @ is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/checks/CodificationCheck.java:57: warning - @ is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/checks/CodificationCheck.java:57: warning - @ is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/checks/CodificationCheck.java:82: warning - @ is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/checks/CodificationCheck.java:82: warning - @ is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/checks/FelixDepCheckFix.java:40: warning - @ is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/checks/FelixDepCheckFix.java:54: warning - @ is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/checks/FelixDepCheckFix.java:68: warning - @ is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/checks/FelixDepCheckFix.java:40: warning - @ is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/checks/FelixDepCheckFix.java:40: warning - @ is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/checks/FelixDepCheckFix.java:54: warning - @ is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/checks/FelixDepCheckFix.java:54: warning - @ is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/checks/FelixDepCheckFix.java:68: warning - @ is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/checks/FelixDepCheckFix.java:68: warning - @ is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/checks/MainMethodCheck.java:46: warning - @ is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/checks/MainMethodCheck.java:64: warning - @ is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/checks/MainMethodCheck.java:46: warning - @ is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/checks/MainMethodCheck.java:46: warning - @ is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/checks/MainMethodCheck.java:64: warning - @ is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/checks/MainMethodCheck.java:64: warning - @ is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/ChangeVersionMojo.java:33: warning - @goal is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/CheckReportMojo.java:59: warning - @goal is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/CheckReportMojo.java:59: warning - @phase is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/CheckReportMojo.java:84: warning - @Component is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/DecoupleCheckMojo.java:32: warning - @goal is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/DependencyManagementCheckMojo.java:38: warning - @goal is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/DependencyManagementCheckMojo.java:38: warning - @phase is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/DirectiveCheckMojo.java:49: warning - @goal is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/FelixDependencyCheckFixMojo.java:32: warning - @goal is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/FelixDependencyCheckFixMojo.java:32: warning - @phase is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/IncreaseVersionMojo.java:41: warning - @goal is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/IncreaseVersionMojo.java:41: warning - @requiresDirectInvocation is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/ItestsCheckFixMojo.java:34: warning - @goal is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/ItestsCheckFixMojo.java:34: warning - @phase is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/LicenseMojo.java:37: warning - @goal is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/MainMethodCheckMojo.java:31: warning - @goal is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/ModulesCheckMojo.java:34: warning - @aggregator is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/ModulesCheckMojo.java:34: warning - @goal is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/ModulesCheckMojo.java:34: warning - @phase is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/NamingCheckMojo.java:39: warning - @goal is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/UpdateParentPom.java:41: warning - @goal is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/mojos/UpdateRootVersionsMojo.java:40: warning - @goal is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaalDirectives-maven-plugin/src/main/java/org/universAAL/support/directives/procedures/UpdateParentPomInteractiveProcedure.java:173: warning - @return tag has no arguments.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-manifest-maven-plugin/target/generated-sources/plugin/org/universAAL/support/maven/manifest/HelpMojo.java:18: warning - @goal is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-manifest-maven-plugin/target/generated-sources/plugin/org/universAAL/support/maven/manifest/HelpMojo.java:18: warning - @requiresProject is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-manifest-maven-plugin/src/main/java/org/universAAL/support/maven/manifest/ManifestReader.java:61: warning - @return tag cannot be used in method with void return type.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-manifest-maven-plugin/src/main/java/org/universAAL/support/maven/manifest/MavenPlugin.java:28: warning - @goal is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-maven-plugin/src/main/java/org/universAAL/maven/UaalCompositeMojo.java:53: warning - @goal is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-maven-plugin/src/main/java/org/universAAL/maven/UaalRunnerMojo.java:57: warning - @goal is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-maven-plugin/src/main/java/org/universAAL/maven/UaalRunnerMojo.java:139: warning - @parameter is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-maven-plugin/src/main/java/org/universAAL/maven/UaalRunnerMojo.java:139: warning - @readonly is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-maven-plugin/src/main/java/org/universAAL/maven/UaalRunnerMojo.java:139: warning - @required is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-maven-plugin/src/main/java/org/universAAL/maven/UaalTestMojo.java:60: warning - @goal is an unknown tag.
+[ERROR] /home/travis/build/cstockloew/platform/xtras/maven/plugins/uaal-maven-plugin/src/main/java/org/universAAL/maven/treebuilder/ExecutionListCreator.java:327: warning - @return tag has no arguments.
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.container.core/src/main/java/org/universAAL/middleware/container/Container.java:129: warning - @param argument "fetchParams" is not a parameter name.
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/datarep/DataRepFactory.java:37: warning - Tag @see: reference not found: org.universAAL.middleware.rdf.impl.ResourceFactoryImpl#createInstance(String,
+[ERROR] String, int)
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/rdf/Resource.java:453: warning - Tag @see: can't find copyAsNonXMLLiteral() in org.universAAL.middleware.rdf.Resource
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/owl/TypeExpression.java:330: warning - Tag @link: can't find isDisjointWith(Object, HashMap, int, List) in org.universAAL.middleware.owl.TypeExpression
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/owl/TypeExpression.java:404: warning - Tag @link: can't find matches(Object, HashMap, int, List) in org.universAAL.middleware.owl.TypeExpression
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/rdf/ScopedResource.java:57: warning - Tag @inheritDoc cannot be used in constructor documentation.  It can only be used in the following types of documentation: class/interface, method, inline text.
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/rdf/ScopedResource.java:57: warning - @inheritDoc used but ScopedResource() does not override or implement any method.
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/rdf/ScopedResource.java:62: warning - Tag @inheritDoc cannot be used in constructor documentation.  It can only be used in the following types of documentation: class/interface, method, inline text.
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/rdf/ScopedResource.java:62: warning - @inheritDoc used but ScopedResource(boolean) does not override or implement any method.
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/rdf/ScopedResource.java:67: warning - Tag @inheritDoc cannot be used in constructor documentation.  It can only be used in the following types of documentation: class/interface, method, inline text.
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/rdf/ScopedResource.java:67: warning - @inheritDoc used but ScopedResource(String) does not override or implement any method.
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/rdf/ScopedResource.java:72: warning - Tag @inheritDoc cannot be used in constructor documentation.  It can only be used in the following types of documentation: class/interface, method, inline text.
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/rdf/ScopedResource.java:72: warning - @inheritDoc used but ScopedResource(String, boolean) does not override or implement any method.
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/rdf/ScopedResource.java:77: warning - Tag @inheritDoc cannot be used in constructor documentation.  It can only be used in the following types of documentation: class/interface, method, inline text.
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/rdf/ScopedResource.java:77: warning - @inheritDoc used but ScopedResource(String, int) does not override or implement any method.
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/rdf/ScopedResource.java:57: warning - Tag @inheritDoc cannot be used in constructor documentation.  It can only be used in the following types of documentation: class/interface, method, inline text.
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/rdf/ScopedResource.java:57: warning - @inheritDoc used but ScopedResource() does not override or implement any method.
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/rdf/ScopedResource.java:57: warning - Tag @inheritDoc cannot be used in constructor documentation.  It can only be used in the following types of documentation: class/interface, method, inline text.
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/rdf/ScopedResource.java:62: warning - Tag @inheritDoc cannot be used in constructor documentation.  It can only be used in the following types of documentation: class/interface, method, inline text.
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/rdf/ScopedResource.java:62: warning - @inheritDoc used but ScopedResource(boolean) does not override or implement any method.
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/rdf/ScopedResource.java:62: warning - Tag @inheritDoc cannot be used in constructor documentation.  It can only be used in the following types of documentation: class/interface, method, inline text.
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/rdf/ScopedResource.java:67: warning - Tag @inheritDoc cannot be used in constructor documentation.  It can only be used in the following types of documentation: class/interface, method, inline text.
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/rdf/ScopedResource.java:67: warning - @inheritDoc used but ScopedResource(String) does not override or implement any method.
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/rdf/ScopedResource.java:67: warning - Tag @inheritDoc cannot be used in constructor documentation.  It can only be used in the following types of documentation: class/interface, method, inline text.
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/rdf/ScopedResource.java:72: warning - Tag @inheritDoc cannot be used in constructor documentation.  It can only be used in the following types of documentation: class/interface, method, inline text.
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/rdf/ScopedResource.java:72: warning - @inheritDoc used but ScopedResource(String, boolean) does not override or implement any method.
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/rdf/ScopedResource.java:72: warning - Tag @inheritDoc cannot be used in constructor documentation.  It can only be used in the following types of documentation: class/interface, method, inline text.
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/rdf/ScopedResource.java:77: warning - Tag @inheritDoc cannot be used in constructor documentation.  It can only be used in the following types of documentation: class/interface, method, inline text.
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/rdf/ScopedResource.java:77: warning - @inheritDoc used but ScopedResource(String, int) does not override or implement any method.
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/rdf/ScopedResource.java:77: warning - Tag @inheritDoc cannot be used in constructor documentation.  It can only be used in the following types of documentation: class/interface, method, inline text.
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.core/mw.data.representation.core/src/main/java/org/universAAL/middleware/xsd/Base64Binary.java:57: warning - @param argument "val" is not a parameter name.
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/interfaces/aalspace/model/ICommunicationChannels.java:56: warning - Tag @link: reference not found: ChannelDescriptor
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/interfaces/aalspace/model/IPeeringChannel.java:40: warning - Tag @link: reference not found: ChannelDescriptor
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/interfaces/aalspace/model/IPeeringChannel.java:50: warning - Tag @link: reference not found: ChannelDescriptor
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/interfaces/aalspace/model/IAALSpace.java:42: warning - Tag @link: reference not found: Aalspace.SpaceDescriptor
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/interfaces/aalspace/model/IAALSpace.java:52: warning - Tag @link: reference not found: Aalspace.SpaceDescriptor
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/interfaces/aalspace/model/IAALSpace.java:64: warning - Tag @link: reference not found: Aalspace.PeeringChannel
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/interfaces/aalspace/model/IAALSpace.java:74: warning - Tag @link: reference not found: Aalspace.PeeringChannel
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/interfaces/aalspace/model/IAALSpace.java:86: warning - Tag @link: reference not found: Aalspace.CommunicationChannels
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/interfaces/aalspace/model/IAALSpace.java:96: warning - Tag @link: reference not found: Aalspace.CommunicationChannels
+[ERROR] /home/travis/build/cstockloew/platform/middleware/middleware.resources/mw.schemas/src/main/java/org/universAAL/middleware/interfaces/aalspace/model/ICommunicationChannels.java:56: warning - Tag @link: reference not found: ChannelDescriptor
+[ERROR] javadoc: error - Invalid relative name: doc-files/Design Model.png
 [ERROR] Expected file not found: /home/travis/build/cstockloew/platform/uAAL.pom/target/site/apidocs/org/universAAL/support/directives/api/package-summary.html
 [ERROR] Expected file not found: /home/travis/build/cstockloew/platform/uAAL.pom/target/site/apidocs/org/universAAL/support/directives/checks/package-summary.html
 [ERROR] Expected file not found: /home/travis/build/cstockloew/platform/uAAL.pom/target/site/apidocs/org/universAAL/support/directives/mojos/package-summary.html
