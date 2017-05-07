@@ -48,10 +48,12 @@ script:
 # - ./javadoc.sh >javadoc.sh.txt 2>&1 || true
 # - find . > find_all_files2.txt
 # - cd ../../..
- - ../push-to-gh-pages.sh
+# - ../push-to-gh-pages.sh
+ - mvn cobertura:cobertura -fn > target/site/apidocs/cobertura.txt
 
-#after_success:
-#  - ../push-to-gh-pages.sh
+after_success:
+  - ../push-to-gh-pages.sh
+  - bash <(curl -s https://codecov.io/bash)
   
 notifications:
   email: false
