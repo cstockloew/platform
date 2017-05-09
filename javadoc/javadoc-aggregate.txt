@@ -377,113 +377,113 @@ Downloading: https://repository.apache.org/snapshots/org/ops4j/pax/logging/pax-l
 Downloading: https://oss.sonatype.org/content/repositories/releases/org/apache/karaf/shell/org.apache.karaf.shell.console/maven-metadata.xml
 Downloading: https://repository.apache.org/releases/org/apache/karaf/shell/org.apache.karaf.shell.console/maven-metadata.xml
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/maven-metadata.xml
-837/837 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/maven-metadata.xml (837 B at 10.8 KB/sec)
+837/837 B                           Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/maven-metadata.xml (837 B at 10.3 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/2.2.12-SNAPSHOT/maven-metadata.xml
-811/811 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/2.2.12-SNAPSHOT/maven-metadata.xml (811 B at 13.2 KB/sec)
+811/811 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/2.2.12-SNAPSHOT/maven-metadata.xml (811 B at 15.2 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/shell/shell/2.2.12-SNAPSHOT/maven-metadata.xml
-610/610 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/shell/2.2.12-SNAPSHOT/maven-metadata.xml (610 B at 9.6 KB/sec)
+610/610 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/shell/2.2.12-SNAPSHOT/maven-metadata.xml (610 B at 12.4 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/karaf/2.2.12-SNAPSHOT/maven-metadata.xml
-604/604 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/karaf/2.2.12-SNAPSHOT/maven-metadata.xml (604 B at 10.2 KB/sec)
+604/604 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/karaf/2.2.12-SNAPSHOT/maven-metadata.xml (604 B at 10.7 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.modules/2.2.12-SNAPSHOT/maven-metadata.xml
-809/809 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.modules/2.2.12-SNAPSHOT/maven-metadata.xml (809 B at 13.2 KB/sec)
+809/809 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.modules/2.2.12-SNAPSHOT/maven-metadata.xml (809 B at 15.2 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/jaas/2.2.12-SNAPSHOT/maven-metadata.xml
-608/608 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/jaas/2.2.12-SNAPSHOT/maven-metadata.xml (608 B at 8.1 KB/sec)
+608/608 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/jaas/2.2.12-SNAPSHOT/maven-metadata.xml (608 B at 12.9 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.config/2.2.12-SNAPSHOT/maven-metadata.xml
-808/808 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.config/2.2.12-SNAPSHOT/maven-metadata.xml (808 B at 12.5 KB/sec)
+808/808 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.config/2.2.12-SNAPSHOT/maven-metadata.xml (808 B at 17.9 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.boot/2.2.12-SNAPSHOT/maven-metadata.xml
-806/806 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.boot/2.2.12-SNAPSHOT/maven-metadata.xml (806 B at 15.7 KB/sec)
+806/806 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.boot/2.2.12-SNAPSHOT/maven-metadata.xml (806 B at 17.9 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/org.apache.karaf.util/2.2.12-SNAPSHOT/maven-metadata.xml
-796/796 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/org.apache.karaf.util/2.2.12-SNAPSHOT/maven-metadata.xml (796 B at 14.7 KB/sec)
+796/796 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/org.apache.karaf.util/2.2.12-SNAPSHOT/maven-metadata.xml (796 B at 17.7 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/2.99.99-SNAPSHOT/maven-metadata.xml
-808/808 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/2.99.99-SNAPSHOT/maven-metadata.xml (808 B at 14.1 KB/sec)
+808/808 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/2.99.99-SNAPSHOT/maven-metadata.xml (808 B at 13.8 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/shell/shell/2.99.99-SNAPSHOT/maven-metadata.xml
-608/608 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/shell/2.99.99-SNAPSHOT/maven-metadata.xml (608 B at 12.1 KB/sec)
+608/608 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/shell/2.99.99-SNAPSHOT/maven-metadata.xml (608 B at 12.4 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/karaf/2.99.99-SNAPSHOT/maven-metadata.xml
-602/602 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/karaf/2.99.99-SNAPSHOT/maven-metadata.xml (602 B at 8.4 KB/sec)
+602/602 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/karaf/2.99.99-SNAPSHOT/maven-metadata.xml (602 B at 10.7 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.modules/2.99.99-SNAPSHOT/maven-metadata.xml
-806/806 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.modules/2.99.99-SNAPSHOT/maven-metadata.xml (806 B at 14.3 KB/sec)
+806/806 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.modules/2.99.99-SNAPSHOT/maven-metadata.xml (806 B at 8.4 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/jaas/2.99.99-SNAPSHOT/maven-metadata.xml
-606/606 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/jaas/2.99.99-SNAPSHOT/maven-metadata.xml (606 B at 11.8 KB/sec)
+606/606 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/jaas/2.99.99-SNAPSHOT/maven-metadata.xml (606 B at 12.6 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.config/2.99.99-SNAPSHOT/maven-metadata.xml
-805/805 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.config/2.99.99-SNAPSHOT/maven-metadata.xml (805 B at 12.5 KB/sec)
+805/805 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.config/2.99.99-SNAPSHOT/maven-metadata.xml (805 B at 15.1 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.boot/2.99.99-SNAPSHOT/maven-metadata.xml
-803/803 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.boot/2.99.99-SNAPSHOT/maven-metadata.xml (803 B at 11.4 KB/sec)
+803/803 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.boot/2.99.99-SNAPSHOT/maven-metadata.xml (803 B at 4.6 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/3.0.9-SNAPSHOT/maven-metadata.xml
-802/802 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/3.0.9-SNAPSHOT/maven-metadata.xml (802 B at 12.2 KB/sec)
+802/802 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/3.0.9-SNAPSHOT/maven-metadata.xml (802 B at 16.7 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/shell/shell/3.0.9-SNAPSHOT/maven-metadata.xml
-604/604 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/shell/3.0.9-SNAPSHOT/maven-metadata.xml (604 B at 10.7 KB/sec)
+604/604 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/shell/3.0.9-SNAPSHOT/maven-metadata.xml (604 B at 12.8 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/karaf/3.0.9-SNAPSHOT/maven-metadata.xml
-598/598 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/karaf/3.0.9-SNAPSHOT/maven-metadata.xml (598 B at 11.5 KB/sec)
+598/598 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/karaf/3.0.9-SNAPSHOT/maven-metadata.xml (598 B at 12.4 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.modules/3.0.9-SNAPSHOT/maven-metadata.xml
-800/800 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.modules/3.0.9-SNAPSHOT/maven-metadata.xml (800 B at 14.7 KB/sec)
+800/800 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.modules/3.0.9-SNAPSHOT/maven-metadata.xml (800 B at 16.3 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/jaas/3.0.9-SNAPSHOT/maven-metadata.xml
-602/602 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/jaas/3.0.9-SNAPSHOT/maven-metadata.xml (602 B at 9.5 KB/sec)
+602/602 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/jaas/3.0.9-SNAPSHOT/maven-metadata.xml (602 B at 11.5 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.config/3.0.9-SNAPSHOT/maven-metadata.xml
-799/799 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.config/3.0.9-SNAPSHOT/maven-metadata.xml (799 B at 12.6 KB/sec)
+799/799 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.config/3.0.9-SNAPSHOT/maven-metadata.xml (799 B at 14.2 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/3.1.0-SNAPSHOT/maven-metadata.xml
-805/805 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/3.1.0-SNAPSHOT/maven-metadata.xml (805 B at 13.6 KB/sec)
+805/805 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/3.1.0-SNAPSHOT/maven-metadata.xml (805 B at 17.1 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/shell/shell/3.1.0-SNAPSHOT/maven-metadata.xml
-606/606 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/shell/3.1.0-SNAPSHOT/maven-metadata.xml (606 B at 10.4 KB/sec)
+606/606 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/shell/3.1.0-SNAPSHOT/maven-metadata.xml (606 B at 11.0 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/karaf/3.1.0-SNAPSHOT/maven-metadata.xml
-600/600 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/karaf/3.1.0-SNAPSHOT/maven-metadata.xml (600 B at 5.2 KB/sec)
+600/600 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/karaf/3.1.0-SNAPSHOT/maven-metadata.xml (600 B at 7.2 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.modules/3.1.0-SNAPSHOT/maven-metadata.xml
-803/803 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.modules/3.1.0-SNAPSHOT/maven-metadata.xml (803 B at 14.0 KB/sec)
+803/803 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.modules/3.1.0-SNAPSHOT/maven-metadata.xml (803 B at 17.4 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/jaas/3.1.0-SNAPSHOT/maven-metadata.xml
-604/604 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/jaas/3.1.0-SNAPSHOT/maven-metadata.xml (604 B at 11.8 KB/sec)
+604/604 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/jaas/3.1.0-SNAPSHOT/maven-metadata.xml (604 B at 12.8 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.config/3.1.0-SNAPSHOT/maven-metadata.xml
-802/802 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.config/3.1.0-SNAPSHOT/maven-metadata.xml (802 B at 14.0 KB/sec)
+802/802 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.config/3.1.0-SNAPSHOT/maven-metadata.xml (802 B at 18.6 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.boot/3.1.0-SNAPSHOT/maven-metadata.xml
-800/800 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.boot/3.1.0-SNAPSHOT/maven-metadata.xml (800 B at 13.5 KB/sec)
+800/800 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.boot/3.1.0-SNAPSHOT/maven-metadata.xml (800 B at 17.0 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.core/3.1.0-SNAPSHOT/maven-metadata.xml
-802/802 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.core/3.1.0-SNAPSHOT/maven-metadata.xml (802 B at 15.7 KB/sec)
+802/802 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.core/3.1.0-SNAPSHOT/maven-metadata.xml (802 B at 17.0 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/felix/org.apache.felix.fileinstall/3.4.3-SNAPSHOT/maven-metadata.xml
-1008/1008 B                 Downloaded: https://repository.apache.org/snapshots/org/apache/felix/org.apache.felix.fileinstall/3.4.3-SNAPSHOT/maven-metadata.xml (1008 B at 19.7 KB/sec)
+1008/1008 B                 Downloaded: https://repository.apache.org/snapshots/org/apache/felix/org.apache.felix.fileinstall/3.4.3-SNAPSHOT/maven-metadata.xml (1008 B at 21.9 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/4.0.0.M4-SNAPSHOT/maven-metadata.xml
-814/814 B                 Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/4.0.0.M4-SNAPSHOT/maven-metadata.xml (814 B at 14.7 KB/sec)
+814/814 B                 Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.console/4.0.0.M4-SNAPSHOT/maven-metadata.xml (814 B at 16.9 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/shell/shell/4.0.0.M4-SNAPSHOT/maven-metadata.xml
-610/610 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/shell/4.0.0.M4-SNAPSHOT/maven-metadata.xml (610 B at 10.8 KB/sec)
+610/610 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/shell/4.0.0.M4-SNAPSHOT/maven-metadata.xml (610 B at 13.2 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/karaf/4.0.0.M4-SNAPSHOT/maven-metadata.xml
-604/604 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/karaf/4.0.0.M4-SNAPSHOT/maven-metadata.xml (604 B at 11.8 KB/sec)
+604/604 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/karaf/4.0.0.M4-SNAPSHOT/maven-metadata.xml (604 B at 13.1 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.modules/4.0.0.M4-SNAPSHOT/maven-metadata.xml
-812/812 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.modules/4.0.0.M4-SNAPSHOT/maven-metadata.xml (812 B at 13.0 KB/sec)
+812/812 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.modules/4.0.0.M4-SNAPSHOT/maven-metadata.xml (812 B at 18.4 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/jaas/4.0.0.M4-SNAPSHOT/maven-metadata.xml
-608/608 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/jaas/4.0.0.M4-SNAPSHOT/maven-metadata.xml (608 B at 10.8 KB/sec)
+608/608 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/jaas/4.0.0.M4-SNAPSHOT/maven-metadata.xml (608 B at 14.1 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.config/4.0.0.M4-SNAPSHOT/maven-metadata.xml
-811/811 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.config/4.0.0.M4-SNAPSHOT/maven-metadata.xml (811 B at 15.2 KB/sec)
+811/811 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.config/4.0.0.M4-SNAPSHOT/maven-metadata.xml (811 B at 17.6 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.boot/4.0.0.M4-SNAPSHOT/maven-metadata.xml
-809/809 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.boot/4.0.0.M4-SNAPSHOT/maven-metadata.xml (809 B at 13.9 KB/sec)
+809/809 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/jaas/org.apache.karaf.jaas.boot/4.0.0.M4-SNAPSHOT/maven-metadata.xml (809 B at 18.0 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.core/4.0.0.M4-SNAPSHOT/maven-metadata.xml
-811/811 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.core/4.0.0.M4-SNAPSHOT/maven-metadata.xml (811 B at 16.5 KB/sec)
+811/811 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.core/4.0.0.M4-SNAPSHOT/maven-metadata.xml (811 B at 18.4 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/universAAL/middleware/mw.connectors.api.osgi/3.4.1-SNAPSHOT/maven-metadata.xml
             Downloading: https://repository.apache.org/snapshots/org/universAAL/middleware/mw.brokers.control.osgi/3.4.1-SNAPSHOT/maven-metadata.xml
-            Downloading: https://repository.apache.org/releases/org/apache/karaf/features/org.apache.karaf.features.core/maven-metadata.xml
+            Downloading: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/maven-metadata.xml
 Downloading: https://oss.sonatype.org/content/repositories/releases/org/apache/karaf/features/org.apache.karaf.features.core/maven-metadata.xml
-Downloading: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/maven-metadata.xml
-            840/840 B                           Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/maven-metadata.xml (840 B at 16.7 KB/sec)
+Downloading: https://repository.apache.org/releases/org/apache/karaf/features/org.apache.karaf.features.core/maven-metadata.xml
+            840/840 B                           Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/maven-metadata.xml (840 B at 18.2 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/2.2.12-SNAPSHOT/maven-metadata.xml
-814/814 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/2.2.12-SNAPSHOT/maven-metadata.xml (814 B at 15.9 KB/sec)
+814/814 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/2.2.12-SNAPSHOT/maven-metadata.xml (814 B at 10.5 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/features/features/2.2.12-SNAPSHOT/maven-metadata.xml
-616/616 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/features/2.2.12-SNAPSHOT/maven-metadata.xml (616 B at 12.3 KB/sec)
+616/616 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/features/2.2.12-SNAPSHOT/maven-metadata.xml (616 B at 8.0 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.obr/2.2.12-SNAPSHOT/maven-metadata.xml
-807/807 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.obr/2.2.12-SNAPSHOT/maven-metadata.xml (807 B at 14.6 KB/sec)
+807/807 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.obr/2.2.12-SNAPSHOT/maven-metadata.xml (807 B at 16.8 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/2.99.99-SNAPSHOT/maven-metadata.xml
-811/811 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/2.99.99-SNAPSHOT/maven-metadata.xml (811 B at 15.8 KB/sec)
+811/811 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/2.99.99-SNAPSHOT/maven-metadata.xml (811 B at 18.0 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/features/features/2.99.99-SNAPSHOT/maven-metadata.xml
-614/614 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/features/2.99.99-SNAPSHOT/maven-metadata.xml (614 B at 11.1 KB/sec)
+614/614 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/features/2.99.99-SNAPSHOT/maven-metadata.xml (614 B at 13.6 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.obr/2.99.99-SNAPSHOT/maven-metadata.xml
-804/804 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.obr/2.99.99-SNAPSHOT/maven-metadata.xml (804 B at 14.8 KB/sec)
+804/804 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/shell/org.apache.karaf.shell.obr/2.99.99-SNAPSHOT/maven-metadata.xml (804 B at 8.1 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/3.0.9-SNAPSHOT/maven-metadata.xml
-805/805 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/3.0.9-SNAPSHOT/maven-metadata.xml (805 B at 13.3 KB/sec)
+805/805 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/3.0.9-SNAPSHOT/maven-metadata.xml (805 B at 15.4 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/features/features/3.0.9-SNAPSHOT/maven-metadata.xml
-610/610 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/features/3.0.9-SNAPSHOT/maven-metadata.xml (610 B at 11.7 KB/sec)
+610/610 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/features/3.0.9-SNAPSHOT/maven-metadata.xml (610 B at 11.5 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/3.1.0-SNAPSHOT/maven-metadata.xml
-808/808 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/3.1.0-SNAPSHOT/maven-metadata.xml (808 B at 9.9 KB/sec)
+808/808 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/3.1.0-SNAPSHOT/maven-metadata.xml (808 B at 15.5 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/features/features/3.1.0-SNAPSHOT/maven-metadata.xml
-612/612 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/features/3.1.0-SNAPSHOT/maven-metadata.xml (612 B at 12.0 KB/sec)
+612/612 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/features/3.1.0-SNAPSHOT/maven-metadata.xml (612 B at 12.5 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/4.0.0.M4-SNAPSHOT/maven-metadata.xml
-817/817 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/4.0.0.M4-SNAPSHOT/maven-metadata.xml (817 B at 14.8 KB/sec)
+817/817 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/org.apache.karaf.features.core/4.0.0.M4-SNAPSHOT/maven-metadata.xml (817 B at 15.3 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/apache/karaf/features/features/4.0.0.M4-SNAPSHOT/maven-metadata.xml
-616/616 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/features/4.0.0.M4-SNAPSHOT/maven-metadata.xml (616 B at 11.4 KB/sec)
+616/616 B               Downloaded: https://repository.apache.org/snapshots/org/apache/karaf/features/features/4.0.0.M4-SNAPSHOT/maven-metadata.xml (616 B at 14.0 KB/sec)
 Downloading: https://repository.apache.org/snapshots/org/universAAL/middleware/mw.managers.distributedmw.core/3.4.1-SNAPSHOT/maven-metadata.xml
             Downloading: https://repository.apache.org/snapshots/org/universAAL/middleware/mw.data.serialization.osgi/3.4.1-SNAPSHOT/maven-metadata.xml
             Downloading: https://repository.apache.org/snapshots/org/universAAL/middleware/mw.bus.tracker.osgi/3.4.1-SNAPSHOT/maven-metadata.xml
@@ -603,10 +603,6 @@ Downloading: https://repository.apache.org/snapshots/org/universAAL/middleware/m
 [INFO] artifact org.apache.karaf.shell:org.apache.karaf.shell.console: checking for updates from sonatype-apache
 [INFO] artifact org.apache.karaf.features:org.apache.karaf.features.core: checking for updates from sonatype
 [INFO] artifact org.apache.karaf.features:org.apache.karaf.features.core: checking for updates from sonatype-apache
-Downloading: http://repo.maven.apache.org/maven2/org/umlgraph/umlgraph/5.6.6/umlgraph-5.6.6.pom
-4/5 KB      5/5 KB            Downloaded: http://repo.maven.apache.org/maven2/org/umlgraph/umlgraph/5.6.6/umlgraph-5.6.6.pom (5 KB at 168.0 KB/sec)
-Downloading: http://repo.maven.apache.org/maven2/org/umlgraph/umlgraph/5.6.6/umlgraph-5.6.6.jar
-4/64 KB   8/64 KB   11/64 KB   14/64 KB   18/64 KB   22/64 KB   25/64 KB   29/64 KB   33/64 KB   34/64 KB   37/64 KB   40/64 KB   44/64 KB   48/64 KB   52/64 KB   56/64 KB   60/64 KB   64/64 KB   64/64 KB              Downloaded: http://repo.maven.apache.org/maven2/org/umlgraph/umlgraph/5.6.6/umlgraph-5.6.6.jar (64 KB at 3195.8 KB/sec)
 [INFO] 
 Loading source files for package org.universAAL.support.directives.api...
 Loading source files for package org.universAAL.support.directives.checks...
@@ -12192,7 +12188,7 @@ Building Context view for class org.universAAL.ui.handler.gui.swing.classic.spec
 [INFO] universAAL Maven Plugins ........................... SKIPPED
 [INFO] universAAL Support uaalDirectives-maven-plugin ..... SKIPPED
 [INFO] universAAL Support Manifest Maven Plugin ........... SKIPPED
-[INFO] universAAL Super POM ............................... SUCCESS [03:05 min]
+[INFO] universAAL Super POM ............................... SUCCESS [02:50 min]
 [INFO] universAAL Maven Archetypes ........................ SKIPPED
 [INFO] Archetype - create an empty karaf feature repository, ready for adding features and then install and deploy it. SKIPPED
 [INFO] Archetype - template for universAAL OSGi module .... SKIPPED
@@ -12458,7 +12454,7 @@ Building Context view for class org.universAAL.ui.handler.gui.swing.classic.spec
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time: 03:15 min
-[INFO] Finished at: 2017-05-09T15:59:30+00:00
-[INFO] Final Memory: 190M/505M
+[INFO] Total time: 02:58 min
+[INFO] Finished at: 2017-05-09T17:03:31+00:00
+[INFO] Final Memory: 190M/506M
 [INFO] ------------------------------------------------------------------------
