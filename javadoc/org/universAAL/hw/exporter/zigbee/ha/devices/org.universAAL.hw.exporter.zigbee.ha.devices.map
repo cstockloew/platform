@@ -1,11 +1,20 @@
 <map id="G" name="G">
 <area shape="rect" id="c852919" href="./PresenceDetectorCallee.html" title="org.universAAL.hw.exporter.zigbee.ha.devices.PresenceDetectorCallee" alt="" coords="16,113,179,138"/>
+<area shape="rect" id="node1" href="./PresenceDetectorCallee.html" title="&lt;TABLE&gt;" alt="" coords="5,101,189,149"/>
 <area shape="rect" id="c852920" href="./TemperatureSensorCallee.html" title="org.universAAL.hw.exporter.zigbee.ha.devices.TemperatureSensorCallee" alt="" coords="223,113,395,138"/>
+<area shape="rect" id="node2" href="./TemperatureSensorCallee.html" title="&lt;TABLE&gt;" alt="" coords="213,101,405,149"/>
 <area shape="rect" id="c852921" href="./IASZoneCallee.html" title="org.universAAL.hw.exporter.zigbee.ha.devices.IASZoneCallee" alt="" coords="440,113,549,138"/>
+<area shape="rect" id="node3" href="./IASZoneCallee.html" title="&lt;TABLE&gt;" alt="" coords="429,101,560,149"/>
 <area shape="rect" id="c852922" href="./ExporterActuatorCallee.html" title="org.universAAL.hw.exporter.zigbee.ha.devices.ExporterActuatorCallee" alt="" coords="787,17,943,42"/>
+<area shape="rect" id="node4" href="./ExporterActuatorCallee.html" title="&lt;TABLE&gt;" alt="" coords="777,5,953,53"/>
 <area shape="rect" id="c852923" href="./OnOffLightCallee.html" title="org.universAAL.hw.exporter.zigbee.ha.devices.OnOffLightCallee" alt="" coords="805,113,926,138"/>
+<area shape="rect" id="node5" href="./OnOffLightCallee.html" title="&lt;TABLE&gt;" alt="" coords="795,101,936,149"/>
 <area shape="rect" id="c852924" href="./ExporterDimmerCallee.html" title="org.universAAL.hw.exporter.zigbee.ha.devices.ExporterDimmerCallee" alt="" coords="987,17,1141,42"/>
+<area shape="rect" id="node6" href="./ExporterDimmerCallee.html" title="&lt;TABLE&gt;" alt="" coords="977,5,1151,53"/>
 <area shape="rect" id="c852925" href="./DimmerLightCallee.html" title="org.universAAL.hw.exporter.zigbee.ha.devices.DimmerLightCallee" alt="" coords="998,113,1130,138"/>
+<area shape="rect" id="node7" href="./DimmerLightCallee.html" title="&lt;TABLE&gt;" alt="" coords="988,101,1140,149"/>
 <area shape="rect" id="c852926" href="./ExporterSensorCallee.html" title="org.universAAL.hw.exporter.zigbee.ha.devices.ExporterSensorCallee" alt="" coords="327,17,475,42"/>
+<area shape="rect" id="node8" href="./ExporterSensorCallee.html" title="&lt;TABLE&gt;" alt="" coords="317,5,485,53"/>
 <area shape="rect" id="c852927" href="./OccupancySensorCallee.html" title="org.universAAL.hw.exporter.zigbee.ha.devices.OccupancySensorCallee" alt="" coords="595,113,760,138"/>
+<area shape="rect" id="node9" href="./OccupancySensorCallee.html" title="&lt;TABLE&gt;" alt="" coords="584,101,771,149"/>
 </map>

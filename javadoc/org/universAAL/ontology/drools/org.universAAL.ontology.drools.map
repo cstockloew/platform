@@ -1,9 +1,16 @@
 <map id="G" name="G">
 <area shape="rect" id="c435277" href="./Fact.html" title="org.universAAL.ontology.drools.Fact" alt="" coords="18,17,65,42"/>
+<area shape="rect" id="node1" href="./Fact.html" title="&lt;TABLE&gt;" alt="" coords="5,5,77,53"/>
 <area shape="rect" id="c435278" href="./DroolsReasoning.html" title="org.universAAL.ontology.drools.DroolsReasoning" alt="" coords="111,17,233,42"/>
+<area shape="rect" id="node2" href="./DroolsReasoning.html" title="&lt;TABLE&gt;" alt="" coords="101,5,243,53"/>
 <area shape="rect" id="c435279" href="./FactProperty.html" title="org.universAAL.ontology.drools.FactProperty" alt="" coords="277,17,373,42"/>
+<area shape="rect" id="node3" href="./FactProperty.html" title="&lt;TABLE&gt;" alt="" coords="267,5,384,53"/>
 <area shape="rect" id="c435280" href="./DroolsReasoningOntology.html" title="org.universAAL.ontology.drools.DroolsReasoningOntology" alt="" coords="419,17,592,42"/>
+<area shape="rect" id="node4" href="./DroolsReasoningOntology.html" title="&lt;TABLE&gt;" alt="" coords="408,5,603,53"/>
 <area shape="rect" id="c435281" href="./Rule.html" title="org.universAAL.ontology.drools.Rule" alt="" coords="639,17,687,42"/>
+<area shape="rect" id="node5" href="./Rule.html" title="&lt;TABLE&gt;" alt="" coords="627,5,699,53"/>
 <area shape="rect" id="c435282" href="./ConsequenceProperty.html" title="org.universAAL.ontology.drools.ConsequenceProperty" alt="" coords="733,17,883,42"/>
+<area shape="rect" id="node6" href="./ConsequenceProperty.html" title="&lt;TABLE&gt;" alt="" coords="723,5,893,53"/>
 <area shape="rect" id="c435283" href="./Consequence.html" title="org.universAAL.ontology.drools.Consequence" alt="" coords="928,17,1029,42"/>
+<area shape="rect" id="node7" href="./Consequence.html" title="&lt;TABLE&gt;" alt="" coords="917,5,1040,53"/>
 </map>

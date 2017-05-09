@@ -1,7 +1,12 @@
 <map id="G" name="G">
-<area shape="rect" id="c4865295" href="../../middleware/service/owl/Service.html" title="org.universAAL.middleware.service.owl.Service" alt="" coords="193,17,258,42"/>
-<area shape="rect" id="c4865971" href="./CryptographicService.html" title="org.universAAL.ontology.cryptographic.CryptographicService" alt="" coords="153,113,298,138"/>
-<area shape="rect" id="c4865961" href="./DigestService.html" title="org.universAAL.ontology.cryptographic.DigestService" alt="" coords="15,209,118,234"/>
-<area shape="rect" id="c4865962" href="./EncryptionService.html" title="org.universAAL.ontology.cryptographic.EncryptionService" alt="" coords="162,209,289,234"/>
-<area shape="rect" id="c4865972" href="./SignAndVerifyService.html" title="org.universAAL.ontology.cryptographic.SignAndVerifyService" alt="" coords="333,209,481,234"/>
+<area shape="rect" id="c3258208" href="../../middleware/service/owl/Service.html" title="org.universAAL.middleware.service.owl.Service" alt="" coords="193,17,258,42"/>
+<area shape="rect" id="node1" href="../../middleware/service/owl/Service.html" title="&lt;TABLE&gt;" alt="" coords="183,5,268,53"/>
+<area shape="rect" id="c3258884" href="./CryptographicService.html" title="org.universAAL.ontology.cryptographic.CryptographicService" alt="" coords="153,113,298,138"/>
+<area shape="rect" id="node4" href="./CryptographicService.html" title="&lt;TABLE&gt;" alt="" coords="143,101,308,149"/>
+<area shape="rect" id="c3258874" href="./DigestService.html" title="org.universAAL.ontology.cryptographic.DigestService" alt="" coords="15,209,118,234"/>
+<area shape="rect" id="node2" href="./DigestService.html" title="&lt;TABLE&gt;" alt="" coords="5,197,128,245"/>
+<area shape="rect" id="c3258875" href="./EncryptionService.html" title="org.universAAL.ontology.cryptographic.EncryptionService" alt="" coords="162,209,289,234"/>
+<area shape="rect" id="node3" href="./EncryptionService.html" title="&lt;TABLE&gt;" alt="" coords="152,197,299,245"/>
+<area shape="rect" id="c3258885" href="./SignAndVerifyService.html" title="org.universAAL.ontology.cryptographic.SignAndVerifyService" alt="" coords="333,209,481,234"/>
+<area shape="rect" id="node5" href="./SignAndVerifyService.html" title="&lt;TABLE&gt;" alt="" coords="323,197,491,245"/>
 </map>

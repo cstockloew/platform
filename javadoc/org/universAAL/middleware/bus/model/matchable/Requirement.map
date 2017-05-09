@@ -1,6 +1,10 @@
 <map id="G" name="G">
-<area shape="rect" id="c2668697" href="./Request.html" title="org.universAAL.middleware.bus.model.matchable.Request" alt="" coords="16,214,101,255"/>
-<area shape="rect" id="c2668700" href="./Requirement.html" title="org.universAAL.middleware.bus.model.matchable.Requirement" alt="" coords="78,113,173,154"/>
-<area shape="rect" id="c2668701" href="./Subscription.html" title="org.universAAL.middleware.bus.model.matchable.Subscription" alt="" coords="147,214,240,255"/>
-<area shape="rect" id="c2668706" href="./Matchable.html" title="org.universAAL.middleware.bus.model.matchable.Matchable" alt="" coords="83,11,168,53"/>
+<area shape="rect" id="c6958497" href="./Request.html" title="org.universAAL.middleware.bus.model.matchable.Request" alt="" coords="16,214,101,255"/>
+<area shape="rect" id="node1" href="./Request.html" title="&lt;TABLE&gt;" alt="" coords="5,209,112,261"/>
+<area shape="rect" id="c6958500" href="./Requirement.html" title="org.universAAL.middleware.bus.model.matchable.Requirement" alt="" coords="78,113,173,154"/>
+<area shape="rect" id="node2" href="./Requirement.html" title="&lt;TABLE&gt;" alt="" coords="68,107,183,159"/>
+<area shape="rect" id="c6958501" href="./Subscription.html" title="org.universAAL.middleware.bus.model.matchable.Subscription" alt="" coords="147,214,240,255"/>
+<area shape="rect" id="node3" href="./Subscription.html" title="&lt;TABLE&gt;" alt="" coords="136,209,251,261"/>
+<area shape="rect" id="c6958506" href="./Matchable.html" title="org.universAAL.middleware.bus.model.matchable.Matchable" alt="" coords="83,11,168,53"/>
+<area shape="rect" id="node4" href="./Matchable.html" title="&lt;TABLE&gt;" alt="" coords="72,6,179,58"/>
 </map>

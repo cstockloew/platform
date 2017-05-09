@@ -1,7 +1,12 @@
 <map id="G" name="G">
-<area shape="rect" id="c2648563" href="./Publisher.html" title="org.universAAL.middleware.bus.member.Publisher" alt="" coords="16,113,91,138"/>
-<area shape="rect" id="c2648564" href="./Subscriber.html" title="org.universAAL.middleware.bus.member.Subscriber" alt="" coords="136,113,219,138"/>
-<area shape="rect" id="c2648565" href="./Callee.html" title="org.universAAL.middleware.bus.member.Callee" alt="" coords="263,113,321,138"/>
-<area shape="rect" id="c2648567" href="./BusMember.html" title="org.universAAL.middleware.bus.member.BusMember" alt="" coords="189,17,280,42"/>
-<area shape="rect" id="c2648568" href="./Caller.html" title="org.universAAL.middleware.bus.member.Caller" alt="" coords="365,113,419,138"/>
+<area shape="rect" id="c2553669" href="./Publisher.html" title="org.universAAL.middleware.bus.member.Publisher" alt="" coords="16,113,91,138"/>
+<area shape="rect" id="node1" href="./Publisher.html" title="&lt;TABLE&gt;" alt="" coords="5,101,101,149"/>
+<area shape="rect" id="c2553670" href="./Subscriber.html" title="org.universAAL.middleware.bus.member.Subscriber" alt="" coords="136,113,219,138"/>
+<area shape="rect" id="node2" href="./Subscriber.html" title="&lt;TABLE&gt;" alt="" coords="125,101,229,149"/>
+<area shape="rect" id="c2553671" href="./Callee.html" title="org.universAAL.middleware.bus.member.Callee" alt="" coords="263,113,321,138"/>
+<area shape="rect" id="node3" href="./Callee.html" title="&lt;TABLE&gt;" alt="" coords="253,101,331,149"/>
+<area shape="rect" id="c2553673" href="./BusMember.html" title="org.universAAL.middleware.bus.member.BusMember" alt="" coords="189,17,280,42"/>
+<area shape="rect" id="node4" href="./BusMember.html" title="&lt;TABLE&gt;" alt="" coords="179,5,291,53"/>
+<area shape="rect" id="c2553674" href="./Caller.html" title="org.universAAL.middleware.bus.member.Caller" alt="" coords="365,113,419,138"/>
+<area shape="rect" id="node5" href="./Caller.html" title="&lt;TABLE&gt;" alt="" coords="355,101,429,149"/>
 </map>

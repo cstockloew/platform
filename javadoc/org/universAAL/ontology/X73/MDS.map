@@ -1,6 +1,10 @@
 <map id="G" name="G">
-<area shape="rect" id="c4419836" href="../phThing/Device.html" title="org.universAAL.ontology.phThing.Device" alt="" coords="125,17,187,42"/>
-<area shape="rect" id="c4420191" href="./MDS.html" title="org.universAAL.ontology.X73.MDS" alt="" coords="131,113,181,138"/>
-<area shape="rect" id="c4420180" href="./WeighingScale.html" title="org.universAAL.ontology.X73.WeighingScale" alt="" coords="15,209,123,234"/>
-<area shape="rect" id="c4420182" href="./BloodPressureMonitor.html" title="org.universAAL.ontology.X73.BloodPressureMonitor" alt="" coords="168,209,317,234"/>
+<area shape="rect" id="c5443518" href="../phThing/Device.html" title="org.universAAL.ontology.phThing.Device" alt="" coords="125,17,187,42"/>
+<area shape="rect" id="node1" href="../phThing/Device.html" title="&lt;TABLE&gt;" alt="" coords="115,5,197,53"/>
+<area shape="rect" id="c5443873" href="./MDS.html" title="org.universAAL.ontology.X73.MDS" alt="" coords="131,113,181,138"/>
+<area shape="rect" id="node4" href="./MDS.html" title="&lt;TABLE&gt;" alt="" coords="120,101,192,149"/>
+<area shape="rect" id="c5443862" href="./WeighingScale.html" title="org.universAAL.ontology.X73.WeighingScale" alt="" coords="15,209,123,234"/>
+<area shape="rect" id="node2" href="./WeighingScale.html" title="&lt;TABLE&gt;" alt="" coords="5,197,133,245"/>
+<area shape="rect" id="c5443864" href="./BloodPressureMonitor.html" title="org.universAAL.ontology.X73.BloodPressureMonitor" alt="" coords="168,209,317,234"/>
+<area shape="rect" id="node3" href="./BloodPressureMonitor.html" title="&lt;TABLE&gt;" alt="" coords="157,197,328,245"/>
 </map>

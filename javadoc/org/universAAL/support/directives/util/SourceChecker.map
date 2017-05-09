@@ -1,8 +1,14 @@
 <map id="G" name="G">
-<area shape="rect" id="c1610165" href="../checks/LicenseHeaderCheckFix.html" title="org.universAAL.support.directives.checks.LicenseHeaderCheckFix" alt="" coords="15,118,179,143"/>
-<area shape="rect" id="c1610167" href="../checks/CodificationCheck.html" title="org.universAAL.support.directives.checks.CodificationCheck" alt="" coords="224,118,352,143"/>
-<area shape="rect" id="c1610168" href="../checks/MainMethodCheck.html" title="org.universAAL.support.directives.checks.MainMethodCheck" alt="" coords="397,118,526,143"/>
-<area shape="rect" id="c1610171" href="../checks/ItestsCheckFix.html" title="org.universAAL.support.directives.checks.ItestsCheckFix" alt="" coords="571,118,680,143"/>
-<area shape="rect" id="c1610173" href="../checks/DecoupleCheck.html" title="org.universAAL.support.directives.checks.DecoupleCheck" alt="" coords="725,118,838,143"/>
-<area shape="rect" id="c1610196" href="./SourceChecker.html" title="org.universAAL.support.directives.util.SourceChecker" alt="" coords="406,11,517,53"/>
+<area shape="rect" id="c7671142" href="../checks/LicenseHeaderCheckFix.html" title="org.universAAL.support.directives.checks.LicenseHeaderCheckFix" alt="" coords="15,118,179,143"/>
+<area shape="rect" id="node1" href="../checks/LicenseHeaderCheckFix.html" title="&lt;TABLE&gt;" alt="" coords="5,107,189,155"/>
+<area shape="rect" id="c7671144" href="../checks/CodificationCheck.html" title="org.universAAL.support.directives.checks.CodificationCheck" alt="" coords="224,118,352,143"/>
+<area shape="rect" id="node2" href="../checks/CodificationCheck.html" title="&lt;TABLE&gt;" alt="" coords="213,107,363,155"/>
+<area shape="rect" id="c7671145" href="../checks/MainMethodCheck.html" title="org.universAAL.support.directives.checks.MainMethodCheck" alt="" coords="397,118,526,143"/>
+<area shape="rect" id="node3" href="../checks/MainMethodCheck.html" title="&lt;TABLE&gt;" alt="" coords="387,107,536,155"/>
+<area shape="rect" id="c7671148" href="../checks/ItestsCheckFix.html" title="org.universAAL.support.directives.checks.ItestsCheckFix" alt="" coords="571,118,680,143"/>
+<area shape="rect" id="node4" href="../checks/ItestsCheckFix.html" title="&lt;TABLE&gt;" alt="" coords="560,107,691,155"/>
+<area shape="rect" id="c7671150" href="../checks/DecoupleCheck.html" title="org.universAAL.support.directives.checks.DecoupleCheck" alt="" coords="725,118,838,143"/>
+<area shape="rect" id="node5" href="../checks/DecoupleCheck.html" title="&lt;TABLE&gt;" alt="" coords="715,107,848,155"/>
+<area shape="rect" id="c7671173" href="./SourceChecker.html" title="org.universAAL.support.directives.util.SourceChecker" alt="" coords="406,11,517,53"/>
+<area shape="rect" id="node6" href="./SourceChecker.html" title="&lt;TABLE&gt;" alt="" coords="396,6,527,58"/>
 </map>

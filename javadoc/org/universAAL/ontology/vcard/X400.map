@@ -1,4 +1,6 @@
 <map id="G" name="G">
-<area shape="rect" id="c3545886" href="./X400.html" title="org.universAAL.ontology.vcard.X400" alt="" coords="17,113,68,138"/>
-<area shape="rect" id="c3545901" href="./Email.html" title="org.universAAL.ontology.vcard.Email" alt="" coords="16,17,69,42"/>
+<area shape="rect" id="c8591922" href="./X400.html" title="org.universAAL.ontology.vcard.X400" alt="" coords="17,113,68,138"/>
+<area shape="rect" id="node1" href="./X400.html" title="&lt;TABLE&gt;" alt="" coords="7,101,79,149"/>
+<area shape="rect" id="c8591937" href="./Email.html" title="org.universAAL.ontology.vcard.Email" alt="" coords="16,17,69,42"/>
+<area shape="rect" id="node2" href="./Email.html" title="&lt;TABLE&gt;" alt="" coords="5,5,80,53"/>
 </map>

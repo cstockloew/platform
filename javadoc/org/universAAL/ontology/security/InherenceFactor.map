@@ -1,4 +1,6 @@
 <map id="G" name="G">
-<area shape="rect" id="c4989638" href="./Factor.html" title="org.universAAL.ontology.security.Factor" alt="" coords="45,17,102,42"/>
-<area shape="rect" id="c4989639" href="./InherenceFactor.html" title="org.universAAL.ontology.security.InherenceFactor" alt="" coords="16,113,131,138"/>
+<area shape="rect" id="c4785637" href="./Factor.html" title="org.universAAL.ontology.security.Factor" alt="" coords="45,17,102,42"/>
+<area shape="rect" id="node1" href="./Factor.html" title="&lt;TABLE&gt;" alt="" coords="35,5,112,53"/>
+<area shape="rect" id="c4785638" href="./InherenceFactor.html" title="org.universAAL.ontology.security.InherenceFactor" alt="" coords="16,113,131,138"/>
+<area shape="rect" id="node2" href="./InherenceFactor.html" title="&lt;TABLE&gt;" alt="" coords="5,101,141,149"/>
 </map>

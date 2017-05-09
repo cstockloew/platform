@@ -1,7 +1,12 @@
 <map id="G" name="G">
-<area shape="rect" id="c1805771" href="./Base64Restriction.html" title="org.universAAL.middleware.owl.Base64Restriction" alt="" coords="16,209,144,234"/>
-<area shape="rect" id="c1805772" href="./URIRestriction.html" title="org.universAAL.middleware.owl.URIRestriction" alt="" coords="189,209,297,234"/>
-<area shape="rect" id="c1805777" href="./StringRestriction.html" title="org.universAAL.middleware.owl.StringRestriction" alt="" coords="341,209,459,234"/>
-<area shape="rect" id="c1805787" href="./LengthRestriction.html" title="org.universAAL.middleware.owl.LengthRestriction" alt="" coords="181,113,304,138"/>
-<area shape="rect" id="c1805795" href="./TypeRestriction.html" title="org.universAAL.middleware.owl.TypeRestriction" alt="" coords="186,17,299,42"/>
+<area shape="rect" id="c5155435" href="./Base64Restriction.html" title="org.universAAL.middleware.owl.Base64Restriction" alt="" coords="16,209,144,234"/>
+<area shape="rect" id="node1" href="./Base64Restriction.html" title="&lt;TABLE&gt;" alt="" coords="5,197,155,245"/>
+<area shape="rect" id="c5155436" href="./URIRestriction.html" title="org.universAAL.middleware.owl.URIRestriction" alt="" coords="189,209,297,234"/>
+<area shape="rect" id="node2" href="./URIRestriction.html" title="&lt;TABLE&gt;" alt="" coords="179,197,307,245"/>
+<area shape="rect" id="c5155441" href="./StringRestriction.html" title="org.universAAL.middleware.owl.StringRestriction" alt="" coords="341,209,459,234"/>
+<area shape="rect" id="node3" href="./StringRestriction.html" title="&lt;TABLE&gt;" alt="" coords="331,197,469,245"/>
+<area shape="rect" id="c5155451" href="./LengthRestriction.html" title="org.universAAL.middleware.owl.LengthRestriction" alt="" coords="181,113,304,138"/>
+<area shape="rect" id="node4" href="./LengthRestriction.html" title="&lt;TABLE&gt;" alt="" coords="171,101,315,149"/>
+<area shape="rect" id="c5155459" href="./TypeRestriction.html" title="org.universAAL.middleware.owl.TypeRestriction" alt="" coords="186,17,299,42"/>
+<area shape="rect" id="node5" href="./TypeRestriction.html" title="&lt;TABLE&gt;" alt="" coords="176,5,309,53"/>
 </map>

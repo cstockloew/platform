@@ -1,6 +1,10 @@
 <map id="G" name="G">
 <area shape="rect" id="c1048712" href="./UIPreferencesProvidedService.html" title="org.universAAL.ui.dm.ui.preferences.editor.UIPreferencesProvidedService" alt="" coords="16,17,216,42"/>
+<area shape="rect" id="node1" href="./UIPreferencesProvidedService.html" title="&lt;TABLE&gt;" alt="" coords="5,5,227,53"/>
 <area shape="rect" id="c1048713" href="./UIPreferencesDialogBuilder.html" title="org.universAAL.ui.dm.ui.preferences.editor.UIPreferencesDialogBuilder" alt="" coords="261,17,443,42"/>
+<area shape="rect" id="node2" href="./UIPreferencesDialogBuilder.html" title="&lt;TABLE&gt;" alt="" coords="251,5,453,53"/>
 <area shape="rect" id="c1048714" href="./UIPreferencesUICaller.html" title="org.universAAL.ui.dm.ui.preferences.editor.UIPreferencesUICaller" alt="" coords="487,17,641,42"/>
+<area shape="rect" id="node3" href="./UIPreferencesUICaller.html" title="&lt;TABLE&gt;" alt="" coords="477,5,651,53"/>
 <area shape="rect" id="c1048715" href="./UIPreferencesSCallee.html" title="org.universAAL.ui.dm.ui.preferences.editor.UIPreferencesSCallee" alt="" coords="685,17,835,42"/>
+<area shape="rect" id="node4" href="./UIPreferencesSCallee.html" title="&lt;TABLE&gt;" alt="" coords="675,5,845,53"/>
 </map>

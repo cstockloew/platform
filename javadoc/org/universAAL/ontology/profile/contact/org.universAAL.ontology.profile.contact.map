@@ -1,5 +1,8 @@
 <map id="G" name="G">
 <area shape="rect" id="c392027" href="./ContactOntology.html" title="org.universAAL.ontology.profile.contact.ContactOntology" alt="" coords="15,17,134,42"/>
+<area shape="rect" id="node1" href="./ContactOntology.html" title="&lt;TABLE&gt;" alt="" coords="5,5,144,53"/>
 <area shape="rect" id="c392028" href="./ContactManagementService.html" title="org.universAAL.ontology.profile.contact.ContactManagementService" alt="" coords="178,17,363,42"/>
+<area shape="rect" id="node2" href="./ContactManagementService.html" title="&lt;TABLE&gt;" alt="" coords="168,5,373,53"/>
 <area shape="rect" id="c392029" href="./ContactListSubProfile.html" title="org.universAAL.ontology.profile.contact.ContactListSubProfile" alt="" coords="407,17,555,42"/>
+<area shape="rect" id="node3" href="./ContactListSubProfile.html" title="&lt;TABLE&gt;" alt="" coords="397,5,565,53"/>
 </map>

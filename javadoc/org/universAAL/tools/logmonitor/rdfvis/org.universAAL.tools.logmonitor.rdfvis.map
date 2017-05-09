@@ -1,6 +1,10 @@
 <map id="G" name="G">
 <area shape="rect" id="c1299218" href="./LogMonitor.html" title="org.universAAL.tools.logmonitor.rdfvis.LogMonitor" alt="" coords="16,17,101,42"/>
+<area shape="rect" id="node1" href="./LogMonitor.html" title="&lt;TABLE&gt;" alt="" coords="5,5,112,53"/>
 <area shape="rect" id="c1299219" href="./Node.html" title="org.universAAL.tools.logmonitor.rdfvis.Node" alt="" coords="146,17,198,42"/>
+<area shape="rect" id="node2" href="./Node.html" title="&lt;TABLE&gt;" alt="" coords="136,5,208,53"/>
 <area shape="rect" id="c1299220" href="./Edge.html" title="org.universAAL.tools.logmonitor.rdfvis.Edge" alt="" coords="243,17,293,42"/>
+<area shape="rect" id="node3" href="./Edge.html" title="&lt;TABLE&gt;" alt="" coords="232,5,304,53"/>
 <area shape="rect" id="c1299221" href="./ResourceInterpreter.html" title="org.universAAL.tools.logmonitor.rdfvis.ResourceInterpreter" alt="" coords="339,17,475,42"/>
+<area shape="rect" id="node4" href="./ResourceInterpreter.html" title="&lt;TABLE&gt;" alt="" coords="328,5,485,53"/>
 </map>

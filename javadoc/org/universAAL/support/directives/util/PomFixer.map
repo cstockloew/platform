@@ -1,10 +1,18 @@
 <map id="G" name="G">
-<area shape="rect" id="c1615914" href="../checks/DependencyManagementCheckFix.html" title="org.universAAL.support.directives.checks.DependencyManagementCheckFix" alt="" coords="15,118,241,143"/>
-<area shape="rect" id="c1615921" href="../checks/ItestsCheckFix.html" title="org.universAAL.support.directives.checks.ItestsCheckFix" alt="" coords="285,118,395,143"/>
-<area shape="rect" id="c1615924" href="../checks/ModulesCheckFix.html" title="org.universAAL.support.directives.checks.ModulesCheckFix" alt="" coords="440,118,565,143"/>
-<area shape="rect" id="c1615925" href="../checks/FelixDepCheckFix.html" title="org.universAAL.support.directives.checks.FelixDepCheckFix" alt="" coords="610,118,739,143"/>
-<area shape="rect" id="c1615941" href="../procedures/ChangeVersionProcedure.html" title="org.universAAL.support.directives.procedures.ChangeVersionProcedure" alt="" coords="783,118,953,143"/>
-<area shape="rect" id="c1615942" href="../procedures/UpdateRootVersionsProcedure.html" title="org.universAAL.support.directives.procedures.UpdateRootVersionsProcedure" alt="" coords="985,214,1186,239"/>
-<area shape="rect" id="c1615944" href="../procedures/UpdateParentPomInteractiveProcedure.html" title="org.universAAL.support.directives.procedures.UpdateParentPomInteractiveProcedure" alt="" coords="1048,118,1296,143"/>
-<area shape="rect" id="c1615948" href="./PomFixer.html" title="org.universAAL.support.directives.util.PomFixer" alt="" coords="632,11,717,53"/>
+<area shape="rect" id="c6429061" href="../checks/DependencyManagementCheckFix.html" title="org.universAAL.support.directives.checks.DependencyManagementCheckFix" alt="" coords="15,118,241,143"/>
+<area shape="rect" id="node1" href="../checks/DependencyManagementCheckFix.html" title="&lt;TABLE&gt;" alt="" coords="5,107,251,155"/>
+<area shape="rect" id="c6429068" href="../checks/ItestsCheckFix.html" title="org.universAAL.support.directives.checks.ItestsCheckFix" alt="" coords="285,118,395,143"/>
+<area shape="rect" id="node2" href="../checks/ItestsCheckFix.html" title="&lt;TABLE&gt;" alt="" coords="275,107,405,155"/>
+<area shape="rect" id="c6429071" href="../checks/ModulesCheckFix.html" title="org.universAAL.support.directives.checks.ModulesCheckFix" alt="" coords="440,118,565,143"/>
+<area shape="rect" id="node3" href="../checks/ModulesCheckFix.html" title="&lt;TABLE&gt;" alt="" coords="429,107,576,155"/>
+<area shape="rect" id="c6429072" href="../checks/FelixDepCheckFix.html" title="org.universAAL.support.directives.checks.FelixDepCheckFix" alt="" coords="610,118,739,143"/>
+<area shape="rect" id="node4" href="../checks/FelixDepCheckFix.html" title="&lt;TABLE&gt;" alt="" coords="600,107,749,155"/>
+<area shape="rect" id="c6429088" href="../procedures/ChangeVersionProcedure.html" title="org.universAAL.support.directives.procedures.ChangeVersionProcedure" alt="" coords="783,118,953,143"/>
+<area shape="rect" id="node5" href="../procedures/ChangeVersionProcedure.html" title="&lt;TABLE&gt;" alt="" coords="773,107,963,155"/>
+<area shape="rect" id="c6429089" href="../procedures/UpdateRootVersionsProcedure.html" title="org.universAAL.support.directives.procedures.UpdateRootVersionsProcedure" alt="" coords="985,214,1186,239"/>
+<area shape="rect" id="node6" href="../procedures/UpdateRootVersionsProcedure.html" title="&lt;TABLE&gt;" alt="" coords="975,203,1196,251"/>
+<area shape="rect" id="c6429091" href="../procedures/UpdateParentPomInteractiveProcedure.html" title="org.universAAL.support.directives.procedures.UpdateParentPomInteractiveProcedure" alt="" coords="1048,118,1296,143"/>
+<area shape="rect" id="node7" href="../procedures/UpdateParentPomInteractiveProcedure.html" title="&lt;TABLE&gt;" alt="" coords="1037,107,1307,155"/>
+<area shape="rect" id="c6429095" href="./PomFixer.html" title="org.universAAL.support.directives.util.PomFixer" alt="" coords="632,11,717,53"/>
+<area shape="rect" id="node8" href="./PomFixer.html" title="&lt;TABLE&gt;" alt="" coords="621,6,728,58"/>
 </map>

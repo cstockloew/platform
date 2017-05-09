@@ -1,5 +1,8 @@
 <map id="G" name="G">
-<area shape="rect" id="c7772233" href="../../middleware/ui/UICaller.html" title="org.universAAL.middleware.ui.UICaller" alt="" coords="16,19,85,45"/>
-<area shape="rect" id="c7773900" href="./DialogManagerImpl.html" title="org.universAAL.ui.dm.DialogManagerImpl" alt="" coords="52,118,185,143"/>
-<area shape="rect" id="c7772237" href="../../middleware/ui/IDialogManager.html" title="org.universAAL.middleware.ui.IDialogManager" alt="" coords="131,11,243,53"/>
+<area shape="rect" id="c3571629" href="../../middleware/ui/UICaller.html" title="org.universAAL.middleware.ui.UICaller" alt="" coords="16,19,85,45"/>
+<area shape="rect" id="node1" href="../../middleware/ui/UICaller.html" title="&lt;TABLE&gt;" alt="" coords="5,8,96,56"/>
+<area shape="rect" id="c3573296" href="./DialogManagerImpl.html" title="org.universAAL.ui.dm.DialogManagerImpl" alt="" coords="52,118,185,143"/>
+<area shape="rect" id="node3" href="./DialogManagerImpl.html" title="&lt;TABLE&gt;" alt="" coords="41,107,196,155"/>
+<area shape="rect" id="c3571633" href="../../middleware/ui/IDialogManager.html" title="org.universAAL.middleware.ui.IDialogManager" alt="" coords="131,11,243,53"/>
+<area shape="rect" id="node2" href="../../middleware/ui/IDialogManager.html" title="&lt;TABLE&gt;" alt="" coords="120,6,253,58"/>
 </map>

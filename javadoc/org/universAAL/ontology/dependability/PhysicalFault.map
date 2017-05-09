@@ -1,7 +1,12 @@
 <map id="G" name="G">
-<area shape="rect" id="c4509331" href="./StructuralFault.html" title="org.universAAL.ontology.dependability.StructuralFault" alt="" coords="15,209,121,234"/>
-<area shape="rect" id="c4509332" href="./ShapeFault.html" title="org.universAAL.ontology.dependability.ShapeFault" alt="" coords="165,209,251,234"/>
-<area shape="rect" id="c4509347" href="./PhysicalFault.html" title="org.universAAL.ontology.dependability.PhysicalFault" alt="" coords="158,113,258,138"/>
-<area shape="rect" id="c4509348" href="./PropertyFault.html" title="org.universAAL.ontology.dependability.PropertyFault" alt="" coords="296,209,395,234"/>
-<area shape="rect" id="c4509358" href="./Fault.html" title="org.universAAL.ontology.dependability.Fault" alt="" coords="183,17,233,42"/>
+<area shape="rect" id="c6389835" href="./StructuralFault.html" title="org.universAAL.ontology.dependability.StructuralFault" alt="" coords="15,209,121,234"/>
+<area shape="rect" id="node1" href="./StructuralFault.html" title="&lt;TABLE&gt;" alt="" coords="5,197,131,245"/>
+<area shape="rect" id="c6389836" href="./ShapeFault.html" title="org.universAAL.ontology.dependability.ShapeFault" alt="" coords="165,209,251,234"/>
+<area shape="rect" id="node2" href="./ShapeFault.html" title="&lt;TABLE&gt;" alt="" coords="155,197,261,245"/>
+<area shape="rect" id="c6389851" href="./PhysicalFault.html" title="org.universAAL.ontology.dependability.PhysicalFault" alt="" coords="158,113,258,138"/>
+<area shape="rect" id="node3" href="./PhysicalFault.html" title="&lt;TABLE&gt;" alt="" coords="148,101,268,149"/>
+<area shape="rect" id="c6389852" href="./PropertyFault.html" title="org.universAAL.ontology.dependability.PropertyFault" alt="" coords="296,209,395,234"/>
+<area shape="rect" id="node4" href="./PropertyFault.html" title="&lt;TABLE&gt;" alt="" coords="285,197,405,245"/>
+<area shape="rect" id="c6389862" href="./Fault.html" title="org.universAAL.ontology.dependability.Fault" alt="" coords="183,17,233,42"/>
+<area shape="rect" id="node5" href="./Fault.html" title="&lt;TABLE&gt;" alt="" coords="172,5,244,53"/>
 </map>

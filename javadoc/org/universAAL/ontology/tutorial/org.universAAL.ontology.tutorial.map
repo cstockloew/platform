@@ -1,5 +1,8 @@
 <map id="G" name="G">
 <area shape="rect" id="c1189844" href="./MyConcept.html" title="org.universAAL.ontology.tutorial.MyConcept" alt="" coords="16,17,104,42"/>
+<area shape="rect" id="node1" href="./MyConcept.html" title="&lt;TABLE&gt;" alt="" coords="5,5,115,53"/>
 <area shape="rect" id="c1189845" href="./TutorialOntology.html" title="org.universAAL.ontology.tutorial.TutorialOntology" alt="" coords="149,17,265,42"/>
+<area shape="rect" id="node2" href="./TutorialOntology.html" title="&lt;TABLE&gt;" alt="" coords="139,5,275,53"/>
 <area shape="rect" id="c1189846" href="./MyEnumeration.html" title="org.universAAL.ontology.tutorial.MyEnumeration" alt="" coords="309,17,421,42"/>
+<area shape="rect" id="node3" href="./MyEnumeration.html" title="&lt;TABLE&gt;" alt="" coords="299,5,432,53"/>
 </map>

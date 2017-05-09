@@ -1,6 +1,10 @@
 <map id="G" name="G">
-<area shape="rect" id="c3074212" href="./MediaObject.html" title="org.universAAL.middleware.ui.rdf.MediaObject" alt="" coords="16,209,109,234"/>
-<area shape="rect" id="c3074216" href="./SimpleOutput.html" title="org.universAAL.middleware.ui.rdf.SimpleOutput" alt="" coords="154,209,254,234"/>
-<area shape="rect" id="c3074219" href="./Output.html" title="org.universAAL.middleware.ui.rdf.Output" alt="" coords="103,113,163,138"/>
-<area shape="rect" id="c3074224" href="./FormControl.html" title="org.universAAL.middleware.ui.rdf.FormControl" alt="" coords="87,17,180,42"/>
+<area shape="rect" id="c6167956" href="./MediaObject.html" title="org.universAAL.middleware.ui.rdf.MediaObject" alt="" coords="16,209,109,234"/>
+<area shape="rect" id="node1" href="./MediaObject.html" title="&lt;TABLE&gt;" alt="" coords="5,197,120,245"/>
+<area shape="rect" id="c6167960" href="./SimpleOutput.html" title="org.universAAL.middleware.ui.rdf.SimpleOutput" alt="" coords="154,209,254,234"/>
+<area shape="rect" id="node2" href="./SimpleOutput.html" title="&lt;TABLE&gt;" alt="" coords="144,197,264,245"/>
+<area shape="rect" id="c6167963" href="./Output.html" title="org.universAAL.middleware.ui.rdf.Output" alt="" coords="103,113,163,138"/>
+<area shape="rect" id="node3" href="./Output.html" title="&lt;TABLE&gt;" alt="" coords="93,101,173,149"/>
+<area shape="rect" id="c6167968" href="./FormControl.html" title="org.universAAL.middleware.ui.rdf.FormControl" alt="" coords="87,17,180,42"/>
+<area shape="rect" id="node4" href="./FormControl.html" title="&lt;TABLE&gt;" alt="" coords="76,5,191,53"/>
 </map>

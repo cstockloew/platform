@@ -1,10 +1,18 @@
 <map id="G" name="G">
 <area shape="rect" id="c607994" href="./SesameBackendCrd.html" title="org.universAAL.context.che.database.impl.SesameBackendCrd" alt="" coords="16,113,157,138"/>
+<area shape="rect" id="node1" href="./SesameBackendCrd.html" title="&lt;TABLE&gt;" alt="" coords="5,101,168,149"/>
 <area shape="rect" id="c607995" href="./SesameBackendCrdClcCnf.html" title="org.universAAL.context.che.database.impl.SesameBackendCrdClcCnf" alt="" coords="407,209,588,234"/>
+<area shape="rect" id="node2" href="./SesameBackendCrdClcCnf.html" title="&lt;TABLE&gt;" alt="" coords="396,197,599,245"/>
 <area shape="rect" id="c607996" href="./SesameBackendCrdClc.html" title="org.universAAL.context.che.database.impl.SesameBackendCrdClc" alt="" coords="202,113,363,138"/>
+<area shape="rect" id="node3" href="./SesameBackendCrdClc.html" title="&lt;TABLE&gt;" alt="" coords="192,101,373,149"/>
 <area shape="rect" id="c607997" href="./SesameBackendCrdClc2Cnf.html" title="org.universAAL.context.che.database.impl.SesameBackendCrdClc2Cnf" alt="" coords="633,209,823,234"/>
+<area shape="rect" id="node4" href="./SesameBackendCrdClc2Cnf.html" title="&lt;TABLE&gt;" alt="" coords="623,197,833,245"/>
 <area shape="rect" id="c607998" href="./SesameBackendCrdCnf.html" title="org.universAAL.context.che.database.impl.SesameBackendCrdCnf" alt="" coords="867,209,1029,234"/>
+<area shape="rect" id="node5" href="./SesameBackendCrdCnf.html" title="&lt;TABLE&gt;" alt="" coords="857,197,1039,245"/>
 <area shape="rect" id="c607999" href="./SesameBackendCrdClc2.html" title="org.universAAL.context.che.database.impl.SesameBackendCrdClc2" alt="" coords="408,113,576,138"/>
+<area shape="rect" id="node6" href="./SesameBackendCrdClc2.html" title="&lt;TABLE&gt;" alt="" coords="397,101,587,149"/>
 <area shape="rect" id="c608000" href="./SesameBackendWithConfidence.html" title="org.universAAL.context.che.database.impl.SesameBackendWithConfidence" alt="" coords="621,113,835,138"/>
+<area shape="rect" id="node7" href="./SesameBackendWithConfidence.html" title="&lt;TABLE&gt;" alt="" coords="611,101,845,149"/>
 <area shape="rect" id="c608001" href="./SesameBackend.html" title="org.universAAL.context.che.database.impl.SesameBackend" alt="" coords="327,17,447,42"/>
+<area shape="rect" id="node8" href="./SesameBackend.html" title="&lt;TABLE&gt;" alt="" coords="316,5,457,53"/>
 </map>

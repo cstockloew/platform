@@ -1,4 +1,6 @@
 <map id="G" name="G">
-<area shape="rect" id="c4543858" href="./Fault.html" title="org.universAAL.ontology.dependability.Fault" alt="" coords="55,17,105,42"/>
-<area shape="rect" id="c4543859" href="./NonMaliciousFault.html" title="org.universAAL.ontology.dependability.NonMaliciousFault" alt="" coords="15,113,145,138"/>
+<area shape="rect" id="c5958575" href="./Fault.html" title="org.universAAL.ontology.dependability.Fault" alt="" coords="55,17,105,42"/>
+<area shape="rect" id="node1" href="./Fault.html" title="&lt;TABLE&gt;" alt="" coords="44,5,116,53"/>
+<area shape="rect" id="c5958576" href="./NonMaliciousFault.html" title="org.universAAL.ontology.dependability.NonMaliciousFault" alt="" coords="15,113,145,138"/>
+<area shape="rect" id="node2" href="./NonMaliciousFault.html" title="&lt;TABLE&gt;" alt="" coords="5,101,155,149"/>
 </map>

@@ -1,6 +1,10 @@
 <map id="G" name="G">
 <area shape="rect" id="c149886" href="./AALSpaceModuleException.html" title="org.universAAL.middleware.modules.exception.AALSpaceModuleException" alt="" coords="15,17,198,42"/>
+<area shape="rect" id="node1" href="./AALSpaceModuleException.html" title="&lt;TABLE&gt;" alt="" coords="5,5,208,53"/>
 <area shape="rect" id="c149887" href="./CommunicationModuleException.html" title="org.universAAL.middleware.modules.exception.CommunicationModuleException" alt="" coords="242,17,454,42"/>
+<area shape="rect" id="node2" href="./CommunicationModuleException.html" title="&lt;TABLE&gt;" alt="" coords="232,5,464,53"/>
 <area shape="rect" id="c149888" href="./CommunicationModuleErrorCode.html" title="org.universAAL.middleware.modules.exception.CommunicationModuleErrorCode" alt="" coords="499,17,712,42"/>
+<area shape="rect" id="node3" href="./CommunicationModuleErrorCode.html" title="&lt;TABLE&gt;" alt="" coords="488,5,723,53"/>
 <area shape="rect" id="c149889" href="./AALSpaceModuleErrorCode.html" title="org.universAAL.middleware.modules.exception.AALSpaceModuleErrorCode" alt="" coords="757,17,941,42"/>
+<area shape="rect" id="node4" href="./AALSpaceModuleErrorCode.html" title="&lt;TABLE&gt;" alt="" coords="747,5,952,53"/>
 </map>

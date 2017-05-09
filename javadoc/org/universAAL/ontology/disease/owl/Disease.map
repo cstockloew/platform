@@ -1,11 +1,20 @@
 <map id="G" name="G">
-<area shape="rect" id="c4672296" href="../../../middleware/owl/ManagedIndividual.html" title="org.universAAL.middleware.owl.ManagedIndividual" alt="" coords="570,17,699,42"/>
-<area shape="rect" id="c4673279" href="./Disease.html" title="org.universAAL.ontology.disease.owl.Disease" alt="" coords="600,113,669,138"/>
-<area shape="rect" id="c4673261" href="../../ICD10Diseases/owl/NervousSystemDisease.html" title="org.universAAL.ontology.ICD10Diseases.owl.NervousSystemDisease" alt="" coords="16,209,179,234"/>
-<area shape="rect" id="c4673262" href="../../ICD10Diseases/owl/MentalDisorder.html" title="org.universAAL.ontology.ICD10Diseases.owl.MentalDisorder" alt="" coords="224,209,333,234"/>
-<area shape="rect" id="c4673263" href="../../ICD10Diseases/owl/DigestiveSystemDisease.html" title="org.universAAL.ontology.ICD10Diseases.owl.DigestiveSystemDisease" alt="" coords="378,209,547,234"/>
-<area shape="rect" id="c4673264" href="../../ICD10Diseases/owl/Neoplasms.html" title="org.universAAL.ontology.ICD10Diseases.owl.Neoplasms" alt="" coords="591,209,678,234"/>
-<area shape="rect" id="c4673265" href="../../ICD10Diseases/owl/CertainInfectiousParasiticDisease.html" title="org.universAAL.ontology.ICD10Diseases.owl.CertainInfectiousParasiticDisease" alt="" coords="723,209,941,234"/>
-<area shape="rect" id="c4673266" href="../../ICD10Diseases/owl/RespiratorySystemDisease.html" title="org.universAAL.ontology.ICD10Diseases.owl.RespiratorySystemDisease" alt="" coords="987,209,1168,234"/>
-<area shape="rect" id="c4673267" href="../../ICD10Diseases/owl/CirculatorySystemDisease.html" title="org.universAAL.ontology.ICD10Diseases.owl.CirculatorySystemDisease" alt="" coords="1213,209,1390,234"/>
+<area shape="rect" id="c3645990" href="../../../middleware/owl/ManagedIndividual.html" title="org.universAAL.middleware.owl.ManagedIndividual" alt="" coords="570,17,699,42"/>
+<area shape="rect" id="node1" href="../../../middleware/owl/ManagedIndividual.html" title="&lt;TABLE&gt;" alt="" coords="560,5,709,53"/>
+<area shape="rect" id="c3646973" href="./Disease.html" title="org.universAAL.ontology.disease.owl.Disease" alt="" coords="600,113,669,138"/>
+<area shape="rect" id="node9" href="./Disease.html" title="&lt;TABLE&gt;" alt="" coords="589,101,680,149"/>
+<area shape="rect" id="c3646955" href="../../ICD10Diseases/owl/NervousSystemDisease.html" title="org.universAAL.ontology.ICD10Diseases.owl.NervousSystemDisease" alt="" coords="16,209,179,234"/>
+<area shape="rect" id="node2" href="../../ICD10Diseases/owl/NervousSystemDisease.html" title="&lt;TABLE&gt;" alt="" coords="5,197,189,245"/>
+<area shape="rect" id="c3646956" href="../../ICD10Diseases/owl/MentalDisorder.html" title="org.universAAL.ontology.ICD10Diseases.owl.MentalDisorder" alt="" coords="224,209,333,234"/>
+<area shape="rect" id="node3" href="../../ICD10Diseases/owl/MentalDisorder.html" title="&lt;TABLE&gt;" alt="" coords="213,197,344,245"/>
+<area shape="rect" id="c3646957" href="../../ICD10Diseases/owl/DigestiveSystemDisease.html" title="org.universAAL.ontology.ICD10Diseases.owl.DigestiveSystemDisease" alt="" coords="378,209,547,234"/>
+<area shape="rect" id="node4" href="../../ICD10Diseases/owl/DigestiveSystemDisease.html" title="&lt;TABLE&gt;" alt="" coords="368,197,557,245"/>
+<area shape="rect" id="c3646958" href="../../ICD10Diseases/owl/Neoplasms.html" title="org.universAAL.ontology.ICD10Diseases.owl.Neoplasms" alt="" coords="591,209,678,234"/>
+<area shape="rect" id="node5" href="../../ICD10Diseases/owl/Neoplasms.html" title="&lt;TABLE&gt;" alt="" coords="581,197,688,245"/>
+<area shape="rect" id="c3646959" href="../../ICD10Diseases/owl/CertainInfectiousParasiticDisease.html" title="org.universAAL.ontology.ICD10Diseases.owl.CertainInfectiousParasiticDisease" alt="" coords="723,209,941,234"/>
+<area shape="rect" id="node6" href="../../ICD10Diseases/owl/CertainInfectiousParasiticDisease.html" title="&lt;TABLE&gt;" alt="" coords="712,197,952,245"/>
+<area shape="rect" id="c3646960" href="../../ICD10Diseases/owl/RespiratorySystemDisease.html" title="org.universAAL.ontology.ICD10Diseases.owl.RespiratorySystemDisease" alt="" coords="987,209,1168,234"/>
+<area shape="rect" id="node7" href="../../ICD10Diseases/owl/RespiratorySystemDisease.html" title="&lt;TABLE&gt;" alt="" coords="976,197,1179,245"/>
+<area shape="rect" id="c3646961" href="../../ICD10Diseases/owl/CirculatorySystemDisease.html" title="org.universAAL.ontology.ICD10Diseases.owl.CirculatorySystemDisease" alt="" coords="1213,209,1390,234"/>
+<area shape="rect" id="node8" href="../../ICD10Diseases/owl/CirculatorySystemDisease.html" title="&lt;TABLE&gt;" alt="" coords="1203,197,1400,245"/>
 </map>

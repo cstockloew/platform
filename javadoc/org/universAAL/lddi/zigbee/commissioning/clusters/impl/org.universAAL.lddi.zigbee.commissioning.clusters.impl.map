@@ -1,7 +1,12 @@
 <map id="G" name="G">
 <area shape="rect" id="c841409" href="./IASZoneAALImpl.html" title="org.universAAL.lddi.zigbee.commissioning.clusters.impl.IASZoneAALImpl" alt="" coords="15,17,137,42"/>
+<area shape="rect" id="node1" href="./IASZoneAALImpl.html" title="&lt;TABLE&gt;" alt="" coords="5,5,147,53"/>
 <area shape="rect" id="c841410" href="./OccupancyBridgeListenersAAL.html" title="org.universAAL.lddi.zigbee.commissioning.clusters.impl.OccupancyBridgeListenersAAL" alt="" coords="181,17,382,42"/>
+<area shape="rect" id="node2" href="./OccupancyBridgeListenersAAL.html" title="&lt;TABLE&gt;" alt="" coords="171,5,392,53"/>
 <area shape="rect" id="c841411" href="./OccupacySensingClusterAAL.html" title="org.universAAL.lddi.zigbee.commissioning.clusters.impl.OccupacySensingClusterAAL" alt="" coords="426,17,619,42"/>
+<area shape="rect" id="node3" href="./OccupacySensingClusterAAL.html" title="&lt;TABLE&gt;" alt="" coords="416,5,629,53"/>
 <area shape="rect" id="c841412" href="./OccupacySensingAALImpl.html" title="org.universAAL.lddi.zigbee.commissioning.clusters.impl.OccupacySensingAALImpl" alt="" coords="663,17,841,42"/>
+<area shape="rect" id="node4" href="./OccupacySensingAALImpl.html" title="&lt;TABLE&gt;" alt="" coords="653,5,851,53"/>
 <area shape="rect" id="c841413" href="./IASZoneClusterAAL.html" title="org.universAAL.lddi.zigbee.commissioning.clusters.impl.IASZoneClusterAAL" alt="" coords="885,17,1024,42"/>
+<area shape="rect" id="node5" href="./IASZoneClusterAAL.html" title="&lt;TABLE&gt;" alt="" coords="875,5,1035,53"/>
 </map>

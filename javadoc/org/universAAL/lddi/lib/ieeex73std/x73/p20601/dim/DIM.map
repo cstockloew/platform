@@ -1,6 +1,10 @@
 <map id="G" name="G">
-<area shape="rect" id="c6511188" href="./Metric.html" title="org.universAAL.lddi.lib.ieeex73std.x73.p20601.dim.Metric" alt="" coords="15,113,73,138"/>
-<area shape="rect" id="c6511191" href="./PM_Store.html" title="org.universAAL.lddi.lib.ieeex73std.x73.p20601.dim.PM_Store" alt="" coords="117,113,195,138"/>
-<area shape="rect" id="c6511195" href="./DIM.html" title="org.universAAL.lddi.lib.ieeex73std.x73.p20601.dim.DIM" alt="" coords="133,17,179,42"/>
-<area shape="rect" id="c6511196" href="./MDS.html" title="org.universAAL.lddi.lib.ieeex73std.x73.p20601.dim.MDS" alt="" coords="240,113,291,138"/>
+<area shape="rect" id="c3299701" href="./Metric.html" title="org.universAAL.lddi.lib.ieeex73std.x73.p20601.dim.Metric" alt="" coords="15,113,73,138"/>
+<area shape="rect" id="node1" href="./Metric.html" title="&lt;TABLE&gt;" alt="" coords="5,101,83,149"/>
+<area shape="rect" id="c3299704" href="./PM_Store.html" title="org.universAAL.lddi.lib.ieeex73std.x73.p20601.dim.PM_Store" alt="" coords="117,113,195,138"/>
+<area shape="rect" id="node2" href="./PM_Store.html" title="&lt;TABLE&gt;" alt="" coords="107,101,205,149"/>
+<area shape="rect" id="c3299708" href="./DIM.html" title="org.universAAL.lddi.lib.ieeex73std.x73.p20601.dim.DIM" alt="" coords="133,17,179,42"/>
+<area shape="rect" id="node3" href="./DIM.html" title="&lt;TABLE&gt;" alt="" coords="120,5,192,53"/>
+<area shape="rect" id="c3299709" href="./MDS.html" title="org.universAAL.lddi.lib.ieeex73std.x73.p20601.dim.MDS" alt="" coords="240,113,291,138"/>
+<area shape="rect" id="node4" href="./MDS.html" title="&lt;TABLE&gt;" alt="" coords="229,101,301,149"/>
 </map>

@@ -1,11 +1,20 @@
 <map id="G" name="G">
 <area shape="rect" id="c204608" href="./ServiceBusImpl.html" title="org.universAAL.middleware.service.impl.ServiceBusImpl" alt="" coords="15,17,129,42"/>
+<area shape="rect" id="node1" href="./ServiceBusImpl.html" title="&lt;TABLE&gt;" alt="" coords="5,5,139,53"/>
 <area shape="rect" id="c204609" href="./ServiceBusImpl.CallInjectorImpl.html" title="org.universAAL.middleware.service.impl.ServiceBusImpl.CallInjectorImpl" alt="" coords="173,17,285,42"/>
+<area shape="rect" id="node2" href="./ServiceBusImpl.CallInjectorImpl.html" title="&lt;TABLE&gt;" alt="" coords="163,5,296,53"/>
 <area shape="rect" id="c204610" href="./ServiceStrategy.html" title="org.universAAL.middleware.service.impl.ServiceStrategy" alt="" coords="330,17,443,42"/>
+<area shape="rect" id="node3" href="./ServiceStrategy.html" title="&lt;TABLE&gt;" alt="" coords="320,5,453,53"/>
 <area shape="rect" id="c204611" href="./ServiceProfileWrapper.html" title="org.universAAL.middleware.service.impl.ServiceProfileWrapper" alt="" coords="367,113,518,138"/>
+<area shape="rect" id="node4" href="./ServiceProfileWrapper.html" title="&lt;TABLE&gt;" alt="" coords="357,101,528,149"/>
 <area shape="rect" id="c204612" href="./ServiceBusFactory.html" title="org.universAAL.middleware.service.impl.ServiceBusFactory" alt="" coords="645,17,777,42"/>
+<area shape="rect" id="node5" href="./ServiceBusFactory.html" title="&lt;TABLE&gt;" alt="" coords="635,5,787,53"/>
 <area shape="rect" id="c204613" href="./ServiceMatcher.html" title="org.universAAL.middleware.service.impl.ServiceMatcher" alt="" coords="821,17,933,42"/>
+<area shape="rect" id="node6" href="./ServiceMatcher.html" title="&lt;TABLE&gt;" alt="" coords="811,5,944,53"/>
 <area shape="rect" id="c204614" href="./ServiceWrapper.html" title="org.universAAL.middleware.service.impl.ServiceWrapper" alt="" coords="487,17,601,42"/>
+<area shape="rect" id="node7" href="./ServiceWrapper.html" title="&lt;TABLE&gt;" alt="" coords="477,5,611,53"/>
 <area shape="rect" id="c204615" href="./ServiceRequestWrapper.html" title="org.universAAL.middleware.service.impl.ServiceRequestWrapper" alt="" coords="563,113,725,138"/>
+<area shape="rect" id="node8" href="./ServiceRequestWrapper.html" title="&lt;TABLE&gt;" alt="" coords="552,101,736,149"/>
 <area shape="rect" id="c204616" href="./ServiceRealization.html" title="org.universAAL.middleware.service.impl.ServiceRealization" alt="" coords="978,17,1107,42"/>
+<area shape="rect" id="node9" href="./ServiceRealization.html" title="&lt;TABLE&gt;" alt="" coords="968,5,1117,53"/>
 </map>

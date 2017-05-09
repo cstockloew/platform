@@ -1,5 +1,8 @@
 <map id="G" name="G">
 <area shape="rect" id="c1114984" href="./MainMenuPager.html" title="org.universAAL.ui.gui.swing.bluesteelLAF.support.pager.MainMenuPager" alt="" coords="16,17,131,42"/>
+<area shape="rect" id="node1" href="./MainMenuPager.html" title="&lt;TABLE&gt;" alt="" coords="5,5,141,53"/>
 <area shape="rect" id="c1114985" href="./CustomBasicArrowButton.html" title="org.universAAL.ui.gui.swing.bluesteelLAF.support.pager.CustomBasicArrowButton" alt="" coords="175,17,347,42"/>
+<area shape="rect" id="node2" href="./CustomBasicArrowButton.html" title="&lt;TABLE&gt;" alt="" coords="165,5,357,53"/>
 <area shape="rect" id="c1114986" href="./Page.html" title="org.universAAL.ui.gui.swing.bluesteelLAF.support.pager.Page" alt="" coords="392,17,443,42"/>
+<area shape="rect" id="node3" href="./Page.html" title="&lt;TABLE&gt;" alt="" coords="381,5,453,53"/>
 </map>

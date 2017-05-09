@@ -1,7 +1,12 @@
 <map id="G" name="G">
 <area shape="rect" id="c77864" href="./ICommunicationChannels.html" title="org.universAAL.middleware.interfaces.aalspace.model.ICommunicationChannels" alt="" coords="16,11,187,53"/>
+<area shape="rect" id="node1" href="./ICommunicationChannels.html" title="&lt;TABLE&gt;" alt="" coords="5,6,197,58"/>
 <area shape="rect" id="c77865" href="./ISpaceDescriptor.html" title="org.universAAL.middleware.interfaces.aalspace.model.ISpaceDescriptor" alt="" coords="231,11,353,53"/>
+<area shape="rect" id="node2" href="./ISpaceDescriptor.html" title="&lt;TABLE&gt;" alt="" coords="221,6,363,58"/>
 <area shape="rect" id="c77866" href="./IAALSpace.html" title="org.universAAL.middleware.interfaces.aalspace.model.IAALSpace" alt="" coords="397,11,483,53"/>
+<area shape="rect" id="node3" href="./IAALSpace.html" title="&lt;TABLE&gt;" alt="" coords="387,6,493,58"/>
 <area shape="rect" id="c77867" href="./IPeeringChannel.html" title="org.universAAL.middleware.interfaces.aalspace.model.IPeeringChannel" alt="" coords="528,11,645,53"/>
+<area shape="rect" id="node4" href="./IPeeringChannel.html" title="&lt;TABLE&gt;" alt="" coords="517,6,656,58"/>
 <area shape="rect" id="c77868" href="./IChannelDescriptor.html" title="org.universAAL.middleware.interfaces.aalspace.model.IChannelDescriptor" alt="" coords="691,11,824,53"/>
+<area shape="rect" id="node5" href="./IChannelDescriptor.html" title="&lt;TABLE&gt;" alt="" coords="680,6,835,58"/>
 </map>

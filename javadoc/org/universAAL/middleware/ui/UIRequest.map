@@ -1,8 +1,14 @@
 <map id="G" name="G">
-<area shape="rect" id="c2981810" href="../rdf/ScopedResource.html" title="org.universAAL.middleware.rdf.ScopedResource" alt="" coords="19,19,141,45"/>
-<area shape="rect" id="c2982185" href="./UIRequest.html" title="org.universAAL.middleware.ui.UIRequest" alt="" coords="111,118,195,143"/>
-<area shape="rect" id="c2982073" href="../bus/model/matchable/Request.html" title="org.universAAL.middleware.bus.model.matchable.Request" alt="" coords="185,11,271,53"/>
-<area shape="rect" id="c2982524" href="../../support/utils/ui/low/Dialog.html" title="org.universAAL.support.utils.ui.low.Dialog" alt="" coords="15,214,73,239"/>
-<area shape="rect" id="c2982525" href="../../support/utils/ui/low/Message.html" title="org.universAAL.support.utils.ui.low.Message" alt="" coords="117,214,190,239"/>
-<area shape="rect" id="c2982526" href="../../support/utils/ui/low/SubDialog.html" title="org.universAAL.support.utils.ui.low.SubDialog" alt="" coords="234,214,315,239"/>
+<area shape="rect" id="c8197447" href="../rdf/ScopedResource.html" title="org.universAAL.middleware.rdf.ScopedResource" alt="" coords="19,19,141,45"/>
+<area shape="rect" id="node1" href="../rdf/ScopedResource.html" title="&lt;TABLE&gt;" alt="" coords="9,8,151,56"/>
+<area shape="rect" id="c8197822" href="./UIRequest.html" title="org.universAAL.middleware.ui.UIRequest" alt="" coords="111,118,195,143"/>
+<area shape="rect" id="node3" href="./UIRequest.html" title="&lt;TABLE&gt;" alt="" coords="101,107,205,155"/>
+<area shape="rect" id="c8197710" href="../bus/model/matchable/Request.html" title="org.universAAL.middleware.bus.model.matchable.Request" alt="" coords="185,11,271,53"/>
+<area shape="rect" id="node2" href="../bus/model/matchable/Request.html" title="&lt;TABLE&gt;" alt="" coords="175,6,281,58"/>
+<area shape="rect" id="c8198161" href="../../support/utils/ui/low/Dialog.html" title="org.universAAL.support.utils.ui.low.Dialog" alt="" coords="15,214,73,239"/>
+<area shape="rect" id="node4" href="../../support/utils/ui/low/Dialog.html" title="&lt;TABLE&gt;" alt="" coords="5,203,83,251"/>
+<area shape="rect" id="c8198162" href="../../support/utils/ui/low/Message.html" title="org.universAAL.support.utils.ui.low.Message" alt="" coords="117,214,190,239"/>
+<area shape="rect" id="node5" href="../../support/utils/ui/low/Message.html" title="&lt;TABLE&gt;" alt="" coords="107,203,200,251"/>
+<area shape="rect" id="c8198163" href="../../support/utils/ui/low/SubDialog.html" title="org.universAAL.support.utils.ui.low.SubDialog" alt="" coords="234,214,315,239"/>
+<area shape="rect" id="node6" href="../../support/utils/ui/low/SubDialog.html" title="&lt;TABLE&gt;" alt="" coords="224,203,325,251"/>
 </map>

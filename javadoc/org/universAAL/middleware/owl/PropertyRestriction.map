@@ -1,10 +1,18 @@
 <map id="G" name="G">
-<area shape="rect" id="c1843149" href="./MaxCardinalityRestriction.html" title="org.universAAL.middleware.owl.MaxCardinalityRestriction" alt="" coords="16,209,187,234"/>
-<area shape="rect" id="c1843155" href="./MinCardinalityRestriction.html" title="org.universAAL.middleware.owl.MinCardinalityRestriction" alt="" coords="231,209,398,234"/>
-<area shape="rect" id="c1843158" href="./SomeValuesFromRestriction.html" title="org.universAAL.middleware.owl.SomeValuesFromRestriction" alt="" coords="442,209,630,234"/>
-<area shape="rect" id="c1843166" href="./HasValueRestriction.html" title="org.universAAL.middleware.owl.HasValueRestriction" alt="" coords="675,209,816,234"/>
-<area shape="rect" id="c1843170" href="./ExactCardinalityRestriction.html" title="org.universAAL.middleware.owl.ExactCardinalityRestriction" alt="" coords="861,209,1041,234"/>
-<area shape="rect" id="c1843175" href="./AllValuesFromRestriction.html" title="org.universAAL.middleware.owl.AllValuesFromRestriction" alt="" coords="1085,209,1254,234"/>
-<area shape="rect" id="c1843176" href="./PropertyRestriction.html" title="org.universAAL.middleware.owl.PropertyRestriction" alt="" coords="573,113,707,138"/>
-<area shape="rect" id="c1843186" href="./TypeExpression.html" title="org.universAAL.middleware.owl.TypeExpression" alt="" coords="583,17,697,42"/>
+<area shape="rect" id="c6584403" href="./MaxCardinalityRestriction.html" title="org.universAAL.middleware.owl.MaxCardinalityRestriction" alt="" coords="16,209,187,234"/>
+<area shape="rect" id="node1" href="./MaxCardinalityRestriction.html" title="&lt;TABLE&gt;" alt="" coords="5,197,197,245"/>
+<area shape="rect" id="c6584409" href="./MinCardinalityRestriction.html" title="org.universAAL.middleware.owl.MinCardinalityRestriction" alt="" coords="231,209,398,234"/>
+<area shape="rect" id="node2" href="./MinCardinalityRestriction.html" title="&lt;TABLE&gt;" alt="" coords="221,197,408,245"/>
+<area shape="rect" id="c6584412" href="./SomeValuesFromRestriction.html" title="org.universAAL.middleware.owl.SomeValuesFromRestriction" alt="" coords="442,209,630,234"/>
+<area shape="rect" id="node3" href="./SomeValuesFromRestriction.html" title="&lt;TABLE&gt;" alt="" coords="432,197,640,245"/>
+<area shape="rect" id="c6584420" href="./HasValueRestriction.html" title="org.universAAL.middleware.owl.HasValueRestriction" alt="" coords="675,209,816,234"/>
+<area shape="rect" id="node4" href="./HasValueRestriction.html" title="&lt;TABLE&gt;" alt="" coords="664,197,827,245"/>
+<area shape="rect" id="c6584424" href="./ExactCardinalityRestriction.html" title="org.universAAL.middleware.owl.ExactCardinalityRestriction" alt="" coords="861,209,1041,234"/>
+<area shape="rect" id="node5" href="./ExactCardinalityRestriction.html" title="&lt;TABLE&gt;" alt="" coords="851,197,1051,245"/>
+<area shape="rect" id="c6584429" href="./AllValuesFromRestriction.html" title="org.universAAL.middleware.owl.AllValuesFromRestriction" alt="" coords="1085,209,1254,234"/>
+<area shape="rect" id="node6" href="./AllValuesFromRestriction.html" title="&lt;TABLE&gt;" alt="" coords="1075,197,1264,245"/>
+<area shape="rect" id="c6584430" href="./PropertyRestriction.html" title="org.universAAL.middleware.owl.PropertyRestriction" alt="" coords="573,113,707,138"/>
+<area shape="rect" id="node7" href="./PropertyRestriction.html" title="&lt;TABLE&gt;" alt="" coords="563,101,717,149"/>
+<area shape="rect" id="c6584440" href="./TypeExpression.html" title="org.universAAL.middleware.owl.TypeExpression" alt="" coords="583,17,697,42"/>
+<area shape="rect" id="node8" href="./TypeExpression.html" title="&lt;TABLE&gt;" alt="" coords="572,5,708,53"/>
 </map>

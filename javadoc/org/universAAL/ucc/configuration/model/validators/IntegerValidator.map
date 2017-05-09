@@ -1,4 +1,6 @@
 <map id="G" name="G">
-<area shape="rect" id="c9479613" href="../interfaces/ConfigurationValidator.html" title="org.universAAL.ucc.configuration.model.interfaces.ConfigurationValidator" alt="" coords="16,11,165,53"/>
-<area shape="rect" id="c9479620" href="./IntegerValidator.html" title="org.universAAL.ucc.configuration.model.validators.IntegerValidator" alt="" coords="35,118,147,143"/>
+<area shape="rect" id="c4841818" href="../interfaces/ConfigurationValidator.html" title="org.universAAL.ucc.configuration.model.interfaces.ConfigurationValidator" alt="" coords="16,11,165,53"/>
+<area shape="rect" id="node1" href="../interfaces/ConfigurationValidator.html" title="&lt;TABLE&gt;" alt="" coords="5,6,176,58"/>
+<area shape="rect" id="c4841825" href="./IntegerValidator.html" title="org.universAAL.ucc.configuration.model.validators.IntegerValidator" alt="" coords="35,118,147,143"/>
+<area shape="rect" id="node2" href="./IntegerValidator.html" title="&lt;TABLE&gt;" alt="" coords="24,107,157,155"/>
 </map>

@@ -1,15 +1,28 @@
 <map id="G" name="G">
 <area shape="rect" id="c366081" href="./BlinkableBeaming.html" title="org.universAAL.ontology.lighting.BlinkableBeaming" alt="" coords="16,209,141,234"/>
+<area shape="rect" id="node1" href="./BlinkableBeaming.html" title="&lt;TABLE&gt;" alt="" coords="5,197,152,245"/>
 <area shape="rect" id="c366082" href="./BlinkableLightSource.html" title="org.universAAL.ontology.lighting.BlinkableLightSource" alt="" coords="322,113,465,138"/>
+<area shape="rect" id="node2" href="./BlinkableLightSource.html" title="&lt;TABLE&gt;" alt="" coords="312,101,475,149"/>
 <area shape="rect" id="c366083" href="./NaturalLight.html" title="org.universAAL.ontology.lighting.NaturalLight" alt="" coords="667,113,757,138"/>
+<area shape="rect" id="node3" href="./NaturalLight.html" title="&lt;TABLE&gt;" alt="" coords="656,101,768,149"/>
 <area shape="rect" id="c366084" href="./BlinkableBeamingSource.html" title="org.universAAL.ontology.lighting.BlinkableBeamingSource" alt="" coords="483,209,648,234"/>
+<area shape="rect" id="node4" href="./BlinkableBeamingSource.html" title="&lt;TABLE&gt;" alt="" coords="472,197,659,245"/>
 <area shape="rect" id="c366085" href="./ElectricLight.html" title="org.universAAL.ontology.lighting.ElectricLight" alt="" coords="803,113,896,138"/>
+<area shape="rect" id="node5" href="./ElectricLight.html" title="&lt;TABLE&gt;" alt="" coords="792,101,907,149"/>
 <area shape="rect" id="c366086" href="./FlamingLight.html" title="org.universAAL.ontology.lighting.FlamingLight" alt="" coords="941,113,1035,138"/>
+<area shape="rect" id="node6" href="./FlamingLight.html" title="&lt;TABLE&gt;" alt="" coords="931,101,1045,149"/>
 <area shape="rect" id="c366087" href="./Beaming.html" title="org.universAAL.ontology.lighting.Beaming" alt="" coords="43,113,115,138"/>
+<area shape="rect" id="node7" href="./Beaming.html" title="&lt;TABLE&gt;" alt="" coords="32,101,125,149"/>
 <area shape="rect" id="c366088" href="./Lighting.html" title="org.universAAL.ontology.lighting.Lighting" alt="" coords="115,17,181,42"/>
+<area shape="rect" id="node8" href="./Lighting.html" title="&lt;TABLE&gt;" alt="" coords="105,5,191,53"/>
 <area shape="rect" id="c366089" href="./BlinkableLighting.html" title="org.universAAL.ontology.lighting.BlinkableLighting" alt="" coords="159,113,278,138"/>
+<area shape="rect" id="node9" href="./BlinkableLighting.html" title="&lt;TABLE&gt;" alt="" coords="149,101,288,149"/>
 <area shape="rect" id="c366090" href="./LightingOntology.html" title="org.universAAL.ontology.lighting.LightingOntology" alt="" coords="933,17,1051,42"/>
+<area shape="rect" id="node10" href="./LightingOntology.html" title="&lt;TABLE&gt;" alt="" coords="923,5,1061,53"/>
 <area shape="rect" id="c366091" href="./LightSource.html" title="org.universAAL.ontology.lighting.LightSource" alt="" coords="434,17,523,42"/>
+<area shape="rect" id="node11" href="./LightSource.html" title="&lt;TABLE&gt;" alt="" coords="424,5,533,53"/>
 <area shape="rect" id="c366092" href="./BeamingSource.html" title="org.universAAL.ontology.lighting.BeamingSource" alt="" coords="509,113,622,138"/>
+<area shape="rect" id="node12" href="./BeamingSource.html" title="&lt;TABLE&gt;" alt="" coords="499,101,632,149"/>
 <area shape="rect" id="c366093" href="./LightType.html" title="org.universAAL.ontology.lighting.LightType" alt="" coords="811,17,888,42"/>
+<area shape="rect" id="node13" href="./LightType.html" title="&lt;TABLE&gt;" alt="" coords="800,5,899,53"/>
 </map>

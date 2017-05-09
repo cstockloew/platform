@@ -1,6 +1,10 @@
 <map id="G" name="G">
 <area shape="rect" id="c8659" href="./ChangeVersionProcedure.html" title="org.universAAL.support.directives.procedures.ChangeVersionProcedure" alt="" coords="15,17,185,42"/>
+<area shape="rect" id="node1" href="./ChangeVersionProcedure.html" title="&lt;TABLE&gt;" alt="" coords="5,5,195,53"/>
 <area shape="rect" id="c8660" href="./UpdateRootVersionsProcedure.html" title="org.universAAL.support.directives.procedures.UpdateRootVersionsProcedure" alt="" coords="253,113,454,138"/>
+<area shape="rect" id="node2" href="./UpdateRootVersionsProcedure.html" title="&lt;TABLE&gt;" alt="" coords="243,101,464,149"/>
 <area shape="rect" id="c8661" href="./IncreaseVersionProcedure.html" title="org.universAAL.support.directives.procedures.IncreaseVersionProcedure" alt="" coords="523,17,696,42"/>
+<area shape="rect" id="node3" href="./IncreaseVersionProcedure.html" title="&lt;TABLE&gt;" alt="" coords="512,5,707,53"/>
 <area shape="rect" id="c8662" href="./UpdateParentPomInteractiveProcedure.html" title="org.universAAL.support.directives.procedures.UpdateParentPomInteractiveProcedure" alt="" coords="229,17,477,42"/>
+<area shape="rect" id="node4" href="./UpdateParentPomInteractiveProcedure.html" title="&lt;TABLE&gt;" alt="" coords="219,5,488,53"/>
 </map>

@@ -1,6 +1,10 @@
 <map id="G" name="G">
 <area shape="rect" id="c1224381" href="./UIExample.html" title="org.universAAL.samples.utils.app.UIExample" alt="" coords="16,17,101,42"/>
+<area shape="rect" id="node1" href="./UIExample.html" title="&lt;TABLE&gt;" alt="" coords="5,5,112,53"/>
 <area shape="rect" id="c1224382" href="./SubscriberExample.html" title="org.universAAL.samples.utils.app.SubscriberExample" alt="" coords="147,17,280,42"/>
+<area shape="rect" id="node2" href="./SubscriberExample.html" title="&lt;TABLE&gt;" alt="" coords="136,5,291,53"/>
 <area shape="rect" id="c1224383" href="./CalleeExample.html" title="org.universAAL.samples.utils.app.CalleeExample" alt="" coords="325,17,435,42"/>
+<area shape="rect" id="node3" href="./CalleeExample.html" title="&lt;TABLE&gt;" alt="" coords="315,5,445,53"/>
 <area shape="rect" id="c1224384" href="./Activator.html" title="org.universAAL.samples.utils.app.Activator" alt="" coords="479,17,553,42"/>
+<area shape="rect" id="node4" href="./Activator.html" title="&lt;TABLE&gt;" alt="" coords="469,5,563,53"/>
 </map>

@@ -1,4 +1,6 @@
 <map id="G" name="G">
 <area shape="rect" id="c1431659" href="./ConfigurationInstancesStorage.html" title="org.universAAL.ucc.configuration.storage.interfaces.ConfigurationInstancesStorage" alt="" coords="16,11,216,53"/>
+<area shape="rect" id="node1" href="./ConfigurationInstancesStorage.html" title="&lt;TABLE&gt;" alt="" coords="5,6,227,58"/>
 <area shape="rect" id="c1431660" href="./StorageChangedListener.html" title="org.universAAL.ucc.configuration.storage.interfaces.StorageChangedListener" alt="" coords="261,11,425,53"/>
+<area shape="rect" id="node2" href="./StorageChangedListener.html" title="&lt;TABLE&gt;" alt="" coords="251,6,435,58"/>
 </map>

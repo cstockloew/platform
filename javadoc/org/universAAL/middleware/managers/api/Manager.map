@@ -1,8 +1,14 @@
 <map id="G" name="G">
-<area shape="rect" id="c2547889" href="./TenantManager.html" title="org.universAAL.middleware.managers.api.TenantManager" alt="" coords="15,113,126,154"/>
-<area shape="rect" id="c2547893" href="./DeployManager.html" title="org.universAAL.middleware.managers.api.DeployManager" alt="" coords="171,113,283,154"/>
-<area shape="rect" id="c2547896" href="./AALSpaceManager.html" title="org.universAAL.middleware.managers.api.AALSpaceManager" alt="" coords="328,113,461,154"/>
-<area shape="rect" id="c2547902" href="./Manager.html" title="org.universAAL.middleware.managers.api.Manager" alt="" coords="352,11,437,53"/>
-<area shape="rect" id="c2548818" href="../distributedmw/api/DistributedLogManager.html" title="org.universAAL.middleware.managers.distributedmw.api.DistributedLogManager" alt="" coords="507,113,661,154"/>
-<area shape="rect" id="c2548820" href="../distributedmw/api/DistributedBusMemberManager.html" title="org.universAAL.middleware.managers.distributedmw.api.DistributedBusMemberManager" alt="" coords="706,113,910,154"/>
+<area shape="rect" id="c5489214" href="./TenantManager.html" title="org.universAAL.middleware.managers.api.TenantManager" alt="" coords="15,113,126,154"/>
+<area shape="rect" id="node1" href="./TenantManager.html" title="&lt;TABLE&gt;" alt="" coords="5,107,136,159"/>
+<area shape="rect" id="c5489218" href="./DeployManager.html" title="org.universAAL.middleware.managers.api.DeployManager" alt="" coords="171,113,283,154"/>
+<area shape="rect" id="node2" href="./DeployManager.html" title="&lt;TABLE&gt;" alt="" coords="160,107,293,159"/>
+<area shape="rect" id="c5489221" href="./AALSpaceManager.html" title="org.universAAL.middleware.managers.api.AALSpaceManager" alt="" coords="328,113,461,154"/>
+<area shape="rect" id="node3" href="./AALSpaceManager.html" title="&lt;TABLE&gt;" alt="" coords="317,107,472,159"/>
+<area shape="rect" id="c5489227" href="./Manager.html" title="org.universAAL.middleware.managers.api.Manager" alt="" coords="352,11,437,53"/>
+<area shape="rect" id="node4" href="./Manager.html" title="&lt;TABLE&gt;" alt="" coords="341,6,448,58"/>
+<area shape="rect" id="c5490143" href="../distributedmw/api/DistributedLogManager.html" title="org.universAAL.middleware.managers.distributedmw.api.DistributedLogManager" alt="" coords="507,113,661,154"/>
+<area shape="rect" id="node5" href="../distributedmw/api/DistributedLogManager.html" title="&lt;TABLE&gt;" alt="" coords="496,107,672,159"/>
+<area shape="rect" id="c5490145" href="../distributedmw/api/DistributedBusMemberManager.html" title="org.universAAL.middleware.managers.distributedmw.api.DistributedBusMemberManager" alt="" coords="706,113,910,154"/>
+<area shape="rect" id="node6" href="../distributedmw/api/DistributedBusMemberManager.html" title="&lt;TABLE&gt;" alt="" coords="696,107,920,159"/>
 </map>

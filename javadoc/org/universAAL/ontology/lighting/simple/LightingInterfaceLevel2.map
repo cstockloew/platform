@@ -1,4 +1,6 @@
 <map id="G" name="G">
-<area shape="rect" id="c8763305" href="../../../samples/lighting/server/LightingSimplifiedServiceLevel2.html" title="org.universAAL.samples.lighting.server.LightingSimplifiedServiceLevel2" alt="" coords="16,118,221,143"/>
-<area shape="rect" id="c8763378" href="./LightingInterfaceLevel2.html" title="org.universAAL.ontology.lighting.simple.LightingInterfaceLevel2" alt="" coords="41,11,196,53"/>
+<area shape="rect" id="c5244050" href="../../../samples/lighting/server/LightingSimplifiedServiceLevel2.html" title="org.universAAL.samples.lighting.server.LightingSimplifiedServiceLevel2" alt="" coords="16,118,221,143"/>
+<area shape="rect" id="node1" href="../../../samples/lighting/server/LightingSimplifiedServiceLevel2.html" title="&lt;TABLE&gt;" alt="" coords="5,107,232,155"/>
+<area shape="rect" id="c5244123" href="./LightingInterfaceLevel2.html" title="org.universAAL.ontology.lighting.simple.LightingInterfaceLevel2" alt="" coords="41,11,196,53"/>
+<area shape="rect" id="node2" href="./LightingInterfaceLevel2.html" title="&lt;TABLE&gt;" alt="" coords="31,6,207,58"/>
 </map>

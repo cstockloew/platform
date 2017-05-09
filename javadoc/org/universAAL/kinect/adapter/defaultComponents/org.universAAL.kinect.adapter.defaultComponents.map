@@ -1,5 +1,8 @@
 <map id="G" name="G">
 <area shape="rect" id="c1149548" href="./DefaultContextSubscriber.html" title="org.universAAL.kinect.adapter.defaultComponents.DefaultContextSubscriber" alt="" coords="16,17,187,42"/>
+<area shape="rect" id="node1" href="./DefaultContextSubscriber.html" title="&lt;TABLE&gt;" alt="" coords="5,5,197,53"/>
 <area shape="rect" id="c1149549" href="./DefaultBroker.html" title="org.universAAL.kinect.adapter.defaultComponents.DefaultBroker" alt="" coords="232,17,333,42"/>
+<area shape="rect" id="node2" href="./DefaultBroker.html" title="&lt;TABLE&gt;" alt="" coords="221,5,344,53"/>
 <area shape="rect" id="c1149550" href="./DefaultAdapter.html" title="org.universAAL.kinect.adapter.defaultComponents.DefaultAdapter" alt="" coords="378,17,486,42"/>
+<area shape="rect" id="node3" href="./DefaultAdapter.html" title="&lt;TABLE&gt;" alt="" coords="368,5,496,53"/>
 </map>

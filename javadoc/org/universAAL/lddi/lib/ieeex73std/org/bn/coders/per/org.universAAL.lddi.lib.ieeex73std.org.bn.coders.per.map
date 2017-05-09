@@ -1,7 +1,12 @@
 <map id="G" name="G">
 <area shape="rect" id="c697251" href="./PERUnalignedDecoder.html" title="org.universAAL.lddi.lib.ieeex73std.org.bn.coders.per.PERUnalignedDecoder" alt="" coords="15,113,171,138"/>
+<area shape="rect" id="node1" href="./PERUnalignedDecoder.html" title="&lt;TABLE&gt;" alt="" coords="5,101,181,149"/>
 <area shape="rect" id="c697252" href="./PERAlignedDecoder.html" title="org.universAAL.lddi.lib.ieeex73std.org.bn.coders.per.PERAlignedDecoder" alt="" coords="23,17,164,42"/>
+<area shape="rect" id="node2" href="./PERAlignedDecoder.html" title="&lt;TABLE&gt;" alt="" coords="12,5,175,53"/>
 <area shape="rect" id="c697253" href="./PERCoderUtils.html" title="org.universAAL.lddi.lib.ieeex73std.org.bn.coders.per.PERCoderUtils" alt="" coords="209,17,319,42"/>
+<area shape="rect" id="node3" href="./PERCoderUtils.html" title="&lt;TABLE&gt;" alt="" coords="199,5,329,53"/>
 <area shape="rect" id="c697254" href="./PERAlignedEncoder.html" title="org.universAAL.lddi.lib.ieeex73std.org.bn.coders.per.PERAlignedEncoder" alt="" coords="363,17,527,42"/>
+<area shape="rect" id="node4" href="./PERAlignedEncoder.html" title="&lt;TABLE&gt;" alt="" coords="353,5,537,53"/>
 <area shape="rect" id="c697255" href="./PERUnalignedEncoder.html" title="org.universAAL.lddi.lib.ieeex73std.org.bn.coders.per.PERUnalignedEncoder" alt="" coords="356,113,535,138"/>
+<area shape="rect" id="node5" href="./PERUnalignedEncoder.html" title="&lt;TABLE&gt;" alt="" coords="345,101,545,149"/>
 </map>

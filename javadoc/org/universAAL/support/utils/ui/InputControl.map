@@ -1,8 +1,14 @@
 <map id="G" name="G">
-<area shape="rect" id="c3945639" href="./SelectRange.html" title="org.universAAL.support.utils.ui.SelectRange" alt="" coords="16,209,112,234"/>
-<area shape="rect" id="c3945640" href="./Check.html" title="org.universAAL.support.utils.ui.Check" alt="" coords="157,209,216,234"/>
-<area shape="rect" id="c3945642" href="./Text.html" title="org.universAAL.support.utils.ui.Text" alt="" coords="263,209,310,234"/>
-<area shape="rect" id="c3945645" href="./SelectMulti.html" title="org.universAAL.support.utils.ui.SelectMulti" alt="" coords="357,209,443,234"/>
-<area shape="rect" id="c3945651" href="./InputControl.html" title="org.universAAL.support.utils.ui.InputControl" alt="" coords="190,113,282,138"/>
-<area shape="rect" id="c3945652" href="./Control.html" title="org.universAAL.support.utils.ui.Control" alt="" coords="205,17,267,42"/>
+<area shape="rect" id="c4799638" href="./SelectRange.html" title="org.universAAL.support.utils.ui.SelectRange" alt="" coords="16,209,112,234"/>
+<area shape="rect" id="node1" href="./SelectRange.html" title="&lt;TABLE&gt;" alt="" coords="5,197,123,245"/>
+<area shape="rect" id="c4799639" href="./Check.html" title="org.universAAL.support.utils.ui.Check" alt="" coords="157,209,216,234"/>
+<area shape="rect" id="node2" href="./Check.html" title="&lt;TABLE&gt;" alt="" coords="147,197,227,245"/>
+<area shape="rect" id="c4799641" href="./Text.html" title="org.universAAL.support.utils.ui.Text" alt="" coords="263,209,310,234"/>
+<area shape="rect" id="node3" href="./Text.html" title="&lt;TABLE&gt;" alt="" coords="251,197,323,245"/>
+<area shape="rect" id="c4799644" href="./SelectMulti.html" title="org.universAAL.support.utils.ui.SelectMulti" alt="" coords="357,209,443,234"/>
+<area shape="rect" id="node4" href="./SelectMulti.html" title="&lt;TABLE&gt;" alt="" coords="347,197,453,245"/>
+<area shape="rect" id="c4799650" href="./InputControl.html" title="org.universAAL.support.utils.ui.InputControl" alt="" coords="190,113,282,138"/>
+<area shape="rect" id="node5" href="./InputControl.html" title="&lt;TABLE&gt;" alt="" coords="180,101,292,149"/>
+<area shape="rect" id="c4799651" href="./Control.html" title="org.universAAL.support.utils.ui.Control" alt="" coords="205,17,267,42"/>
+<area shape="rect" id="node6" href="./Control.html" title="&lt;TABLE&gt;" alt="" coords="195,5,277,53"/>
 </map>

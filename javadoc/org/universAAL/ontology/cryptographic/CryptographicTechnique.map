@@ -1,7 +1,12 @@
 <map id="G" name="G">
-<area shape="rect" id="c4882171" href="../../middleware/owl/ManagedIndividual.html" title="org.universAAL.middleware.owl.ManagedIndividual" alt="" coords="127,17,257,42"/>
-<area shape="rect" id="c4883227" href="./CryptographicTechnique.html" title="org.universAAL.ontology.cryptographic.CryptographicTechnique" alt="" coords="111,113,273,138"/>
-<area shape="rect" id="c4883215" href="./KeyExchange.html" title="org.universAAL.ontology.cryptographic.KeyExchange" alt="" coords="16,209,117,234"/>
-<area shape="rect" id="c4883220" href="./Digest.html" title="org.universAAL.ontology.cryptographic.Digest" alt="" coords="163,209,221,234"/>
-<area shape="rect" id="c4883228" href="./Encryption.html" title="org.universAAL.ontology.cryptographic.Encryption" alt="" coords="267,209,349,234"/>
+<area shape="rect" id="c3260709" href="../../middleware/owl/ManagedIndividual.html" title="org.universAAL.middleware.owl.ManagedIndividual" alt="" coords="127,17,257,42"/>
+<area shape="rect" id="node1" href="../../middleware/owl/ManagedIndividual.html" title="&lt;TABLE&gt;" alt="" coords="117,5,267,53"/>
+<area shape="rect" id="c3261765" href="./CryptographicTechnique.html" title="org.universAAL.ontology.cryptographic.CryptographicTechnique" alt="" coords="111,113,273,138"/>
+<area shape="rect" id="node4" href="./CryptographicTechnique.html" title="&lt;TABLE&gt;" alt="" coords="101,101,283,149"/>
+<area shape="rect" id="c3261753" href="./KeyExchange.html" title="org.universAAL.ontology.cryptographic.KeyExchange" alt="" coords="16,209,117,234"/>
+<area shape="rect" id="node2" href="./KeyExchange.html" title="&lt;TABLE&gt;" alt="" coords="5,197,128,245"/>
+<area shape="rect" id="c3261758" href="./Digest.html" title="org.universAAL.ontology.cryptographic.Digest" alt="" coords="163,209,221,234"/>
+<area shape="rect" id="node3" href="./Digest.html" title="&lt;TABLE&gt;" alt="" coords="152,197,232,245"/>
+<area shape="rect" id="c3261766" href="./Encryption.html" title="org.universAAL.ontology.cryptographic.Encryption" alt="" coords="267,209,349,234"/>
+<area shape="rect" id="node5" href="./Encryption.html" title="&lt;TABLE&gt;" alt="" coords="256,197,360,245"/>
 </map>

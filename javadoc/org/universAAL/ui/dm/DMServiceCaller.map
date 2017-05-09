@@ -1,4 +1,6 @@
 <map id="G" name="G">
-<area shape="rect" id="c7775060" href="../../middleware/service/ServiceCaller.html" title="org.universAAL.middleware.service.ServiceCaller" alt="" coords="27,17,125,42"/>
-<area shape="rect" id="c7776776" href="./DMServiceCaller.html" title="org.universAAL.ui.dm.DMServiceCaller" alt="" coords="16,113,136,138"/>
+<area shape="rect" id="c3301307" href="../../middleware/service/ServiceCaller.html" title="org.universAAL.middleware.service.ServiceCaller" alt="" coords="27,17,125,42"/>
+<area shape="rect" id="node1" href="../../middleware/service/ServiceCaller.html" title="&lt;TABLE&gt;" alt="" coords="16,5,136,53"/>
+<area shape="rect" id="c3303023" href="./DMServiceCaller.html" title="org.universAAL.ui.dm.DMServiceCaller" alt="" coords="16,113,136,138"/>
+<area shape="rect" id="node2" href="./DMServiceCaller.html" title="&lt;TABLE&gt;" alt="" coords="5,101,147,149"/>
 </map>

@@ -1,11 +1,20 @@
 <map id="G" name="G">
-<area shape="rect" id="c3381930" href="../Place.html" title="org.universAAL.ontology.location.Place" alt="" coords="375,17,428,42"/>
-<area shape="rect" id="c3381954" href="./OutdoorPlace.html" title="org.universAAL.ontology.location.outdoor.OutdoorPlace" alt="" coords="351,113,451,138"/>
-<area shape="rect" id="c3381948" href="./CityRegion.html" title="org.universAAL.ontology.location.outdoor.CityRegion" alt="" coords="16,209,101,234"/>
-<area shape="rect" id="c3381949" href="./CityQuarter.html" title="org.universAAL.ontology.location.outdoor.CityQuarter" alt="" coords="147,209,235,234"/>
-<area shape="rect" id="c3381950" href="./City.html" title="org.universAAL.ontology.location.outdoor.City" alt="" coords="283,209,328,234"/>
-<area shape="rect" id="c3381951" href="./State.html" title="org.universAAL.ontology.location.outdoor.State" alt="" coords="375,209,427,234"/>
-<area shape="rect" id="c3381952" href="./Country.html" title="org.universAAL.ontology.location.outdoor.Country" alt="" coords="472,209,539,234"/>
-<area shape="rect" id="c3381953" href="./Region.html" title="org.universAAL.ontology.location.outdoor.Region" alt="" coords="584,209,645,234"/>
-<area shape="rect" id="c3381955" href="./CityPlace.html" title="org.universAAL.ontology.location.outdoor.CityPlace" alt="" coords="691,209,768,234"/>
+<area shape="rect" id="c6165171" href="../Place.html" title="org.universAAL.ontology.location.Place" alt="" coords="375,17,428,42"/>
+<area shape="rect" id="node1" href="../Place.html" title="&lt;TABLE&gt;" alt="" coords="364,5,439,53"/>
+<area shape="rect" id="c6165195" href="./OutdoorPlace.html" title="org.universAAL.ontology.location.outdoor.OutdoorPlace" alt="" coords="351,113,451,138"/>
+<area shape="rect" id="node8" href="./OutdoorPlace.html" title="&lt;TABLE&gt;" alt="" coords="341,101,461,149"/>
+<area shape="rect" id="c6165189" href="./CityRegion.html" title="org.universAAL.ontology.location.outdoor.CityRegion" alt="" coords="16,209,101,234"/>
+<area shape="rect" id="node2" href="./CityRegion.html" title="&lt;TABLE&gt;" alt="" coords="5,197,112,245"/>
+<area shape="rect" id="c6165190" href="./CityQuarter.html" title="org.universAAL.ontology.location.outdoor.CityQuarter" alt="" coords="147,209,235,234"/>
+<area shape="rect" id="node3" href="./CityQuarter.html" title="&lt;TABLE&gt;" alt="" coords="136,197,245,245"/>
+<area shape="rect" id="c6165191" href="./City.html" title="org.universAAL.ontology.location.outdoor.City" alt="" coords="283,209,328,234"/>
+<area shape="rect" id="node4" href="./City.html" title="&lt;TABLE&gt;" alt="" coords="269,197,341,245"/>
+<area shape="rect" id="c6165192" href="./State.html" title="org.universAAL.ontology.location.outdoor.State" alt="" coords="375,209,427,234"/>
+<area shape="rect" id="node5" href="./State.html" title="&lt;TABLE&gt;" alt="" coords="365,197,437,245"/>
+<area shape="rect" id="c6165193" href="./Country.html" title="org.universAAL.ontology.location.outdoor.Country" alt="" coords="472,209,539,234"/>
+<area shape="rect" id="node6" href="./Country.html" title="&lt;TABLE&gt;" alt="" coords="461,197,549,245"/>
+<area shape="rect" id="c6165194" href="./Region.html" title="org.universAAL.ontology.location.outdoor.Region" alt="" coords="584,209,645,234"/>
+<area shape="rect" id="node7" href="./Region.html" title="&lt;TABLE&gt;" alt="" coords="573,197,656,245"/>
+<area shape="rect" id="c6165196" href="./CityPlace.html" title="org.universAAL.ontology.location.outdoor.CityPlace" alt="" coords="691,209,768,234"/>
+<area shape="rect" id="node9" href="./CityPlace.html" title="&lt;TABLE&gt;" alt="" coords="680,197,779,245"/>
 </map>

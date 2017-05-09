@@ -1,11 +1,20 @@
 <map id="G" name="G">
 <area shape="rect" id="c294071" href="./Arg.html" title="org.universAAL.support.utils.service.Arg" alt="" coords="205,17,246,42"/>
+<area shape="rect" id="node1" href="./Arg.html" title="&lt;TABLE&gt;" alt="" coords="189,5,261,53"/>
 <area shape="rect" id="c294072" href="./Change.html" title="org.universAAL.support.utils.service.Change" alt="" coords="15,113,81,138"/>
+<area shape="rect" id="node2" href="./Change.html" title="&lt;TABLE&gt;" alt="" coords="5,101,91,149"/>
 <area shape="rect" id="c294073" href="./Remove.html" title="org.universAAL.support.utils.service.Remove" alt="" coords="125,113,195,138"/>
+<area shape="rect" id="node3" href="./Remove.html" title="&lt;TABLE&gt;" alt="" coords="115,101,205,149"/>
 <area shape="rect" id="c294074" href="./Output.html" title="org.universAAL.support.utils.service.Output" alt="" coords="239,113,299,138"/>
+<area shape="rect" id="node4" href="./Output.html" title="&lt;TABLE&gt;" alt="" coords="229,101,309,149"/>
 <area shape="rect" id="c294075" href="./Variable.html" title="org.universAAL.support.utils.service.Variable" alt="" coords="343,113,411,138"/>
+<area shape="rect" id="node5" href="./Variable.html" title="&lt;TABLE&gt;" alt="" coords="333,101,421,149"/>
 <area shape="rect" id="c294076" href="./Path.html" title="org.universAAL.support.utils.service.Path" alt="" coords="396,17,444,42"/>
+<area shape="rect" id="node6" href="./Path.html" title="&lt;TABLE&gt;" alt="" coords="384,5,456,53"/>
 <area shape="rect" id="c294077" href="./Typematch.html" title="org.universAAL.support.utils.service.Typematch" alt="" coords="456,113,541,138"/>
+<area shape="rect" id="node7" href="./Typematch.html" title="&lt;TABLE&gt;" alt="" coords="445,101,552,149"/>
 <area shape="rect" id="c294078" href="./Value.html" title="org.universAAL.support.utils.service.Value" alt="" coords="296,17,349,42"/>
+<area shape="rect" id="node8" href="./Value.html" title="&lt;TABLE&gt;" alt="" coords="285,5,360,53"/>
 <area shape="rect" id="c294079" href="./Add.html" title="org.universAAL.support.utils.service.Add" alt="" coords="590,113,634,138"/>
+<area shape="rect" id="node9" href="./Add.html" title="&lt;TABLE&gt;" alt="" coords="576,101,648,149"/>
 </map>

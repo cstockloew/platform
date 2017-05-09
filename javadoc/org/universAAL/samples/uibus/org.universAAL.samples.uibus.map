@@ -1,5 +1,8 @@
 <map id="G" name="G">
 <area shape="rect" id="c1172572" href="./Activator.html" title="org.universAAL.samples.uibus.Activator" alt="" coords="15,17,89,42"/>
+<area shape="rect" id="node1" href="./Activator.html" title="&lt;TABLE&gt;" alt="" coords="5,5,99,53"/>
 <area shape="rect" id="c1172573" href="./OPublisher.html" title="org.universAAL.samples.uibus.OPublisher" alt="" coords="133,17,219,42"/>
+<area shape="rect" id="node2" href="./OPublisher.html" title="&lt;TABLE&gt;" alt="" coords="123,5,229,53"/>
 <area shape="rect" id="c1172574" href="./GUIPanel.html" title="org.universAAL.samples.uibus.GUIPanel" alt="" coords="264,17,341,42"/>
+<area shape="rect" id="node3" href="./GUIPanel.html" title="&lt;TABLE&gt;" alt="" coords="253,5,352,53"/>
 </map>

@@ -1,6 +1,10 @@
 <map id="G" name="G">
 <area shape="rect" id="c1184089" href="./LightingConsumer.html" title="org.universAAL.samples.lighting.uiclient.LightingConsumer" alt="" coords="16,17,141,42"/>
+<area shape="rect" id="node1" href="./LightingConsumer.html" title="&lt;TABLE&gt;" alt="" coords="5,5,152,53"/>
 <area shape="rect" id="c1184090" href="./UIProvider.html" title="org.universAAL.samples.lighting.uiclient.UIProvider" alt="" coords="187,17,269,42"/>
+<area shape="rect" id="node2" href="./UIProvider.html" title="&lt;TABLE&gt;" alt="" coords="176,5,280,53"/>
 <area shape="rect" id="c1184091" href="./ServiceProvider.html" title="org.universAAL.samples.lighting.uiclient.ServiceProvider" alt="" coords="314,17,427,42"/>
+<area shape="rect" id="node3" href="./ServiceProvider.html" title="&lt;TABLE&gt;" alt="" coords="304,5,437,53"/>
 <area shape="rect" id="c1184092" href="./SharedResources.html" title="org.universAAL.samples.lighting.uiclient.SharedResources" alt="" coords="472,17,597,42"/>
+<area shape="rect" id="node4" href="./SharedResources.html" title="&lt;TABLE&gt;" alt="" coords="461,5,608,53"/>
 </map>

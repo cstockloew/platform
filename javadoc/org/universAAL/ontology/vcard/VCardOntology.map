@@ -1,4 +1,6 @@
 <map id="G" name="G">
-<area shape="rect" id="c3576928" href="../../middleware/owl/Ontology.html" title="org.universAAL.middleware.owl.Ontology" alt="" coords="34,17,107,42"/>
-<area shape="rect" id="c3577522" href="./VCardOntology.html" title="org.universAAL.ontology.vcard.VCardOntology" alt="" coords="16,113,125,138"/>
+<area shape="rect" id="c8418828" href="../../middleware/owl/Ontology.html" title="org.universAAL.middleware.owl.Ontology" alt="" coords="34,17,107,42"/>
+<area shape="rect" id="node1" href="../../middleware/owl/Ontology.html" title="&lt;TABLE&gt;" alt="" coords="24,5,117,53"/>
+<area shape="rect" id="c8419422" href="./VCardOntology.html" title="org.universAAL.ontology.vcard.VCardOntology" alt="" coords="16,113,125,138"/>
+<area shape="rect" id="node2" href="./VCardOntology.html" title="&lt;TABLE&gt;" alt="" coords="5,101,136,149"/>
 </map>

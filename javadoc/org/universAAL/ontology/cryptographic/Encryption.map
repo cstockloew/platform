@@ -1,6 +1,10 @@
 <map id="G" name="G">
-<area shape="rect" id="c4886099" href="./SymmetricEncryption.html" title="org.universAAL.ontology.cryptographic.SymmetricEncryption" alt="" coords="15,209,161,234"/>
-<area shape="rect" id="c4886102" href="./CryptographicTechnique.html" title="org.universAAL.ontology.cryptographic.CryptographicTechnique" alt="" coords="103,17,265,42"/>
-<area shape="rect" id="c4886103" href="./Encryption.html" title="org.universAAL.ontology.cryptographic.Encryption" alt="" coords="143,113,225,138"/>
-<area shape="rect" id="c4886104" href="./AsymmetricEncryption.html" title="org.universAAL.ontology.cryptographic.AsymmetricEncryption" alt="" coords="205,209,358,234"/>
+<area shape="rect" id="c3782173" href="./SymmetricEncryption.html" title="org.universAAL.ontology.cryptographic.SymmetricEncryption" alt="" coords="15,209,161,234"/>
+<area shape="rect" id="node1" href="./SymmetricEncryption.html" title="&lt;TABLE&gt;" alt="" coords="5,197,171,245"/>
+<area shape="rect" id="c3782176" href="./CryptographicTechnique.html" title="org.universAAL.ontology.cryptographic.CryptographicTechnique" alt="" coords="103,17,265,42"/>
+<area shape="rect" id="node2" href="./CryptographicTechnique.html" title="&lt;TABLE&gt;" alt="" coords="93,5,275,53"/>
+<area shape="rect" id="c3782177" href="./Encryption.html" title="org.universAAL.ontology.cryptographic.Encryption" alt="" coords="143,113,225,138"/>
+<area shape="rect" id="node3" href="./Encryption.html" title="&lt;TABLE&gt;" alt="" coords="132,101,236,149"/>
+<area shape="rect" id="c3782178" href="./AsymmetricEncryption.html" title="org.universAAL.ontology.cryptographic.AsymmetricEncryption" alt="" coords="205,209,358,234"/>
+<area shape="rect" id="node4" href="./AsymmetricEncryption.html" title="&lt;TABLE&gt;" alt="" coords="195,197,368,245"/>
 </map>

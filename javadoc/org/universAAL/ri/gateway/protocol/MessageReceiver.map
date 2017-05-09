@@ -1,5 +1,8 @@
 <map id="G" name="G">
-<area shape="rect" id="c7581147" href="../ProxyMessageReceiver.html" title="org.universAAL.ri.gateway.ProxyMessageReceiver" alt="" coords="16,118,176,143"/>
-<area shape="rect" id="c7581155" href="../Session.html" title="org.universAAL.ri.gateway.Session" alt="" coords="221,118,289,143"/>
-<area shape="rect" id="c7581190" href="./MessageReceiver.html" title="org.universAAL.ri.gateway.protocol.MessageReceiver" alt="" coords="112,11,237,53"/>
+<area shape="rect" id="c5680685" href="../ProxyMessageReceiver.html" title="org.universAAL.ri.gateway.ProxyMessageReceiver" alt="" coords="16,118,176,143"/>
+<area shape="rect" id="node1" href="../ProxyMessageReceiver.html" title="&lt;TABLE&gt;" alt="" coords="5,107,187,155"/>
+<area shape="rect" id="c5680693" href="../Session.html" title="org.universAAL.ri.gateway.Session" alt="" coords="221,118,289,143"/>
+<area shape="rect" id="node2" href="../Session.html" title="&lt;TABLE&gt;" alt="" coords="211,107,299,155"/>
+<area shape="rect" id="c5680728" href="./MessageReceiver.html" title="org.universAAL.ri.gateway.protocol.MessageReceiver" alt="" coords="112,11,237,53"/>
+<area shape="rect" id="node3" href="./MessageReceiver.html" title="&lt;TABLE&gt;" alt="" coords="101,6,248,58"/>
 </map>

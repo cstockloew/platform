@@ -1,9 +1,16 @@
 <map id="G" name="G">
-<area shape="rect" id="c3948521" href="./Grouping.html" title="org.universAAL.support.utils.ui.Grouping" alt="" coords="15,113,89,138"/>
-<area shape="rect" id="c3948522" href="./Media.html" title="org.universAAL.support.utils.ui.Media" alt="" coords="133,113,189,138"/>
-<area shape="rect" id="c3948524" href="./DataTable.html" title="org.universAAL.support.utils.ui.DataTable" alt="" coords="234,113,315,138"/>
-<area shape="rect" id="c3948525" href="./Out.html" title="org.universAAL.support.utils.ui.Out" alt="" coords="365,113,406,138"/>
-<area shape="rect" id="c3948526" href="./InputControl.html" title="org.universAAL.support.utils.ui.InputControl" alt="" coords="455,113,547,138"/>
-<area shape="rect" id="c3948527" href="./Control.html" title="org.universAAL.support.utils.ui.Control" alt="" coords="298,17,361,42"/>
-<area shape="rect" id="c3948528" href="./SubmitCmd.html" title="org.universAAL.support.utils.ui.SubmitCmd" alt="" coords="591,113,681,138"/>
+<area shape="rect" id="c3206807" href="./Grouping.html" title="org.universAAL.support.utils.ui.Grouping" alt="" coords="15,113,89,138"/>
+<area shape="rect" id="node1" href="./Grouping.html" title="&lt;TABLE&gt;" alt="" coords="5,101,99,149"/>
+<area shape="rect" id="c3206808" href="./Media.html" title="org.universAAL.support.utils.ui.Media" alt="" coords="133,113,189,138"/>
+<area shape="rect" id="node2" href="./Media.html" title="&lt;TABLE&gt;" alt="" coords="123,101,200,149"/>
+<area shape="rect" id="c3206810" href="./DataTable.html" title="org.universAAL.support.utils.ui.DataTable" alt="" coords="234,113,315,138"/>
+<area shape="rect" id="node3" href="./DataTable.html" title="&lt;TABLE&gt;" alt="" coords="224,101,325,149"/>
+<area shape="rect" id="c3206811" href="./Out.html" title="org.universAAL.support.utils.ui.Out" alt="" coords="365,113,406,138"/>
+<area shape="rect" id="node4" href="./Out.html" title="&lt;TABLE&gt;" alt="" coords="349,101,421,149"/>
+<area shape="rect" id="c3206812" href="./InputControl.html" title="org.universAAL.support.utils.ui.InputControl" alt="" coords="455,113,547,138"/>
+<area shape="rect" id="node5" href="./InputControl.html" title="&lt;TABLE&gt;" alt="" coords="445,101,557,149"/>
+<area shape="rect" id="c3206813" href="./Control.html" title="org.universAAL.support.utils.ui.Control" alt="" coords="298,17,361,42"/>
+<area shape="rect" id="node6" href="./Control.html" title="&lt;TABLE&gt;" alt="" coords="288,5,371,53"/>
+<area shape="rect" id="c3206814" href="./SubmitCmd.html" title="org.universAAL.support.utils.ui.SubmitCmd" alt="" coords="591,113,681,138"/>
+<area shape="rect" id="node7" href="./SubmitCmd.html" title="&lt;TABLE&gt;" alt="" coords="581,101,691,149"/>
 </map>

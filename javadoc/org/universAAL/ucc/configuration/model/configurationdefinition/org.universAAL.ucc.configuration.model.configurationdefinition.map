@@ -1,16 +1,30 @@
 <map id="G" name="G">
 <area shape="rect" id="c1397120" href="./Item.html" title="org.universAAL.ucc.configuration.model.configurationdefinition.Item" alt="" coords="18,17,65,42"/>
+<area shape="rect" id="node1" href="./Item.html" title="&lt;TABLE&gt;" alt="" coords="5,5,77,53"/>
 <area shape="rect" id="c1397121" href="./Configuration.html" title="org.universAAL.ucc.configuration.model.configurationdefinition.Configuration" alt="" coords="111,17,209,42"/>
+<area shape="rect" id="node2" href="./Configuration.html" title="&lt;TABLE&gt;" alt="" coords="101,5,219,53"/>
 <area shape="rect" id="c1397122" href="./SPARQLConfigItem.html" title="org.universAAL.ucc.configuration.model.configurationdefinition.SPARQLConfigItem" alt="" coords="57,113,196,138"/>
+<area shape="rect" id="node3" href="./SPARQLConfigItem.html" title="&lt;TABLE&gt;" alt="" coords="47,101,207,149"/>
 <area shape="rect" id="c1397123" href="./OnConfigurationModelChangedListener.html" title="org.universAAL.ucc.configuration.model.configurationdefinition.OnConfigurationModelChangedListener" alt="" coords="384,17,632,42"/>
+<area shape="rect" id="node4" href="./OnConfigurationModelChangedListener.html" title="&lt;TABLE&gt;" alt="" coords="373,5,643,53"/>
 <area shape="rect" id="c1397124" href="./Dependency.html" title="org.universAAL.ucc.configuration.model.configurationdefinition.Dependency" alt="" coords="677,17,771,42"/>
+<area shape="rect" id="node5" href="./Dependency.html" title="&lt;TABLE&gt;" alt="" coords="667,5,781,53"/>
 <area shape="rect" id="c1397125" href="./MapConfigItem.html" title="org.universAAL.ucc.configuration.model.configurationdefinition.MapConfigItem" alt="" coords="241,113,351,138"/>
+<area shape="rect" id="node6" href="./MapConfigItem.html" title="&lt;TABLE&gt;" alt="" coords="231,101,361,149"/>
 <area shape="rect" id="c1397126" href="./SimpleConfigItem.html" title="org.universAAL.ucc.configuration.model.configurationdefinition.SimpleConfigItem" alt="" coords="396,113,521,138"/>
+<area shape="rect" id="node7" href="./SimpleConfigItem.html" title="&lt;TABLE&gt;" alt="" coords="385,101,532,149"/>
 <area shape="rect" id="c1397127" href="./Option.html" title="org.universAAL.ucc.configuration.model.configurationdefinition.Option" alt="" coords="816,17,875,42"/>
+<area shape="rect" id="node8" href="./Option.html" title="&lt;TABLE&gt;" alt="" coords="805,5,885,53"/>
 <area shape="rect" id="c1397128" href="./Category.html" title="org.universAAL.ucc.configuration.model.configurationdefinition.Category" alt="" coords="919,17,993,42"/>
+<area shape="rect" id="node9" href="./Category.html" title="&lt;TABLE&gt;" alt="" coords="909,5,1003,53"/>
 <area shape="rect" id="c1397129" href="./Options.html" title="org.universAAL.ucc.configuration.model.configurationdefinition.Options" alt="" coords="1037,17,1102,42"/>
+<area shape="rect" id="node10" href="./Options.html" title="&lt;TABLE&gt;" alt="" coords="1027,5,1112,53"/>
 <area shape="rect" id="c1397130" href="./ConfigItem.html" title="org.universAAL.ucc.configuration.model.configurationdefinition.ConfigItem" alt="" coords="253,17,339,42"/>
+<area shape="rect" id="node11" href="./ConfigItem.html" title="&lt;TABLE&gt;" alt="" coords="243,5,349,53"/>
 <area shape="rect" id="c1397131" href="./ObjectFactory.html" title="org.universAAL.ucc.configuration.model.configurationdefinition.ObjectFactory" alt="" coords="1146,17,1249,42"/>
+<area shape="rect" id="node12" href="./ObjectFactory.html" title="&lt;TABLE&gt;" alt="" coords="1136,5,1259,53"/>
 <area shape="rect" id="c1397132" href="./Validators.html" title="org.universAAL.ucc.configuration.model.configurationdefinition.Validators" alt="" coords="1293,17,1371,42"/>
+<area shape="rect" id="node13" href="./Validators.html" title="&lt;TABLE&gt;" alt="" coords="1283,5,1381,53"/>
 <area shape="rect" id="c1397133" href="./Validator.html" title="org.universAAL.ucc.configuration.model.configurationdefinition.Validator" alt="" coords="1416,17,1488,42"/>
+<area shape="rect" id="node14" href="./Validator.html" title="&lt;TABLE&gt;" alt="" coords="1405,5,1499,53"/>
 </map>

@@ -1,4 +1,6 @@
 <map id="G" name="G">
-<area shape="rect" id="c4014675" href="./SwitchSensorEvent.html" title="org.universAAL.ontology.activityhub.SwitchSensorEvent" alt="" coords="29,113,165,138"/>
-<area shape="rect" id="c4014690" href="./ActivityHubSensorEvent.html" title="org.universAAL.ontology.activityhub.ActivityHubSensorEvent" alt="" coords="15,17,179,42"/>
+<area shape="rect" id="c7844521" href="./SwitchSensorEvent.html" title="org.universAAL.ontology.activityhub.SwitchSensorEvent" alt="" coords="29,113,165,138"/>
+<area shape="rect" id="node1" href="./SwitchSensorEvent.html" title="&lt;TABLE&gt;" alt="" coords="19,101,176,149"/>
+<area shape="rect" id="c7844536" href="./ActivityHubSensorEvent.html" title="org.universAAL.ontology.activityhub.ActivityHubSensorEvent" alt="" coords="15,17,179,42"/>
+<area shape="rect" id="node2" href="./ActivityHubSensorEvent.html" title="&lt;TABLE&gt;" alt="" coords="5,5,189,53"/>
 </map>

@@ -1,4 +1,6 @@
 <map id="G" name="G">
-<area shape="rect" id="c2907408" href="./ServiceWrapper.html" title="org.universAAL.middleware.service.impl.ServiceWrapper" alt="" coords="41,17,154,42"/>
-<area shape="rect" id="c2907409" href="./ServiceRequestWrapper.html" title="org.universAAL.middleware.service.impl.ServiceRequestWrapper" alt="" coords="16,113,179,138"/>
+<area shape="rect" id="c7424366" href="./ServiceWrapper.html" title="org.universAAL.middleware.service.impl.ServiceWrapper" alt="" coords="41,17,154,42"/>
+<area shape="rect" id="node1" href="./ServiceWrapper.html" title="&lt;TABLE&gt;" alt="" coords="31,5,164,53"/>
+<area shape="rect" id="c7424367" href="./ServiceRequestWrapper.html" title="org.universAAL.middleware.service.impl.ServiceRequestWrapper" alt="" coords="16,113,179,138"/>
+<area shape="rect" id="node2" href="./ServiceRequestWrapper.html" title="&lt;TABLE&gt;" alt="" coords="5,101,189,149"/>
 </map>

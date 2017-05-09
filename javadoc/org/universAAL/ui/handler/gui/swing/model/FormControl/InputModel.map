@@ -1,8 +1,14 @@
 <map id="G" name="G">
-<area shape="rect" id="c8096037" href="./TextAreaModel.html" title="org.universAAL.ui.handler.gui.swing.model.FormControl.TextAreaModel" alt="" coords="16,209,125,234"/>
-<area shape="rect" id="c8096038" href="./InputFieldModel.html" title="org.universAAL.ui.handler.gui.swing.model.FormControl.InputFieldModel" alt="" coords="170,209,283,234"/>
-<area shape="rect" id="c8096042" href="./SelectModel.html" title="org.universAAL.ui.handler.gui.swing.model.FormControl.SelectModel" alt="" coords="328,209,421,234"/>
-<area shape="rect" id="c8096051" href="./InputModel.html" title="org.universAAL.ui.handler.gui.swing.model.FormControl.InputModel" alt="" coords="257,113,343,138"/>
-<area shape="rect" id="c8096052" href="./RangeModel.html" title="org.universAAL.ui.handler.gui.swing.model.FormControl.RangeModel" alt="" coords="467,209,560,234"/>
-<area shape="rect" id="c8096073" href="../Model.html" title="org.universAAL.ui.handler.gui.swing.model.Model" alt="" coords="272,17,328,42"/>
+<area shape="rect" id="c4812580" href="./TextAreaModel.html" title="org.universAAL.ui.handler.gui.swing.model.FormControl.TextAreaModel" alt="" coords="16,209,125,234"/>
+<area shape="rect" id="node1" href="./TextAreaModel.html" title="&lt;TABLE&gt;" alt="" coords="5,197,136,245"/>
+<area shape="rect" id="c4812581" href="./InputFieldModel.html" title="org.universAAL.ui.handler.gui.swing.model.FormControl.InputFieldModel" alt="" coords="170,209,283,234"/>
+<area shape="rect" id="node2" href="./InputFieldModel.html" title="&lt;TABLE&gt;" alt="" coords="160,197,293,245"/>
+<area shape="rect" id="c4812585" href="./SelectModel.html" title="org.universAAL.ui.handler.gui.swing.model.FormControl.SelectModel" alt="" coords="328,209,421,234"/>
+<area shape="rect" id="node3" href="./SelectModel.html" title="&lt;TABLE&gt;" alt="" coords="317,197,432,245"/>
+<area shape="rect" id="c4812594" href="./InputModel.html" title="org.universAAL.ui.handler.gui.swing.model.FormControl.InputModel" alt="" coords="257,113,343,138"/>
+<area shape="rect" id="node4" href="./InputModel.html" title="&lt;TABLE&gt;" alt="" coords="247,101,353,149"/>
+<area shape="rect" id="c4812595" href="./RangeModel.html" title="org.universAAL.ui.handler.gui.swing.model.FormControl.RangeModel" alt="" coords="467,209,560,234"/>
+<area shape="rect" id="node5" href="./RangeModel.html" title="&lt;TABLE&gt;" alt="" coords="456,197,571,245"/>
+<area shape="rect" id="c4812616" href="../Model.html" title="org.universAAL.ui.handler.gui.swing.model.Model" alt="" coords="272,17,328,42"/>
+<area shape="rect" id="node6" href="../Model.html" title="&lt;TABLE&gt;" alt="" coords="261,5,339,53"/>
 </map>

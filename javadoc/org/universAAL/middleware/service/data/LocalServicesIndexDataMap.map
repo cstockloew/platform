@@ -1,4 +1,6 @@
 <map id="G" name="G">
-<area shape="rect" id="c2875772" href="./ILocalServicesIndexData.html" title="org.universAAL.middleware.service.data.ILocalServicesIndexData" alt="" coords="26,11,193,53"/>
-<area shape="rect" id="c2875773" href="./LocalServicesIndexDataMap.html" title="org.universAAL.middleware.service.data.LocalServicesIndexDataMap" alt="" coords="15,118,203,143"/>
+<area shape="rect" id="c5351331" href="./ILocalServicesIndexData.html" title="org.universAAL.middleware.service.data.ILocalServicesIndexData" alt="" coords="26,11,193,53"/>
+<area shape="rect" id="node1" href="./ILocalServicesIndexData.html" title="&lt;TABLE&gt;" alt="" coords="16,6,203,58"/>
+<area shape="rect" id="c5351332" href="./LocalServicesIndexDataMap.html" title="org.universAAL.middleware.service.data.LocalServicesIndexDataMap" alt="" coords="15,118,203,143"/>
+<area shape="rect" id="node2" href="./LocalServicesIndexDataMap.html" title="&lt;TABLE&gt;" alt="" coords="5,107,213,155"/>
 </map>

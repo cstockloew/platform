@@ -1,10 +1,18 @@
 <map id="G" name="G">
 <area shape="rect" id="c1195600" href="./Activator.html" title="org.universAAL.samples.sensor.simulator.Activator" alt="" coords="15,19,89,45"/>
+<area shape="rect" id="node1" href="./Activator.html" title="&lt;TABLE&gt;" alt="" coords="5,8,99,56"/>
 <area shape="rect" id="c1195601" href="./TypeOfUser.html" title="org.universAAL.samples.sensor.simulator.TypeOfUser" alt="" coords="133,11,238,53"/>
+<area shape="rect" id="node2" href="./TypeOfUser.html" title="&lt;TABLE&gt;" alt="" coords="123,6,248,58"/>
 <area shape="rect" id="c1195602" href="./RoomTemperaturePublisher.html" title="org.universAAL.samples.sensor.simulator.RoomTemperaturePublisher" alt="" coords="282,19,465,45"/>
+<area shape="rect" id="node3" href="./RoomTemperaturePublisher.html" title="&lt;TABLE&gt;" alt="" coords="272,8,475,56"/>
 <area shape="rect" id="c1195603" href="./LocationContextPublisher.html" title="org.universAAL.samples.sensor.simulator.LocationContextPublisher" alt="" coords="509,19,678,45"/>
+<area shape="rect" id="node4" href="./LocationContextPublisher.html" title="&lt;TABLE&gt;" alt="" coords="499,8,688,56"/>
 <area shape="rect" id="c1195604" href="./SensorSimulatorGUI.html" title="org.universAAL.samples.sensor.simulator.SensorSimulatorGUI" alt="" coords="723,19,864,45"/>
+<area shape="rect" id="node5" href="./SensorSimulatorGUI.html" title="&lt;TABLE&gt;" alt="" coords="712,8,875,56"/>
 <area shape="rect" id="c1195605" href="./LampMap.html" title="org.universAAL.samples.sensor.simulator.LampMap" alt="" coords="909,19,987,45"/>
+<area shape="rect" id="node6" href="./LampMap.html" title="&lt;TABLE&gt;" alt="" coords="899,8,997,56"/>
 <area shape="rect" id="c1195606" href="./LampStatePublisher.html" title="org.universAAL.samples.sensor.simulator.LampStatePublisher" alt="" coords="1031,19,1169,45"/>
+<area shape="rect" id="node7" href="./LampStatePublisher.html" title="&lt;TABLE&gt;" alt="" coords="1021,8,1179,56"/>
 <area shape="rect" id="c1195607" href="./RoomHumidityPublisher.html" title="org.universAAL.samples.sensor.simulator.RoomHumidityPublisher" alt="" coords="1213,19,1374,45"/>
+<area shape="rect" id="node8" href="./RoomHumidityPublisher.html" title="&lt;TABLE&gt;" alt="" coords="1203,8,1384,56"/>
 </map>

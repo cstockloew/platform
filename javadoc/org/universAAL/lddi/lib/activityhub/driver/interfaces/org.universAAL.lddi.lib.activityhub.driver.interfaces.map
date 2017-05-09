@@ -1,5 +1,8 @@
 <map id="G" name="G">
 <area shape="rect" id="c749290" href="./IActivityHubActuator.html" title="org.universAAL.lddi.lib.activityhub.driver.interfaces.IActivityHubActuator" alt="" coords="16,11,157,53"/>
+<area shape="rect" id="node1" href="./IActivityHubActuator.html" title="&lt;TABLE&gt;" alt="" coords="5,6,168,58"/>
 <area shape="rect" id="c749291" href="./ActivityHubDriverClient.html" title="org.universAAL.lddi.lib.activityhub.driver.interfaces.ActivityHubDriverClient" alt="" coords="203,11,360,53"/>
+<area shape="rect" id="node2" href="./ActivityHubDriverClient.html" title="&lt;TABLE&gt;" alt="" coords="192,6,371,58"/>
 <area shape="rect" id="c749292" href="./ActivityHubDriver.html" title="org.universAAL.lddi.lib.activityhub.driver.interfaces.ActivityHubDriver" alt="" coords="405,19,529,45"/>
+<area shape="rect" id="node3" href="./ActivityHubDriver.html" title="&lt;TABLE&gt;" alt="" coords="395,8,539,56"/>
 </map>

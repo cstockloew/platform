@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="c7575432" href="./ErrorMessage.html" title="org.universAAL.ri.gateway.protocol.ErrorMessage" alt="" coords="16,214,117,239"/>
-<area shape="rect" id="c7575433" href="./ImportMessage.html" title="org.universAAL.ri.gateway.protocol.ImportMessage" alt="" coords="162,214,273,239"/>
-<area shape="rect" id="c7575435" href="./LinkMessage.html" title="org.universAAL.ri.gateway.protocol.LinkMessage" alt="" coords="317,214,414,239"/>
-<area shape="rect" id="c7575437" href="./Message.html" title="org.universAAL.ri.gateway.protocol.Message" alt="" coords="254,118,327,143"/>
-<area shape="rect" id="c7575438" href="./WrappedBusMessage.html" title="org.universAAL.ri.gateway.protocol.WrappedBusMessage" alt="" coords="459,214,608,239"/>
-<area shape="rect" id="c7576201" href="http://java.sun.com/j2se/1.4.2/docs/api/java/io/Serializable.html" title="java.io.Serializable" alt="" coords="247,11,335,53"/>
-</map>

@@ -1,5 +1,8 @@
 <map id="G" name="G">
 <area shape="rect" id="c705904" href="./NullObject.html" title="org.universAAL.lddi.lib.ieeex73std.org.bn.types.NullObject" alt="" coords="15,17,97,42"/>
+<area shape="rect" id="node1" href="./NullObject.html" title="&lt;TABLE&gt;" alt="" coords="5,5,107,53"/>
 <area shape="rect" id="c705905" href="./ObjectIdentifier.html" title="org.universAAL.lddi.lib.ieeex73std.org.bn.types.ObjectIdentifier" alt="" coords="141,17,251,42"/>
+<area shape="rect" id="node2" href="./ObjectIdentifier.html" title="&lt;TABLE&gt;" alt="" coords="131,5,261,53"/>
 <area shape="rect" id="c705906" href="./BitString.html" title="org.universAAL.lddi.lib.ieeex73std.org.bn.types.BitString" alt="" coords="295,17,366,42"/>
+<area shape="rect" id="node3" href="./BitString.html" title="&lt;TABLE&gt;" alt="" coords="285,5,376,53"/>
 </map>

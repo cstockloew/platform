@@ -1,7 +1,12 @@
 <map id="G" name="G">
-<area shape="rect" id="c4442296" href="../../middleware/owl/ManagedIndividual.html" title="org.universAAL.middleware.owl.ManagedIndividual" alt="" coords="94,17,223,42"/>
-<area shape="rect" id="c4443199" href="./Persistent.html" title="org.universAAL.ontology.reasoner.Persistent" alt="" coords="119,113,199,138"/>
-<area shape="rect" id="c4443195" href="./Situation.html" title="org.universAAL.ontology.reasoner.Situation" alt="" coords="16,209,88,234"/>
-<area shape="rect" id="c4443196" href="./Rule.html" title="org.universAAL.ontology.reasoner.Rule" alt="" coords="135,209,183,234"/>
-<area shape="rect" id="c4443198" href="./Query.html" title="org.universAAL.ontology.reasoner.Query" alt="" coords="229,209,285,234"/>
+<area shape="rect" id="c6348673" href="../../middleware/owl/ManagedIndividual.html" title="org.universAAL.middleware.owl.ManagedIndividual" alt="" coords="94,17,223,42"/>
+<area shape="rect" id="node1" href="../../middleware/owl/ManagedIndividual.html" title="&lt;TABLE&gt;" alt="" coords="84,5,233,53"/>
+<area shape="rect" id="c6349576" href="./Persistent.html" title="org.universAAL.ontology.reasoner.Persistent" alt="" coords="119,113,199,138"/>
+<area shape="rect" id="node5" href="./Persistent.html" title="&lt;TABLE&gt;" alt="" coords="108,101,209,149"/>
+<area shape="rect" id="c6349572" href="./Situation.html" title="org.universAAL.ontology.reasoner.Situation" alt="" coords="16,209,88,234"/>
+<area shape="rect" id="node2" href="./Situation.html" title="&lt;TABLE&gt;" alt="" coords="5,197,99,245"/>
+<area shape="rect" id="c6349573" href="./Rule.html" title="org.universAAL.ontology.reasoner.Rule" alt="" coords="135,209,183,234"/>
+<area shape="rect" id="node3" href="./Rule.html" title="&lt;TABLE&gt;" alt="" coords="123,197,195,245"/>
+<area shape="rect" id="c6349575" href="./Query.html" title="org.universAAL.ontology.reasoner.Query" alt="" coords="229,209,285,234"/>
+<area shape="rect" id="node4" href="./Query.html" title="&lt;TABLE&gt;" alt="" coords="219,197,296,245"/>
 </map>

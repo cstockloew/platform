@@ -1,5 +1,8 @@
 <map id="G" name="G">
 <area shape="rect" id="c455471" href="./uAALBundleContainer.html" title="org.universAAL.middleware.container.osgi.uAALBundleContainer" alt="" coords="16,19,165,45"/>
+<area shape="rect" id="node1" href="./uAALBundleContainer.html" title="&lt;TABLE&gt;" alt="" coords="5,8,176,56"/>
 <area shape="rect" id="c455472" href="./OSGiAttributes.html" title="org.universAAL.middleware.container.osgi.OSGiAttributes" alt="" coords="211,11,320,53"/>
+<area shape="rect" id="node2" href="./OSGiAttributes.html" title="&lt;TABLE&gt;" alt="" coords="200,6,331,58"/>
 <area shape="rect" id="c455473" href="./uAALBundleContext.html" title="org.universAAL.middleware.container.osgi.uAALBundleContext" alt="" coords="365,19,504,45"/>
+<area shape="rect" id="node3" href="./uAALBundleContext.html" title="&lt;TABLE&gt;" alt="" coords="355,8,515,56"/>
 </map>

@@ -1,4 +1,6 @@
 <map id="G" name="G">
-<area shape="rect" id="c4526603" href="./IndirectFault.html" title="org.universAAL.ontology.dependability.IndirectFault" alt="" coords="16,113,109,138"/>
-<area shape="rect" id="c4526608" href="./Fault.html" title="org.universAAL.ontology.dependability.Fault" alt="" coords="38,17,87,42"/>
+<area shape="rect" id="c4776852" href="./IndirectFault.html" title="org.universAAL.ontology.dependability.IndirectFault" alt="" coords="16,113,109,138"/>
+<area shape="rect" id="node1" href="./IndirectFault.html" title="&lt;TABLE&gt;" alt="" coords="5,101,120,149"/>
+<area shape="rect" id="c4776857" href="./Fault.html" title="org.universAAL.ontology.dependability.Fault" alt="" coords="38,17,87,42"/>
+<area shape="rect" id="node2" href="./Fault.html" title="&lt;TABLE&gt;" alt="" coords="27,5,99,53"/>
 </map>

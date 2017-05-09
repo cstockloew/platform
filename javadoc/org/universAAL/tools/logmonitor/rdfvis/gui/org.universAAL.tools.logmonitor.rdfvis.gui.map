@@ -1,4 +1,6 @@
 <map id="G" name="G">
 <area shape="rect" id="c1302097" href="./GraphPanel.html" title="org.universAAL.tools.logmonitor.rdfvis.gui.GraphPanel" alt="" coords="15,17,105,42"/>
+<area shape="rect" id="node1" href="./GraphPanel.html" title="&lt;TABLE&gt;" alt="" coords="5,5,115,53"/>
 <area shape="rect" id="c1302098" href="./RDFVis.html" title="org.universAAL.tools.logmonitor.rdfvis.gui.RDFVis" alt="" coords="149,17,217,42"/>
+<area shape="rect" id="node2" href="./RDFVis.html" title="&lt;TABLE&gt;" alt="" coords="139,5,227,53"/>
 </map>

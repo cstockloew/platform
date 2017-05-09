@@ -1,6 +1,10 @@
 <map id="G" name="G">
 <area shape="rect" id="c1060226" href="./ProfilableFileMainMenuProvider.html" title="org.universAAL.ui.dm.userInteraction.mainMenu.profilable.ProfilableFileMainMenuProvider" alt="" coords="15,17,219,42"/>
+<area shape="rect" id="node1" href="./ProfilableFileMainMenuProvider.html" title="&lt;TABLE&gt;" alt="" coords="5,5,229,53"/>
 <area shape="rect" id="c1060227" href="./SCallee.html" title="org.universAAL.ui.dm.userInteraction.mainMenu.profilable.SCallee" alt="" coords="264,17,331,42"/>
+<area shape="rect" id="node2" href="./SCallee.html" title="&lt;TABLE&gt;" alt="" coords="253,5,341,53"/>
 <area shape="rect" id="c1060228" href="./RDFMainMenu.html" title="org.universAAL.ui.dm.userInteraction.mainMenu.profilable.RDFMainMenu" alt="" coords="376,17,485,42"/>
+<area shape="rect" id="node3" href="./RDFMainMenu.html" title="&lt;TABLE&gt;" alt="" coords="365,5,496,53"/>
 <area shape="rect" id="c1060229" href="./RDFMenuNode.html" title="org.universAAL.ui.dm.userInteraction.mainMenu.profilable.RDFMenuNode" alt="" coords="531,17,643,42"/>
+<area shape="rect" id="node4" href="./RDFMenuNode.html" title="&lt;TABLE&gt;" alt="" coords="520,5,653,53"/>
 </map>

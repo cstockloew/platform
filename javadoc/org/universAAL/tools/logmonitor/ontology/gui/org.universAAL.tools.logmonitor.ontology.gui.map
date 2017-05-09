@@ -1,4 +1,6 @@
 <map id="G" name="G">
 <area shape="rect" id="c1296341" href="./OntologyGui.html" title="org.universAAL.tools.logmonitor.ontology.gui.OntologyGui" alt="" coords="16,17,109,42"/>
+<area shape="rect" id="node1" href="./OntologyGui.html" title="&lt;TABLE&gt;" alt="" coords="5,5,120,53"/>
 <area shape="rect" id="c1296342" href="./OntologyPane.html" title="org.universAAL.tools.logmonitor.ontology.gui.OntologyPane" alt="" coords="154,17,257,42"/>
+<area shape="rect" id="node2" href="./OntologyPane.html" title="&lt;TABLE&gt;" alt="" coords="144,5,267,53"/>
 </map>

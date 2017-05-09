@@ -1,8 +1,14 @@
 <map id="G" name="G">
 <area shape="rect" id="c896134" href="./CHeQuery.html" title="org.universAAL.security.session.manager.helpers.CHeQuery" alt="" coords="16,17,99,42"/>
+<area shape="rect" id="node1" href="./CHeQuery.html" title="&lt;TABLE&gt;" alt="" coords="5,5,109,53"/>
 <area shape="rect" id="c896135" href="./LocationTreeWrapper.html" title="org.universAAL.security.session.manager.helpers.LocationTreeWrapper" alt="" coords="143,17,289,42"/>
+<area shape="rect" id="node2" href="./LocationTreeWrapper.html" title="&lt;TABLE&gt;" alt="" coords="133,5,299,53"/>
 <area shape="rect" id="c896136" href="./UserLocationTree.html" title="org.universAAL.security.session.manager.helpers.UserLocationTree" alt="" coords="154,113,278,138"/>
+<area shape="rect" id="node3" href="./UserLocationTree.html" title="&lt;TABLE&gt;" alt="" coords="144,101,288,149"/>
 <area shape="rect" id="c896137" href="./UserLocationTreeRoot.html" title="org.universAAL.security.session.manager.helpers.UserLocationTreeRoot" alt="" coords="333,17,485,42"/>
+<area shape="rect" id="node4" href="./UserLocationTreeRoot.html" title="&lt;TABLE&gt;" alt="" coords="323,5,496,53"/>
 <area shape="rect" id="c896138" href="./UserDeviceWrapper.html" title="org.universAAL.security.session.manager.helpers.UserDeviceWrapper" alt="" coords="531,17,669,42"/>
+<area shape="rect" id="node5" href="./UserDeviceWrapper.html" title="&lt;TABLE&gt;" alt="" coords="520,5,680,53"/>
 <area shape="rect" id="c896139" href="./SerializerGetter.html" title="org.universAAL.security.session.manager.helpers.SerializerGetter" alt="" coords="714,17,825,42"/>
+<area shape="rect" id="node6" href="./SerializerGetter.html" title="&lt;TABLE&gt;" alt="" coords="704,5,835,53"/>
 </map>

@@ -1,7 +1,12 @@
 <map id="G" name="G">
-<area shape="rect" id="c4796340" href="../../middleware/ui/owl/Recommendation.html" title="org.universAAL.middleware.ui.owl.Recommendation" alt="" coords="89,17,212,42"/>
-<area shape="rect" id="c4796947" href="./VisualRecommendation.html" title="org.universAAL.ontology.recommendations.VisualRecommendation" alt="" coords="71,113,230,138"/>
-<area shape="rect" id="c4796943" href="./Size.html" title="org.universAAL.ontology.recommendations.Size" alt="" coords="18,209,65,234"/>
-<area shape="rect" id="c4796945" href="./Alignment.html" title="org.universAAL.ontology.recommendations.Alignment" alt="" coords="111,209,190,234"/>
-<area shape="rect" id="c4796948" href="./Layout.html" title="org.universAAL.ontology.recommendations.Layout" alt="" coords="234,209,294,234"/>
+<area shape="rect" id="c8499748" href="../../middleware/ui/owl/Recommendation.html" title="org.universAAL.middleware.ui.owl.Recommendation" alt="" coords="89,17,212,42"/>
+<area shape="rect" id="node1" href="../../middleware/ui/owl/Recommendation.html" title="&lt;TABLE&gt;" alt="" coords="79,5,223,53"/>
+<area shape="rect" id="c8500355" href="./VisualRecommendation.html" title="org.universAAL.ontology.recommendations.VisualRecommendation" alt="" coords="71,113,230,138"/>
+<area shape="rect" id="node4" href="./VisualRecommendation.html" title="&lt;TABLE&gt;" alt="" coords="61,101,240,149"/>
+<area shape="rect" id="c8500351" href="./Size.html" title="org.universAAL.ontology.recommendations.Size" alt="" coords="18,209,65,234"/>
+<area shape="rect" id="node2" href="./Size.html" title="&lt;TABLE&gt;" alt="" coords="5,197,77,245"/>
+<area shape="rect" id="c8500353" href="./Alignment.html" title="org.universAAL.ontology.recommendations.Alignment" alt="" coords="111,209,190,234"/>
+<area shape="rect" id="node3" href="./Alignment.html" title="&lt;TABLE&gt;" alt="" coords="101,197,200,245"/>
+<area shape="rect" id="c8500356" href="./Layout.html" title="org.universAAL.ontology.recommendations.Layout" alt="" coords="234,209,294,234"/>
+<area shape="rect" id="node5" href="./Layout.html" title="&lt;TABLE&gt;" alt="" coords="224,197,304,245"/>
 </map>

@@ -1,4 +1,6 @@
 <map id="G" name="G">
 <area shape="rect" id="c322892" href="./AdaptorPlugActuatorEvent.html" title="org.universAAL.ontology.activityhub.ext.AdaptorPlugActuatorEvent" alt="" coords="15,17,190,42"/>
+<area shape="rect" id="node1" href="./AdaptorPlugActuatorEvent.html" title="&lt;TABLE&gt;" alt="" coords="5,5,200,53"/>
 <area shape="rect" id="c322893" href="./AdaptorPlugActuator.html" title="org.universAAL.ontology.activityhub.ext.AdaptorPlugActuator" alt="" coords="235,17,376,42"/>
+<area shape="rect" id="node2" href="./AdaptorPlugActuator.html" title="&lt;TABLE&gt;" alt="" coords="224,5,387,53"/>
 </map>

@@ -1,8 +1,14 @@
 <map id="G" name="G">
 <area shape="rect" id="c198849" href="./LocalWaitingDataMap.html" title="org.universAAL.middleware.service.data.LocalWaitingDataMap" alt="" coords="25,118,175,143"/>
+<area shape="rect" id="node1" href="./LocalWaitingDataMap.html" title="&lt;TABLE&gt;" alt="" coords="15,107,185,155"/>
 <area shape="rect" id="c198850" href="./LocalServiceSearchResultsDataMap.html" title="org.universAAL.middleware.service.data.LocalServiceSearchResultsDataMap" alt="" coords="220,118,455,143"/>
+<area shape="rect" id="node2" href="./LocalServiceSearchResultsDataMap.html" title="&lt;TABLE&gt;" alt="" coords="209,107,465,155"/>
 <area shape="rect" id="c198851" href="./ILocalWaitingCallersData.html" title="org.universAAL.middleware.service.data.ILocalWaitingCallersData" alt="" coords="15,11,185,53"/>
+<area shape="rect" id="node3" href="./ILocalWaitingCallersData.html" title="&lt;TABLE&gt;" alt="" coords="5,6,195,58"/>
 <area shape="rect" id="c198852" href="./ILocalServiceSearchResultsData.html" title="org.universAAL.middleware.service.data.ILocalServiceSearchResultsData" alt="" coords="231,11,444,53"/>
+<area shape="rect" id="node4" href="./ILocalServiceSearchResultsData.html" title="&lt;TABLE&gt;" alt="" coords="220,6,455,58"/>
 <area shape="rect" id="c198853" href="./ILocalServicesIndexData.html" title="org.universAAL.middleware.service.data.ILocalServicesIndexData" alt="" coords="510,11,677,53"/>
+<area shape="rect" id="node5" href="./ILocalServicesIndexData.html" title="&lt;TABLE&gt;" alt="" coords="500,6,687,58"/>
 <area shape="rect" id="c198854" href="./LocalServicesIndexDataMap.html" title="org.universAAL.middleware.service.data.LocalServicesIndexDataMap" alt="" coords="499,118,687,143"/>
+<area shape="rect" id="node6" href="./LocalServicesIndexDataMap.html" title="&lt;TABLE&gt;" alt="" coords="489,107,697,155"/>
 </map>

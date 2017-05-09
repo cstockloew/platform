@@ -1,6 +1,10 @@
 <map id="G" name="G">
 <area shape="rect" id="c1400009" href="./ObjectFactory.html" title="org.universAAL.ucc.configuration.model.configurationinstances.ObjectFactory" alt="" coords="15,17,118,42"/>
+<area shape="rect" id="node1" href="./ObjectFactory.html" title="&lt;TABLE&gt;" alt="" coords="5,5,128,53"/>
 <area shape="rect" id="c1400010" href="./ConfigurationInstance.html" title="org.universAAL.ucc.configuration.model.configurationinstances.ConfigurationInstance" alt="" coords="162,17,310,42"/>
+<area shape="rect" id="node2" href="./ConfigurationInstance.html" title="&lt;TABLE&gt;" alt="" coords="152,5,320,53"/>
 <area shape="rect" id="c1400011" href="./Value.html" title="org.universAAL.ucc.configuration.model.configurationinstances.Value" alt="" coords="355,17,408,42"/>
+<area shape="rect" id="node3" href="./Value.html" title="&lt;TABLE&gt;" alt="" coords="344,5,419,53"/>
 <area shape="rect" id="c1400012" href="./ConfigOption.html" title="org.universAAL.ucc.configuration.model.configurationinstances.ConfigOption" alt="" coords="453,17,550,42"/>
+<area shape="rect" id="node4" href="./ConfigOption.html" title="&lt;TABLE&gt;" alt="" coords="443,5,560,53"/>
 </map>
