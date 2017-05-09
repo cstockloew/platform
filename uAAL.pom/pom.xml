@@ -383,12 +383,10 @@
             <doclet>org.umlgraph.doclet.UmlGraphDoc</doclet>
             <docletArtifact>
               <groupId>org.umlgraph</groupId>
-              <artifactId>doclet</artifactId>
-              <version>5.1</version>
+              <artifactId>umlgraph</artifactId>
+              <version>5.6.6</version>
             </docletArtifact>
-            <additionalparam>-views</additionalparam>
-            <additionalparam>-notimestamp</additionalparam>
-            <additionalparam>-Xdoclint:none</additionalparam>
+            <additionalparam>-views -notimestamp -Xdoclint:none</additionalparam>
             <useStandardDocletOptions>true</useStandardDocletOptions>
             <docfilessubdirs>true</docfilessubdirs>
           </configuration>
