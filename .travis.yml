@@ -49,11 +49,13 @@ script:
 # - find . > find_all_files2.txt
 # - cd ../../..
 # - ../push-to-gh-pages.sh
- - mvn cobertura:cobertura -fn > target/site/apidocs/cobertura.txt
+ - mvn cobertura:cobertura -Dcobertura.aggregate=true  -Dcobertura.report.format=xml -fn > target/site/apidocs/cobertura.txt
 
 after_success:
-  - bash <(curl -s https://codecov.io/bash)
   - ../push-to-gh-pages.sh
+  - export GH_TOKEN=GH_TOKEN2
+  - echo "$GH_TOKEN"
+  - bash <(curl -s https://codecov.io/bash)
   
 notifications:
   email: false
