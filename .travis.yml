@@ -43,7 +43,7 @@ script:
 # - mv target/site/cobertura/coverage.xml target/site/cobertura/coverage2.xml
 # - find .. -name "coverage.xml" -type f -delete
 # - mv target/site/cobertura/coverage2.xml target/site/cobertura/coverage.xml
- - mvn site | xargs -L 500 | xargs -I@ echo -n "."
+ - mvn site | grep "[INFO] Building universAAL"
  - mvn site:stage -DstagingDirectory=$HOME/site/uAAL.pom
 #> /dev/null
 
