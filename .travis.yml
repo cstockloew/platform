@@ -31,7 +31,7 @@ install:
  -
  
 script:
- - ((((MAVEN_OPTS="-Xmx256m" mvn clean install -Dorg.ops4j.pax.logging.DefaultServiceLog.level=WARN; echo $? >&3) | ../filter-maven-travis.sh maven >&4) 3>&1) | (read xs; exit $xs)) 4>&1
+ - ((((MAVEN_OPTS="-Xmx256m" mvn clean install -Dorg.ops4j.pax.logging.DefaultServiceLog.level=WARN > /dev/null; echo $? >&3) | ../filter-maven-travis.sh maven >&4) 3>&1) | (read xs; exit $xs)) 4>&1
 # - mvn clean install -Dmaven.javadoc.skip=true -B
 # - mvn clean install -DskipTests=true -Dmaven.javadoc.skip=true -B
 # - mkdir target || true
@@ -43,8 +43,9 @@ script:
 # - mv target/site/cobertura/coverage.xml target/site/cobertura/coverage2.xml
 # - find .. -name "coverage.xml" -type f -delete
 # - mv target/site/cobertura/coverage2.xml target/site/cobertura/coverage.xml
- - mvn site | grep "[INFO] Building universAAL"
- - mvn site:stage -DstagingDirectory=$HOME/site/uAAL.pom
+ - mvn site -fn
+# | grep -i "[INFO] Build"
+ - mvn site:stage -DstagingDirectory=$HOME/site/uAAL.pom -fn
 #> /dev/null
 
 
