@@ -31,6 +31,7 @@ install:
  -
  
 script:
+ - java -Xmx1024m -version
 # - echo "$MAVEN_OPTS"
 # - echo "$JAVA_OPTS"
 # - java -XX:+PrintFlagsFinal -version | findstr /i "HeapSize PermSize ThreadStackSize"
