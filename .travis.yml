@@ -66,7 +66,8 @@ script:
 # - ((((MAVEN_OPTS="-Xmx512m" mvn cobertura:cobertura -Dcobertura.aggregate=true -fae; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
 # - ((((MAVEN_OPTS="-Xmx512m" mvn surefire-report:report -Dsurefire-report.aggregate=true -fae; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
 # - MAVEN_OPTS="-Xmx512m" mvn surefire-report:report -Dsurefire-report.aggregate=true -fae
- - MAVEN_OPTS="-Xmx4g" JAVA_OPTS="--Xmx4" mvn site:site -Dsurefire.argLine="--Xmx4g" -Dcobertura.maxmem=4g -DskipTests -Dcobertura.skip  -Dmaven.javadoc.skip=true -Dmaxmemory=4g -Djavadoc.maxmemory=4g -fn -e
+ - export JAVA_TOOL_OPTIONS="-Xmx4g"
+ - JAVA_TOOL_OPTIONS="-Xmx4g" MAVEN_OPTS="-Xmx4g" JAVA_OPTS="--Xmx4" mvn site:site -Dsurefire.argLine="--Xmx4g" -Dcobertura.maxmem=4g -DskipTests -Dcobertura.skip  -Dmaven.javadoc.skip=true -Dmaxmemory=4g -Djavadoc.maxmemory=4g -fn -e
 
 after_success:
 # - ../push-to-gh-pages.sh
