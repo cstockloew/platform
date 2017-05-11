@@ -1,6 +1,6 @@
 language: java
 jdk: oraclejdk8
-sudo: false
+sudo: true
  
 cache:
   directories:
@@ -36,12 +36,14 @@ before_script:
  - echo "MAVEN_OPTS='-Xmx4g'" > ~/.mavenrc
 
 script:
- - java -Xmx4g -version
+ - java -Xmx3g -version
 # - echo "$MAVEN_OPTS"
 # - echo "$JAVA_OPTS"
 # - java -XX:+PrintFlagsFinal -version | findstr /i "HeapSize PermSize ThreadStackSize"
- - export JAVA_OPTS="-Xmx4g"
- - export MAVEN_OPTS="-Xmx4g"
+ - export JAVA_OPTS="-Xmx3g"
+ - export MAVEN_OPTS="-Xmx3g"
+ - ulimit -a
+ - free -m
 # - echo "$MAVEN_OPTS"
 # - echo "$JAVA_OPTS"
 # - cat /proc/meminfo
@@ -71,8 +73,10 @@ script:
 # - ((((MAVEN_OPTS="-Xmx512m" mvn cobertura:cobertura -Dcobertura.aggregate=true -fae; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
 # - ((((MAVEN_OPTS="-Xmx512m" mvn surefire-report:report -Dsurefire-report.aggregate=true -fae; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
 # - MAVEN_OPTS="-Xmx512m" mvn surefire-report:report -Dsurefire-report.aggregate=true -fae
- - export JAVA_TOOL_OPTIONS="-Xmx4g"
- - JAVA_TOOL_OPTIONS="-Xmx4g" MAVEN_OPTS="-Xmx4g" JAVA_OPTS="--Xmx4" mvn site:site -Dsurefire.argLine="--Xmx4g" -Dcobertura.maxmem=4g -DskipTests -Dcobertura.skip  -Dmaven.javadoc.skip=true -Dmaxmemory=4g -Djavadoc.maxmemory=4g -fn -e
+ - export JAVA_TOOL_OPTIONS="-Xmx3g"
+ - JAVA_TOOL_OPTIONS="-Xmx3g" MAVEN_OPTS="-Xmx3g" JAVA_OPTS="--Xmx4" mvn site:site -Dsurefire.argLine="--Xmx3g" -Dcobertura.maxmem=3g -DskipTests -Dcobertura.skip  -Dmaven.javadoc.skip=true -Dmaxmemory=3g -Djavadoc.maxmemory=3g -fn -e
+ - ulimit -a
+ - free -m
 
 after_success:
 # - ../push-to-gh-pages.sh

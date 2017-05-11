@@ -546,11 +546,11 @@
           <dependencyLocationsEnabled>false</dependencyLocationsEnabled>
         </configuration>
       </plugin>
-<!--      <plugin>
+      <plugin>
         <groupId>org.universAAL.support</groupId>
         <artifactId>uaalDirectives-maven-plugin</artifactId>
         <version>3.4.1-SNAPSHOT</version>
-      </plugin>-->
+      </plugin>
     </plugins>
   </reporting>
   <profiles>
