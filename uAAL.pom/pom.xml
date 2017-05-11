@@ -452,6 +452,13 @@
         <configuration>
           <configLocation>http://depot.universaal.org/Resources/Checkstyle/uaal-checkstyle-config.xml</configLocation>
         </configuration>
+        <reportSets>
+          <reportSet>
+            <reports>
+              <report>checkstyle</report>
+            </reports>
+          </reportSet>
+        </reportSets>
       </plugin>
       <plugin>
         <artifactId>maven-pmd-plugin</artifactId>
