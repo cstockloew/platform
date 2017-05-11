@@ -31,12 +31,12 @@ install:
  -
  
 script:
- - java -Xmx2g -version
+ - java -Xmx4g -version
 # - echo "$MAVEN_OPTS"
 # - echo "$JAVA_OPTS"
 # - java -XX:+PrintFlagsFinal -version | findstr /i "HeapSize PermSize ThreadStackSize"
- - export JAVA_OPTS="-Xmx2g"
- - export MAVEN_OPTS="-Xmx2g"
+ - export JAVA_OPTS="-Xmx4g"
+ - export MAVEN_OPTS="-Xmx4g"
 # - echo "$MAVEN_OPTS"
 # - echo "$JAVA_OPTS"
 # - cat /proc/meminfo
@@ -66,7 +66,7 @@ script:
 # - ((((MAVEN_OPTS="-Xmx512m" mvn cobertura:cobertura -Dcobertura.aggregate=true -fae; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
 # - ((((MAVEN_OPTS="-Xmx512m" mvn surefire-report:report -Dsurefire-report.aggregate=true -fae; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
 # - MAVEN_OPTS="-Xmx512m" mvn surefire-report:report -Dsurefire-report.aggregate=true -fae
- - MAVEN_OPTS="-Xmx2g" JAVA_OPTS="--Xmx2g" mvn site:site -Dsurefire.argLine="--Xmx2g" -Dcobertura.maxmem=2048M -DskipTests -Dcobertura.skip  -Dmaven.javadoc.skip=true -Dmaxmemory=2048M -Djavadoc.maxmemory=2048M -fn
+ - MAVEN_OPTS="-Xmx4g" JAVA_OPTS="--Xmx4g" mvn site:site -Dsurefire.argLine="--Xmx4g" -Dcobertura.maxmem=4g -DskipTests -Dcobertura.skip  -Dmaven.javadoc.skip=true -Dmaxmemory=4g -Djavadoc.maxmemory=4g -fn
 
 after_success:
 # - ../push-to-gh-pages.sh
