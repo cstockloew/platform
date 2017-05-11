@@ -68,7 +68,7 @@ script:
 
 after_success:
 # - ../push-to-gh-pages.sh
-# - export GH_TOKEN=GH_TOKEN2
+ - export GH_TOKEN=GH_TOKEN2
 # - echo "$GH_TOKEN"
 # - bash <(curl -s https://codecov.io/bash) -X
   
