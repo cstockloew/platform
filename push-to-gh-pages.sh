@@ -4,6 +4,8 @@ if [ "$TRAVIS_REPO_SLUG" == "cstockloew/platform" ] && [ "$TRAVIS_PULL_REQUEST" 
 
   echo -e "Publishing...\n"
 
+  cp -R "target/site" $HOME/site
+    
   cd $HOME
   git config --global user.email "travis@travis-ci.org"
   git config --global user.name "travis-ci"
