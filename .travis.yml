@@ -33,7 +33,7 @@ install:
 before_script:
 # - export MAVEN_SKIP_RC=true
  - cat /etc/mavenrc
- - echo "MAVEN_OPTS='-Xmx4g'" > ~/.mavenrc
+ - echo "MAVEN_OPTS='-Xmx3g'" > ~/.mavenrc
 
 script:
  - java -Xmx3g -version
@@ -46,7 +46,7 @@ script:
  - free -m
 # - echo "$MAVEN_OPTS"
 # - echo "$JAVA_OPTS"
- - cat /proc/meminfo
+# - cat /proc/meminfo
 # - java -XX:+PrintFlagsFinal -version | findstr /i "HeapSize PermSize ThreadStackSize"
 # - ((((MAVEN_OPTS="-Xmx256m" mvn clean install -DskipTests -Dorg.ops4j.pax.logging.DefaultServiceLog.level=WARN > /dev/null; echo $? >&3) | ../filter-maven-travis.sh maven >&4) 3>&1) | (read xs; exit $xs)) 4>&1
  - ((((MAVEN_OPTS="-Xmx256m" mvn clean install -DskipTests -Dorg.ops4j.pax.logging.DefaultServiceLog.level=WARN > /dev/null; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
@@ -57,10 +57,6 @@ script:
 # - mkdir target/site/apidocs || true
 # - mvn javadoc:aggregate -fn > target/site/apidocs/javadoc-aggregate.txt
 # - mvn cobertura:cobertura -Dcobertura.aggregate=true  -Dcobertura.report.format=xml -fn > target/site/apidocs/cobertura.txt
-# - echo Delete all coverage reports except the aggregated one!
-# - mv target/site/cobertura/coverage.xml target/site/cobertura/coverage2.xml
-# - find .. -name "coverage.xml" -type f -delete
-# - mv target/site/cobertura/coverage2.xml target/site/cobertura/coverage.xml
 # - export MAVEN_OPTS="-Xmx2048m"
 # - mvn site -fn
 # - mvn site -fae
@@ -68,10 +64,10 @@ script:
 # | grep -i "[INFO] Build"
 # - mvn site:stage -DstagingDirectory=$HOME/site/uAAL.pom -fn > /dev/null
 #####################
- - ((((mvn javadoc:javadoc -fae; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
- - ((((mvn javadoc:aggregate -fae; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
+# - ((((mvn javadoc:javadoc -fae; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
+# - ((((mvn javadoc:aggregate -fae; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
  - ((((mvn cobertura:cobertura -Dcobertura.aggregate=true -fae; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
- - ((((mvn surefire-report:report -Dsurefire-report.aggregate=true -fae; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
+# - ((((mvn surefire-report:report -Dsurefire-report.aggregate=true -fae; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
 # - ((((MAVEN_OPTS="-Xmx512m" mvn javadoc:javadoc -fae; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
 # - ((((MAVEN_OPTS="-Xmx512m" mvn javadoc:aggregate -fae; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
 # - ((((MAVEN_OPTS="-Xmx512m" mvn cobertura:cobertura -Dcobertura.aggregate=true -fae; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
@@ -81,12 +77,16 @@ script:
 # - JAVA_TOOL_OPTIONS="-Xmx3g" MAVEN_OPTS="-Xmx3g" JAVA_OPTS="--Xmx4" mvn site:site -Dsurefire.argLine="--Xmx3g" -Dcobertura.maxmem=3g -DskipTests -Dcobertura.skip  -Dmaven.javadoc.skip=true -Dmaxmemory=3g -Djavadoc.maxmemory=3g -fn -e
 # - ulimit -a
 # - free -m
+ - echo Delete all coverage reports except the aggregated one!
+ - mv target/site/cobertura/coverage.xml target/site/cobertura/coverage2.xml
+ - find .. -name "coverage.xml" -type f -delete
+ - mv target/site/cobertura/coverage2.xml target/site/cobertura/coverage.xml
 
 after_success:
 # - ../push-to-gh-pages.sh
  - export GH_TOKEN=GH_TOKEN2
 # - echo "$GH_TOKEN"
-# - bash <(curl -s https://codecov.io/bash) -X
+ - bash <(curl -s https://codecov.io/bash) -X
   
 notifications:
   email: false
