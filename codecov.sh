@@ -1121,6 +1121,11 @@ then
   fi
 fi
 
+git ls-files >dir.txt
+git submodule --quiet foreach 'git ls-files | sed "s|^|$path/|"' >>dir.txt
+network=`cat dir.txt`
+
+
 upload_file=`mktemp /tmp/codecov.XXXXXX`
 adjustments_file=`mktemp /tmp/codecov.adjustments.XXXXXX`
 
