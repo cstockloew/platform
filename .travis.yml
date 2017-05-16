@@ -37,13 +37,13 @@ before_script:
  - echo "MAVEN_OPTS='-Xmx3g'" > ~/.mavenrc
 
 script:
- - java -Xmx3g -version
+# - java -Xmx3g -version
 # - echo "$MAVEN_OPTS"
 # - echo "$JAVA_OPTS"
 # - java -XX:+PrintFlagsFinal -version | findstr /i "HeapSize PermSize ThreadStackSize"
- - export JAVA_OPTS="-Xmx3g"
- - export MAVEN_OPTS="-Xmx3g"
- - ulimit -a
+# - export JAVA_OPTS="-Xmx3g"
+# - export MAVEN_OPTS="-Xmx3g"
+# - ulimit -a
  - free -m
 # - echo "$MAVEN_OPTS"
 # - echo "$JAVA_OPTS"
