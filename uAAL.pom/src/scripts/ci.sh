@@ -28,6 +28,7 @@ publish_site() {
 }
 
 do_script() {
+  echo -e "do_script"
   free -m
   ((((mvn clean install -DskipTests -Dorg.ops4j.pax.logging.DefaultServiceLog.level=WARN; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
 # - mvn site:stage -DstagingDirectory=$HOME/site/uAAL.pom -fn > /dev/null
@@ -42,6 +43,7 @@ do_script() {
 }
 
 do_success() {
+  echo -e "do_success"
   mvn deploy -DskipTests -DaltDeploymentRepository=uaal-nightly::default::http://depot.universaal.org/maven-repo/nightly/
   publish_site()
   export GH_TOKEN="deleted"
@@ -51,12 +53,14 @@ do_success() {
   bash <(curl -s https://codecov.io/bash)
 }
 
+echo -e "select"
 if [ "$1" == "script" ]; then
-  do_script()
+  do_script
 fi
 
 if [ "$1" == "success" ]; then
-  do_success();
+  do_success
 fi
+echo -e "end"
 
 
