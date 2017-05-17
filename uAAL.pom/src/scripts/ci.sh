@@ -6,8 +6,11 @@ fi
 
 # stop on error
 set -e
-#show commands
+# show commands
 set -x
+# causes a pipeline to return the exit status of the last command in the pipe that returned a non-zero return value.
+set -o pipefail
+
 
 publish_site() {
   echo -e "Publishing...\n"
@@ -20,7 +23,7 @@ publish_site() {
   git clone --quiet --branch=gh-pages https://${GH_TOKEN}@github.com/${MY_REPO} gh-pages > /dev/null
 
   cd gh-pages
-  git rm -rf ./site > /dev/null
+  git rm --ignore-unmatch -rf ./site > /dev/null
   cp -Rf $HOME/site ./site
   git add -f . > /dev/null
   git commit -m "Latest site on successful travis build $TRAVIS_BUILD_NUMBER auto-pushed to gh-pages"  > /dev/null
@@ -33,20 +36,20 @@ do_script() {
   echo -e "do_script"
   free -m
 #  echo "---------- 
-  ((((mvn clean install -DskipTests -Dorg.ops4j.pax.logging.DefaultServiceLog.level=WARN; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
+  mvn clean install -DskipTests -Dorg.ops4j.pax.logging.DefaultServiceLog.level=WARN  | grep -i "INFO] Build"
 #  ((((mvn javadoc:javadoc -fae; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
 # - ((((mvn surefire-report:report -Dsurefire-report.aggregate=true -fae; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
-  ((((mvn javadoc:aggregate -fae; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
-  ((((mvn cobertura:cobertura -Dcobertura.aggregate=true -Dcobertura.report.format=xml -fae; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
-  ((((mvn cobertura:cobertura -Dcobertura.aggregate=true -Dcobertura.report.format=html -DskipTests -fae; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
-  ((((mvn surefire-report:report -Dsurefire-report.aggregate=true -fae; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
-  ((((mvn site:site -DskipTests -Dcobertura.skip -Dmaven.javadoc.skip=true -Duaal.report=ci-repo -fn -e; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
-  mvn site:stage -DstagingDirectory=$HOME/site/mw.pom -fn
+  mvn javadoc:aggregate -fae | grep -i "INFO] Build"
+  mvn cobertura:cobertura -Dcobertura.aggregate=true -Dcobertura.report.format=xml -fae | grep -i "INFO] Build"
+  mvn cobertura:cobertura -Dcobertura.aggregate=true -Dcobertura.report.format=html -DskipTests -fae | grep -i "INFO] Build"
+  mvn surefire-report:report -Dsurefire-report.aggregate=true -fae | grep -i "INFO] Build"
+  mvn site:site -DskipTests -Dcobertura.skip -Dmaven.javadoc.skip=true -Duaal.report=ci-repo -fn -e | grep -i "INFO] Build"
+  mvn site:stage -DstagingDirectory=$HOME/site/mw.pom -fn | grep -i "INFO] Build"
 }
 
 do_success() {
   echo -e "do_success"
-  mvn deploy -DskipTests -DaltDeploymentRepository=uaal-nightly::default::http://depot.universaal.org/maven-repo/nightly/
+  mvn deploy -DskipTests -DaltDeploymentRepository=uaal-nightly::default::http://depot.universaal.org/maven-repo/nightly/ -fn | grep -i "INFO] Build"
   publish_site
   export GH_TOKEN="deleted"
   export NIGHTLY_PASSWORD="deleted"
