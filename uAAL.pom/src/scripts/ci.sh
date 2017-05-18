@@ -50,7 +50,9 @@ do_script() {
 do_success() {
   echo -e "do_success"
   mvn deploy -DskipTests -DaltDeploymentRepository=uaal-nightly::default::http://depot.universaal.org/maven-repo/nightly/ -fn | grep -i "INFO] Build"
+  export OLD_DIR=`pwd`
   publish_site
+  cd "$OLD_DIR"
   export GH_TOKEN="deleted"
   export NIGHTLY_PASSWORD="deleted"
   export NIGHTLY_USERNAME="deleted"
