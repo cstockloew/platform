@@ -45,6 +45,7 @@ do_script() {
   mvn surefire-report:report -Dsurefire-report.aggregate=true -fae | grep -i "INFO] Build"
   mvn site:site -DskipTests -Dcobertura.skip -Dmaven.javadoc.skip=true -Duaal.report=ci-repo -fn -e | grep -i "INFO] Build"
   mvn site:stage -DstagingDirectory=$HOME/site/main -fn | grep -i "INFO] Build"
+  find $HOME/site/ -type f -name "*.html" -exec sed -i 's/uAAL.pom/platform/g' {} +
 }
 
 do_success() {
