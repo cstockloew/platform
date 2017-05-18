@@ -35,11 +35,13 @@ before_script:
 
 script:
  - free -m
- - mvn clean install -DskipTests -Dorg.ops4j.pax.logging.DefaultServiceLog.level=WARN | grep -i "INFO] Build"
+# - mvn clean install -DskipTests -Dorg.ops4j.pax.logging.DefaultServiceLog.level=WARN | grep -i "INFO] Build"
+ - mvn clean install -Dorg.ops4j.pax.logging.DefaultServiceLog.level=WARN | grep -i "INFO] Build"
  - mvn javadoc:aggregate -fae | grep -i "INFO] Build"
- - mvn cobertura:cobertura -Dcobertura.aggregate=true -Dcobertura.report.format=xml -fae | grep -i "INFO] Build"
- - mvn cobertura:cobertura -Dcobertura.aggregate=true -Dcobertura.report.format=html -DskipTests -fae | grep -i "INFO] Build"
- - mvn site:site -DskipTests -Dcobertura.skip  -Dmaven.javadoc.skip=true -Duaal.report=ci-platform -fn -e
+# - mvn cobertura:cobertura -Dcobertura.aggregate=true -Dcobertura.report.format=xml -fae | grep -i "INFO] Build"
+# - mvn cobertura:cobertura -Dcobertura.aggregate=true -Dcobertura.report.format=html -DskipTests -fae | grep -i "INFO] Build"
+ - mvn site:site -DskipTests -Dmaven.javadoc.skip=true -Duaal.report=ci-platform -fn -e
+# - mvn site:site -DskipTests -Dcobertura.skip  -Dmaven.javadoc.skip=true -Duaal.report=ci-platform -fn -e
 # - mvn site:stage -DstagingDirectory=$HOME/site/uAAL.pom -fn > /dev/null
 # - echo Delete all coverage reports except the aggregated one!
 # - mv target/site/cobertura/coverage.xml target/site/cobertura/coverage2.xml
@@ -54,8 +56,8 @@ after_success:
  - export GH_TOKEN="deleted"
  - export NIGHTLY_PASSWORD="deleted"
  - export NIGHTLY_USERNAME="deleted"
- - mvn org.eluder.coveralls:coveralls-maven-plugin:4.3.0:report -e
- - src/scripts/codecov.sh
+# - mvn org.eluder.coveralls:coveralls-maven-plugin:4.3.0:report -e
+# - src/scripts/codecov.sh
 
 notifications:
   email: false
