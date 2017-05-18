@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="c734872" href="./Activator.html" title="org.universAAL.lddi.hdp.Activator" alt="" coords="15,17,89,42"/>
-<area shape="rect" id="node1" href="./Activator.html" title="&lt;TABLE&gt;" alt="" coords="5,5,99,53"/>
-<area shape="rect" id="c734873" href="./ContinuaHdpManagerProvider.html" title="org.universAAL.lddi.hdp.ContinuaHdpManagerProvider" alt="" coords="133,17,328,42"/>
-<area shape="rect" id="node2" href="./ContinuaHdpManagerProvider.html" title="&lt;TABLE&gt;" alt="" coords="123,5,339,53"/>
-<area shape="rect" id="c734874" href="./ProvidedContinuaHdpManagerService.html" title="org.universAAL.lddi.hdp.ProvidedContinuaHdpManagerService" alt="" coords="373,17,614,42"/>
-<area shape="rect" id="node3" href="./ProvidedContinuaHdpManagerService.html" title="&lt;TABLE&gt;" alt="" coords="363,5,624,53"/>
-</map>

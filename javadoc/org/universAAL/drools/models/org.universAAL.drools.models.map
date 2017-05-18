@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="c651183" href="./RuleModel.html" title="org.universAAL.drools.models.RuleModel" alt="" coords="16,17,99,42"/>
-<area shape="rect" id="node1" href="./RuleModel.html" title="&lt;TABLE&gt;" alt="" coords="5,5,109,53"/>
-<area shape="rect" id="c651184" href="./FactProperty.html" title="org.universAAL.drools.models.FactProperty" alt="" coords="144,17,240,42"/>
-<area shape="rect" id="node2" href="./FactProperty.html" title="&lt;TABLE&gt;" alt="" coords="133,5,251,53"/>
-<area shape="rect" id="c651185" href="./Fact.html" title="org.universAAL.drools.models.Fact" alt="" coords="287,17,334,42"/>
-<area shape="rect" id="node3" href="./Fact.html" title="&lt;TABLE&gt;" alt="" coords="275,5,347,53"/>
-</map>

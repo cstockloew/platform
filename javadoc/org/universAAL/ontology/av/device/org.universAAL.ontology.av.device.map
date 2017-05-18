@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="c337278" href="./LoudSpeaker.html" title="org.universAAL.ontology.av.device.LoudSpeaker" alt="" coords="15,17,113,42"/>
-<area shape="rect" id="node1" href="./LoudSpeaker.html" title="&lt;TABLE&gt;" alt="" coords="5,5,123,53"/>
-<area shape="rect" id="c337279" href="./VideoCamera.html" title="org.universAAL.ontology.av.device.VideoCamera" alt="" coords="157,17,257,42"/>
-<area shape="rect" id="node2" href="./VideoCamera.html" title="&lt;TABLE&gt;" alt="" coords="147,5,267,53"/>
-<area shape="rect" id="c337280" href="./Microphone.html" title="org.universAAL.ontology.av.device.Microphone" alt="" coords="301,17,389,42"/>
-<area shape="rect" id="node3" href="./Microphone.html" title="&lt;TABLE&gt;" alt="" coords="291,5,400,53"/>
-</map>

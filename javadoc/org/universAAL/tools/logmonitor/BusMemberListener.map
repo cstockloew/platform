@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="c2561596" href="./BusMemberListener.html" title="org.universAAL.tools.logmonitor.BusMemberListener" alt="" coords="73,11,210,53"/>
-<area shape="rect" id="node1" href="./BusMemberListener.html" title="&lt;TABLE&gt;" alt="" coords="63,6,220,58"/>
-<area shape="rect" id="c2561605" href="./bus_member/gui/BusMemberGui.html" title="org.universAAL.tools.logmonitor.bus_member.gui.BusMemberGui" alt="" coords="15,118,126,143"/>
-<area shape="rect" id="node2" href="./bus_member/gui/BusMemberGui.html" title="&lt;TABLE&gt;" alt="" coords="5,107,136,155"/>
-<area shape="rect" id="c2561608" href="./msgflow/LogMonitor.html" title="org.universAAL.tools.logmonitor.msgflow.LogMonitor" alt="" coords="171,118,256,143"/>
-<area shape="rect" id="node3" href="./msgflow/LogMonitor.html" title="&lt;TABLE&gt;" alt="" coords="160,107,267,155"/>
-</map>

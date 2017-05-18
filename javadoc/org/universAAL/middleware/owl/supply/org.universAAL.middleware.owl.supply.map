@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="c49010" href="./Rating.html" title="org.universAAL.middleware.owl.supply.Rating" alt="" coords="16,17,75,42"/>
-<area shape="rect" id="node1" href="./Rating.html" title="&lt;TABLE&gt;" alt="" coords="5,5,85,53"/>
-<area shape="rect" id="c49011" href="./LevelRating.html" title="org.universAAL.middleware.owl.supply.LevelRating" alt="" coords="119,17,209,42"/>
-<area shape="rect" id="node2" href="./LevelRating.html" title="&lt;TABLE&gt;" alt="" coords="109,5,219,53"/>
-<area shape="rect" id="c49012" href="./AbsLocation.html" title="org.universAAL.middleware.owl.supply.AbsLocation" alt="" coords="253,17,347,42"/>
-<area shape="rect" id="node3" href="./AbsLocation.html" title="&lt;TABLE&gt;" alt="" coords="243,5,357,53"/>
-</map>
