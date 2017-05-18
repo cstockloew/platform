@@ -24,7 +24,7 @@ publish_site() {
 
   cd gh-pages
   git rm --ignore-unmatch -rf . > /dev/null
-  cp -Rf $HOME/site/$MY_REPO .
+  cp -Rf $HOME/site/$MY_REPO/* .
   git add -f . > /dev/null
   git commit -m "Latest site on successful travis build $TRAVIS_BUILD_NUMBER auto-pushed to gh-pages"  > /dev/null
   git push -fq origin gh-pages > /dev/null
