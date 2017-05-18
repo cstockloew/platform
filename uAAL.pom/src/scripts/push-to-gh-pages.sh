@@ -3,6 +3,7 @@
 if [ "$TRAVIS_REPO_SLUG" == "cstockloew/platform" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ] && [ "$TRAVIS_BRANCH" == "master" ]; then
 
   echo -e "Publishing...\n"
+  set -x
 
   cp -R "target/site" $HOME/site
     
@@ -13,7 +14,7 @@ if [ "$TRAVIS_REPO_SLUG" == "cstockloew/platform" ] && [ "$TRAVIS_PULL_REQUEST" 
 
   cd gh-pages
   git rm --ignore-unmatch -rf . > /dev/null
-  cp -Rf $HOME/site/uAAL.pom/* .
+  cp -Rf $HOME/site/* .
   git add -f . > /dev/null
   git commit -m "Latest site on successful travis build $TRAVIS_BUILD_NUMBER auto-pushed to gh-pages"  > /dev/null
   git push -fq origin gh-pages > /dev/null
