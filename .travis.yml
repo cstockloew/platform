@@ -21,80 +21,41 @@ addons:
 
 before_install:
  - git submodule foreach git pull origin master
-# - mvn org.apache.maven.plugins:maven-dependency-plugin:2.1:get -DrepoUrl=http://depot.universaal.org/maven-repo/thirdparty -Dartifact=org.slf4j:com.springsource.slf4j.api:1.5.0
-# - mvn org.apache.maven.plugins:maven-dependency-plugin:2.1:get -DrepoUrl=http://depot.universaal.org/maven-repo/thirdparty -Dartifact=org.slf4j:com.springsource.slf4j.log4j:1.5.0
- - chmod +x filter-maven-travis.sh
- - chmod +x push-to-gh-pages.sh
- - chmod +x codecov.sh
  - cd uAAL.pom
- 
+ - chmod +x src/scripts/push-to-gh-pages.sh
+ - chmod +x src/scripts/codecov.sh
+ - set -o pipefail
+ - cp src/scripts/settings.xml $HOME/.m2/settings.xml
+
 install:
  -
 
 before_script:
-# - export MAVEN_SKIP_RC=true
- - cat /etc/mavenrc
  - echo "MAVEN_OPTS='-Xmx3g'" > ~/.mavenrc
 
 script:
-# - java -Xmx3g -version
-# - echo "$MAVEN_OPTS"
-# - echo "$JAVA_OPTS"
-# - java -XX:+PrintFlagsFinal -version | findstr /i "HeapSize PermSize ThreadStackSize"
-# - export JAVA_OPTS="-Xmx3g"
-# - export MAVEN_OPTS="-Xmx3g"
-# - ulimit -a
  - free -m
-# - echo "$MAVEN_OPTS"
-# - echo "$JAVA_OPTS"
-# - cat /proc/meminfo
-# - java -XX:+PrintFlagsFinal -version | findstr /i "HeapSize PermSize ThreadStackSize"
-# - ((((MAVEN_OPTS="-Xmx256m" mvn clean install -DskipTests -Dorg.ops4j.pax.logging.DefaultServiceLog.level=WARN > /dev/null; echo $? >&3) | ../filter-maven-travis.sh maven >&4) 3>&1) | (read xs; exit $xs)) 4>&1
-#---------------
-# - mvn clean install -DskipTests -N
- - ((((MAVEN_OPTS="-Xmx256m" mvn clean install -DskipTests -Dorg.ops4j.pax.logging.DefaultServiceLog.level=WARN > /dev/null; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
-# - mvn clean install -Dmaven.javadoc.skip=true -B
-# - mvn clean install -DskipTests=true -Dmaven.javadoc.skip=true -B
-# - mkdir target || true
-# - mkdir target/site || true
-# - mkdir target/site/apidocs || true
-# - mvn javadoc:aggregate -fn > target/site/apidocs/javadoc-aggregate.txt
-# - mvn cobertura:cobertura -Dcobertura.aggregate=true -Dcobertura.report.format=xml -fn > target/site/apidocs/cobertura.txt
-# - export MAVEN_OPTS="-Xmx2048m"
-# - mvn site -fn
-# - mvn site -fae
-# - MAVEN_OPTS="-Xmx1024m" JAVA_OPTS="-Xmx1024m" mvn site
-# | grep -i "[INFO] Build"
-# - mvn site:stage -DstagingDirectory=$HOME/site/uAAL.pom -fn > /dev/null
-#####################
-# - ((((mvn javadoc:javadoc -fae; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
- - ((((mvn javadoc:aggregate -fae; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
- - ((((mvn cobertura:cobertura -Dcobertura.aggregate=true -Dcobertura.report.format=xml -fae; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
- - ((((mvn cobertura:cobertura -Dcobertura.aggregate=true -Dcobertura.report.format=html -DskipTests -fae; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
-# - ((((mvn surefire-report:report -Dsurefire-report.aggregate=true -fae; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
-# - ((((MAVEN_OPTS="-Xmx512m" mvn javadoc:javadoc -fae; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
-# - ((((MAVEN_OPTS="-Xmx512m" mvn javadoc:aggregate -fae; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
-# - ((((MAVEN_OPTS="-Xmx512m" mvn cobertura:cobertura -Dcobertura.aggregate=true -fae; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
-# - ((((MAVEN_OPTS="-Xmx512m" mvn surefire-report:report -Dsurefire-report.aggregate=true -fae; echo $? >&3) | grep -i "INFO] Build" >&4) 3>&1) | (read xs; exit $xs)) 4>&1
-# - MAVEN_OPTS="-Xmx512m" mvn surefire-report:report -Dsurefire-report.aggregate=true -fae
-# - export JAVA_TOOL_OPTIONS="-Xmx3g"
-# - JAVA_TOOL_OPTIONS="-Xmx3g" MAVEN_OPTS="-Xmx3g" JAVA_OPTS="--Xmx4" mvn site:site -Dsurefire.argLine="--Xmx3g" -Dcobertura.maxmem=3g -DskipTests -Dcobertura.skip  -Dmaven.javadoc.skip=true -Dmaxmemory=3g -Djavadoc.maxmemory=3g -fn -e
+ - mvn clean install -DskipTests -Dorg.ops4j.pax.logging.DefaultServiceLog.level=WARN | grep -i "INFO] Build"
+ - mvn javadoc:aggregate -fae | grep -i "INFO] Build"
+ - mvn cobertura:cobertura -Dcobertura.aggregate=true -Dcobertura.report.format=xml -fae | grep -i "INFO] Build"
+ - mvn cobertura:cobertura -Dcobertura.aggregate=true -Dcobertura.report.format=html -DskipTests -fae | grep -i "INFO] Build"
  - mvn site:site -DskipTests -Dcobertura.skip  -Dmaven.javadoc.skip=true -Duaal.report=ci-platform -fn -e -N
-# - ulimit -a
-# - free -m
+# - mvn site:stage -DstagingDirectory=$HOME/site/uAAL.pom -fn > /dev/null
  - echo Delete all coverage reports except the aggregated one!
  - mv target/site/cobertura/coverage.xml target/site/cobertura/coverage2.xml
  - find .. -name "coverage.xml" -type f -delete
  - mv target/site/cobertura/coverage2.xml target/site/cobertura/coverage.xml
 
 after_success:
-# - ../push-to-gh-pages.sh
- - export GH_TOKEN=GH_TOKEN2
-# - echo "$GH_TOKEN"
-# - mvn coveralls:report -e
+ - mvn deploy -N -DskipTests -DaltDeploymentRepository=uaal-nightly::default::http://depot.universaal.org/maven-repo/nightly/
+ - export OLD_DIR=`pwd`
+ - src/scripts/push-to-gh-pages.sh
+ - cd "$OLD_DIR"
+ - export GH_TOKEN="deleted"
+ - export NIGHTLY_PASSWORD="deleted"
+ - export NIGHTLY_USERNAME="deleted"
  - mvn org.eluder.coveralls:coveralls-maven-plugin:4.3.0:report -e
-# - bash <(curl -s https://codecov.io/bash) -X network
- - ../codecov.sh
+ - src/scripts/codecov.sh
 
 notifications:
   email: false

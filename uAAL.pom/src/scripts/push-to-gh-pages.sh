@@ -12,8 +12,8 @@ if [ "$TRAVIS_REPO_SLUG" == "cstockloew/platform" ] && [ "$TRAVIS_PULL_REQUEST" 
   git clone --quiet --branch=gh-pages https://${GH_TOKEN}@github.com/cstockloew/platform gh-pages > /dev/null
 
   cd gh-pages
-  git rm -rf ./site > /dev/null
-  cp -Rf $HOME/site ./site
+  git rm --ignore-unmatch -rf . > /dev/null
+  cp -Rf $HOME/site/uAAL.pom/* .
   git add -f . > /dev/null
   git commit -m "Latest site on successful travis build $TRAVIS_BUILD_NUMBER auto-pushed to gh-pages"  > /dev/null
   git push -fq origin gh-pages > /dev/null
@@ -21,4 +21,3 @@ if [ "$TRAVIS_REPO_SLUG" == "cstockloew/platform" ] && [ "$TRAVIS_PULL_REQUEST" 
   echo -e "Published site to gh-pages.\n"
   
 fi
-
