@@ -39,12 +39,12 @@ script:
  - mvn javadoc:aggregate -fae | grep -i "INFO] Build"
  - mvn cobertura:cobertura -Dcobertura.aggregate=true -Dcobertura.report.format=xml -fae | grep -i "INFO] Build"
  - mvn cobertura:cobertura -Dcobertura.aggregate=true -Dcobertura.report.format=html -DskipTests -fae | grep -i "INFO] Build"
- - mvn site:site -DskipTests -Dcobertura.skip  -Dmaven.javadoc.skip=true -Duaal.report=ci-platform -fn -e -N
+ - mvn site:site -DskipTests -Dcobertura.skip  -Dmaven.javadoc.skip=true -Duaal.report=ci-platform -fn -e
 # - mvn site:stage -DstagingDirectory=$HOME/site/uAAL.pom -fn > /dev/null
- - echo Delete all coverage reports except the aggregated one!
- - mv target/site/cobertura/coverage.xml target/site/cobertura/coverage2.xml
- - find .. -name "coverage.xml" -type f -delete
- - mv target/site/cobertura/coverage2.xml target/site/cobertura/coverage.xml
+# - echo Delete all coverage reports except the aggregated one!
+# - mv target/site/cobertura/coverage.xml target/site/cobertura/coverage2.xml
+# - find .. -name "coverage.xml" -type f -delete
+# - mv target/site/cobertura/coverage2.xml target/site/cobertura/coverage.xml
 
 after_success:
  - mvn deploy -N -DskipTests -DaltDeploymentRepository=uaal-nightly::default::http://depot.universaal.org/maven-repo/nightly/
