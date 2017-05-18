@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ "$TRAVIS_REPO_SLUG" != "$MY_REPO" ] || [ "$TRAVIS_PULL_REQUEST" != "false" ] || [ "$TRAVIS_BRANCH" != "master" ]; then
+if [ "$TRAVIS_REPO_SLUG" != "cstockloew/$MY_REPO" ] || [ "$TRAVIS_PULL_REQUEST" != "false" ] || [ "$TRAVIS_BRANCH" != "master" ]; then
   exit 1
 fi
 
@@ -20,11 +20,11 @@ publish_site() {
   cd $HOME
   git config --global user.email "travis@travis-ci.org"
   git config --global user.name "travis-ci"
-  git clone --quiet --branch=gh-pages https://${GH_TOKEN}@github.com/${MY_REPO} gh-pages > /dev/null
+  git clone --quiet --branch=gh-pages https://${GH_TOKEN}@github.com/cstockloew/${MY_REPO} gh-pages > /dev/null
 
   cd gh-pages
-  git rm --ignore-unmatch -rf ./site > /dev/null
-  cp -Rf $HOME/site ./site
+  git rm --ignore-unmatch -rf . > /dev/null
+  cp -Rf $HOME/site/$MY_REPO .
   git add -f . > /dev/null
   git commit -m "Latest site on successful travis build $TRAVIS_BUILD_NUMBER auto-pushed to gh-pages"  > /dev/null
   git push -fq origin gh-pages > /dev/null
@@ -44,7 +44,7 @@ do_script() {
   mvn cobertura:cobertura -Dcobertura.aggregate=true -Dcobertura.report.format=html -DskipTests -fae | grep -i "INFO] Build"
   mvn surefire-report:report -Dsurefire-report.aggregate=true -fae | grep -i "INFO] Build"
   mvn site:site -DskipTests -Dcobertura.skip -Dmaven.javadoc.skip=true -Duaal.report=ci-repo -fn -e | grep -i "INFO] Build"
-  mvn site:stage -DstagingDirectory=$HOME/site/mw.pom -fn | grep -i "INFO] Build"
+  mvn site:stage -DstagingDirectory=$HOME/site/main -fn | grep -i "INFO] Build"
 }
 
 do_success() {
@@ -58,14 +58,11 @@ do_success() {
   bash <(curl -s https://codecov.io/bash)
 }
 
-echo -e "select"
-if [ "$1" == "script" ]; then
-  do_script
-fi
-
-if [ "$1" == "success" ]; then
-  do_success
-fi
+echo -e "select $1"
+case "$1" in
+  script) do_script;;
+  success) do_success;;
+esac
 echo -e "end"
 
 
