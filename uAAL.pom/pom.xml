@@ -713,6 +713,7 @@
           <reportSet>
             <reports>
               <report>aggregate</report>
+              <report>javadoc</report>
             </reports>
           </reportSet>
         </reportSets>
